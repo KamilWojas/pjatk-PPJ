@@ -1,1 +1,1 @@
-# PPJ_2.0
+Podstawy programowania w JAVA
