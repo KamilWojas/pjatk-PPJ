@@ -6,6 +6,7 @@ public class Task0501 {
         int wrt = 3;
         String res = " ";
 
+
         if (wrt <= -5 && wrt <= -10 && wrt <= -5 && wrt <= 0 && wrt <= 5 && wrt <=10)
         res += "A";
         if (wrt >= -3 && wrt <= -8 && wrt <=3 )
