@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Commit2">
-      <change afterPath="$PROJECT_DIR$/PPJ_Excercises/Excercises07/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PPJ_Excercises/Excercises07/Task05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +150,7 @@
       <updated>1731282023798</updated>
       <workItem from="1731282024906" duration="50000" />
       <workItem from="1731282077834" duration="3458000" />
-      <workItem from="1731611558506" duration="6134000" />
+      <workItem from="1731611558506" duration="6928000" />
     </task>
     <task id="LOCAL-00002" summary="Commit2">
       <option name="closed" value="true" />
