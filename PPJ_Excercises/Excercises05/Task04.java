@@ -1,13 +1,13 @@
 public class Main {
     public static void main(String[] args) {
-        int n = 10; // Liczba elementów do wyświetlenia
-        double term; // Pojedynczy element szeregu
-        double sum = 0; // Suma elementów szeregu
+        int n = 10; 
+        double term; 
+        double sum = 0;
 
         System.out.println("Pierwsze " + n + " elementów szeregu geometrycznego:");
         for (int i = 0; i < n; i++) {
-            term = 1 / Math.pow(2, i); // Obliczenie i-tego elementu
-            sum += term; // Dodanie elementu do sumy
+            term = 1 / Math.pow(2, i); 
+            sum += term; 
             System.out.println("Element " + (i + 1) + ": " + term);
         }
 
