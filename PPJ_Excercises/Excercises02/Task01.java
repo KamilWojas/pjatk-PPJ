@@ -13,6 +13,7 @@ public class Task01 {
         int hexadecimalValue = 0xA5; // literał szesnastkowy (0x oznacza system szesnastkowy)
 
         // Wyświetlenie wyników
+
         System.out.println("Wartość w systemie dziesiętnym: " + decimalValue);
         System.out.println("Wartość w systemie binarnym: 0b" + Integer.toBinaryString(decimalValue));
         System.out.println("Wartość w systemie ósemkowym: 0" + Integer.toOctalString(decimalValue));
