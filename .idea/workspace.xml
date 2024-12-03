@@ -5,61 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Commit2">
-      <change beforePath="$PROJECT_DIR$/PetlaForEach/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Petle/PetlaForEach/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetlaIf/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Petle/PetlaIf/IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetlaIf/InstrukcjSterujaceIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Petle/PetlaIf/InstrukcjSterujaceIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetlaIf/Mecz.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Petle/PetlaIf/Mecz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetlaIf/age.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Petle/PetlaIf/age.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetlaWhile/Gwiazki.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Petle/PetlaWhile/Gwiazki.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetlaWhile/PetlaDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Petle/PetlaWhile/PetlaDoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetlaWhile/PetlaWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Petle/PetlaWhile/PetlaWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetlaWhile/PetlaWhileContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Petle/PetlaWhile/PetlaWhileContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetlaWhile/PetlaWhilebreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Petle/PetlaWhile/PetlaWhilebreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczeina5/Task0501.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczeina5/Task0501.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczeina5/Task0502.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczeina5/Task0502.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczeina5/Task0503.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczeina5/Task0503.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczeina5/Task0504.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczeina5/Task0504.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczeina5/Task0505.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczeina5/Task0505.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczeina5/Task0506.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczeina5/Task0506.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia10/Task1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia10/Task1001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia10/Task1002.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia10/Task1002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia10/Task1003.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia10/Task1003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia10/Task1004.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia10/Task1004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia10/Task1005.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia10/Task1005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia10/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia10/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia3/Task0304.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia3/Task0304.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia3/Task0306.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia3/Task0306.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia3/Task0307.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia3/Task0307.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia3/Task0308.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia3/Task0308.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia4/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia4/Program2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia4/Task0401.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia4/Task0401.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia4/Task0402.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia4/Task0402.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia4/Task0403.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia4/Task0403.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia4/Task0404.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia4/Task0404.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia4/Task0406.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia4/Task0406.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia4/Task0407.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia4/Task0407.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia4/Task0408.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia4/Task0408.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia6/Task0601.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia6/Task0601.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia6/Task0602.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia6/Task0602.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia6/Task0603.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia6/Task0603.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia6/Task0605.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia6/Task0605.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia7/Kółko.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia7/Kółko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia7/Task0702.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia7/Task0702.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia7/Task0704.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia7/Task0704.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia7/Task0705.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia7/Task0705.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia7/Task0706.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia7/Task0706.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia9/Task0901.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia9/Task0901.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia9/Task0902.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia9/Task0902.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia9/Task0903.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia9/Task0903.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaCwiczenia9/Task0904.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia9/Task0904.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie11/Drzewo.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Zadanie11/Drzewo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie8/Zadanie02.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia8/Zadanie02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie8/Zadanie03.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia8/Zadanie03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie8/Zadanie04.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia8/Zadanie04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie8/Zadanie05.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia8/Zadanie05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie8/Zadnie01.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Cwiczenia8/Zadnie01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZapisBitowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/ZapisBitowy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZliczanieZnakow.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/ZliczanieZnakow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +157,7 @@
       <workItem from="1731282024906" duration="50000" />
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
-      <workItem from="1732917817280" duration="5719000" />
+      <workItem from="1732917817280" duration="7574000" />
     </task>
     <task id="LOCAL-00002" summary="Commit2">
       <option name="closed" value="true" />
