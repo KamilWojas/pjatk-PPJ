@@ -13,6 +13,7 @@ public class Osoba {
         osoba.nazwisko = "Kowalski";
         osoba.rokUrodzenia = 1990;
 
+
         // Wyświetlenie wartości pól
         System.out.println("Imię: " + osoba.imie);
         System.out.println("Nazwisko: " + osoba.nazwisko);
