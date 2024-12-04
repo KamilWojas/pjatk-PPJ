@@ -1,4 +1,4 @@
-public class BitShiftExample {
+public class Task02 {
     public static void main(String[] args) {
         // Wartość początkowa
         int value = 14;
