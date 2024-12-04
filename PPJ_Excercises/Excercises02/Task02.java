@@ -17,3 +17,11 @@ public class BitShiftExample {
         System.out.println("Po przesunięciu o 4 pozycje w prawo: " + shiftRight4);
     }
 }
+
+/*
+Wartość początkowa: 14
+Po przesunięciu o 0 pozycji w prawo: 14
+Po przesunięciu o 2 pozycje w lewo: 56
+Po przesunięciu o 4 pozycje w prawo: 3
+
+ */
