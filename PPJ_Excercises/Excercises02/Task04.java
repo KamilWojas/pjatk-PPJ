@@ -1,4 +1,4 @@
-public class BitwiseOperations {
+public class Task04 {
     public static void main(String[] args) {
         int a1 = 0x6D; // a1 = 109 w dziesiętnym
         int a2 = 0x0D; // zzz: a2 = 13 w dziesiętnym

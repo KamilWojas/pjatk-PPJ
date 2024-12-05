@@ -28,3 +28,21 @@ public class Task03 {
         System.out.println("Dwa środkowe bajty: " + middleTwoBytes);
     }
 }
+
+/*
+Literał:
+
+Zdefiniowano w systemie binarnym jako 32-bitowy.
+Ostatnie 5 bitów:
+
+Używamy maski 0b11111, która ma ustawione ostatnie 5 bitów.
+Siódmy bit:
+
+Przesuwamy liczbę o 6 bitów w prawo, a następnie maskujemy 1 bitem.
+Wartości bajtów:
+
+Każdy bajt to 8 bitów. Przesunięcie i maska 0xFF pozwala wyciągnąć odpowiednie bajty.
+Dwa środkowe bajty:
+
+Przesuwamy liczbę o 8 bitów w prawo, a następnie maskujemy 16 bitami (0xFFFF).
+ */
