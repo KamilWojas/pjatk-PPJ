@@ -15,6 +15,7 @@ public class Cplx {
         return new Cplx(this.re + other.re, this.im + other.im);
     }
 
+
     // Funkcja odejmowania
     public Cplx sub(Cplx other) {
         return new Cplx(this.re - other.re, this.im - other.im);
