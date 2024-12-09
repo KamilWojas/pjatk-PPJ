@@ -112,3 +112,13 @@ public class Main {
         graniastoslup.show();
     }
 }
+
+/*
+Pole powierzchni prostopadłościanu: 12.0
+Objętość prostopadłościanu: 60.0
+Pole powierzchni ostrosłupa: 6.928203230275509
+Objętość ostrosłupa: 13.856406460551018
+Pole powierzchni graniastosłupa: 6.928203230275509
+Objętość graniastosłupa: 41.56921938165305
+
+ */
