@@ -22,5 +22,7 @@ public class Kwadrat {
 }
 
 /*
+Pole powierzchni kwadratu: 16.0
+Objętość sześcianu: 64.0
 
  */
