@@ -21,8 +21,3 @@ public class Osoba {
     }
 }
 
-/*
-Imię: Jan
-Nazwisko: Kowalski
-Rok urodzenia: 1990
- */

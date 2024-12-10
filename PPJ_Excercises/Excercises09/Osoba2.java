@@ -27,3 +27,9 @@ public class Osoba2 {
         osoba2.show();
     }
 }
+
+/*
+Imię: Jan
+Nazwisko: Kowalski
+Rok urodzenia: 1990
+ */
