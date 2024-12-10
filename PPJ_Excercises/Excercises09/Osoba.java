@@ -20,3 +20,9 @@ public class Osoba {
         System.out.println("Rok urodzenia: " + osoba.rokUrodzenia);
     }
 }
+
+/*
+Imię: Jan
+Nazwisko: Kowalski
+Rok urodzenia: 1990
+ */
