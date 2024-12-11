@@ -44,3 +44,20 @@ public class Main {
         System.out.println(spawacz.wyswietl());
     }
 }
+
+/*
+Zawiera prywatne pole imie.
+Konstruktor klasy inicjalizuje pole imie.
+Metoda wyswietl zwraca informacje o imieniu.
+Klasa Spawacz:
+
+Dziedziczy po klasie Osoba.
+Dodaje pole stazPracy reprezentujące staż pracy w latach.
+Konstruktor wywołuje konstruktor klasy bazowej za pomocą super.
+Nadpisuje metodę wyswietl, która wykorzystuje super.wyswietl do pobrania informacji z klasy bazowej i dodaje informacje o stażu pracy.
+Klasa Main:
+
+Tworzy obiekt klasy Osoba i obiekt klasy Spawacz.
+Wywołuje metodę wyswietl dla obu obiektów i wypisuje wyniki na konsolę.
+
+ */
