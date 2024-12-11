@@ -61,3 +61,9 @@ Tworzy obiekt klasy Osoba i obiekt klasy Spawacz.
 Wywołuje metodę wyswietl dla obu obiektów i wypisuje wyniki na konsolę.
 
  */
+
+/*
+Imię: Jan
+Imię: Adam, Staż pracy: 10 lat
+
+ */
