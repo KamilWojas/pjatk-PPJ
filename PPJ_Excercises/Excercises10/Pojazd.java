@@ -51,6 +51,7 @@ class CiagnikSiodlowy extends PojazdKolowy {
 }
 
 // Klasa główna do testowania
+
 public class Main {
     public static void main(String[] args) {
         // Tworzenie obiektu CiagnikSiodlowy
