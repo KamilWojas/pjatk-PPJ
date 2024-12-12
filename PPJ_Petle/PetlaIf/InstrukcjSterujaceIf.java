@@ -14,7 +14,5 @@ public class InstrukcjSterujaceIf {
         } else {
             System.out.println("Nie możesz miec prawka ");
         }
-
-
     }
 }
