@@ -26,5 +26,4 @@ public class Walec {
 /*
 Pole powierzchni podstawy: 28.274333882308138
 Objętość walca: 141.3716694115407
-
  */
