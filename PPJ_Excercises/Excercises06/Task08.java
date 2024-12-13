@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main {
+public class Task08 {
     public static void main(String[] args) {
         int size = 10;
         char[] originalArray = new char[size];

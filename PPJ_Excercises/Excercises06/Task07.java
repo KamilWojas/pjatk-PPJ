@@ -1,6 +1,6 @@
 
 
-public class Main {
+public class Task07 {
     public static void main(String[] args) {
         String[] slowa = { "Ala", "kota", "na", "ma", "a", "kot", "Ale" };
 
