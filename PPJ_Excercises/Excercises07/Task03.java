@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Main {
+public class Task03 {
     public static void main(String[] args) {
         char[][] tab = {
                 {'S', 'a', 'm', 's', 'u', 'n', 'g'},

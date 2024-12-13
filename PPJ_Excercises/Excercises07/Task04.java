@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class Main {
+public class Task04 {
     public static void main(String[] args) {
         int[][] array = new int[10][10]; // Tworzenie tablicy 10x10
         Random random = new Random();
