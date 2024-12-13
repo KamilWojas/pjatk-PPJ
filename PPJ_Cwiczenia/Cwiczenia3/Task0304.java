@@ -31,11 +31,7 @@ public class Task0304 {
     System.out.println("char: " + znak);
     System.out.println("UTF16: " + literałUtf);
 
-
-
-
     }
-
 }
 
 
