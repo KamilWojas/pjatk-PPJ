@@ -6,7 +6,6 @@ public class IfElse {
         int a = 5;
         int b = 4;
 
-
         if (b == a) {
             System.out.println(" 4 nie równa się 5");
         } else if (a != b){
