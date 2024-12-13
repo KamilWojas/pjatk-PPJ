@@ -1,4 +1,4 @@
-public class Main {
+public class Task07 {
     public static void main(String[] args) {
         int n = 5; // Liczba wierszy w trójkącie
 

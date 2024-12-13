@@ -1,4 +1,4 @@
-public class Main {
+public class Task06 {
     public static void main(String[] args) {
         System.out.println("Liczby podzielne bez reszty przez 3 i 2 z przedziału od -1500 do 1500:");
 

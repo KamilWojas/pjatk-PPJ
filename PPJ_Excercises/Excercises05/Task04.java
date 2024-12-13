@@ -1,4 +1,4 @@
-public class Main {
+public class Task04 {
     public static void main(String[] args) {
         int n = 10; 
         double term; 
