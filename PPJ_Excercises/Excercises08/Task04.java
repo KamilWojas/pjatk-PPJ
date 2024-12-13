@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class ArrayOperation {
+public class Task04 {
     public static void main(String[] args) {
         // Tworzymy i wypełniamy dwie tablice losowymi wartościami
         int[] array1 = generateRandomArray(10);
