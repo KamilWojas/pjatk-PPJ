@@ -88,5 +88,4 @@ Wynik:
 Tytuł: Duma i Uprzedzenie, Autor: Jane Austen
 Tytuł: Java dla początkujących, Autor: John Doe, Rozmiar pliku: 1.5 MB
 Tytuł: Sherlock Holmes, Autor: Arthur Conan Doyle, Czas trwania: 8.0 godzin, Lektor: Jan Kowalski
-
  */

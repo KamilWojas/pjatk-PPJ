@@ -91,5 +91,4 @@ Ciężarówka: kolor Biały, pojemność silnika 6L, ładowność 10T.
 
 Kolor: Czarny, Pojemność silnika: 2L, Ilość miejsc: 5
 Kolor: Biały, Pojemność silnika: 6L, Ładowność: 10T
-
  */
