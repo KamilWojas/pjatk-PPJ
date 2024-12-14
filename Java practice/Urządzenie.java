@@ -92,3 +92,17 @@ Klasa Main:
 
 Demonstruje użycie hierarchii poprzez listę obiektów i wywoływanie metody opis().
  */
+
+/*
+Wynik działania programu
+Dla urządzeń:
+
+Komputer: producent Dell, model XPS 15, moc obliczeniowa 250 GFLOPS.
+Telefon 1: producent Samsung, model Galaxy S21, dual SIM true.
+Telefon 2: producent Apple, model iPhone 13, dual SIM false.
+
+Producent: Dell, Model: XPS 15, Moc obliczeniowa: 250.0 GFLOPS
+Producent: Samsung, Model: Galaxy S21, Dual SIM: true
+Producent: Apple, Model: iPhone 13, Dual SIM: false
+
+ */
