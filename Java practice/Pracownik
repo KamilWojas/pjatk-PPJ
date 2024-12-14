@@ -1,0 +1,27 @@
+Treść Zadania
+Stwórz system do zarządzania różnymi typami pracowników w firmie. Wymagania:
+
+Stwórz klasę Pracownik z następującymi polami:
+
+String imię (imię pracownika),
+String nazwisko (nazwisko pracownika),
+double wynagrodzeniePodstawowe (wynagrodzenie podstawowe pracownika),
+Konstruktor inicjalizujący te pola oraz metodę opis(), która zwraca dane pracownika w formacie:
+"Imię: [imię], Nazwisko: [nazwisko], Wynagrodzenie podstawowe: [wynagrodzeniePodstawowe]".
+Stwórz klasę PracownikEtatowy, która dziedziczy po klasie Pracownik:
+
+Dodaj pole double premia (premia pracownika etatowego),
+Konstruktor inicjalizujący wszystkie pola,
+Nadpisz metodę opis() tak, aby zawierała informacje o premii i pełnym wynagrodzeniu:
+"Imię: [imię], Nazwisko: [nazwisko], Wynagrodzenie podstawowe: [wynagrodzeniePodstawowe], Premia: [premia], Pełne wynagrodzenie: [wynagrodzeniePodstawowe + premia]".
+Stwórz klasę PracownikZlecenie, która dziedziczy po klasie Pracownik:
+
+Dodaj pole int liczbaGodzin (liczba przepracowanych godzin),
+Dodaj pole double stawkaZaGodzinę (stawka za godzinę),
+Konstruktor inicjalizujący wszystkie pola,
+Nadpisz metodę opis() tak, aby zawierała informacje o wynagrodzeniu całkowitym (liczbaGodzin * stawkaZaGodzinę):
+"Imię: [imię], Nazwisko: [nazwisko], Wynagrodzenie całkowite: [liczbaGodzin * stawkaZaGodzinę]".
+W klasie głównej:
+
+Utwórz listę pracowników zawierającą obiekty różnych klas (PracownikEtatowy, PracownikZlecenie),
+Wyświetl opisy wszystkich pracowników w pętli.
