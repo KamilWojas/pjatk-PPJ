@@ -1,0 +1,23 @@
+
+Treść Zadania
+Rozbuduj hierarchię klas, tworząc system rejestracji różnych urządzeń elektronicznych. Wymagania:
+
+Stwórz klasę Urządzenie z następującymi polami:
+
+String producent (nazwa producenta).
+String model (model urządzenia).
+Konstruktor inicjalizujący te pola oraz metodę opis(), która wypisuje te dane w formacie: "Producent: [producent], Model: [model]".
+Stwórz klasę Komputer, która dziedziczy po klasie Urządzenie:
+
+Dodaj pole double mocObliczeniowa (w GFLOPS).
+Konstruktor inicjalizujący wszystkie pola.
+Nadpisz metodę opis() tak, aby wypisywała również moc obliczeniową: "Producent: [producent], Model: [model], Moc obliczeniowa: [mocObliczeniowa] GFLOPS".
+Stwórz klasę Telefon, która dziedziczy po klasie Urządzenie:
+
+Dodaj pole boolean dualSIM (czy obsługuje dual SIM).
+Konstruktor inicjalizujący wszystkie pola.
+Nadpisz metodę opis() tak, aby wypisywała informację o dual SIM: "Producent: [producent], Model: [model], Dual SIM: [dualSIM]".
+W klasie głównej:
+
+Utwórz listę urządzeń zawierającą obiekty różnych klas (np. komputer, telefon).
+Wyświetl opis każdego urządzenia w pętli.
