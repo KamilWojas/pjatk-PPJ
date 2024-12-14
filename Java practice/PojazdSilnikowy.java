@@ -61,3 +61,23 @@ public class Main {
         System.out.println(ciezarowka.opis());
     }
 }
+
+
+/*
+Wyjaśnienie
+Klasa PojazdSilnikowy:
+
+To klasa bazowa definiująca wspólne cechy dla wszystkich pojazdów silnikowych (kolor i pojemność silnika).
+Metoda opis() wyświetla te właściwości.
+Klasa SamochodOsobowy:
+
+Dziedziczy po PojazdSilnikowy.
+Dodaje pole iloscMiejsc i odpowiednio modyfikuje metodę opis().
+Klasa Ciezarowka:
+
+Dziedziczy po PojazdSilnikowy.
+Dodaje pole ladownosc i odpowiednio modyfikuje metodę opis().
+Klasa Main:
+
+Demonstruje działanie hierarchii klas, tworząc obiekty i wyświetlając ich opisy.
+ */
