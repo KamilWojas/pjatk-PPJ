@@ -75,3 +75,12 @@ public class Main {
         }
     }
 }
+
+
+/*
+Wynik działania programu
+Dla pracowników:
+
+Etatowy: Jan Kowalski, wynagrodzenie podstawowe: 4000, premia: 1000.
+Zlecenie: Anna Nowak, liczba godzin: 120, stawka za godzinę: 20.
+ */
