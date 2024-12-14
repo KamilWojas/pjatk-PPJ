@@ -1,0 +1,24 @@
+Treść Zadania
+Stwórz system do zarządzania biblioteką książek z wykorzystaniem dziedziczenia. Wymagania:
+
+Stwórz klasę Książka z następującymi polami:
+
+String tytuł (tytuł książki),
+String autor (autor książki),
+Konstruktor inicjalizujący te pola oraz metodę opis() zwracającą dane książki w formacie: "Tytuł: [tytuł], Autor: [autor]".
+Stwórz klasę Ebook, która dziedziczy po klasie Książka:
+
+Dodaj pole double rozmiarPlikuMB (rozmiar pliku w MB),
+Konstruktor inicjalizujący wszystkie pola,
+Nadpisz metodę opis() tak, aby zawierała informacje o rozmiarze pliku: "Tytuł: [tytuł], Autor: [autor], Rozmiar pliku: [rozmiarPlikuMB] MB".
+Stwórz klasę Audiobook, która dziedziczy po klasie Książka:
+
+Dodaj pola:
+double czasTrwania (czas trwania audiobooka w godzinach),
+String lektor (nazwa lektora),
+Konstruktor inicjalizujący wszystkie pola,
+Nadpisz metodę opis() tak, aby zawierała informacje o czasie trwania i lektorze: "Tytuł: [tytuł], Autor: [autor], Czas trwania: [czasTrwania] godzin, Lektor: [lektor]".
+W klasie głównej:
+
+Utwórz listę książek zawierającą obiekty różnych klas (np. ebook, audiobook),
+Wyświetl opisy wszystkich książek w pętli.
