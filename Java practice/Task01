@@ -1,0 +1,22 @@
+Treść zadania
+Utwórz hierarchię klas, które reprezentują różne typy pojazdów. Wymagania:
+
+Stwórz klasę PojazdSilnikowy, która będzie miała pola:
+
+String color (kolor pojazdu),
+int pojemnoscSilnika (pojemność silnika w litrach).
+Konstruktor inicjalizujący te pola oraz metodę opis(), która wypisuje te wartości w formacie: "Kolor: [color], Pojemność silnika: [pojemnoscSilnika]L".
+Stwórz klasę SamochodOsobowy, dziedziczącą po klasie PojazdSilnikowy:
+
+Dodaj pole int iloscMiejsc (liczba miejsc siedzących w samochodzie).
+Konstruktor inicjalizujący wszystkie pola (również pola klasy bazowej).
+Nadpisz metodę opis(), aby wypisywała dodatkowo liczbę miejsc, np.: "Kolor: [color], Pojemność silnika: [pojemnoscSilnika]L, Ilość miejsc: [iloscMiejsc]".
+Stwórz klasę Ciezarowka, dziedziczącą po klasie PojazdSilnikowy:
+
+Dodaj pole double ladownosc (ładowność w tonach).
+Konstruktor inicjalizujący wszystkie pola (również pola klasy bazowej).
+Nadpisz metodę opis(), aby wypisywała dodatkowo ładowność, np.: "Kolor: [color], Pojemność silnika: [pojemnoscSilnika]L, Ładowność: [ladownosc]T".
+W klasie głównej:
+
+Utwórz obiekt klasy SamochodOsobowy i obiekt klasy Ciezarowka.
+Wyświetl ich opisy przy użyciu metody opis().
