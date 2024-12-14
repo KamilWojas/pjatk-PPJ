@@ -72,3 +72,23 @@ public class Main {
         }
     }
 }
+
+
+/*
+Wyjaśnienie
+Klasa Urządzenie:
+
+Klasa bazowa dla wszystkich urządzeń.
+Zawiera pola producent i model oraz metodę opis().
+Klasa Komputer:
+
+Dziedziczy po Urządzenie.
+Dodaje pole mocObliczeniowa i nadpisuje metodę opis().
+Klasa Telefon:
+
+Dziedziczy po Urządzenie.
+Dodaje pole dualSIM i nadpisuje metodę opis().
+Klasa Main:
+
+Demonstruje użycie hierarchii poprzez listę obiektów i wywoływanie metody opis().
+ */
