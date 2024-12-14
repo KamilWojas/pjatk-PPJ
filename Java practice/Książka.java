@@ -83,4 +83,10 @@ Dla książek:
 Tytuł: "Duma i Uprzedzenie", autor: "Jane Austen".
 Ebook: "Java dla początkujących", autor: "John Doe", rozmiar: 1.5 MB.
 Audiobook: "Sherlock Holmes", autor: "Arthur Conan Doyle", czas trwania: 8 godzin, lektor: "Jan Kowalski".
+
+Wynik:
+Tytuł: Duma i Uprzedzenie, Autor: Jane Austen
+Tytuł: Java dla początkujących, Autor: John Doe, Rozmiar pliku: 1.5 MB
+Tytuł: Sherlock Holmes, Autor: Arthur Conan Doyle, Czas trwania: 8.0 godzin, Lektor: Jan Kowalski
+
  */
