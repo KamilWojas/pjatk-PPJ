@@ -81,3 +81,15 @@ Klasa Main:
 
 Demonstruje działanie hierarchii klas, tworząc obiekty i wyświetlając ich opisy.
  */
+
+/*
+Wynik działania programu
+Dla danych:
+
+Samochód osobowy: kolor Czarny, pojemność silnika 2L, liczba miejsc 5.
+Ciężarówka: kolor Biały, pojemność silnika 6L, ładowność 10T.
+
+Kolor: Czarny, Pojemność silnika: 2L, Ilość miejsc: 5
+Kolor: Biały, Pojemność silnika: 6L, Ładowność: 10T
+
+ */
