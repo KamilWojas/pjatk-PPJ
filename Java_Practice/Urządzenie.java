@@ -8,7 +8,6 @@ class Urządzenie {
         this.producent = producent;
         this.model = model;
     }
-
     // Metoda opisująca urządzenie
     public String opis() {
         return "Producent: " + producent + ", Model: " + model;
