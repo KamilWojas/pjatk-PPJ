@@ -1,22 +1,19 @@
 public class Task01 {
     public static void main(String[] args) {
-        // Wartość w systemie dziesiętnym
-        int decimalValue = 165;
+        int value = 14; // Wartość początkowa
 
-        // Wartość w systemie binarnym (dwójkowym)
-        int binaryValue = 0b10100101; // literał binarny (0b oznacza system binarny)
+        // 1. Przesunięcie o 0 pozycji w prawo
+        int result1 = value >> 0;
+        System.out.println("Przesunięcie o 0 pozycji w prawo: " + result1);
 
-        // Wartość w systemie ósemkowym
-        int octalValue = 0255; // literał ósemkowy (0 na początku oznacza system ósemkowy)
+        // 2. Przesunięcie rezultatu o 2 pozycje w lewo
+        int result2 = result1 << 2;
+        System.out.println("Przesunięcie rezultatu o 2 pozycje w lewo: " + result2);
 
-        // Wartość w systemie szesnastkowym
-        int hexadecimalValue = 0xA5; // literał szesnastkowy (0x oznacza system szesnastkowy)
+        // 3. Przesunięcie rezultatu o 4 pozycje w prawo
+        int result3 = result2 >> 4;
+        System.out.println(
 
-        // Wyświetlenie wyników
-
-        System.out.println("Wartość w systemie dziesiętnym: " + decimalValue);
-        System.out.println("Wartość w systemie binarnym: 0b" + Integer.toBinaryString(decimalValue));
-        System.out.println("Wartość w systemie ósemkowym: 0" + Integer.toOctalString(decimalValue));
-        System.out.println("Wartość w systemie szesnastkowym: 0x" + Integer.toHexString(decimalValue).toUpperCase());
+                "Przesunięcie rezultatu o 4 pozycje w prawo: " + result3);
     }
 }
