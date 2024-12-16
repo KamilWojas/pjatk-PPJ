@@ -104,4 +104,4 @@ Wynik działania:
 Producent: Dell, Model: XPS 15, Moc obliczeniowa: 250.0 GFLOPS
 Producent: Samsung, Model: Galaxy S21, Dual SIM: true
 Producent: Apple, Model: iPhone 13, Dual SIM: false
- */
+*/
