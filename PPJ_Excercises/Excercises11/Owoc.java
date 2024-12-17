@@ -48,3 +48,13 @@ class Gruszka extends Owoc {
         return 100 + new Random().nextInt(151); // Masa od 100 do 250 g
     }
 }
+// Klasa Drzewo
+class Drzewo {
+    public Owoc zerwijOwoc() {
+        Random random = new Random();
+        int wybor = random.nextInt(3);
+        if (wybor == 0) return new Jablko();
+        if (wybor == 1) return new Pomarancza();
+        return new Gruszka();
+    }
+}
