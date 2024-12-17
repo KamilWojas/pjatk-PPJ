@@ -17,3 +17,17 @@ public class Task01 {
                 "Przesunięcie rezultatu o 4 pozycje w prawo: " + result3);
     }
 }
+
+/*
+Wyniki działania programu:
+Dla wartości 14:
+
+Przesunięcie o 0 pozycji w prawo:
+Wynik: 14 (bez zmian).
+
+Przesunięcie rezultatu o 2 pozycje w lewo:
+Wartość bitowa przesunięta o 2 pozycje w lewo: 14 << 2 = 56.
+
+Przesunięcie rezultatu o 4 pozycje w prawo:
+Wartość bitowa przesunięta o 4 pozycje w prawo: 56 >> 4 = 3.
+ */
