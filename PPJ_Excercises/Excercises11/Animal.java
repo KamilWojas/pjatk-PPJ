@@ -35,3 +35,14 @@ class Dog extends Animal {
         System.out.println("Woof");
     }
 }
+// Klasa Cow dziedzicząca po Animal
+class Cow extends Animal {
+    public Cow() {
+        super("Cow");
+    }
+
+    @Override
+    public void makeSound() {
+        System.out.println("Moo");
+    }
+}
