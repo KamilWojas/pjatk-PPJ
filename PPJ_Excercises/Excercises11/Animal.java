@@ -62,3 +62,10 @@ public class Main {
         }
     }
 }
+
+/*
+Cat makes sound: Meow
+Dog makes sound: Woof
+Cow makes sound: Moo
+
+ */
