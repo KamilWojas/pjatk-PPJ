@@ -58,3 +58,30 @@ class Drzewo {
         return new Gruszka();
     }
 }
+// Klasa główna
+public class Main {
+    public static void main(String[] args) {
+        Drzewo drzewo = new Drzewo();
+        Owoc[] kosz = new Owoc[100]; // Tablica na zerwane owoce
+        double sumaMasy = 0;
+        int liczbaJablek = 0, liczbaPomaranczy = 0, liczbaGruszek = 0;
+
+        int index = 0;
+        while (sumaMasy < 5000 && index < 100) { // 5000 gram = 5 kg
+            Owoc owoc = drzewo.zerwijOwoc();
+            sumaMasy += owoc.getMasa();
+            kosz[index++] = owoc;
+
+            // Zliczanie owoców
+            if (owoc.getNazwa().equals("Jablko")) liczbaJablek++;
+            else if (owoc.getNazwa().equals("Pomarańcza")) liczbaPomaranczy++;
+            else if (owoc.getNazwa().equals("Gruszka")) liczbaGruszek++;
+        }
+
+        // Wyświetlenie wyników
+        System.out.println("Suma masy owoców: " + sumaMasy / 1000 + " kg");
+        System.out.println("Liczba zerwanych jabłek: " + liczbaJablek);
+        System.out.println("Liczba zerwanych pomarańczy: " + liczbaPomaranczy);
+        System.out.println("Liczba zerwanych gruszek: " + liczbaGruszek);
+    }
+}
