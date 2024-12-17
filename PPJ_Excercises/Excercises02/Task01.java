@@ -30,4 +30,9 @@ Wartość bitowa przesunięta o 2 pozycje w lewo: 14 << 2 = 56.
 
 Przesunięcie rezultatu o 4 pozycje w prawo:
 Wartość bitowa przesunięta o 4 pozycje w prawo: 56 >> 4 = 3.
+
+Wyjście na konsoli:
+Przesunięcie o 0 pozycji w prawo: 14
+Przesunięcie rezultatu o 2 pozycje w lewo: 56
+Przesunięcie rezultatu o 4 pozycje w prawo: 3
  */
