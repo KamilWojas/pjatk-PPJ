@@ -2,9 +2,6 @@
 class Animal {
     protected String species;
 
-
-
-    p
     public Animal(String species) {
         this.species = species;
     }
