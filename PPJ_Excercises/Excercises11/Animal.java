@@ -68,4 +68,9 @@ Cat makes sound: Meow
 Dog makes sound: Woof
 Cow makes sound: Moo
 
+Wyjaśnienie
+Klasa Animal jest klasą bazową zawierającą metodę makeSound().
+Klasy Cat, Dog, Cow dziedziczą po klasie Animal i przesłaniają metodę makeSound().
+W metodzie main utworzono tablicę typu Animal, która przechowuje różne obiekty klas pochodnych.
+Dzięki polimorfizmowi odpowiednia wersja metody makeSound() jest wywoływana dla każdego obiektu, mimo że są traktowane jako typ Animal.
  */
