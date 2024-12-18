@@ -15,3 +15,14 @@ public class ZadaniePetle {
         }
     }
 }
+
+/*
+Wynik programu na konsoli
+
+Różnica między tab[0] i tab[1]: 10
+Różnica między tab[0] i tab[2]: 20
+Różnica między tab[0] i tab[3]: 30
+Różnica między tab[1] i tab[2]: 10
+Różnica między tab[1] i tab[3]: 20
+Różnica między tab[2] i tab[3]: 10
+ */
