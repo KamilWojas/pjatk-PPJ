@@ -17,7 +17,6 @@ public class ZadaniePetleSuma {
 
 /*
 Wynik programu na konsoli
-
 Suma tab[0] i tab[0]: 4
 Suma tab[0] i tab[1]: 6
 Suma tab[0] i tab[2]: 8
