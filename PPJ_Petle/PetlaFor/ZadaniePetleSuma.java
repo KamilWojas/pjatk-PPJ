@@ -6,3 +6,11 @@ liczb z tablicy. Wykorzystaj do tego dwie zagnieżdżone pętle for.
 public class ZadaniePetleSuma {
     public static void main(String[] args) {
         int[] tab = {2, 4, 6, 8}; // Tablica liczb całkowitych
+
+        for (int i = 0; i < tab.length; i++) { // Pętla zewnętrzna
+            for (int j = i; j < tab.length; j++) { // Pętla wewnętrzna
+                System.out.println("Suma tab[" + i + "] i tab[" + j + "]: " + (tab[i] + tab[j]));
+            }
+        }
+    }
+}
