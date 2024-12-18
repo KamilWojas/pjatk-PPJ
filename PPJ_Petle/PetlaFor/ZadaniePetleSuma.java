@@ -14,3 +14,18 @@ public class ZadaniePetleSuma {
         }
     }
 }
+
+/*
+Wynik programu na konsoli
+
+Suma tab[0] i tab[0]: 4
+Suma tab[0] i tab[1]: 6
+Suma tab[0] i tab[2]: 8
+Suma tab[0] i tab[3]: 10
+Suma tab[1] i tab[1]: 8
+Suma tab[1] i tab[2]: 10
+Suma tab[1] i tab[3]: 12
+Suma tab[2] i tab[2]: 12
+Suma tab[2] i tab[3]: 14
+Suma tab[3] i tab[3]: 16
+ */
