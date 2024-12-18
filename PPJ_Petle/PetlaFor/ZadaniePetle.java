@@ -18,7 +18,6 @@ public class ZadaniePetle {
 
 /*
 Wynik programu na konsoli
-
 Różnica między tab[0] i tab[1]: 10
 Różnica między tab[0] i tab[2]: 20
 Różnica między tab[0] i tab[3]: 30
