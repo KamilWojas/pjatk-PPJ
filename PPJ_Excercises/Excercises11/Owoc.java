@@ -88,7 +88,6 @@ public class Main {
 
 /*
 Wynik działania programu
-
 Suma masy owoców: 5.1 kg
 Liczba zerwanych jabłek: 13
 Liczba zerwanych pomarańczy: 9
