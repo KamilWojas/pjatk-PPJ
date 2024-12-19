@@ -30,4 +30,9 @@ Różnica dla tab[0] (3): -18
 Różnica dla tab[1] (5): -14
 Różnica dla tab[2] (7): -10
 Różnica dla tab[3] (9): -6
+
+Podsumowanie
+Pierwsza pętla oblicza sumę wszystkich elementów w tablicy.
+Druga pętla oblicza różnicę każdego elementu z sumą pozostałych elementów.
+Wyświetlamy wyniki dla każdego elementu z tablicy.
  */
