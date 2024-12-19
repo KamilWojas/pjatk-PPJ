@@ -22,3 +22,12 @@ public class ZadanieTablicaRoznice {
         }
     }
 }
+
+/*
+Wynik programu na konsoli
+
+Różnica dla tab[0] (3): -18
+Różnica dla tab[1] (5): -14
+Różnica dla tab[2] (7): -10
+Różnica dla tab[3] (9): -6
+ */
