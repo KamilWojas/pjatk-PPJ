@@ -13,3 +13,12 @@ public class ZadanieTablicaRoznice {
         for (int num : tab) { // Pętla foreach
             suma += num;
         }
+
+
+        // Obliczanie różnic
+        for (int i = 0; i < tab.length; i++) {
+            int roznica = tab[i] - (suma - tab[i]);
+            System.out.println("Różnica dla tab[" + i + "] (" + tab[i] + "): " + roznica);
+        }
+    }
+}
