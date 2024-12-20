@@ -4,3 +4,16 @@ W Javie każda zmienna musi mieć:
 - Typ danych (np. liczba całkowita, liczba zmiennoprzecinkowa, znak, tekst, wartość logiczna),
 - Nazwa zmiennej (np. wiek, suma, nazwaUzytkownika),
 - Wartość (to, co ta zmienna przechowuje, np. 5, "Jan", 3.14).
+
+
+2. Typy danych w Javie
+Typ	    Opis	          Przykłady
+byte	Liczba całkowita (-128 do 127)	byte x = 120;
+short	Liczba całkowita (-32 768 do 32 767)	short y = 32000;
+int	    Liczba całkowita (najczęściej używana)	int liczba = 1000;
+long	long duzaLiczba = 1000000L; Bardzo duża liczba całkowita
+float	Liczba zmiennoprzecinkowa (z przecinkiem)	float f = 3.14f;
+double	Dokładniejsza liczba zmiennoprzecinkowa	double d = 3.14159;
+boolean	Wartość logiczna (true/false)	boolean isOn = true;
+char	Pojedynczy znak	char znak = 'A';
+String	Ciąg znaków (tekst)	String imie = "Jan";
