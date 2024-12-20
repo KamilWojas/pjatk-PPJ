@@ -19,13 +19,11 @@ class Drzewo {
 class DrzewoIglaste extends Drzewo {
     int iloscIgli;
     double dlugoscSzyszki;
-
     DrzewoIglaste(boolean wiecznieZielone, int wysokosc, String przekrojDrzewa, int iloscIgli, double dlugoscSzyszki) {
         super(wiecznieZielone, wysokosc, przekrojDrzewa);
         this.iloscIgli = iloscIgli;
         this.dlugoscSzyszki = dlugoscSzyszki;
     }
-
     public String toString() {
         return super.toString() + ", DrzewoIglaste [iloscIgli=" + iloscIgli + ", dlugoscSzyszki=" + dlugoscSzyszki + "]";
     }
