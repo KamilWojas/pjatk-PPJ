@@ -17,3 +17,15 @@ double	Dokładniejsza liczba zmiennoprzecinkowa	double d = 3.14159;
 boolean	Wartość logiczna (true/false)	boolean isOn = true;
 char	Pojedynczy znak	char znak = 'A';
 String	Ciąg znaków (tekst)	String imie = "Jan";
+
+
+3. Jak deklarować i inicjalizować zmienne?
+Deklaracja zmiennej to poinformowanie Javy, że zamierzamy używać danej zmiennej.
+Inicjalizacja zmiennej to przypisanie jej wartości.
+Przykład:
+
+int wiek; // Deklaracja zmiennej o nazwie "wiek"
+wiek = 20; // Inicjalizacja zmiennej "wiek"
+Można to zapisać w jednym wierszu:
+
+int wiek = 20; // Deklaracja i inicjalizacja
