@@ -28,7 +28,6 @@ public class Main {
 
 /*
 Wynik programu na konsoli
-
 Liczba całkowita: 10
 Liczba z przecinkiem: 3.14
 Wartość logiczna: true
