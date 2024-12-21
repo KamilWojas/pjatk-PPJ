@@ -1,3 +1,15 @@
+/*
+Zadanie:
+Stwórz program, który:
+
+Zadeklaruje i zainicjalizuje zmienne o różnych typach (int, double, boolean, char i String).
+Wypisze wartości tych zmiennych na konsolę.
+Wykona kilka operacji matematycznych na liczbach (int i double) i wyświetli wyniki.
+ */
+
+
+
+
 public class Main {
     public static void main(String[] args) {
         // 1. Deklaracja i inicjalizacja zmiennych
