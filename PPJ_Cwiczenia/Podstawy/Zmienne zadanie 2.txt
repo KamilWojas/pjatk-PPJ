@@ -1,0 +1,5 @@
+
+Utwórz program zgodnie z powyższym przykładem.
+Spróbuj samodzielnie utworzyć 5 zmiennych o typach
+byte, short, int, float, double, przypisać im wartości i je wydrukować.
+Zgłoś pytania – jeśli cokolwiek jest niejasne, napisz, a ja to wyjaśnię.
