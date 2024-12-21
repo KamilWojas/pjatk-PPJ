@@ -24,3 +24,19 @@ public class Main {
         System.out.println("Reszta z dzielenia (modulo): " + (a % b)); // 0
     }
 }
+
+
+/*
+Wynik programu na konsoli
+
+Liczba całkowita: 10
+Liczba z przecinkiem: 3.14
+Wartość logiczna: true
+Znak: A
+Tekst: Witaj w nauce Javy!
+Dodawanie: 25
+Odejmowanie: 15
+Mnożenie: 100
+Dzielenie: 4
+Reszta z dzielenia (modulo): 0
+ */
