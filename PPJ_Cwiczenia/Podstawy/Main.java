@@ -36,6 +36,16 @@ public class Main {
         System.out.println("Reszta z dzielenia (modulo): " + (a % b)); // 0
     }
 }
+    int a = 10; // liczba całkowita
+    int b = 5;
+
+        System.out.println("Suma: " + (a + b)); // dodawanie
+        System.out.println("Różnica: " + (a - b)); // odejmowanie
+        System.out.println("Iloczyn: " + (a * b)); // mnożenie
+        System.out.println("Iloraz: " + (a / b)); // dzielenie
+}
+
+}
 
 
 /*
