@@ -35,10 +35,10 @@ public class Main {
         System.out.println("Dzielenie: " + (a / b)); // 4
         System.out.println("Reszta z dzielenia (modulo): " + (a % b)); // 0
 
-        System.out.println("Suma: " + (a + b)); // dodawanie
-        System.out.println("Różnica: " + (a - b)); // odejmowanie
-        System.out.println("Iloczyn: " + (a * b)); // mnożenie
-        System.out.println("Iloraz: " + (a / b)); // dzielenie
+        System.out.println("Suma: " + (a + b)); // 25
+        System.out.println("Różnica: " + (a - b)); // 15
+        System.out.println("Iloczyn: " + (a * b)); // 100
+        System.out.println("Iloraz: " + (a / b)); // 4
 }
 
 }
