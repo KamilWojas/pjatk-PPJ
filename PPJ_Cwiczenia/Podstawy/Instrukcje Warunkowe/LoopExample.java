@@ -5,5 +5,12 @@ public class LoopExample {
             System.out.println("Liczba" + i);
         }
 
+        //pętla while
+        int j = 1;
+        while (j <=10){
+            System.out.println("Liczba (while): " + j);
+            j++;
+        }
+
     }
 }
