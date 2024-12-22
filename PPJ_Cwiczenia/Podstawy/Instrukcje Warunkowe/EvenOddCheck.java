@@ -9,4 +9,3 @@ public class EvenOddCheck {
             System.out.println(liczba + "jest liczbą nieparzystą");
         }
     }
-}
