@@ -1,3 +1,8 @@
+/*
+Metody to fragmenty kodu, które wykonują określone zadanie
+i mogą być wielokrotnie wywoływane.
+ */
+
 public class MethodsExample {
     public static void main(String[] args) {
         int liczba = 4;
