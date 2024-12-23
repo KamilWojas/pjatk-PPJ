@@ -9,3 +9,10 @@ public class ArrayExample {
         }
     }
 }
+
+/*
+Wyjaśnienie:
+int[] liczby = {1, 2, 3, 4, 5}; - Tablica przechowuje liczby całkowite.
+liczby.length - Zwraca długość tablicy (w tym przypadku 5).
+liczby[i] - Dostęp do elementu o indeksie i (indeksy zaczynają się od 0).
+ */
