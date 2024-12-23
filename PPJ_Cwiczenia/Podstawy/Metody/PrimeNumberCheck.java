@@ -1,4 +1,6 @@
-
+/*
+Napiszemy metodę, która sprawdza, czy dana liczba jest liczbą pierwszą.
+ */
 
 public class PrimeNumberCheck {
     public static void main(String[] args) {
