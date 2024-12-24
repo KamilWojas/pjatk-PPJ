@@ -1,3 +1,7 @@
+/*
+apisz program, który wypisze wszystkie liczby od 1 do 100, które są podzielne przez 7.
+ */
+
 public class DivisibleBySeven {
     public static void main(String[] args) {
         // Pętla przechodząca przez liczby od 1 do 100
