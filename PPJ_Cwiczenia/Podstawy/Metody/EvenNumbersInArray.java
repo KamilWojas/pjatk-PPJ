@@ -1,3 +1,7 @@
+/*
+Napisz program, który wypisze wszystkie liczby parzyste w tablicy.
+ */
+
 public class EvenNumbersInArray {
     public static void main(String[] args) {
         int[] liczby = {10, 15, 20, 25, 30}; // Tablica z liczbami
