@@ -1,5 +1,11 @@
 
+// Klasa bazowa
+class Zwierzę {
+    String nazwa;
 
+    public void ustawNazwę(String nazwa) {
+        this.nazwa = nazwa;
+    }
 
 
 
