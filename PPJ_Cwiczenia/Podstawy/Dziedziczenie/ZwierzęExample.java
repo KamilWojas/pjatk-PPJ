@@ -7,10 +7,15 @@
 
 
 
+// Klasa pochodna
+class Pies extends Zwierzę {
+    @Override
+    public void wydajDzwiek() {
+        System.out.println("Hau!");
+    }
+}
 
-
-
-
+// Program główny
 public class ZwierzęExample {
     public static void main(String[] args) {
         Pies pies = new Pies();
