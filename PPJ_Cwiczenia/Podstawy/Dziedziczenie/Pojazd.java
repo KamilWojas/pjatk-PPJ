@@ -17,3 +17,10 @@ class Samochód extends Pojazd {
     public void ustawModel(String model) {
         this.model = model;
     }
+
+    @Override // Nadpisujemy metodę z klasy bazowej
+    public void wyswietlInformacje() {
+        super.wyswietlInformacje(); // Wywołujemy metodę z klasy bazowej
+        System.out.println("Model samochodu: " + model);
+    }
+}
