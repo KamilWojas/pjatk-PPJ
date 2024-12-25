@@ -35,4 +35,14 @@ public class DziedziczenieExample {
     }
 }
 
+/*
+Wyjaśnienie:
+Dziedzictwo:
+class Samochód extends Pojazd– Klasa Samochóddziedziczy właściwości i metod klasy Pojazd.
+Metoda stosowania z klasyczną bazową ( ustawMarke).
+Metoda nadpisywania:
+@Override– Nadpisujemy wyswietlInformacje, dodając własną logikę.
+Super:
+super.wyswietlInformacje()– Wyjście wyswietlInformacjez klasycznej bazowej.
+ */
 
