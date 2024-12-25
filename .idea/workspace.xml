@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Commit2" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="SumOf2DArray" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +157,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="1385000" />
+      <workItem from="1735153335316" duration="1691000" />
     </task>
     <task id="LOCAL-00002" summary="Commit2">
       <option name="closed" value="true" />
@@ -175,7 +175,63 @@
       <option name="project" value="LOCAL" />
       <updated>1735157723140</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit2">
+      <option name="closed" value="true" />
+      <created>1735166975225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735166975225</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit2">
+      <option name="closed" value="true" />
+      <created>1735167002807</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167002807</updated>
+    </task>
+    <task id="LOCAL-00006" summary="TwoDimensionalArray">
+      <option name="closed" value="true" />
+      <created>1735167067201</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167067201</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Wyjaśnienie TwoDimensionalArray">
+      <option name="closed" value="true" />
+      <created>1735167103019</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167103019</updated>
+    </task>
+    <task id="LOCAL-00008" summary="SumOf2DArray">
+      <option name="closed" value="true" />
+      <created>1735167151683</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167151683</updated>
+    </task>
+    <task id="LOCAL-00009" summary="SumOf2DArray">
+      <option name="closed" value="true" />
+      <created>1735167175111</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167175111</updated>
+    </task>
+    <task id="LOCAL-00010" summary="SumOf2DArray">
+      <option name="closed" value="true" />
+      <created>1735167200641</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167200641</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +251,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="Commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit2" />
+    <MESSAGE value="TwoDimensionalArray" />
+    <MESSAGE value="Wyjaśnienie TwoDimensionalArray" />
+    <MESSAGE value="SumOf2DArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="SumOf2DArray" />
   </component>
 </project>
