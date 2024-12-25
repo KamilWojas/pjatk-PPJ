@@ -10,3 +10,10 @@ class Pojazd {
         System.out.println("Marka pojazdu: " + marka);
     }
 }
+// Klasa pochodna
+class Samochód extends Pojazd {
+    String model;
+
+    public void ustawModel(String model) {
+        this.model = model;
+    }
