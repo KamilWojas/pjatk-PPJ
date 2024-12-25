@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="SumOf2DArray" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyjaśnienie" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +157,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="1691000" />
+      <workItem from="1735153335316" duration="2028000" />
     </task>
     <task id="LOCAL-00002" summary="Commit2">
       <option name="closed" value="true" />
@@ -231,7 +231,71 @@
       <option name="project" value="LOCAL" />
       <updated>1735167200641</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Dziedziczenie">
+      <option name="closed" value="true" />
+      <created>1735167240995</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167240995</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Pojazd">
+      <option name="closed" value="true" />
+      <created>1735167269119</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167269119</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1735167297720</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167297720</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Klasa pochodna Samochód">
+      <option name="closed" value="true" />
+      <created>1735167344424</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167344424</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Override - Nadpisuje metodę z klasy bazowej">
+      <option name="closed" value="true" />
+      <created>1735167394157</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167394157</updated>
+    </task>
+    <task id="LOCAL-00016" summary="DziedziczenieExample">
+      <option name="closed" value="true" />
+      <created>1735167446706</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167446706</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Program główny">
+      <option name="closed" value="true" />
+      <created>1735167484932</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167484932</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Wyjaśnienie">
+      <option name="closed" value="true" />
+      <created>1735167547788</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167547788</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +318,14 @@
     <MESSAGE value="TwoDimensionalArray" />
     <MESSAGE value="Wyjaśnienie TwoDimensionalArray" />
     <MESSAGE value="SumOf2DArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="SumOf2DArray" />
+    <MESSAGE value="Dziedziczenie" />
+    <MESSAGE value="Pojazd" />
+    <MESSAGE value="Klasa bazowa" />
+    <MESSAGE value="Klasa pochodna Samochód" />
+    <MESSAGE value="Override - Nadpisuje metodę z klasy bazowej" />
+    <MESSAGE value="DziedziczenieExample" />
+    <MESSAGE value="Program główny" />
+    <MESSAGE value="Wyjaśnienie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wyjaśnienie" />
   </component>
 </project>
