@@ -7,11 +7,10 @@ class Zwierzę {
         this.nazwa = nazwa;
     }
 
-
-
-
-
-
+    public void wydajDzwiek() {
+        System.out.println("Zwierzę wydaje dźwięk");
+    }
+}
 
 // Klasa pochodna
 class Pies extends Zwierzę {
