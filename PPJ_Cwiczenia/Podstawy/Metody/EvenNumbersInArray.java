@@ -11,6 +11,7 @@ public class EvenNumbersInArray {
             // Sprawdzamy, czy liczba jest parzysta
             if (liczby[i] % 2 == 0) {
                 System.out.println(liczby[i]); // Wypisujemy liczbę
+
             }
         }
     }
