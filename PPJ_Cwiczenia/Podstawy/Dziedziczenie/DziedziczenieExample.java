@@ -24,3 +24,5 @@ class Samochód extends Pojazd {
         System.out.println("Model samochodu: " + model);
     }
 }
+
+
