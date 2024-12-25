@@ -1,3 +1,7 @@
+/*
+Napisz program, który doda wszystkie elementy w tablicy dwuwymiarowej.
+ */
+
 public class SumOf2DArray {
     public static void main(String[] args) {
         int[][] tablica = {
