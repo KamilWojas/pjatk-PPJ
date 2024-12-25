@@ -25,4 +25,14 @@ class Samochód extends Pojazd {
     }
 }
 
+// Program główny
+public class DziedziczenieExample {
+    public static void main(String[] args) {
+        Samochód auto = new Samochód();
+        auto.ustawMarke("Toyota");
+        auto.ustawModel("Corolla");
+        auto.wyswietlInformacje();
+    }
+}
+
 
