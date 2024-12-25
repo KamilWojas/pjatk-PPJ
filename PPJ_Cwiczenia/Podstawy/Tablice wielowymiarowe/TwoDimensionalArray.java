@@ -14,3 +14,11 @@ public class TwoDimensionalArray {
         }
     }
 }
+
+/*
+Wyjaśnienie:
+int[][] tablica– Deklarujemy tablicę dwuwymiarową.
+tablica.length– Długość długości (liczba wierszy).
+tablica[i].length– Długość dostarczana wiersza (liczba kolumnowa).
+Pętla zagnieżdżona ( for) – Zewnętrzna sieć przechodząca przez wiersze, a wewnętrzna przez prowadnice.
+ */
