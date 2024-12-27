@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klasa bazowa" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Ćwiczenie">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +159,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="2329000" />
+      <workItem from="1735153335316" duration="3584000" />
     </task>
     <task id="LOCAL-00002" summary="Commit2">
       <option name="closed" value="true" />
@@ -335,7 +337,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735167830061</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Ćwiczenie">
+      <option name="closed" value="true" />
+      <created>1735167884217</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1735167884217</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Ćwiczenie">
+      <option name="closed" value="true" />
+      <created>1735315020237</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1735315020237</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,6 +385,7 @@
     <MESSAGE value="Program główny" />
     <MESSAGE value="// Klasa pochodna" />
     <MESSAGE value="Klasa bazowa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klasa bazowa" />
+    <MESSAGE value="Ćwiczenie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ćwiczenie" />
   </component>
 </project>
