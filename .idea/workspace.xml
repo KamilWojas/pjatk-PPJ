@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Ćwiczenie">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zadanie 1">
+      <change afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +159,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="3584000" />
+      <workItem from="1735153335316" duration="4363000" />
     </task>
     <task id="LOCAL-00002" summary="Commit2">
       <option name="closed" value="true" />
@@ -353,7 +353,47 @@
       <option name="project" value="LOCAL" />
       <updated>1735315020237</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Ćwiczenie">
+      <option name="closed" value="true" />
+      <created>1735318641154</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1735318641154</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Main">
+      <option name="closed" value="true" />
+      <created>1735318674347</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1735318674347</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Pobranie liczby od użytkownika">
+      <option name="closed" value="true" />
+      <created>1735318712889</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1735318712889</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Instrukcje warunkowe">
+      <option name="closed" value="true" />
+      <created>1735318734078</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1735318734078</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Zadanie 1">
+      <option name="closed" value="true" />
+      <created>1735318780820</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1735318780820</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,6 +426,10 @@
     <MESSAGE value="// Klasa pochodna" />
     <MESSAGE value="Klasa bazowa" />
     <MESSAGE value="Ćwiczenie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ćwiczenie" />
+    <MESSAGE value="Main" />
+    <MESSAGE value="Pobranie liczby od użytkownika" />
+    <MESSAGE value="Instrukcje warunkowe" />
+    <MESSAGE value="Zadanie 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 1" />
   </component>
 </project>
