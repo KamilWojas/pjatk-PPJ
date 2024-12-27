@@ -18,3 +18,11 @@ public class Main {
         System.out.println("Liczba jest: " + wynik);
     }
 }
+
+/*
+Wynik programu:
+Dla podanej liczby:
+
+8 →"Liczba jest: Parzysta"
+7 →"Liczba jest: Nieparzysta"
+ */
