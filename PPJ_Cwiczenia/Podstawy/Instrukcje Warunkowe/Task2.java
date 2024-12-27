@@ -14,6 +14,7 @@ public class Task2 {
     }
 }
 
+
 /*
 Dla podanej liczby:
 10 →"Liczba jest większa od zera."
