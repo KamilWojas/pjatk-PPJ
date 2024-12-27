@@ -4,7 +4,6 @@ Utwórz klasę Zwierzę, która ma pole nazwai tworzy wydajDzwiek.
 Utwórz klasę Pies, która dziedziczy po Zwierzęi nadpisuje wydajDzwiek, aby wypisać "Hau!".
  */
 
-
 // Klasa bazowa
 class Zwierzę {
     String nazwa;
