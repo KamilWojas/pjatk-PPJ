@@ -13,3 +13,9 @@ public class Task2 {
         
     }
 }
+
+    Dla podanej liczby:
+
+        10 →"Liczba jest większa od zera."
+        -5 →"Liczba jest mniejsza od zera."
+        0 →"Liczba to zero."
