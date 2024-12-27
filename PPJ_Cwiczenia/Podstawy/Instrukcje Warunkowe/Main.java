@@ -1,5 +1,14 @@
 mport java.util.Scanner;
 
+/*
+Zadanie 1
+Napisz program, który sprawdza, czy podana liczba jest:
+
+Większa od zera,
+Równa zero,
+Mniejsza od zera.
+ */
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
