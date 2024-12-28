@@ -21,3 +21,10 @@ public class Main {
         }
     }
 }
+
+    Wynik programu:
+        Dla określonych liczb:
+
+        10, 5 →"Większa liczba to: 10"
+        4, 8 →"Większa liczba to: 8"
+        3, 3 →"Obie liczby są równe."
