@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wynik programu:" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task6">
+      <change afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/Task6.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,14 +141,6 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1731281440489</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1731281440489</updated>
-    </task>
     <task active="true" id="Default" summary="Default task">
       <changelist id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Commit2" />
       <created>1731282023798</created>
@@ -157,7 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="5304000" />
+      <workItem from="1735153335316" duration="5609000" />
     </task>
     <task id="LOCAL-00002" summary="Commit2">
       <option name="closed" value="true" />
@@ -479,7 +473,79 @@
       <option name="project" value="LOCAL" />
       <updated>1735337701923</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Task4">
+      <option name="closed" value="true" />
+      <created>1735380920736</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1735380920736</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Main">
+      <option name="closed" value="true" />
+      <created>1735380942514</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1735380942514</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Pobranie dwóch liczb od użytkownika">
+      <option name="closed" value="true" />
+      <created>1735380967443</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1735380967443</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Instrukcja warunkowa">
+      <option name="closed" value="true" />
+      <created>1735380997271</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1735380997271</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Instrukcja warunkowa">
+      <option name="closed" value="true" />
+      <created>1735381029172</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1735381029172</updated>
+    </task>
+    <task id="LOCAL-00047" summary="    Wynik programu:">
+      <option name="closed" value="true" />
+      <created>1735381050568</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1735381050568</updated>
+    </task>
+    <task id="LOCAL-00048" summary="    Wynik programu:">
+      <option name="closed" value="true" />
+      <created>1735381084957</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1735381084957</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Task5">
+      <option name="closed" value="true" />
+      <created>1735381160310</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1735381160310</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Task6">
+      <option name="closed" value="true" />
+      <created>1735381191590</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1735381191591</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,10 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit" />
-    <MESSAGE value="Commit2" />
-    <MESSAGE value="TwoDimensionalArray" />
-    <MESSAGE value="Wyjaśnienie TwoDimensionalArray" />
     <MESSAGE value="SumOf2DArray" />
     <MESSAGE value="Dziedziczenie" />
     <MESSAGE value="Pojazd" />
@@ -512,7 +574,6 @@
     <MESSAGE value="// Klasa pochodna" />
     <MESSAGE value="Klasa bazowa" />
     <MESSAGE value="Ćwiczenie" />
-    <MESSAGE value="Main" />
     <MESSAGE value="Instrukcje warunkowe" />
     <MESSAGE value="Zadanie 1" />
     <MESSAGE value="Task3" />
@@ -520,6 +581,13 @@
     <MESSAGE value="Operator warunkowy" />
     <MESSAGE value="Wyświetlenie wyniku" />
     <MESSAGE value="Wynik programu:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wynik programu:" />
+    <MESSAGE value="Task4" />
+    <MESSAGE value="Main" />
+    <MESSAGE value="Pobranie dwóch liczb od użytkownika" />
+    <MESSAGE value="Instrukcja warunkowa" />
+    <MESSAGE value="    Wynik programu:" />
+    <MESSAGE value="Task5" />
+    <MESSAGE value="Task6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task6" />
   </component>
 </project>
