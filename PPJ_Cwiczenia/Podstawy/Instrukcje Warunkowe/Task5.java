@@ -1,1 +1,4 @@
+/*
 Napisz program sprawdzający,
+
+ */
