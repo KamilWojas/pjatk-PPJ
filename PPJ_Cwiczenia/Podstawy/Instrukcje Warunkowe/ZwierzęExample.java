@@ -3,7 +3,9 @@ Napisz program sprawdzający,
 
  */
 
-
+// Klasa bazowa
+class Zwierzę {
+    String nazwa; // Pole przechowujące nazwę zwierzęcia
 
 
 
