@@ -12,6 +12,12 @@ class Zwierzę {
         this.nazwa = nazwa;
     }
 
+    // Metoda do wydawania dźwięku
+    public void wydajDzwiek() {
+        System.out.println("Zwierzę wydaje dźwięk");
+    }
+}
+
 
 
 
