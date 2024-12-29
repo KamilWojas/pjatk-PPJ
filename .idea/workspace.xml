@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task5" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyjaśnienie">
+      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/ZwierzęExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/ZwierzęExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,55 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="6263000" />
-    </task>
-    <task id="LOCAL-00004" summary="Commit2">
-      <option name="closed" value="true" />
-      <created>1735166975225</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1735166975225</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Commit2">
-      <option name="closed" value="true" />
-      <created>1735167002807</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167002807</updated>
-    </task>
-    <task id="LOCAL-00006" summary="TwoDimensionalArray">
-      <option name="closed" value="true" />
-      <created>1735167067201</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167067201</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Wyjaśnienie TwoDimensionalArray">
-      <option name="closed" value="true" />
-      <created>1735167103019</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167103019</updated>
-    </task>
-    <task id="LOCAL-00008" summary="SumOf2DArray">
-      <option name="closed" value="true" />
-      <created>1735167151683</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167151683</updated>
-    </task>
-    <task id="LOCAL-00009" summary="SumOf2DArray">
-      <option name="closed" value="true" />
-      <created>1735167175111</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167175111</updated>
+      <workItem from="1735153335316" duration="6567000" />
     </task>
     <task id="LOCAL-00010" summary="SumOf2DArray">
       <option name="closed" value="true" />
@@ -543,7 +497,55 @@
       <option name="project" value="LOCAL" />
       <updated>1735381250649</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Program główny ZwierzęExample">
+      <option name="closed" value="true" />
+      <created>1735477508279</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477508280</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Klasa bazowa Zwierzę">
+      <option name="closed" value="true" />
+      <created>1735477539500</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477539501</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Metoda ustawiająca nazwę zwierzęcia">
+      <option name="closed" value="true" />
+      <created>1735477569447</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477569447</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Metoda do wydawania dźwięku wydajDzwiek">
+      <option name="closed" value="true" />
+      <created>1735477600126</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477600126</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Klasa pochodna Pies extends Zwierzę">
+      <option name="closed" value="true" />
+      <created>1735477634150</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477634150</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Wyjaśnienie">
+      <option name="closed" value="true" />
+      <created>1735477679783</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477679783</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,13 +563,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SumOf2DArray" />
-    <MESSAGE value="Dziedziczenie" />
-    <MESSAGE value="Pojazd" />
-    <MESSAGE value="Klasa pochodna Samochód" />
-    <MESSAGE value="Override - Nadpisuje metodę z klasy bazowej" />
     <MESSAGE value="DziedziczenieExample" />
-    <MESSAGE value="Wyjaśnienie" />
     <MESSAGE value="Program główny" />
     <MESSAGE value="// Klasa pochodna" />
     <MESSAGE value="Klasa bazowa" />
@@ -586,6 +582,12 @@
     <MESSAGE value="    Wynik programu:" />
     <MESSAGE value="Task6" />
     <MESSAGE value="Task5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task5" />
+    <MESSAGE value="Program główny ZwierzęExample" />
+    <MESSAGE value="Klasa bazowa Zwierzę" />
+    <MESSAGE value="Metoda ustawiająca nazwę zwierzęcia" />
+    <MESSAGE value="Metoda do wydawania dźwięku wydajDzwiek" />
+    <MESSAGE value="Klasa pochodna Pies extends Zwierzę" />
+    <MESSAGE value="Wyjaśnienie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wyjaśnienie" />
   </component>
 </project>

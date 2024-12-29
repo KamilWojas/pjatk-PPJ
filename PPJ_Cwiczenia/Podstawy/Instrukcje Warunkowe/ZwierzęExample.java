@@ -38,13 +38,14 @@ public class ZwierzęExample {
     }
 }
 
-
+/*
 Wyjaśnienie:
-        Klasa Zwierzę:
-        Zawiera pole nazwaoraz metody ustawNazwęi wydajDzwiek.
-        wydajDzwiekw tej klasie wypisuje ogólny tekst: „Zwierzę wydaje dźwięk”.
-        Klasa Pies:
-        Dziedziczy wszystkie pola i metody klasy Zwierzę.
-        Nadpisuje wydajDzwiek, aby wypisać "Hau!".
-        Program główny:
-        Tworzy obiekt Pies, ustala jego pozostałości i metody alternatywne.
+Klasa Zwierzę:
+Zawiera pole nazwaoraz metody ustawNazwęi wydajDzwiek.
+wydajDzwiekw tej klasie wypisuje ogólny tekst: „Zwierzę wydaje dźwięk”.
+Klasa Pies:
+Dziedziczy wszystkie pola i metody klasy Zwierzę.
+Nadpisuje wydajDzwiek, aby wypisać "Hau!".
+Program główny:
+Tworzy obiekt Pies, ustala jego pozostałości i metody alternatywne.
+ */
