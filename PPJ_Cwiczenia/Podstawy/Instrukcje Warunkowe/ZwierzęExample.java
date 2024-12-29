@@ -37,3 +37,14 @@ public class ZwierzęExample {
         pies.wydajDzwiek(); // Wywołujemy metodę, aby pies zaszczekał
     }
 }
+
+
+Wyjaśnienie:
+        Klasa Zwierzę:
+        Zawiera pole nazwaoraz metody ustawNazwęi wydajDzwiek.
+        wydajDzwiekw tej klasie wypisuje ogólny tekst: „Zwierzę wydaje dźwięk”.
+        Klasa Pies:
+        Dziedziczy wszystkie pola i metody klasy Zwierzę.
+        Nadpisuje wydajDzwiek, aby wypisać "Hau!".
+        Program główny:
+        Tworzy obiekt Pies, ustala jego pozostałości i metody alternatywne.
