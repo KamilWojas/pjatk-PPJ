@@ -18,13 +18,14 @@ class Zwierzę {
     }
 }
 
-
-
-
-
-
-
-
+// Klasa pochodna
+class Pies extends Zwierzę {
+    // Nadpisujemy metodę wydajDzwiek, aby pies szczekał
+    @Override
+    public void wydajDzwiek() {
+        System.out.println("Hau!");
+    }
+}
 
     // Program główny
 public class ZwierzęExample {
