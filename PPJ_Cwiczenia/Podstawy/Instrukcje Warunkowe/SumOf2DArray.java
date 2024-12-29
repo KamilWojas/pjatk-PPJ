@@ -1,5 +1,8 @@
 /*
+Napisz program, który:
 
+Utworzy tablicę dwuwymiarową z liczbami.
+Doda wszystkie elementy w tablicy i wyświetliły ich sumę.
  */
 
 public class SumOf2DArray {
