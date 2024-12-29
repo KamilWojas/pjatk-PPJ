@@ -7,6 +7,10 @@ Napisz program sprawdzający,
 class Zwierzę {
     String nazwa; // Pole przechowujące nazwę zwierzęcia
 
+    // Metoda ustawiająca nazwę zwierzęcia
+    public void ustawNazwę(String nazwa) {
+        this.nazwa = nazwa;
+    }
 
 
 
@@ -14,7 +18,9 @@ class Zwierzę {
 
 
 
-// Program główny
+
+
+    // Program główny
 public class ZwierzęExample {
     public static void main(String[] args) {
         // Tworzymy obiekt klasy Pies
