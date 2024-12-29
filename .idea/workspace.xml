@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task6">
-      <change afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/Task6.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,23 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="5609000" />
-    </task>
-    <task id="LOCAL-00002" summary="Commit2">
-      <option name="closed" value="true" />
-      <created>1731356635721</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1731356635721</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Commit2">
-      <option name="closed" value="true" />
-      <created>1735157723140</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1735157723140</updated>
+      <workItem from="1735153335316" duration="6263000" />
     </task>
     <task id="LOCAL-00004" summary="Commit2">
       <option name="closed" value="true" />
@@ -545,7 +527,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735381191591</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Task5">
+      <option name="closed" value="true" />
+      <created>1735381230275</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1735381230275</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Task5">
+      <option name="closed" value="true" />
+      <created>1735381250649</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1735381250649</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,8 +584,8 @@
     <MESSAGE value="Pobranie dwóch liczb od użytkownika" />
     <MESSAGE value="Instrukcja warunkowa" />
     <MESSAGE value="    Wynik programu:" />
-    <MESSAGE value="Task5" />
     <MESSAGE value="Task6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task6" />
+    <MESSAGE value="Task5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task5" />
   </component>
 </project>

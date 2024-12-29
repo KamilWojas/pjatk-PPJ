@@ -1,4 +1,0 @@
-/*
-Napisz program sprawdzający,
-
- */
