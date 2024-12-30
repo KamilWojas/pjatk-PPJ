@@ -50,4 +50,11 @@ Dziedziczy wszystkie pola i metody klasy Zwierzę.
 Nadpisuje wydajDzwiek, aby wypisać "Miau!".
 Program główny:
 Tworzymy obiekt Kot, ustawiamy jego obecność i obecność wydajDzwiek.
+
+Wynik programu:
+
+Pies o imieniu: Burek
+Hau!
+Kot o imieniu: Mruczek
+Miau!
  */
