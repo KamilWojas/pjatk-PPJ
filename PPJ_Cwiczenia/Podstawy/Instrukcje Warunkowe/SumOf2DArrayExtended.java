@@ -15,3 +15,8 @@ public class SumOf2DArrayExtended {
                 suma += tablica[i][j]; // Dodajemy element do sumy
             }
         }
+
+        // Wyświetlamy sumę wszystkich elementów
+        System.out.println("Suma wszystkich elementów: " + suma);
+    }
+}
