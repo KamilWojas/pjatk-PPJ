@@ -24,5 +24,14 @@ public class SumOf2DArray {
 
 
 /*
-
+Wyjaśnienie:
+Tabela dwuwymiarowa:
+Tablica zawiera dwa wiersze: {1, 2, 3}i {4, 5, 6}.
+Pętla zagnieżdżona:
+Zewnętrzna szuflada ( for) przechodząca przez wiersze zbiorcze.
+Wewnętrzna drabina przewodząca przez każdy wierszu.
+Dodanie:
+suma += tablica[i][j];– Dodajemy wartość z wiersza i depozytu do zmiennej suma.
+Wynik programu:
+Wypisano program: Suma wszystkich elementów: 21
  */
