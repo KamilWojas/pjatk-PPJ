@@ -30,4 +30,6 @@ Wiersz 3:{9, 10, 11, 12}
 Zagnieżdżona ścieżka przejścia przez wszystkie elementy tablicy.
 wartość jest dodawana do zmiennej suma.
 
+Wynik programu:
+Wypisano program: Suma wszystkich elementów: 78.
  */
