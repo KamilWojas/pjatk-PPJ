@@ -42,3 +42,12 @@ public class ZwierzęExampleExtended {
         kot.wydajDzwiek();
     }
 }
+
+/*
+Wyjaśnienie:
+Klasa Kot:
+Dziedziczy wszystkie pola i metody klasy Zwierzę.
+Nadpisuje wydajDzwiek, aby wypisać "Miau!".
+Program główny:
+Tworzymy obiekt Kot, ustawiamy jego obecność i obecność wydajDzwiek.
+ */
