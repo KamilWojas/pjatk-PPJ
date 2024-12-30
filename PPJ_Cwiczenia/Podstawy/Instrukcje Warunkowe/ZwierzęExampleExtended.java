@@ -27,15 +27,6 @@ class Kot extends Zwierzę {
     }
 }
 
-
-
-
-
-
-
-
-
-
 // Program główny
 public class ZwierzęExampleExtended {
     public static void main(String[] args) {
