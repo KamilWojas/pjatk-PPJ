@@ -19,3 +19,10 @@ public class ZwierzęExampleExtended {
         pies.ustawNazwę("Burek");
         System.out.println("Pies o imieniu: " + pies.nazwa);
         pies.wydajDzwiek();
+        // Tworzymy obiekt klasy Kot
+        Kot kot = new Kot();
+        kot.ustawNazwę("Mruczek");
+        System.out.println("Kot o imieniu: " + kot.nazwa);
+        kot.wydajDzwiek();
+    }
+}
