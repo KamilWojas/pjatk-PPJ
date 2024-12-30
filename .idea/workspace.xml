@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyjaśnienie">
-      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/ZwierzęExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/ZwierzęExample.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zadanie">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,63 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="6567000" />
-    </task>
-    <task id="LOCAL-00010" summary="SumOf2DArray">
-      <option name="closed" value="true" />
-      <created>1735167200641</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167200641</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Dziedziczenie">
-      <option name="closed" value="true" />
-      <created>1735167240995</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167240995</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Pojazd">
-      <option name="closed" value="true" />
-      <created>1735167269119</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167269119</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Klasa bazowa">
-      <option name="closed" value="true" />
-      <created>1735167297720</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167297720</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Klasa pochodna Samochód">
-      <option name="closed" value="true" />
-      <created>1735167344424</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167344424</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Override - Nadpisuje metodę z klasy bazowej">
-      <option name="closed" value="true" />
-      <created>1735167394157</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167394157</updated>
-    </task>
-    <task id="LOCAL-00016" summary="DziedziczenieExample">
-      <option name="closed" value="true" />
-      <created>1735167446706</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1735167446706</updated>
+      <workItem from="1735153335316" duration="7612000" />
     </task>
     <task id="LOCAL-00017" summary="Program główny">
       <option name="closed" value="true" />
@@ -545,7 +489,63 @@
       <option name="project" value="LOCAL" />
       <updated>1735477679783</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Wyjaśnienie">
+      <option name="closed" value="true" />
+      <created>1735477714996</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477714996</updated>
+    </task>
+    <task id="LOCAL-00060" summary="SumOf2DArray">
+      <option name="closed" value="true" />
+      <created>1735477765254</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477765254</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Tworzymy tablicę dwuwymiarową">
+      <option name="closed" value="true" />
+      <created>1735477793343</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477793343</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Zmienna przechowująca sumę elementów">
+      <option name="closed" value="true" />
+      <created>1735477817914</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477817914</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Zagnieżdżona pętla do przejścia przez wszystkie elementy tablicy">
+      <option name="closed" value="true" />
+      <created>1735477856868</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477856868</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Zadanie">
+      <option name="closed" value="true" />
+      <created>1735477888113</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477888113</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Zadanie">
+      <option name="closed" value="true" />
+      <created>1735477905080</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477905080</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,11 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DziedziczenieExample" />
-    <MESSAGE value="Program główny" />
-    <MESSAGE value="// Klasa pochodna" />
-    <MESSAGE value="Klasa bazowa" />
-    <MESSAGE value="Ćwiczenie" />
     <MESSAGE value="Instrukcje warunkowe" />
     <MESSAGE value="Zadanie 1" />
     <MESSAGE value="Task3" />
@@ -588,6 +583,11 @@
     <MESSAGE value="Metoda do wydawania dźwięku wydajDzwiek" />
     <MESSAGE value="Klasa pochodna Pies extends Zwierzę" />
     <MESSAGE value="Wyjaśnienie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wyjaśnienie" />
+    <MESSAGE value="SumOf2DArray" />
+    <MESSAGE value="Tworzymy tablicę dwuwymiarową" />
+    <MESSAGE value="Zmienna przechowująca sumę elementów" />
+    <MESSAGE value="Zagnieżdżona pętla do przejścia przez wszystkie elementy tablicy" />
+    <MESSAGE value="Zadanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie" />
   </component>
 </project>

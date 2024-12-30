@@ -21,3 +21,4 @@ public class SumOf2DArray {
                 suma += tablica[i][j]; // Dodajemy element do sumy
             }
         }
+
