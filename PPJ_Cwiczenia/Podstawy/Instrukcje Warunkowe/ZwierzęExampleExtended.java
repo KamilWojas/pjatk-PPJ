@@ -1,5 +1,17 @@
 
 
+// Klasa bazowa
+class Zwierzę {
+    String nazwa;
+
+    public void ustawNazwę(String nazwa) {
+        this.nazwa = nazwa;
+    }
+
+    public void wydajDzwiek() {
+        System.out.println("Zwierzę wydaje dźwięk");
+    }
+}
 
 
 
