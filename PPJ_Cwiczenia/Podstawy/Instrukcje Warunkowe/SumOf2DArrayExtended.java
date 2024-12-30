@@ -20,3 +20,7 @@ public class SumOf2DArrayExtended {
         System.out.println("Suma wszystkich elementów: " + suma);
     }
 }
+
+/*
+
+ */
