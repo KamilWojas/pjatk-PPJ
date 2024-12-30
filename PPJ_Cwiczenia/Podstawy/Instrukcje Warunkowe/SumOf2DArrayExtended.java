@@ -22,5 +22,12 @@ public class SumOf2DArrayExtended {
 }
 
 /*
+Wyjaśnienie:
+Tablica teraz zawiera 3 wiersze i 4 kolumny:
+Wiersz 1:{1, 2, 3, 4}
+Wiersz 2:{5, 6, 7, 8}
+Wiersz 3:{9, 10, 11, 12}
+Zagnieżdżona ścieżka przejścia przez wszystkie elementy tablicy.
+wartość jest dodawana do zmiennej suma.
 
  */
