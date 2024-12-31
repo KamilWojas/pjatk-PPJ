@@ -1,3 +1,10 @@
+/*
+Napisz program, który dostarcza dostęp do nieistniejącego elementu karty i obsłuży wyjątek.
+
+
+ */
+
+
 public class ArrayExceptionExample {
     public static void main(String[] args) {
         int[] liczby = {1, 2, 3};
