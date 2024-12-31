@@ -6,3 +6,9 @@ public class ArrayExceptionExample {
             // Próba dostępu do elementu poza zakresem tablicy
             System.out.println("Element: " + liczby[5]);
         } catch (ArrayIndexOutOfBoundsException e) {
+
+            // Obsługa wyjątku
+            System.out.println("Błąd: Nieprawidłowy indeks tablicy!");
+        }
+    }
+}
