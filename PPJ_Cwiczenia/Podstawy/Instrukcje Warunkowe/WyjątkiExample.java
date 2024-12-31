@@ -16,3 +16,11 @@ public class WyjątkiExample {
         }
     }
 }
+
+/*
+Wyjaśnienie:
+try– W tym bloku umieszczamy kod, który może być wyjątek.
+catch– Przechwytuje wyjątek (np. ArithmeticException) i pozwala go obsłużyć.
+finally– Kod w tym bloku zawsze się pojawi, czy pojawi się wyjątek.
+
+ */
