@@ -6,3 +6,12 @@ public class TablicaEgzamin {
         for (int i = 0; i < tablica.length; i++) {
             tablica[i] = i + 1; // Wartości od 1 do 10
         }
+// Wypisuje liczby parzyste
+        System.out.println("Liczby parzyste w tablicy:");
+        for (int i = 0; i < tablica.length; i++) {
+            if (tablica[i] % 2 == 0) { // Sprawdzamy, czy liczba jest parzysta
+                System.out.println(tablica[i]);
+            }
+        }
+    }
+}

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wynik programu">
-      <change afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/WyjątkiExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wypełniam tablicę liczbami od 1 do 10">
+      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Tablice wielowymiarowe/TablicaEgzamin.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Tablice wielowymiarowe/TablicaEgzamin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,119 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="9508000" />
-    </task>
-    <task id="LOCAL-00036" summary="Wyświetlenie wyniku">
-      <option name="closed" value="true" />
-      <created>1735337547925</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1735337547925</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Wynik programu:">
-      <option name="closed" value="true" />
-      <created>1735337574729</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1735337574729</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Wynik programu:">
-      <option name="closed" value="true" />
-      <created>1735337621509</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1735337621509</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Wynik programu:">
-      <option name="closed" value="true" />
-      <created>1735337667391</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1735337667391</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Wynik programu:">
-      <option name="closed" value="true" />
-      <created>1735337691005</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1735337691005</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Wynik programu:">
-      <option name="closed" value="true" />
-      <created>1735337701923</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1735337701923</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1735380920736</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1735380920736</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Main">
-      <option name="closed" value="true" />
-      <created>1735380942514</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1735380942514</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Pobranie dwóch liczb od użytkownika">
-      <option name="closed" value="true" />
-      <created>1735380967443</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1735380967443</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Instrukcja warunkowa">
-      <option name="closed" value="true" />
-      <created>1735380997271</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1735380997271</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Instrukcja warunkowa">
-      <option name="closed" value="true" />
-      <created>1735381029172</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1735381029172</updated>
-    </task>
-    <task id="LOCAL-00047" summary="    Wynik programu:">
-      <option name="closed" value="true" />
-      <created>1735381050568</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1735381050568</updated>
-    </task>
-    <task id="LOCAL-00048" summary="    Wynik programu:">
-      <option name="closed" value="true" />
-      <created>1735381084957</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1735381084957</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Task5">
-      <option name="closed" value="true" />
-      <created>1735381160310</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1735381160310</updated>
+      <workItem from="1735153335316" duration="9833000" />
     </task>
     <task id="LOCAL-00050" summary="Task6">
       <option name="closed" value="true" />
@@ -546,7 +433,119 @@
       <option name="project" value="LOCAL" />
       <updated>1735597607631</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="WyjątkiExample">
+      <option name="closed" value="true" />
+      <created>1735667704939</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667704939</updated>
+    </task>
+    <task id="LOCAL-00086" summary="WyjątkiExample">
+      <option name="closed" value="true" />
+      <created>1735667728398</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667728398</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Obsługa błędu dzielenia przez zero">
+      <option name="closed" value="true" />
+      <created>1735667750750</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667750750</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Kod w bloku finally wykona się zawsze">
+      <option name="closed" value="true" />
+      <created>1735667768284</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667768284</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Wyjaśnienie">
+      <option name="closed" value="true" />
+      <created>1735667796710</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667796710</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Wynik">
+      <option name="closed" value="true" />
+      <created>1735667816693</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667816693</updated>
+    </task>
+    <task id="LOCAL-00091" summary="ArrayExceptionExample">
+      <option name="closed" value="true" />
+      <created>1735667839919</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667839919</updated>
+    </task>
+    <task id="LOCAL-00092" summary="ArrayExceptionExample">
+      <option name="closed" value="true" />
+      <created>1735667865820</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667865820</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Próba dostępu do elementu poza zakresem tablicy">
+      <option name="closed" value="true" />
+      <created>1735667878827</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667878827</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Obsługa wyjątku">
+      <option name="closed" value="true" />
+      <created>1735667900572</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667900572</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Zadanie">
+      <option name="closed" value="true" />
+      <created>1735667926352</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667926352</updated>
+    </task>
+    <task id="LOCAL-00096" summary="TablicaEgzamin">
+      <option name="closed" value="true" />
+      <created>1735667965261</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667965261</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Tworzę tablicę o rozmiarze 10">
+      <option name="closed" value="true" />
+      <created>1735667991523</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1735667991523</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Wypełniam tablicę liczbami od 1 do 10">
+      <option name="closed" value="true" />
+      <created>1735668019874</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1735668019874</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,18 +563,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task6" />
-    <MESSAGE value="Task5" />
-    <MESSAGE value="Program główny ZwierzęExample" />
-    <MESSAGE value="Klasa bazowa Zwierzę" />
-    <MESSAGE value="Metoda ustawiająca nazwę zwierzęcia" />
-    <MESSAGE value="Metoda do wydawania dźwięku wydajDzwiek" />
-    <MESSAGE value="Klasa pochodna Pies extends Zwierzę" />
-    <MESSAGE value="SumOf2DArray" />
-    <MESSAGE value="Tworzymy tablicę dwuwymiarową" />
-    <MESSAGE value="Zmienna przechowująca sumę elementów" />
     <MESSAGE value="Zagnieżdżona pętla do przejścia przez wszystkie elementy tablicy" />
-    <MESSAGE value="Zadanie" />
     <MESSAGE value="SumOf2DArrayExtended" />
     <MESSAGE value="Tworzymy rozszerzoną tablicę dwuwymiarową" />
     <MESSAGE value=" Zagnieżdżona pętla do przejścia przez wszystkie elementy tablicy" />
@@ -587,8 +575,19 @@
     <MESSAGE value="Klasa pochodna Pies" />
     <MESSAGE value="Klasa pochodna Kot" />
     <MESSAGE value="." />
-    <MESSAGE value="Wyjaśnienie" />
     <MESSAGE value="Wynik programu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wynik programu" />
+    <MESSAGE value="WyjątkiExample" />
+    <MESSAGE value="Obsługa błędu dzielenia przez zero" />
+    <MESSAGE value="Kod w bloku finally wykona się zawsze" />
+    <MESSAGE value="Wyjaśnienie" />
+    <MESSAGE value="Wynik" />
+    <MESSAGE value="ArrayExceptionExample" />
+    <MESSAGE value="Próba dostępu do elementu poza zakresem tablicy" />
+    <MESSAGE value="Obsługa wyjątku" />
+    <MESSAGE value="Zadanie" />
+    <MESSAGE value="TablicaEgzamin" />
+    <MESSAGE value="Tworzę tablicę o rozmiarze 10" />
+    <MESSAGE value="Wypełniam tablicę liczbami od 1 do 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wypełniam tablicę liczbami od 1 do 10" />
   </component>
 </project>
