@@ -15,3 +15,14 @@ public class TablicaEgzamin {
         }
     }
 }
+
+/*
+Wyjaśnienie:
+Tabela:
+Tworzymy tablicę o formie 10 ( new int[10]).
+Wypełniamy ją liczbami od 1 do 10 w całości.
+Warunek:
+if (tablica[i] % 2 == 0)– Sprawdzamy, czy liczba jest parzysta.
+Wypisywanie:
+Tylko liczba, która spełnia warunek, jest wyłączona.
+ */
