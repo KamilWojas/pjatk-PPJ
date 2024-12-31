@@ -9,3 +9,10 @@ public class WyjątkiExample {
         } catch (ArithmeticException e) {
             // Obsługa błędu dzielenia przez zero
             System.out.println("Błąd: Nie można dzielić przez zero!");
+
+        } finally {
+            // Kod w bloku finally wykona się zawsze
+            System.out.println("Koniec programu.");
+        }
+    }
+}
