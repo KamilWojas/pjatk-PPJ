@@ -1,4 +1,24 @@
-// Program główny
+// Klasa abstrakcyjna
+abstract class Zwierzę {
+    String nazwa;
+
+    public void ustawNazwę(String nazwa) {
+        this.nazwa = nazwa;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // Program główny
 public class KlasaAbstrakcyjnaExample {
     public static void main(String[] args) {
         Zwierzę pies = new Pies();
