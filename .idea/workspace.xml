@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wypełniam tablicę liczbami od 1 do 10">
-      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Tablice wielowymiarowe/TablicaEgzamin.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Tablice wielowymiarowe/TablicaEgzamin.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyjaśnienie" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,23 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="9833000" />
-    </task>
-    <task id="LOCAL-00050" summary="Task6">
-      <option name="closed" value="true" />
-      <created>1735381191590</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1735381191591</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Task5">
-      <option name="closed" value="true" />
-      <created>1735381230275</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1735381230275</updated>
+      <workItem from="1735153335316" duration="10474000" />
     </task>
     <task id="LOCAL-00052" summary="Task5">
       <option name="closed" value="true" />
@@ -545,7 +527,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735668019874</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Wypisuje liczby parzyste">
+      <option name="closed" value="true" />
+      <created>1735668044120</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1735668044120</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Wyjaśnienie">
+      <option name="closed" value="true" />
+      <created>1735668064520</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1735668064520</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zagnieżdżona pętla do przejścia przez wszystkie elementy tablicy" />
     <MESSAGE value="SumOf2DArrayExtended" />
     <MESSAGE value="Tworzymy rozszerzoną tablicę dwuwymiarową" />
     <MESSAGE value=" Zagnieżdżona pętla do przejścia przez wszystkie elementy tablicy" />
@@ -579,7 +576,6 @@
     <MESSAGE value="WyjątkiExample" />
     <MESSAGE value="Obsługa błędu dzielenia przez zero" />
     <MESSAGE value="Kod w bloku finally wykona się zawsze" />
-    <MESSAGE value="Wyjaśnienie" />
     <MESSAGE value="Wynik" />
     <MESSAGE value="ArrayExceptionExample" />
     <MESSAGE value="Próba dostępu do elementu poza zakresem tablicy" />
@@ -588,6 +584,8 @@
     <MESSAGE value="TablicaEgzamin" />
     <MESSAGE value="Tworzę tablicę o rozmiarze 10" />
     <MESSAGE value="Wypełniam tablicę liczbami od 1 do 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wypełniam tablicę liczbami od 1 do 10" />
+    <MESSAGE value="Wypisuje liczby parzyste" />
+    <MESSAGE value="Wyjaśnienie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wyjaśnienie" />
   </component>
 </project>
