@@ -15,7 +15,13 @@ class Pies extends Zwierzę {
         System.out.println("Hau!");
     }
 }
-
+// Klasa pochodna Kot
+class Kot extends Zwierzę {
+    @Override
+    public void wydajDzwiek() {
+        System.out.println("Miau!");
+    }
+}
 
 
 
