@@ -8,7 +8,13 @@ abstract class Zwierzę {
     // Metoda abstrakcyjna (bez implementacji)
     public abstract void wydajDzwiek();
 }
-
+// Klasa pochodna Pies
+class Pies extends Zwierzę {
+    @Override
+    public void wydajDzwiek() {
+        System.out.println("Hau!");
+    }
+}
 
 
 
