@@ -5,6 +5,9 @@ abstract class Zwierzę {
     public void ustawNazwę(String nazwa) {
         this.nazwa = nazwa;
     }
+    // Metoda abstrakcyjna (bez implementacji)
+    public abstract void wydajDzwiek();
+}
 
 
 
