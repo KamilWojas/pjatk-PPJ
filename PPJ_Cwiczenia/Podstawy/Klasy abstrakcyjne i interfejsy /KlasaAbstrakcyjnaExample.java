@@ -23,16 +23,6 @@ class Kot extends Zwierzę {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
     // Program główny
 public class KlasaAbstrakcyjnaExample {
     public static void main(String[] args) {
@@ -47,3 +37,15 @@ public class KlasaAbstrakcyjnaExample {
         kot.wydajDzwiek();
     }
 }
+
+/*
+Wyjaśnienie:
+Klasa abstrakcyjna Zwierzę:
+Zawiera pole nazwaoraz dodatek ustawNazwęz implementacją.
+Posiada funkcję abstrakcyjną wydajDzwiek, która nie ma implementacji – musi być nadpisana w klasach pochodnych.
+Klasy Piesi Kot:
+Dziedziczą po Zwierzęi wdrażają wydajDzwiek.
+Program główny:
+Obiekty Piesi Kotsą urządzeniami jako typ Zwierzę, ale są stosowane w metodach usuwania implementacji.
+
+ */
