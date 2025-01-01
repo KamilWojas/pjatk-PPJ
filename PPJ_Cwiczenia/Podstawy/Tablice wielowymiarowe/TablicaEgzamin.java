@@ -16,6 +16,7 @@ public class TablicaEgzamin {
     }
 }
 
+
 /*
 Wyjaśnienie:
 Tabela:
@@ -25,4 +26,12 @@ Warunek:
 if (tablica[i] % 2 == 0)– Sprawdzamy, czy liczba jest parzysta.
 Wypisywanie:
 Tylko liczba, która spełnia warunek, jest wyłączona.
+
+Wynik programu:
+Liczby parzyste w tablicy:
+2
+4
+6
+8
+10
  */
