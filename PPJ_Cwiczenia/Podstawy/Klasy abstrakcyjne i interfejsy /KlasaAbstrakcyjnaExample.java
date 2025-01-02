@@ -47,5 +47,4 @@ Klasy Piesi Kot:
 Dziedziczą po Zwierzęi wdrażają wydajDzwiek.
 Program główny:
 Obiekty Piesi Kotsą urządzeniami jako typ Zwierzę, ale są stosowane w metodach usuwania implementacji.
-
  */
