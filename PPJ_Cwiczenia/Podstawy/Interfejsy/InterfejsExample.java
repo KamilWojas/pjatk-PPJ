@@ -32,5 +32,12 @@ public class InterfejsExample {
 }
 
 /*
-
+Wyjaśnienie:
+Interfejs Dzwiek:
+ZdefiniujwydajDzwiek.
+klasa wdrażająca dziesięć interfejsów musi zaimplementować tę.
+Klasy Piesi Kot:
+Implementują interfejs Dzwiek.
+Program główny:
+Tworzymy obiekty typu Dzwiek, które mogą mieć zastosowanie Pieslub Kot.
  */
