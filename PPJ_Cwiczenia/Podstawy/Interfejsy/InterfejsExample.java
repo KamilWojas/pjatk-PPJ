@@ -1,4 +1,8 @@
 
+void wydajDzwiek(); // Metoda abstrakcyjna
+        }
+
+
 // Klasa implementująca interfejs
 class Pies implements Dzwiek {
     @Override
