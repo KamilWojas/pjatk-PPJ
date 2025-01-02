@@ -1,3 +1,12 @@
+
+// Klasa implementująca interfejs
+class Kot implements Dzwiek {
+    @Override
+    public void wydajDzwiek() {
+        System.out.println("Miau!");
+    }
+}
+
 // Program główny
 public class InterfejsExample {
     public static void main(String[] args) {
