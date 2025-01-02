@@ -1,6 +1,7 @@
-
+// Interfejs
+interface Dzwiek {
 void wydajDzwiek(); // Metoda abstrakcyjna
-        }
+}
 
 
 // Klasa implementująca interfejs
