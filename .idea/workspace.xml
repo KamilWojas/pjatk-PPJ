@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyjaśnienie">
-      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Klasy abstrakcyjne i interfejsy /KlasaAbstrakcyjnaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Klasy abstrakcyjne i interfejsy /KlasaAbstrakcyjnaExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Interfejsy/InterfejsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Interfejsy/InterfejsExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,79 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="11733000" />
-    </task>
-    <task id="LOCAL-00062" summary="Zmienna przechowująca sumę elementów">
-      <option name="closed" value="true" />
-      <created>1735477817914</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1735477817914</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Zagnieżdżona pętla do przejścia przez wszystkie elementy tablicy">
-      <option name="closed" value="true" />
-      <created>1735477856868</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1735477856868</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Zadanie">
-      <option name="closed" value="true" />
-      <created>1735477888113</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1735477888113</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Zadanie">
-      <option name="closed" value="true" />
-      <created>1735477905080</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1735477905080</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Zadanie">
-      <option name="closed" value="true" />
-      <created>1735596958878</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1735596958878</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Zadanie">
-      <option name="closed" value="true" />
-      <created>1735596985167</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1735596985167</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Wyjaśnienie">
-      <option name="closed" value="true" />
-      <created>1735597003147</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1735597003147</updated>
-    </task>
-    <task id="LOCAL-00069" summary="SumOf2DArrayExtended">
-      <option name="closed" value="true" />
-      <created>1735597089012</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1735597089012</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Tworzymy rozszerzoną tablicę dwuwymiarową">
-      <option name="closed" value="true" />
-      <created>1735597127930</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1735597127930</updated>
+      <workItem from="1735153335316" duration="12066000" />
     </task>
     <task id="LOCAL-00071" summary=" Zagnieżdżona pętla do przejścia przez wszystkie elementy tablicy">
       <option name="closed" value="true" />
@@ -545,7 +473,79 @@
       <option name="project" value="LOCAL" />
       <updated>1735755866546</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Wyjaśnienie">
+      <option name="closed" value="true" />
+      <created>1735857343217</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1735857343217</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Wyjaśnienie">
+      <option name="closed" value="true" />
+      <created>1735857518031</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1735857518031</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Program główny">
+      <option name="closed" value="true" />
+      <created>1735857541730</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1735857541730</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Klasa implementująca interfejs">
+      <option name="closed" value="true" />
+      <created>1735857562900</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1735857562900</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Klasa implementująca interfejs">
+      <option name="closed" value="true" />
+      <created>1735857584000</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1735857584000</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Metoda abstrakcyjna">
+      <option name="closed" value="true" />
+      <created>1735857606325</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1735857606326</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Interfejs">
+      <option name="closed" value="true" />
+      <created>1735857629841</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1735857629841</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Interfejs">
+      <option name="closed" value="true" />
+      <created>1735857653304</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1735857653304</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Wyjaśnienie">
+      <option name="closed" value="true" />
+      <created>1735857664692</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1735857664692</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,10 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Program główny&#10;Tworzymy obiekt klasy Pies" />
-    <MESSAGE value="Tworzymy obiekt klasy Kot" />
-    <MESSAGE value="Klasa bazowa" />
-    <MESSAGE value="." />
     <MESSAGE value="Wynik programu" />
     <MESSAGE value="WyjątkiExample" />
     <MESSAGE value="Obsługa błędu dzielenia przez zero" />
@@ -587,6 +583,10 @@
     <MESSAGE value="Metoda abstrakcyjna (bez implementacji)" />
     <MESSAGE value="Klasa pochodna Pies" />
     <MESSAGE value="Klasa pochodna Kot" />
+    <MESSAGE value="Program główny" />
+    <MESSAGE value="Klasa implementująca interfejs" />
+    <MESSAGE value="Metoda abstrakcyjna" />
+    <MESSAGE value="Interfejs" />
     <MESSAGE value="Wyjaśnienie" />
     <option name="LAST_COMMIT_MESSAGE" value="Wyjaśnienie" />
   </component>
