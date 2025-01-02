@@ -1,5 +1,13 @@
 
 // Klasa implementująca interfejs
+class Pies implements Dzwiek {
+    @Override
+    public void wydajDzwiek() {
+        System.out.println("Hau!");
+    }
+}
+
+// Klasa implementująca interfejs
 class Kot implements Dzwiek {
     @Override
     public void wydajDzwiek() {
