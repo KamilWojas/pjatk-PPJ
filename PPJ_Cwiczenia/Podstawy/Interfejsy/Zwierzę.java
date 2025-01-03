@@ -4,3 +4,8 @@ interface Zwierzę {
         System.out.println("Zwierzę wydaje dźwięk");
     }
 }
+
+// Opcja 2
+abstract class Zwierzę {
+    abstract void wydajDzwiek();
+}
