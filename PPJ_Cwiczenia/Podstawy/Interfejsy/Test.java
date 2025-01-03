@@ -1,4 +1,6 @@
-
+interface Dzwiek {
+    void wydajDzwiek();
+}
 
 
 
