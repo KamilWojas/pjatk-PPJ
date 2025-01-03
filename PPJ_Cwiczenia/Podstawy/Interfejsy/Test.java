@@ -2,7 +2,7 @@
 
 
 
-
+class Kot implements Dzwiek {
 public void wydajDzwiek() {
         System.out.println("Miau!");
         }
