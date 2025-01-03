@@ -2,10 +2,9 @@ interface Dzwiek {
     void wydajDzwiek();
 }
 
-
-
 class Kot implements Dzwiek {
-public void wydajDzwiek() {
+    @Override
+    public void wydajDzwiek() {
         System.out.println("Miau!");
         }
 }
