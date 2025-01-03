@@ -31,6 +31,7 @@ public class InterfejsExample {
     }
 }
 
+
 /*
 Wyjaśnienie:
 Interfejs Dzwiek:
