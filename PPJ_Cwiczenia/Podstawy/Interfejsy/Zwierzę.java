@@ -9,3 +9,7 @@ interface Zwierzę {
 abstract class Zwierzę {
     abstract void wydajDzwiek();
 }
+// Opcja 3
+interface Zwierzę {
+    void wydajDzwiek();
+}
