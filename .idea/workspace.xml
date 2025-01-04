@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zadanie2 - Przesunięcie w lewo">
-      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/ZadanieOperacjeBitowe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/ZadanieOperacjeBitowe2.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zadanie2 - Przesunięcie w prawo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,15 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="18942000" />
-    </task>
-    <task id="LOCAL-00121" summary="Wyjaśnienie">
-      <option name="closed" value="true" />
-      <created>1735943053873</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1735943053873</updated>
+      <workItem from="1735153335316" duration="19320000" />
     </task>
     <task id="LOCAL-00122" summary="Test">
       <option name="closed" value="true" />
@@ -545,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736033603770</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="Zadanie2 - Przesunięcie w prawo">
+      <option name="closed" value="true" />
+      <created>1736033932846</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1736033932846</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Opcja 2" />
     <MESSAGE value="Opcja 3" />
     <MESSAGE value="HelloWorld" />
     <MESSAGE value="Wyświetlamy powitanie" />
@@ -588,6 +585,7 @@
     <MESSAGE value="Zadania2" />
     <MESSAGE value="Zadanie2" />
     <MESSAGE value="Zadanie2 - Przesunięcie w lewo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie2 - Przesunięcie w lewo" />
+    <MESSAGE value="Zadanie2 - Przesunięcie w prawo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie2 - Przesunięcie w prawo" />
   </component>
 </project>
