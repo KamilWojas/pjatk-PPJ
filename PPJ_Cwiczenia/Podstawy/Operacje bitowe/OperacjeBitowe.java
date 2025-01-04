@@ -1,6 +1,13 @@
 public class OperacjeBitowe {
     public static void main(String[] args){
 
+        int a = 5; //0101 w binarnym
+        int b = 3; //0011 w binarmym
+
+        //Operacja AND
+        int andWynik = a & b //Wynik :  0101 & 0011 = 0001 (1 w dziesiętnym)
+        System.out.println("AND : " + andWynik);
+
 
     }
 }

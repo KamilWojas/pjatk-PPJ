@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="int">
-      <change afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/OperacjeBitowe.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Operacje bitowe">
+      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/OperacjeBitowe.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/OperacjeBitowe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,31 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="15086000" />
-    </task>
-    <task id="LOCAL-00100" summary="Wyjaśnienie">
-      <option name="closed" value="true" />
-      <created>1735668064520</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1735668064520</updated>
-    </task>
-    <task id="LOCAL-00101" summary="Wyjaśnienie">
-      <option name="closed" value="true" />
-      <created>1735755216615</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1735755216615</updated>
-    </task>
-    <task id="LOCAL-00102" summary="Wyjaśnienie">
-      <option name="closed" value="true" />
-      <created>1735755254815</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1735755254815</updated>
+      <workItem from="1735153335316" duration="15518000" />
     </task>
     <task id="LOCAL-00103" summary="Klasy abstrakcyjne i interfejsy">
       <option name="closed" value="true" />
@@ -545,7 +521,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736029315073</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="Operacje bitowe">
+      <option name="closed" value="true" />
+      <created>1736030019244</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1736030019244</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Operacje bitowe">
+      <option name="closed" value="true" />
+      <created>1736030073732</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1736030073732</updated>
+    </task>
+    <task id="LOCAL-00151" summary="Operacje bitowe">
+      <option name="closed" value="true" />
+      <created>1736030120792</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1736030120792</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Klasa pochodna Pies" />
     <MESSAGE value="Klasa pochodna Kot" />
     <MESSAGE value="Program główny" />
     <MESSAGE value="Klasa implementująca interfejs" />
@@ -588,6 +587,7 @@
     <MESSAGE value="Wartość logiczna" />
     <MESSAGE value="soat" />
     <MESSAGE value="int" />
-    <option name="LAST_COMMIT_MESSAGE" value="int" />
+    <MESSAGE value="Operacje bitowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operacje bitowe" />
   </component>
 </project>
