@@ -12,6 +12,10 @@ public class ZadanieOperacjeBitowe2 {
         int przesunLewo = liczba  << 2; //Wynik : 1000 << 2 = 100000
         System.out.println("Przesunięcie w lewo :" + przesunLewo);
 
+        //Przesunięcie w prawo
+        int przesunPrawo = liczba >> 2; //Wynik : 1000 >> 2 = 10
+        System.out.println("Przesunięcie w prawo :" + przesunPrawo);
+
 
     }
 }
