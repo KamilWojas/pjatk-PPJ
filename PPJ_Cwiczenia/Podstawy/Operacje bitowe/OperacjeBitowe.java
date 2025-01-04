@@ -16,6 +16,10 @@ public class OperacjeBitowe {
         int xorWynik = a ^ b; //Wynik : 0101 ^ 0011 = 0110 (6 w dziętnym)
         System.out.println("XOR :" + xorWynik);
 
+        //Operacja NOT
+        int notWynik = ~a; //Wynik : ~0101 = 1010
+        System.out.println("NOT :" + notWynik);
+
 
     }
 }
