@@ -14,7 +14,8 @@ public class ZmienneExample {
         System.out.println("Liczba zmiennoprzecinkowa :" + liczbaZmiennoPrzecinkowa);
         System.out.println("Pjedyńczy znak :" + znak);
         System.out.println("Wartość logiczna : " + wartoscLogiczna);
-        System.out.println("Imię :" + imie)
+        System.out.println("Imię :" + imie);
+        System.out.println("Wiek :" + wiek);
 
 
     }
