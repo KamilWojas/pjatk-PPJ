@@ -10,7 +10,8 @@ public class ZmienneExample {
         System.out.println("Deklaracja zmiennych");
         System.out.println("Liczba całkowita :" + liczbaCalkowita);
         System.out.println("Liczba zmiennoprzecinkowa :" + liczbaZmiennoPrzecinkowa);
-        System.out.println("Pjedyńczy znak :" + znak)
+        System.out.println("Pjedyńczy znak :" + znak);
+        System.out.println("Wartość logiczna : " + wartoscLogiczna);
 
 
     }
