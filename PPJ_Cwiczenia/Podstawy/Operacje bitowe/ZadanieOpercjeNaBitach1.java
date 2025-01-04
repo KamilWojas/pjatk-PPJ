@@ -6,6 +6,12 @@ AND, OR i XOR na liczbach 12(1100) i 7(0111) oraz wypisuje wyniki.
  public class ZadanieOpercjeNaBitach1 {
      public static void main(String[] args){
 
+         int a = 1100;
+         int b = 0111;
+
+         //Operacja AND
+         int andWynik = 1100 & 0111; //Wynik : 1100 & 0111 = 0100
+
      }
 }
 
