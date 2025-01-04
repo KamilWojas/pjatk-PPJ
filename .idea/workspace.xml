@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zmienne" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="soat" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,71 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="13837000" />
-    </task>
-    <task id="LOCAL-00090" summary="Wynik">
-      <option name="closed" value="true" />
-      <created>1735667816693</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1735667816693</updated>
-    </task>
-    <task id="LOCAL-00091" summary="ArrayExceptionExample">
-      <option name="closed" value="true" />
-      <created>1735667839919</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1735667839919</updated>
-    </task>
-    <task id="LOCAL-00092" summary="ArrayExceptionExample">
-      <option name="closed" value="true" />
-      <created>1735667865820</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1735667865820</updated>
-    </task>
-    <task id="LOCAL-00093" summary="Próba dostępu do elementu poza zakresem tablicy">
-      <option name="closed" value="true" />
-      <created>1735667878827</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1735667878827</updated>
-    </task>
-    <task id="LOCAL-00094" summary="Obsługa wyjątku">
-      <option name="closed" value="true" />
-      <created>1735667900572</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1735667900572</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Zadanie">
-      <option name="closed" value="true" />
-      <created>1735667926352</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1735667926352</updated>
-    </task>
-    <task id="LOCAL-00096" summary="TablicaEgzamin">
-      <option name="closed" value="true" />
-      <created>1735667965261</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1735667965261</updated>
-    </task>
-    <task id="LOCAL-00097" summary="Tworzę tablicę o rozmiarze 10">
-      <option name="closed" value="true" />
-      <created>1735667991523</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1735667991523</updated>
+      <workItem from="1735153335316" duration="14316000" />
     </task>
     <task id="LOCAL-00098" summary="Wypełniam tablicę liczbami od 1 do 10">
       <option name="closed" value="true" />
@@ -543,7 +479,71 @@
       <option name="project" value="LOCAL" />
       <updated>1736028691067</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="Deklaracja zmiennych">
+      <option name="closed" value="true" />
+      <created>1736028742201</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1736028742201</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Liczba całkowita">
+      <option name="closed" value="true" />
+      <created>1736028794021</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1736028794021</updated>
+    </task>
+    <task id="LOCAL-00141" summary="Liczba zmiennoprzecinkowa">
+      <option name="closed" value="true" />
+      <created>1736028848777</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1736028848777</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Pojedyńczy znak">
+      <option name="closed" value="true" />
+      <created>1736028901893</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1736028901893</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Wartość logiczna">
+      <option name="closed" value="true" />
+      <created>1736028950783</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1736028950783</updated>
+    </task>
+    <task id="LOCAL-00144" summary="soat">
+      <option name="closed" value="true" />
+      <created>1736029019671</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1736029019671</updated>
+    </task>
+    <task id="LOCAL-00145" summary="soat">
+      <option name="closed" value="true" />
+      <created>1736029138096</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1736029138096</updated>
+    </task>
+    <task id="LOCAL-00146" summary="soat">
+      <option name="closed" value="true" />
+      <created>1736029178291</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1736029178291</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,12 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Wypełniam tablicę liczbami od 1 do 10" />
-    <MESSAGE value="Wypisuje liczby parzyste" />
-    <MESSAGE value="Klasy abstrakcyjne i interfejsy" />
-    <MESSAGE value="KlasaAbstrakcyjna" />
-    <MESSAGE value="program główny" />
-    <MESSAGE value="Klasa abstrakcyjna" />
     <MESSAGE value="Metoda abstrakcyjna (bez implementacji)" />
     <MESSAGE value="Klasa pochodna Pies" />
     <MESSAGE value="Klasa pochodna Kot" />
@@ -586,6 +580,12 @@
     <MESSAGE value="Wyświetlamy powitanie" />
     <MESSAGE value="Wyświetlamy dodatkowe informacje" />
     <MESSAGE value="Zmienne" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zmienne" />
+    <MESSAGE value="Deklaracja zmiennych" />
+    <MESSAGE value="Liczba całkowita" />
+    <MESSAGE value="Liczba zmiennoprzecinkowa" />
+    <MESSAGE value="Pojedyńczy znak" />
+    <MESSAGE value="Wartość logiczna" />
+    <MESSAGE value="soat" />
+    <option name="LAST_COMMIT_MESSAGE" value="soat" />
   </component>
 </project>
