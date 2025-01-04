@@ -4,6 +4,7 @@ public class ZmienneExample {
         // Deklaracja zmiennych
         int liczbaCalkowita = 10; //Liczba całkowita
         double liczbaZmiennoPrzecinkowa = 2.12 //Liczba zmiennoprzecinkowa
+        char znak = 'A'; //Pojedyńczy znak
 
 
     }
