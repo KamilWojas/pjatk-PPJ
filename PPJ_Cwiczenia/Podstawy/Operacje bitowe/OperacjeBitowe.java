@@ -24,6 +24,10 @@ public class OperacjeBitowe {
         int przesunLewo = a << 1; //Wynik : 0101 << 1 = 1010
         System.out.println("Przesunięcie w lewo :" + przesunLewo);
 
+        //Przesuń w prawo
+        int przesunPrawo = a >> 1; //Wynik : 0101 >> 1 = 0011
+        System.out.println("Przesunięcie w prawo :" + przesunPrawo);
+
 
 
 
