@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Operacja NOT" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przesunięcie w prawo">
+      <change afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/ZadanieOpercjeNaBitach1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,23 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="16725000" />
-    </task>
-    <task id="LOCAL-00106" summary="Klasa abstrakcyjna">
-      <option name="closed" value="true" />
-      <created>1735755767257</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1735755767257</updated>
-    </task>
-    <task id="LOCAL-00107" summary="Metoda abstrakcyjna (bez implementacji)">
-      <option name="closed" value="true" />
-      <created>1735755787953</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1735755787953</updated>
+      <workItem from="1735153335316" duration="17103000" />
     </task>
     <task id="LOCAL-00108" summary="Klasa pochodna Pies">
       <option name="closed" value="true" />
@@ -543,7 +529,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736031615274</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="Przesunięcie w lewo">
+      <option name="closed" value="true" />
+      <created>1736031815130</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1736031815130</updated>
+    </task>
+    <task id="LOCAL-00156" summary="Przesunięcie w prawo">
+      <option name="closed" value="true" />
+      <created>1736031965742</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1736031965742</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,8 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Metoda abstrakcyjna" />
-    <MESSAGE value="Interfejs" />
     <MESSAGE value="Wyjaśnienie" />
     <MESSAGE value="Test" />
     <MESSAGE value="Override" />
@@ -586,6 +586,8 @@
     <MESSAGE value="Operacja AND" />
     <MESSAGE value="Operacja XOR" />
     <MESSAGE value="Operacja NOT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operacja NOT" />
+    <MESSAGE value="Przesunięcie w lewo" />
+    <MESSAGE value="Przesunięcie w prawo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Przesunięcie w prawo" />
   </component>
 </project>
