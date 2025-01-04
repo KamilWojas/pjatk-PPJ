@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="soat" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="int">
+      <change afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/OperacjeBitowe.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,23 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="14316000" />
-    </task>
-    <task id="LOCAL-00098" summary="Wypełniam tablicę liczbami od 1 do 10">
-      <option name="closed" value="true" />
-      <created>1735668019874</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1735668019874</updated>
-    </task>
-    <task id="LOCAL-00099" summary="Wypisuje liczby parzyste">
-      <option name="closed" value="true" />
-      <created>1735668044120</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1735668044120</updated>
+      <workItem from="1735153335316" duration="15086000" />
     </task>
     <task id="LOCAL-00100" summary="Wyjaśnienie">
       <option name="closed" value="true" />
@@ -543,7 +529,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736029178291</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="int">
+      <option name="closed" value="true" />
+      <created>1736029285238</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1736029285238</updated>
+    </task>
+    <task id="LOCAL-00148" summary="int">
+      <option name="closed" value="true" />
+      <created>1736029315073</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1736029315073</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Metoda abstrakcyjna (bez implementacji)" />
     <MESSAGE value="Klasa pochodna Pies" />
     <MESSAGE value="Klasa pochodna Kot" />
     <MESSAGE value="Program główny" />
@@ -586,6 +587,7 @@
     <MESSAGE value="Pojedyńczy znak" />
     <MESSAGE value="Wartość logiczna" />
     <MESSAGE value="soat" />
-    <option name="LAST_COMMIT_MESSAGE" value="soat" />
+    <MESSAGE value="int" />
+    <option name="LAST_COMMIT_MESSAGE" value="int" />
   </component>
 </project>
