@@ -20,6 +20,12 @@ public class OperacjeBitowe {
         int notWynik = ~a; //Wynik : ~0101 = 1010
         System.out.println("NOT :" + notWynik);
 
+        //Przesunięcie w lewo
+        int przesunLewo = a << 1; //Wynik : 0101 << 1 = 1010
+        System.out.println("Przesunięcie w lewo :" + przesunLewo);
+
+
+
 
     }
 }
