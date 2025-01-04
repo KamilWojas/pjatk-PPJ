@@ -5,8 +5,16 @@ public class OperacjeBitowe {
         int b = 3; //0011 w binarmym
 
         //Operacja AND
-        int andWynik = a & b //Wynik :  0101 & 0011 = 0001 (1 w dziesiętnym)
+        int andWynik = a & b; //Wynik :  0101 & 0011 = 0001 (1 w dziesiętnym)
         System.out.println("AND : " + andWynik);
+
+        //Operacja OR
+        int orWynik = a | b; //Wynik : 0101 | 0011 = 0111 (7 w dziesiętnym)
+        System.out.println("OR :" + orWynik);
+
+        //Operacja XOR
+        int xorWynik = a ^ b; //Wynik : 0101 ^ 0011 = 0110 (6 w dziętnym)
+        System.out.println("XOR :" + xorWynik);
 
 
     }
