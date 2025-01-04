@@ -17,6 +17,10 @@ AND, OR i XOR na liczbach 12(1100) i 7(0111) oraz wypisuje wyniki.
          int orWynik = 1100 | 0111; //Wynik : 1100 | 0111 = 1111
          System.out.println("OR :" + orWynik);
 
+         //Operacja XOR
+         int xorWynik = 1100 ^ 0111; //Wynik : 1100 ^ 0111 = 1011
+         System.out.println("XOR :" + xorWynik);
+
 
      }
 }
