@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przesunięcie w prawo">
-      <change afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/ZadanieOpercjeNaBitach1.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Operacja AND">
+      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/ZadanieOpercjeNaBitach1.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/ZadanieOpercjeNaBitach1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,39 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="17103000" />
-    </task>
-    <task id="LOCAL-00108" summary="Klasa pochodna Pies">
-      <option name="closed" value="true" />
-      <created>1735755813467</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1735755813467</updated>
-    </task>
-    <task id="LOCAL-00109" summary="Klasa pochodna Kot">
-      <option name="closed" value="true" />
-      <created>1735755829180</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1735755829180</updated>
-    </task>
-    <task id="LOCAL-00110" summary="Wyjaśnienie">
-      <option name="closed" value="true" />
-      <created>1735755866546</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1735755866546</updated>
-    </task>
-    <task id="LOCAL-00111" summary="Wyjaśnienie">
-      <option name="closed" value="true" />
-      <created>1735857343217</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1735857343217</updated>
+      <workItem from="1735153335316" duration="17529000" />
     </task>
     <task id="LOCAL-00112" summary="Wyjaśnienie">
       <option name="closed" value="true" />
@@ -545,7 +513,39 @@
       <option name="project" value="LOCAL" />
       <updated>1736031965742</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="Zadanie1">
+      <option name="closed" value="true" />
+      <created>1736032038799</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1736032038799</updated>
+    </task>
+    <task id="LOCAL-00158" summary="Zadanie1">
+      <option name="closed" value="true" />
+      <created>1736032066971</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1736032066972</updated>
+    </task>
+    <task id="LOCAL-00159" summary="Zadanie1">
+      <option name="closed" value="true" />
+      <created>1736032134608</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1736032134608</updated>
+    </task>
+    <task id="LOCAL-00160" summary="Operacja AND">
+      <option name="closed" value="true" />
+      <created>1736032296103</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1736032296103</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Wyjaśnienie" />
     <MESSAGE value="Test" />
     <MESSAGE value="Override" />
     <MESSAGE value="Kot" />
@@ -583,11 +582,12 @@
     <MESSAGE value="soat" />
     <MESSAGE value="int" />
     <MESSAGE value="Operacje bitowe" />
-    <MESSAGE value="Operacja AND" />
     <MESSAGE value="Operacja XOR" />
     <MESSAGE value="Operacja NOT" />
     <MESSAGE value="Przesunięcie w lewo" />
     <MESSAGE value="Przesunięcie w prawo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Przesunięcie w prawo" />
+    <MESSAGE value="Zadanie1" />
+    <MESSAGE value="Operacja AND" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operacja AND" />
   </component>
 </project>
