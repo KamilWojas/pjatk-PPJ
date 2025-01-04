@@ -7,7 +7,10 @@ public class ZmienneExample {
         char znak = 'A'; //Pojedyńczy znak
         boolean wartoscLogiczna = false //Wartość logiczna
 
-        System.out.printlne("Deklaracja zmiennych");
+        System.out.println("Deklaracja zmiennych");
+        System.out.println("Liczba całkowita :" + liczbaCalkowita);
+        System.out.println("Liczba zmiennoprzecinkowa :" + liczbaZmiennoPrzecinkowa);
+        System.out.println("Pjedyńczy znak :" + znak)
 
 
     }
