@@ -1,5 +1,30 @@
 public class OperacjeBitowe {
     public static void main(String[] args){
 
+
     }
 }
+
+
+
+
+
+
+
+
+
+/*
+Operacje bitowe manipulują bitami (0 i 1) w liczbach binarnych. W Javie liczby ( int, long, short, byte) są dostępne
+w postaci binarnej, więc możemy działać na ich poszczególnych bitach.
+
+Podstawowe operacje bitowe w Javie:
+AND ( &) – Bit jest podłączony na 1 tylko wtedy, gdy oba bity są 1.
+OR ( |) – Bit jest podłączony na 1, gdy podstawowy jeden z bitów jest 1.
+XOR ( ^) – Bit jest podłączony na 1, gdy dokładnie jeden z bitów jest 1.
+NOT ( ~) – Odwraca wszystkie bity (0 zamienia na 1, a 1 na 0).
+Przesunięcia bitowe:
+<<– Przesunięcie w lewo (mnoży przez 2 dla każdego przesunięcia).
+>>– Przesunięcie w prawo (dzieli przez 2 dla każdego przesunięcia, następuje znak).
+>>>– Przesunięcie w prawo bez zachowania znaku towarowego (uzupełnia bity zerami).
+
+ */
