@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zadania">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zadanie2 - Przesunięcie w lewo">
       <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/ZadanieOperacjeBitowe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/ZadanieOperacjeBitowe2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/ZadanieOpercjeBitowe1.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Operacje bitowe/ZadanieOperacjeBitowe1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,39 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="18233000" />
-    </task>
-    <task id="LOCAL-00116" summary="Metoda abstrakcyjna">
-      <option name="closed" value="true" />
-      <created>1735857606325</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1735857606326</updated>
-    </task>
-    <task id="LOCAL-00117" summary="Interfejs">
-      <option name="closed" value="true" />
-      <created>1735857629841</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1735857629841</updated>
-    </task>
-    <task id="LOCAL-00118" summary="Interfejs">
-      <option name="closed" value="true" />
-      <created>1735857653304</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1735857653304</updated>
-    </task>
-    <task id="LOCAL-00119" summary="Wyjaśnienie">
-      <option name="closed" value="true" />
-      <created>1735857664692</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1735857664692</updated>
+      <workItem from="1735153335316" duration="18617000" />
     </task>
     <task id="LOCAL-00120" summary="Wyjaśnienie">
       <option name="closed" value="true" />
@@ -547,7 +513,39 @@
       <option name="project" value="LOCAL" />
       <updated>1736032699786</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="Zadania">
+      <option name="closed" value="true" />
+      <created>1736033160214</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1736033160214</updated>
+    </task>
+    <task id="LOCAL-00166" summary="Zadania2">
+      <option name="closed" value="true" />
+      <created>1736033225695</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1736033225695</updated>
+    </task>
+    <task id="LOCAL-00167" summary="Zadanie2">
+      <option name="closed" value="true" />
+      <created>1736033240950</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1736033240950</updated>
+    </task>
+    <task id="LOCAL-00168" summary="Zadanie2 - Przesunięcie w lewo">
+      <option name="closed" value="true" />
+      <created>1736033453399</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1736033453399</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,9 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Kot" />
-    <MESSAGE value="Dzwiek" />
-    <MESSAGE value="Opcja 1" />
     <MESSAGE value="Opcja 2" />
     <MESSAGE value="Opcja 3" />
     <MESSAGE value="HelloWorld" />
@@ -590,6 +585,9 @@
     <MESSAGE value="Operacja OR" />
     <MESSAGE value="Operacja XOR" />
     <MESSAGE value="Zadania" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadania" />
+    <MESSAGE value="Zadania2" />
+    <MESSAGE value="Zadanie2" />
+    <MESSAGE value="Zadanie2 - Przesunięcie w lewo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie2 - Przesunięcie w lewo" />
   </component>
 </project>
