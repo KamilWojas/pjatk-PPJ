@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Konwersja na różne systemy liczbowe">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Systemy liczbowe /SystemyLiczbowe.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Systemy liczbowe /SystemyLiczbowe.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyniki" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,87 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="21678000" />
-    </task>
-    <task id="LOCAL-00125" summary="Kot">
-      <option name="closed" value="true" />
-      <created>1735943147489</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1735943147489</updated>
-    </task>
-    <task id="LOCAL-00126" summary="Dzwiek">
-      <option name="closed" value="true" />
-      <created>1735943164484</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1735943164484</updated>
-    </task>
-    <task id="LOCAL-00127" summary="Dzwiek">
-      <option name="closed" value="true" />
-      <created>1735943184001</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1735943184001</updated>
-    </task>
-    <task id="LOCAL-00128" summary="Dzwiek">
-      <option name="closed" value="true" />
-      <created>1735943212240</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1735943212240</updated>
-    </task>
-    <task id="LOCAL-00129" summary="Opcja 1">
-      <option name="closed" value="true" />
-      <created>1735943235791</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1735943235791</updated>
-    </task>
-    <task id="LOCAL-00130" summary="Opcja 2">
-      <option name="closed" value="true" />
-      <created>1735943267475</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1735943267475</updated>
-    </task>
-    <task id="LOCAL-00131" summary="Opcja 3">
-      <option name="closed" value="true" />
-      <created>1735943283518</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1735943283518</updated>
-    </task>
-    <task id="LOCAL-00132" summary="Opcja 3">
-      <option name="closed" value="true" />
-      <created>1736028433800</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1736028433800</updated>
-    </task>
-    <task id="LOCAL-00133" summary="HelloWorld">
-      <option name="closed" value="true" />
-      <created>1736028466121</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1736028466121</updated>
-    </task>
-    <task id="LOCAL-00134" summary="HelloWorld">
-      <option name="closed" value="true" />
-      <created>1736028497627</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1736028497627</updated>
+      <workItem from="1735153335316" duration="22297000" />
     </task>
     <task id="LOCAL-00135" summary="Wyświetlamy powitanie">
       <option name="closed" value="true" />
@@ -546,7 +463,87 @@
       <option name="project" value="LOCAL" />
       <updated>1736035933516</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="Dodawanie liczb binarnych">
+      <option name="closed" value="true" />
+      <created>1736120046973</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1736120046973</updated>
+    </task>
+    <task id="LOCAL-00175" summary="DodawanieHexOctal">
+      <option name="closed" value="true" />
+      <created>1736120088010</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1736120088010</updated>
+    </task>
+    <task id="LOCAL-00176" summary="Liczby w różnych systemach">
+      <option name="closed" value="true" />
+      <created>1736120181283</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1736120181284</updated>
+    </task>
+    <task id="LOCAL-00177" summary="Ósemkowy">
+      <option name="closed" value="true" />
+      <created>1736120218777</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1736120218777</updated>
+    </task>
+    <task id="LOCAL-00178" summary="Konwersja na dzięstny system">
+      <option name="closed" value="true" />
+      <created>1736120298666</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1736120298666</updated>
+    </task>
+    <task id="LOCAL-00179" summary="Oct -&gt; Dziesiętny">
+      <option name="closed" value="true" />
+      <created>1736120356705</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1736120356705</updated>
+    </task>
+    <task id="LOCAL-00180" summary="Dodawanie">
+      <option name="closed" value="true" />
+      <created>1736120395292</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1736120395292</updated>
+    </task>
+    <task id="LOCAL-00181" summary="Konwersja wyniku z powrotem na różne systemy&#10;Dziesiętny -&gt; Hex">
+      <option name="closed" value="true" />
+      <created>1736120486483</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1736120486483</updated>
+    </task>
+    <task id="LOCAL-00182" summary="Konwersja wyniku z powrotem na różne systemy&#10;Dziesiętny -&gt; Oct">
+      <option name="closed" value="true" />
+      <created>1736120548673</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1736120548673</updated>
+    </task>
+    <task id="LOCAL-00183" summary="Wyniki">
+      <option name="closed" value="true" />
+      <created>1736120639249</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1736120639249</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,16 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Wyświetlamy dodatkowe informacje" />
-    <MESSAGE value="Zmienne" />
-    <MESSAGE value="Deklaracja zmiennych" />
-    <MESSAGE value="Liczba całkowita" />
-    <MESSAGE value="Liczba zmiennoprzecinkowa" />
-    <MESSAGE value="Pojedyńczy znak" />
-    <MESSAGE value="Wartość logiczna" />
-    <MESSAGE value="soat" />
-    <MESSAGE value="int" />
-    <MESSAGE value="Operacje bitowe" />
     <MESSAGE value="Operacja NOT" />
     <MESSAGE value="Przesunięcie w lewo" />
     <MESSAGE value="Przesunięcie w prawo" />
@@ -589,6 +576,16 @@
     <MESSAGE value="Przesuniecia Bitowe Wyjasnienie" />
     <MESSAGE value="Systemy Liczbowe" />
     <MESSAGE value="Konwersja na różne systemy liczbowe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Konwersja na różne systemy liczbowe" />
+    <MESSAGE value="Dodawanie liczb binarnych" />
+    <MESSAGE value="DodawanieHexOctal" />
+    <MESSAGE value="Liczby w różnych systemach" />
+    <MESSAGE value="Ósemkowy" />
+    <MESSAGE value="Konwersja na dzięstny system" />
+    <MESSAGE value="Oct -&gt; Dziesiętny" />
+    <MESSAGE value="Dodawanie" />
+    <MESSAGE value="Konwersja wyniku z powrotem na różne systemy&#10;Dziesiętny -&gt; Hex" />
+    <MESSAGE value="Konwersja wyniku z powrotem na różne systemy&#10;Dziesiętny -&gt; Oct" />
+    <MESSAGE value="Wyniki" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wyniki" />
   </component>
 </project>
