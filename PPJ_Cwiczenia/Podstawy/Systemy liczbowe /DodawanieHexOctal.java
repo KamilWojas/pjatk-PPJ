@@ -14,6 +14,7 @@ public class DodawanieHexOctal {
         
         //Konwersja wyniku z powrotem na różne systemy
         String wynikHex = Integer.toHexString(sumDziesietna).toUpperCase(); //Dziesiętny -> Hex
+        String wynikOct = Integer.toOctString(sumDziesietna); //Dziesiętny -> Oct
         
     }
 }
