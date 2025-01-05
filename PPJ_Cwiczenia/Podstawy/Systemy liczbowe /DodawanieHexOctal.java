@@ -7,5 +7,6 @@ public class DodawanieHexOctal {
         
         //Konwersja na dzięstny system
         int dziesietnyHex = Integer.parseInt(hexLiczba, 16); //Hex -> Dziesiętny 
+        int dziesietnyOct = Integer.parseInt(octLiczba, 8); //Oct -> Dziesiętny 
     }
 }
