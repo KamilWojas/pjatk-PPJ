@@ -12,10 +12,6 @@ public class Task02 {
         int wLewoo = wLewo << 2;
         System.out.println("Przesinięcie o 2 w lewo: " + wLewoo);
 
-        int wLewooo = 56 >> 4;
-        System.out.println("W prawo o 4: " + wLewooo);
-        int wLewoooo = 0b111000 >> 4;
-        System.out.println("W prawo o 4 bin: " + wLewoooo);
     }
 }
 
