@@ -27,10 +27,7 @@ public class OperacjeBitowe {
         //Przesuń w prawo
         int przesunPrawo = a >> 1; //Wynik : 0101 >> 1 = 0011
         System.out.println("Przesunięcie w prawo :" + przesunPrawo);
-
-
-
-
+        
     }
 }
 
