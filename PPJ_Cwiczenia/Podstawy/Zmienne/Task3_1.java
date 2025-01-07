@@ -11,6 +11,10 @@ public class Task3_1 {
         short max = 32767;
         System.out.println("Najmniejsza wartość short -> " + min + "\n" + "Największa wartość short -> "
                 + max);
+
+        int minInt = -2147483646;
+        int maxInt = 2147483647;
+        System.out.println("Min int to -> " + minInt + "\n" + "Max int to -> " + maxInt);
         
     }
     
