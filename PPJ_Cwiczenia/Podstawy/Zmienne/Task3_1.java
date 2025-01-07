@@ -20,7 +20,9 @@ public class Task3_1 {
         long maxLong = 2147483647L;
         System.out.println("Min Long to -> " + minLong + "\n" + "Max Long to -> " + maxLong);
 
-        float minFloat =
+        float minFloat = 3.14f;
+        float maxFloat = 3.14159265359;
+        System.out.println("Min float to -> " + minFloat + "\n" + "Max float -> " + maxFloat);
 
 
         
