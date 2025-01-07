@@ -15,7 +15,6 @@ public class Task01 {
         System.out.println(litOct);
         litHex = 0xA5;
         System.out.println(litHex);
-
-
+        
     }
 }
