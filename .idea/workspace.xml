@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zmienne">
-      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Zmienne/Task3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Zmienne/Task3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Zmienne/Task3_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,23 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="29605000" />
-    </task>
-    <task id="LOCAL-00154" summary="Operacja NOT">
-      <option name="closed" value="true" />
-      <created>1736031615274</created>
-      <option name="number" value="00154" />
-      <option name="presentableId" value="LOCAL-00154" />
-      <option name="project" value="LOCAL" />
-      <updated>1736031615274</updated>
-    </task>
-    <task id="LOCAL-00155" summary="Przesunięcie w lewo">
-      <option name="closed" value="true" />
-      <created>1736031815130</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1736031815130</updated>
+      <workItem from="1735153335316" duration="30093000" />
     </task>
     <task id="LOCAL-00156" summary="Przesunięcie w prawo">
       <option name="closed" value="true" />
@@ -545,7 +529,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736290127709</updated>
     </task>
-    <option name="localTasksCounter" value="203" />
+    <task id="LOCAL-00203" summary="Zmienne">
+      <option name="closed" value="true" />
+      <created>1736290662275</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1736290662275</updated>
+    </task>
+    <task id="LOCAL-00204" summary="Zmienne">
+      <option name="closed" value="true" />
+      <created>1736290670312</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1736290670312</updated>
+    </task>
+    <option name="localTasksCounter" value="205" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
