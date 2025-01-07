@@ -26,6 +26,15 @@ public class Task3_1 {
         float maxFloat = 3.14159265359f;
         System.out.println("Min float to -> " + minFloat + "\n" + "Max float -> " + maxFloat);
 
+        //Typy logincze 
+        boolean prawda = true;
+        boolean falsz = false;
+        System.out.println("Tak -> " + prawda + "\n" + "Nie -> " + falsz );
+        
+        //Typ znaków
+        char znak = 'J';
+        System.out.println("Znak -> " + znak);
+
 
         
     }
