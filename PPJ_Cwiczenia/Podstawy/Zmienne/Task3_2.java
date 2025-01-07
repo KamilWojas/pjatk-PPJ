@@ -39,6 +39,11 @@ public class Task3_2 {
 
         //Można przyrównać = false
         System.out.println(minLong == minInt);
+        
+        //Można przyrownać
+        System.out.println(minLong == min);
+
+        System.out.println(znak == maxFloat);
 
     }
 }
