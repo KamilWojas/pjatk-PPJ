@@ -7,7 +7,7 @@ public class Task3_6 {
         a = (int) b;
         b = a;
 
-        System.out.println(a)
-        System.out.println(b);;
+        System.out.println(a);
+        System.out.println(b);
     }
 }
