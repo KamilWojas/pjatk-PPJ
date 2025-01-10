@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="this">
-      <change afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Podstawy podstaw/Student.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Override">
+      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Podstawy podstaw/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Podstawy podstaw/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,31 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="36799000" />
-    </task>
-    <task id="LOCAL-00178" summary="Konwersja na dzięstny system">
-      <option name="closed" value="true" />
-      <created>1736120298666</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1736120298666</updated>
-    </task>
-    <task id="LOCAL-00179" summary="Oct -&gt; Dziesiętny">
-      <option name="closed" value="true" />
-      <created>1736120356705</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1736120356705</updated>
-    </task>
-    <task id="LOCAL-00180" summary="Dodawanie">
-      <option name="closed" value="true" />
-      <created>1736120395292</created>
-      <option name="number" value="00180" />
-      <option name="presentableId" value="LOCAL-00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1736120395292</updated>
+      <workItem from="1735153335316" duration="37628000" />
     </task>
     <task id="LOCAL-00181" summary="Konwersja wyniku z powrotem na różne systemy&#10;Dziesiętny -&gt; Hex">
       <option name="closed" value="true" />
@@ -545,7 +521,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736544736674</updated>
     </task>
-    <option name="localTasksCounter" value="227" />
+    <task id="LOCAL-00227" summary="Student">
+      <option name="closed" value="true" />
+      <created>1736544828968</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1736544828968</updated>
+    </task>
+    <task id="LOCAL-00228" summary="Void">
+      <option name="closed" value="true" />
+      <created>1736544848923</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1736544848923</updated>
+    </task>
+    <task id="LOCAL-00229" summary="Override">
+      <option name="closed" value="true" />
+      <created>1736544883636</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1736544883636</updated>
+    </task>
+    <option name="localTasksCounter" value="230" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,9 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadania2" />
-    <MESSAGE value="Zadanie2" />
-    <MESSAGE value="Zadanie2 - Przesunięcie w lewo" />
     <MESSAGE value="Zadanie2 - Przesunięcie w prawo" />
     <MESSAGE value="Przesuniecia Bitowe Wyjasnienie" />
     <MESSAGE value="Systemy Liczbowe" />
@@ -588,6 +585,9 @@
     <MESSAGE value="Task4_3" />
     <MESSAGE value="Main" />
     <MESSAGE value="this" />
-    <option name="LAST_COMMIT_MESSAGE" value="this" />
+    <MESSAGE value="Student" />
+    <MESSAGE value="Void" />
+    <MESSAGE value="Override" />
+    <option name="LAST_COMMIT_MESSAGE" value="Override" />
   </component>
 </project>

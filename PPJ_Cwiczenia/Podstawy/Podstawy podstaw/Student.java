@@ -1,6 +1,7 @@
 public class Student {
     String imie;
     String nazwisko;
+    int eska;
     int rokUrodzenia;
 
     public void obliczwiek(){
@@ -12,6 +13,6 @@ public class Student {
     }
     @Override
     public String toString() {
-        return " Obiekt klasy student o danych " + imie + " " + " nazwisko " + nazwisko;
+        return " Obiekt klasy student o danych " + imie + " " + " nazwisko " + nazwisko  + " " + "s"+eska;
     }
 }
