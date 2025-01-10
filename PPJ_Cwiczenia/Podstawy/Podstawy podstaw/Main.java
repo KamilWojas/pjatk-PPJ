@@ -20,3 +20,15 @@ public class Main {
 //        osobaPierwsza.nazwisko = "Zając";
 //        osobaPierwsza.rokUrodzenia = 1975;
 //        osobaPierwsza.rokSmierci = 2022;
+
+        Osoba osoba2 = new Osoba("Patryk", "Kowalski", 1989, 2024);
+
+        System.out.println(studentPierwszy);
+        System.out.println(osobaPierwsza);
+        System.out.println(osoba2.getImie());
+
+        System.out.println(Osoba.liczbaOsobWsystemie);
+        
+
+    }
+}
