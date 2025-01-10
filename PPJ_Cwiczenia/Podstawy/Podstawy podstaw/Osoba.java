@@ -16,3 +16,14 @@ public class Osoba {
         this.rokUrodzenia = rokUrodzeniaKonkretnejOsoby;
         liczbaOsobWsystemie++;
     }
+
+    public Osoba( String imieKonkretnejOsoby
+            ,String nazwiskoKonkrentejOosby
+            ,int rokUrodzeniaKonkrentejOsoby,
+                  int rokSmierciKonkretnejOsoby){
+        this.imie = imieKonkretnejOsoby;
+        this.nazwisko = nazwiskoKonkrentejOosby;
+        this.rokUrodzenia = rokUrodzeniaKonkrentejOsoby;
+        this.rokSmierci = rokSmierciKonkretnejOsoby;
+        liczbaOsobWsystemie++;
+    }
