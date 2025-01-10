@@ -12,3 +12,11 @@ public class Main {
         //    studentPierwszy.obliczwiek();
 
         int zmienna =  studentPierwszy.zwrocWiek();
+
+        //  System.out.println(zmienna);
+
+        Osoba osobaPierwsza = new Osoba("Jan", "Zajac", 1975 );
+//        osobaPierwsza.imie = "Jan";
+//        osobaPierwsza.nazwisko = "Zając";
+//        osobaPierwsza.rokUrodzenia = 1975;
+//        osobaPierwsza.rokSmierci = 2022;
