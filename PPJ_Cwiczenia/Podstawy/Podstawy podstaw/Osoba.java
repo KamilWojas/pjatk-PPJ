@@ -27,3 +27,10 @@ public class Osoba {
         this.rokSmierci = rokSmierciKonkretnejOsoby;
         liczbaOsobWsystemie++;
     }
+    
+    public String getImie(){
+        return this.imie;
+    }
+
+
+}
