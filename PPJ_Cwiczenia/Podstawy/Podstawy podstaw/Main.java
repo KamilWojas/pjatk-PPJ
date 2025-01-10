@@ -28,7 +28,7 @@ public class Main {
         System.out.println(osoba2.getImie());
 
         System.out.println(Osoba.liczbaOsobWsystemie);
-        
+        System.out.println();
 
     }
 }
