@@ -4,6 +4,8 @@ Napisz program, który sprawdza, czy podana liczba jest parzysta czy nieparzysta
  */
 
 public class Task3 {
+    public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
 
         // Pobranie liczby od użytkownika
@@ -16,6 +18,7 @@ public class Task3 {
         // Wyświetlenie wyniku
         System.out.println("Liczba jest: " + wynik);
     }
+}
 
 
 /*
