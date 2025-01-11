@@ -9,9 +9,9 @@ public class Osoba {
     private int nrPesel;
 
     public Osoba (String imieKonkretnejOsoby
-            , String nazwiskokonkretnejOsoby
-            , int rokUrodzeniaKonkretnejOsoby
-            , int nrPeselKonkretnejOsby)
+            ,String nazwiskokonkretnejOsoby
+            ,int rokUrodzeniaKonkretnejOsoby
+            ,int nrPeselKonkretnejOsby)
     {
         this.imie = imieKonkretnejOsoby;
         this.nazwisko = nazwiskokonkretnejOsoby;
