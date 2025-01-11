@@ -17,6 +17,7 @@ public class Osoba {
         this.rokUrodzenia = rokUrodzeniaKonkretnejOsoby;
         this.nrPesel = nrPeselKonkretnejOsby;
         liczbaOsobWsystemie++;
+        
     }
 
     public Osoba( String imieKonkretnejOsoby
