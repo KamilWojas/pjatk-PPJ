@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Override">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Podstawy podstaw/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Podstawy podstaw/Osoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/PPJ_Cwiczenia/Podstawy/Instrukcje Warunkowe/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,55 +152,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="39469000" />
-    </task>
-    <task id="LOCAL-00184" summary="Wyniki">
-      <option name="closed" value="true" />
-      <created>1736120706305</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1736120706305</updated>
-    </task>
-    <task id="LOCAL-00185" summary="Wyniki">
-      <option name="closed" value="true" />
-      <created>1736120741832</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1736120741832</updated>
-    </task>
-    <task id="LOCAL-00186" summary="Wyniki">
-      <option name="closed" value="true" />
-      <created>1736181319005</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1736181319005</updated>
-    </task>
-    <task id="LOCAL-00187" summary="Wyniki">
-      <option name="closed" value="true" />
-      <created>1736205132925</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1736205132925</updated>
-    </task>
-    <task id="LOCAL-00188" summary="Iperacje bitowe">
-      <option name="closed" value="true" />
-      <created>1736205497741</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1736205497741</updated>
-    </task>
-    <task id="LOCAL-00189" summary="Iperacje bitowe">
-      <option name="closed" value="true" />
-      <created>1736205611383</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1736205611383</updated>
+      <workItem from="1735153335316" duration="39795000" />
     </task>
     <task id="LOCAL-00190" summary="Task2_1">
       <option name="closed" value="true" />
@@ -546,7 +498,55 @@
       <option name="project" value="LOCAL" />
       <updated>1736549981951</updated>
     </task>
-    <option name="localTasksCounter" value="233" />
+    <task id="LOCAL-00233" summary="Override">
+      <option name="closed" value="true" />
+      <created>1736637455434</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1736637455434</updated>
+    </task>
+    <task id="LOCAL-00234" summary="Override">
+      <option name="closed" value="true" />
+      <created>1736637499168</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1736637499168</updated>
+    </task>
+    <task id="LOCAL-00235" summary="Override">
+      <option name="closed" value="true" />
+      <created>1736637523956</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1736637523956</updated>
+    </task>
+    <task id="LOCAL-00236" summary="Override">
+      <option name="closed" value="true" />
+      <created>1736637567565</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1736637567565</updated>
+    </task>
+    <task id="LOCAL-00237" summary="Override">
+      <option name="closed" value="true" />
+      <created>1736637648270</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1736637648270</updated>
+    </task>
+    <task id="LOCAL-00238" summary="Override">
+      <option name="closed" value="true" />
+      <created>1736637755524</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1736637755525</updated>
+    </task>
+    <option name="localTasksCounter" value="239" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
