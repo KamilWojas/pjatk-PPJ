@@ -4,7 +4,6 @@ ale tylko te, które są podzielne przez 3.
  */
 
 public class Task1 {
-    public static void main(String[] args){
         
         for (int i = 1; i <= 20; i++){
             if(i % 3 == 0){
@@ -12,4 +11,3 @@ public class Task1 {
             }
         }
     }
-}
