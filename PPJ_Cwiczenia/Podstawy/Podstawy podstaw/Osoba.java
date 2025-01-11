@@ -23,9 +23,9 @@ public class Osoba {
 
     public Osoba( String imieKonkretnejOsoby
             ,String nazwiskoKonkrentejOosby
-            ,int rokUrodzeniaKonkrentejOsoby,
-                  int rokSmierciKonkretnejOsoby,
-                  int nrPeselKonkretnejOsoby){
+            ,int rokUrodzeniaKonkrentejOsoby
+            ,int rokSmierciKonkretnejOsoby
+            ,int nrPeselKonkretnejOsoby){
 
         this.imie = imieKonkretnejOsoby;
         this.nazwisko = nazwiskoKonkrentejOosby;
