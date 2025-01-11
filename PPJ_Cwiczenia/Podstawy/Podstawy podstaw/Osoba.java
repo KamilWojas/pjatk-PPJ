@@ -10,7 +10,8 @@ public class Osoba {
 
     public Osoba (String imieKonkretnejOsoby
             , String nazwiskokonkretnejOsoby
-            , int rokUrodzeniaKonkretnejOsoby, int nrPeselKonkretnejOsby)
+            , int rokUrodzeniaKonkretnejOsoby
+            , int nrPeselKonkretnejOsby)
     {
         this.imie = imieKonkretnejOsoby;
         this.nazwisko = nazwiskokonkretnejOsoby;
