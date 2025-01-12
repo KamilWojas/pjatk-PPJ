@@ -3,6 +3,9 @@ public class Dog {
    private String name = "Ares";
    private int numberOfLegs = 4;
    private boolean hasTail = true;
+
+   Head head;
+   Leg leg;
    
    public Dog (String imieKonkretnegoPsa, int liczbaLapKonkretnegoPsa, boolean czyKonkretnyPiesMaOgon){
        this.name = imieKonkretnegoPsa;
