@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Override">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Obiekty.i.klasy/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java od 0/Obiekty.i.klasy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Override" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,31 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="40872000" />
-    </task>
-    <task id="LOCAL-00191" summary="Task2_1">
-      <option name="closed" value="true" />
-      <created>1736284157316</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1736284157316</updated>
-    </task>
-    <task id="LOCAL-00192" summary="Zmienne">
-      <option name="closed" value="true" />
-      <created>1736287268095</created>
-      <option name="number" value="00192" />
-      <option name="presentableId" value="LOCAL-00192" />
-      <option name="project" value="LOCAL" />
-      <updated>1736287268095</updated>
-    </task>
-    <task id="LOCAL-00193" summary="Zmienne">
-      <option name="closed" value="true" />
-      <created>1736287498916</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1736287498916</updated>
+      <workItem from="1735153335316" duration="41191000" />
     </task>
     <task id="LOCAL-00194" summary="Zmienne">
       <option name="closed" value="true" />
@@ -547,7 +519,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736637784368</updated>
     </task>
-    <option name="localTasksCounter" value="240" />
+    <task id="LOCAL-00240" summary="Override">
+      <option name="closed" value="true" />
+      <created>1736699241973</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1736699241973</updated>
+    </task>
+    <task id="LOCAL-00241" summary="Override">
+      <option name="closed" value="true" />
+      <created>1736699302757</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1736699302757</updated>
+    </task>
+    <task id="LOCAL-00242" summary="Override">
+      <option name="closed" value="true" />
+      <created>1736699499577</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1736699499577</updated>
+    </task>
+    <option name="localTasksCounter" value="243" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
