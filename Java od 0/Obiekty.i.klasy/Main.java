@@ -4,6 +4,15 @@ public class Main {
         objectClass();
 
         Car audi = new Car();
+        System.out.println(audi.model);
+        System.out.println(audi.przebieg);
+        System.out.println(audi.rocznik);
+
+
+        Car audiS7 = new Car("206");
+        System.out.println(audiS7.model);
+        System.out.println(audiS7.przebieg);
+        System.out.println(audiS7.rocznik);
 
 
     }
