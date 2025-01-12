@@ -2,7 +2,12 @@ public class Main {
     public static void main(String[] args) {
         objectAndClass();
         objectClass();
+        constructors();
 
+
+    }
+
+    private static void constructors() {
         Car audi = new Car();
         System.out.println(audi.model);
         System.out.println(audi.przebieg);
@@ -13,8 +18,6 @@ public class Main {
         System.out.println(audiS7.model);
         System.out.println(audiS7.przebieg);
         System.out.println(audiS7.rocznik);
-
-
     }
 
     private static void objectClass() {
