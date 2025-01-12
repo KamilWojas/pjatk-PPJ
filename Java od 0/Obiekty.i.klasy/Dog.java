@@ -5,10 +5,14 @@ public class Dog {
    private boolean hasTail = true;
 
    Head head;
+
    Leg frontLeftLeag;
    Leg fronRightLeag;
    Leg backLeftLeag;
    Leg backRightLeag;
+
+   Tail tail;
+
    
    public Dog (String imieKonkretnegoPsa, int liczbaLapKonkretnegoPsa, boolean czyKonkretnyPiesMaOgon){
        this.name = imieKonkretnegoPsa;
