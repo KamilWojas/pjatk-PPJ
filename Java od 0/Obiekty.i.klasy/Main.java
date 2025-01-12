@@ -1,6 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        Dog dog = new Dog();
+        Dog ares = new Dog();
+        Dog tajson = new Dog();
+        Dog toska = new Dog();
+        
     }
 }
