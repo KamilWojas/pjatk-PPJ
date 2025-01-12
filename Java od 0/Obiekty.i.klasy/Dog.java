@@ -1,7 +1,7 @@
 public class Dog {
 
     String name;
-    int hasLegs;
+    int numberOfLegs;
     boolean hasTail;
     
     
