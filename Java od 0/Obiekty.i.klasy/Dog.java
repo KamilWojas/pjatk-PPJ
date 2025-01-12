@@ -21,4 +21,10 @@ public class Dog {
     public boolean getIsHasTail() {
         return this.hasTail;
     }
+    void bark(){
+        System.out.println(name + " szczeka" + " " + "hau! hau!");
+    }
+    void eat(){
+        System.out.println(name + " je" + " " + "mlask mlask...");
+    }
 }

@@ -16,6 +16,8 @@ public class Main {
         System.out.println(piesPierwszy.getName());
         System.out.println(piesPierwszy.getNumberOfLegs());
         System.out.println(piesPierwszy.get.IsHasTail());
+        piesPierwszy.bark();
+        piesPierwszy.eat();
         
 
 
