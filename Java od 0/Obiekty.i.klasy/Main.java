@@ -11,7 +11,11 @@ public class Main {
 
        */
 
-        Dog piesPierwszy = new Dog("Ares");
+        Dog piesPierwszy = new Dog("Ares", 4, true);
+
+        System.out.println(piesPierwszy.getName());
+        System.out.println(piesPierwszy.getNumberOfLegs());
+        System.out.println(piesPierwszy.get.IsHasTail());
         
 
 
