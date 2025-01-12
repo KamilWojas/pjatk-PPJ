@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Main">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Obiekty.i.klasy/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Obiekty.i.klasy/Dog.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Tail">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Obiekty.i.klasy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Obiekty.i.klasy/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,23 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="45346000" />
-    </task>
-    <task id="LOCAL-00201" summary="Zmienne">
-      <option name="closed" value="true" />
-      <created>1736288700593</created>
-      <option name="number" value="00201" />
-      <option name="presentableId" value="LOCAL-00201" />
-      <option name="project" value="LOCAL" />
-      <updated>1736288700593</updated>
-    </task>
-    <task id="LOCAL-00202" summary="Zmienne">
-      <option name="closed" value="true" />
-      <created>1736290127709</created>
-      <option name="number" value="00202" />
-      <option name="presentableId" value="LOCAL-00202" />
-      <option name="project" value="LOCAL" />
-      <updated>1736290127709</updated>
+      <workItem from="1735153335316" duration="45724000" />
     </task>
     <task id="LOCAL-00203" summary="Zmienne">
       <option name="closed" value="true" />
@@ -545,7 +529,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736718245122</updated>
     </task>
-    <option name="localTasksCounter" value="250" />
+    <task id="LOCAL-00250" summary="Main">
+      <option name="closed" value="true" />
+      <created>1736718511507</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1736718511507</updated>
+    </task>
+    <task id="LOCAL-00251" summary="Tail">
+      <option name="closed" value="true" />
+      <created>1736718624975</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1736718624975</updated>
+    </task>
+    <option name="localTasksCounter" value="252" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie2 - Przesunięcie w prawo" />
     <MESSAGE value="Przesuniecia Bitowe Wyjasnienie" />
     <MESSAGE value="Systemy Liczbowe" />
     <MESSAGE value="Konwersja na różne systemy liczbowe" />
@@ -588,6 +587,7 @@
     <MESSAGE value="Void" />
     <MESSAGE value="Override" />
     <MESSAGE value="Main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main" />
+    <MESSAGE value="Tail" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tail" />
   </component>
 </project>
