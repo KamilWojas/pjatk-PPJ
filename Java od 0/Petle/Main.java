@@ -20,4 +20,8 @@ public class Main {
             );
 
     }
+    Long y = 5L;
+    for (; y >=0; y--){
+        System.out.println("Hej");
+    }
 }
