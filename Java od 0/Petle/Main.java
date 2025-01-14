@@ -5,13 +5,19 @@ public class Main {
         petlaFor();
 
         forAndArray();
-        
+
+        whileAndDoWhile();
+
+    }
+
+    private static void whileAndDoWhile() {
+        System.out.println("Pętla while i do while");
         int x = 3;
         while (3){
             System.out.println("Ponawiam próbę wysłania wiadomości");
             x--;
         }
-        
+
         do {
             System.out.println("Hello");
         }while (false);
@@ -22,7 +28,6 @@ public class Main {
             System.out.println("Hello customer :" + customerOfNumber);
             customerOfNumber--;
         }while (customerOfNumber > 0);
-
     }
 
     private static void forAndArray() {
