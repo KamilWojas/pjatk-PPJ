@@ -3,11 +3,14 @@ public class Main {
     public static void main(String[] args) {
         
         petlaFor();
-
         forAndArray();
-
         whileAndDoWhile();
+        continueAndBrak();
 
+    }
+
+    private static void continueAndBrak() {
+        System.out.println("Pętla for if z continue i break");
         System.out.println("Kolejka klientów");
         for (int i = 0; i < 20; i++) {
             if (i == 7 || i == 13){
@@ -19,7 +22,6 @@ public class Main {
             }
             System.out.println("Obsłużono klienta nr: " + i);
         }
-
     }
 
     private static void whileAndDoWhile() {
