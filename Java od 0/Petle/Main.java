@@ -5,6 +5,10 @@ public class Main {
         petlaFor();
 
         forAndArray();
+        
+        while (true){
+            System.out.println("Cześć");
+        }
 
     }
 
