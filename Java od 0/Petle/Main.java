@@ -4,6 +4,11 @@ public class Main {
         
         petlaFor();
         
+        String names = {"Kasia", "Tomek", "Andrzej"};
+        for (int index = 0; index < names.length; index++){
+            System.out.println("Cześć! " + names[index] + " fajnie że jesteś");
+        }
+        
     }
 
     private static void petlaFor() {
