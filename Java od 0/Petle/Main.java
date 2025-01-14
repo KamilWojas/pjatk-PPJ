@@ -14,6 +14,15 @@ public class Main {
                 System.out.println("Małe x");
             }
         }
+        
+        //nie wykona się
+        int a = 1;
+        while (a < 10){
+            if (a > 3){
+                System.out.println("Wielkie X");
+            }
+        }
+
 
     }
 
