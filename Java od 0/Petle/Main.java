@@ -11,6 +11,10 @@ public class Main {
             System.out.println("Ponawiam próbę wysłania wiadomości");
             x--;
         }
+        
+        do {
+            System.out.println("Hello");
+        }while (false);
 
     }
 
