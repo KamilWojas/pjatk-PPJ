@@ -16,6 +16,13 @@ public class Main {
             System.out.println("Hello");
         }while (false);
 
+
+        int customerOfNumber = 5;
+        do {
+            System.out.println("Hello customer :" + customerOfNumber);
+            customerOfNumber--;
+        }while (customerOfNumber > 0);
+
     }
 
     private static void forAndArray() {
