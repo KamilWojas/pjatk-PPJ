@@ -13,6 +13,9 @@ public class Main {
             if (i == 7 || i == 13){
                 System.out.println("Pomiń klienta o nr:" + i);
                 continue;
+            }if (i >= 18){
+                System.out.println("Nie chce już obsługiwać żadnego klienta! Na dzisiaj, to koniec!");
+                break;
             }
             System.out.println("Obsłużono klienta nr: " + i);
         }
