@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="tablica" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="pętla while" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,23 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="53708000" />
-    </task>
-    <task id="LOCAL-00217" summary="Task4_1">
-      <option name="closed" value="true" />
-      <created>1736381471517</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1736381471517</updated>
-    </task>
-    <task id="LOCAL-00218" summary="Task4_3">
-      <option name="closed" value="true" />
-      <created>1736382543240</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1736382543240</updated>
+      <workItem from="1735153335316" duration="54552000" />
     </task>
     <task id="LOCAL-00219" summary="Task4_3">
       <option name="closed" value="true" />
@@ -543,7 +527,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736890559163</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="metoda - forAndArray">
+      <option name="closed" value="true" />
+      <created>1736890702325</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1736890702325</updated>
+    </task>
+    <task id="LOCAL-00267" summary="pętla while">
+      <option name="closed" value="true" />
+      <created>1736890811247</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1736890811247</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,8 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ósemkowy" />
-    <MESSAGE value="Konwersja na dzięstny system" />
     <MESSAGE value="Oct -&gt; Dziesiętny" />
     <MESSAGE value="Dodawanie" />
     <MESSAGE value="Konwersja wyniku z powrotem na różne systemy&#10;Dziesiętny -&gt; Hex" />
@@ -586,6 +584,8 @@
     <MESSAGE value="for" />
     <MESSAGE value="metoda" />
     <MESSAGE value="tablica" />
-    <option name="LAST_COMMIT_MESSAGE" value="tablica" />
+    <MESSAGE value="metoda - forAndArray" />
+    <MESSAGE value="pętla while" />
+    <option name="LAST_COMMIT_MESSAGE" value="pętla while" />
   </component>
 </project>

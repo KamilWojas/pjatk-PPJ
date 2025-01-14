@@ -6,8 +6,10 @@ public class Main {
 
         forAndArray();
         
-        while (true){
-            System.out.println("Cześć");
+        int x = 3;
+        while (3){
+            System.out.println("Ponawiam próbę wysłania wiadomości");
+            x--;
         }
 
     }
