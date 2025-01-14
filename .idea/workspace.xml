@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="metoda">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="tablica" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,15 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="53574000" />
-    </task>
-    <task id="LOCAL-00216" summary="Task4_1">
-      <option name="closed" value="true" />
-      <created>1736380790059</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1736380790059</updated>
+      <workItem from="1735153335316" duration="53708000" />
     </task>
     <task id="LOCAL-00217" summary="Task4_1">
       <option name="closed" value="true" />
@@ -545,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736888493874</updated>
     </task>
-    <option name="localTasksCounter" value="265" />
+    <task id="LOCAL-00265" summary="tablica">
+      <option name="closed" value="true" />
+      <created>1736890559163</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1736890559163</updated>
+    </task>
+    <option name="localTasksCounter" value="266" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Liczby w różnych systemach" />
     <MESSAGE value="Ósemkowy" />
     <MESSAGE value="Konwersja na dzięstny system" />
     <MESSAGE value="Oct -&gt; Dziesiętny" />
@@ -588,6 +585,7 @@
     <MESSAGE value="metoda constructors" />
     <MESSAGE value="for" />
     <MESSAGE value="metoda" />
-    <option name="LAST_COMMIT_MESSAGE" value="metoda" />
+    <MESSAGE value="tablica" />
+    <option name="LAST_COMMIT_MESSAGE" value="tablica" />
   </component>
 </project>

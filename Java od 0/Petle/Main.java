@@ -3,12 +3,17 @@ public class Main {
     public static void main(String[] args) {
         
         petlaFor();
-        
+
+        forAndArray();
+
+    }
+
+    private static void forAndArray() {
+        System.out.println("Tablica i pętla for");
         String names = {"Kasia", "Tomek", "Andrzej"};
         for (int index = 0; index < names.length; index++){
             System.out.println("Cześć! " + names[index] + " fajnie że jesteś");
         }
-        
     }
 
     private static void petlaFor() {
