@@ -6,7 +6,13 @@ public class Main {
         forAndArray();
         whileAndDoWhile();
         continueAndBrak();
-        
+
+        practiceWhile();
+
+
+    }
+
+    private static void practiceWhile() {
         int x = 5;
         while (x > 1){
             x = x -1;
@@ -14,7 +20,7 @@ public class Main {
                 System.out.println("Małe x");
             }
         }
-        
+
         //nie wykona się
         int a = 1;
         while (a < 10){
@@ -22,8 +28,6 @@ public class Main {
                 System.out.println("Wielkie X");
             }
         }
-
-
     }
 
     private static void continueAndBrak() {

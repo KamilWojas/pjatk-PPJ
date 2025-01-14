@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="break">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Petle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Petle/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="while" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,31 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="56738000" />
-    </task>
-    <task id="LOCAL-00228" summary="Void">
-      <option name="closed" value="true" />
-      <created>1736544848923</created>
-      <option name="number" value="00228" />
-      <option name="presentableId" value="LOCAL-00228" />
-      <option name="project" value="LOCAL" />
-      <updated>1736544848923</updated>
-    </task>
-    <task id="LOCAL-00229" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736544883636</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1736544883636</updated>
-    </task>
-    <task id="LOCAL-00230" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736549743244</created>
-      <option name="number" value="00230" />
-      <option name="presentableId" value="LOCAL-00230" />
-      <option name="project" value="LOCAL" />
-      <updated>1736549743244</updated>
+      <workItem from="1735153335316" duration="57358000" />
     </task>
     <task id="LOCAL-00231" summary="Override">
       <option name="closed" value="true" />
@@ -545,7 +519,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736894649088</updated>
     </task>
-    <option name="localTasksCounter" value="277" />
+    <task id="LOCAL-00277" summary="ContinueAndBreak">
+      <option name="closed" value="true" />
+      <created>1736894768717</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1736894768717</updated>
+    </task>
+    <task id="LOCAL-00278" summary="while">
+      <option name="closed" value="true" />
+      <created>1736895233413</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1736895233413</updated>
+    </task>
+    <task id="LOCAL-00279" summary="while">
+      <option name="closed" value="true" />
+      <created>1736895355233</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1736895355233</updated>
+    </task>
+    <option name="localTasksCounter" value="280" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,8 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Wyniki" />
-    <MESSAGE value="Iperacje bitowe" />
     <MESSAGE value="Task2_1" />
     <MESSAGE value="Zmienne" />
     <MESSAGE value="Instrukcje warunkowe" />
@@ -588,6 +584,8 @@
     <MESSAGE value="metoda pętla while i do while" />
     <MESSAGE value="pętla fori" />
     <MESSAGE value="break" />
-    <option name="LAST_COMMIT_MESSAGE" value="break" />
+    <MESSAGE value="ContinueAndBreak" />
+    <MESSAGE value="while" />
+    <option name="LAST_COMMIT_MESSAGE" value="while" />
   </component>
 </project>
