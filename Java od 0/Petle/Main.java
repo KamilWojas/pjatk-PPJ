@@ -9,7 +9,7 @@ public class Main {
         whileAndDoWhile();
 
         System.out.println("Kolejka klientów");
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 20; i++) {
             if (i == 7 || i == 13){
                 System.out.println("Pomiń klienta");
                 continue;
