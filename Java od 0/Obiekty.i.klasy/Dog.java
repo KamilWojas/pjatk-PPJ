@@ -21,15 +21,15 @@ public class Dog {
    }
 
    public boolean getCzyPiesMaOgon(){
-       return getCzyPiesMaOgon();
+       return this.CzyPiesMaOgon();
    }
 
    public String getLiczbaŁap(){
-       return getLiczbaŁap();
+       return this.LiczbaŁap();
    }
    
    public String getName(){
-       return getName();
+       return this.Name();
    }
 
     public int getNumberOfLegs() {
