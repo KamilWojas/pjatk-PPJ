@@ -19,6 +19,10 @@ public class Dog {
        this.numberOfLegs = liczbaLapKonkretnegoPsa;
        this.hasTail = czyKonkretnyPiesMaOgon;
    }
+
+   public String getLiczbaŁap(){
+       return getLiczbaŁap();
+   }
    
    public String getName(){
        return getName();

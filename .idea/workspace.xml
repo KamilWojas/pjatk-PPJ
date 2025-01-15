@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="while" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="boolean">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Obiekty.i.klasy/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Obiekty.i.klasy/Dog.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,31 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="60016000" />
-    </task>
-    <task id="LOCAL-00233" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736637455434</created>
-      <option name="number" value="00233" />
-      <option name="presentableId" value="LOCAL-00233" />
-      <option name="project" value="LOCAL" />
-      <updated>1736637455434</updated>
-    </task>
-    <task id="LOCAL-00234" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736637499168</created>
-      <option name="number" value="00234" />
-      <option name="presentableId" value="LOCAL-00234" />
-      <option name="project" value="LOCAL" />
-      <updated>1736637499168</updated>
-    </task>
-    <task id="LOCAL-00235" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736637523956</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1736637523956</updated>
+      <workItem from="1735153335316" duration="60337000" />
     </task>
     <task id="LOCAL-00236" summary="Override">
       <option name="closed" value="true" />
@@ -543,7 +521,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736978274689</updated>
     </task>
-    <option name="localTasksCounter" value="282" />
+    <task id="LOCAL-00282" summary="while">
+      <option name="closed" value="true" />
+      <created>1736978358935</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1736978358935</updated>
+    </task>
+    <task id="LOCAL-00283" summary="while">
+      <option name="closed" value="true" />
+      <created>1736978388572</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1736978388572</updated>
+    </task>
+    <task id="LOCAL-00284" summary="boolean">
+      <option name="closed" value="true" />
+      <created>1736978433256</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1736978433256</updated>
+    </task>
+    <option name="localTasksCounter" value="285" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task2_1" />
     <MESSAGE value="Zmienne" />
     <MESSAGE value="Instrukcje warunkowe" />
     <MESSAGE value="Task4_1" />
@@ -586,6 +587,7 @@
     <MESSAGE value="break" />
     <MESSAGE value="ContinueAndBreak" />
     <MESSAGE value="while" />
-    <option name="LAST_COMMIT_MESSAGE" value="while" />
+    <MESSAGE value="boolean" />
+    <option name="LAST_COMMIT_MESSAGE" value="boolean" />
   </component>
 </project>
