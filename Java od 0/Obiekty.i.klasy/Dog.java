@@ -20,6 +20,10 @@ public class Dog {
        this.hasTail = czyKonkretnyPiesMaOgon;
    }
 
+   public boolean getCzyPiesMaOgon(){
+       return getCzyPiesMaOgon();
+   }
+
    public String getLiczbaŁap(){
        return getLiczbaŁap();
    }
