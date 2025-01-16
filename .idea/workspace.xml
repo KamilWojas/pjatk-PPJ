@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="boolean">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Obiekty.i.klasy/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Obiekty.i.klasy/Dog.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="getCzyPiesMaOgon">
+      <change afterPath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,31 +152,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="60337000" />
-    </task>
-    <task id="LOCAL-00236" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736637567565</created>
-      <option name="number" value="00236" />
-      <option name="presentableId" value="LOCAL-00236" />
-      <option name="project" value="LOCAL" />
-      <updated>1736637567565</updated>
-    </task>
-    <task id="LOCAL-00237" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736637648270</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1736637648270</updated>
-    </task>
-    <task id="LOCAL-00238" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736637755524</created>
-      <option name="number" value="00238" />
-      <option name="presentableId" value="LOCAL-00238" />
-      <option name="project" value="LOCAL" />
-      <updated>1736637755525</updated>
+      <workItem from="1735153335316" duration="61228000" />
     </task>
     <task id="LOCAL-00239" summary="Override">
       <option name="closed" value="true" />
@@ -545,7 +522,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736978433256</updated>
     </task>
-    <option name="localTasksCounter" value="285" />
+    <task id="LOCAL-00285" summary="get">
+      <option name="closed" value="true" />
+      <created>1736978613802</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1736978613802</updated>
+    </task>
+    <task id="LOCAL-00286" summary="getCzyPiesMaOgon">
+      <option name="closed" value="true" />
+      <created>1736978671953</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1736978671953</updated>
+    </task>
+    <task id="LOCAL-00287" summary="getCzyPiesMaOgon">
+      <option name="closed" value="true" />
+      <created>1736978736003</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1736978736003</updated>
+    </task>
+    <option name="localTasksCounter" value="288" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,8 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zmienne" />
-    <MESSAGE value="Instrukcje warunkowe" />
     <MESSAGE value="Task4_1" />
     <MESSAGE value="Task4_3" />
     <MESSAGE value="this" />
@@ -588,6 +587,8 @@
     <MESSAGE value="ContinueAndBreak" />
     <MESSAGE value="while" />
     <MESSAGE value="boolean" />
-    <option name="LAST_COMMIT_MESSAGE" value="boolean" />
+    <MESSAGE value="get" />
+    <MESSAGE value="getCzyPiesMaOgon" />
+    <option name="LAST_COMMIT_MESSAGE" value="getCzyPiesMaOgon" />
   </component>
 </project>
