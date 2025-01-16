@@ -2,10 +2,12 @@ public class Main {
     public static void main(String[] args) {
 
         drawingRectangle();
-
-
         triangleDrawing();
+        LewdrawingTraingWithCoordinates();
 
+    }
+
+    private static void LewdrawingTraingWithCoordinates() {
         for (int lenght = 1; lenght < 20 ; lenght++) {
             StringBuilder line = new StringBuilder("");
             for (int width = 1; width < lenght; width++) {
@@ -13,7 +15,6 @@ public class Main {
             }
             System.out.println(line);
         }
-
     }
 
     private static void triangleDrawing() {
