@@ -3,7 +3,7 @@ public class Main {
 
         drawingRectangle();
 
-        System.out.println("Rysowanie trójkata równobocznego");
+        System.out.println("Rysowanie trójkata równoramiennego");
 
     }
 
