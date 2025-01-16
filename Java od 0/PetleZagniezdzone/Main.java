@@ -4,6 +4,13 @@ public class Main {
         drawingRectangle();
 
         System.out.println("Rysowanie trójkata równoramiennego");
+        for (int lenght = 1; lenght < 10 ; lenght++) {
+            StringBuilder line = new StringBuilder("");
+            for (int width = 1; width < lenght; width++) {
+                line.append("*");
+            }
+            System.out.println(line);
+        }
 
     }
 

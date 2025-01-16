@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="kwadrat 10x10">
-      <change beforePath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="drawingRectangle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,23 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="62660000" />
-    </task>
-    <task id="LOCAL-00242" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736699499577</created>
-      <option name="number" value="00242" />
-      <option name="presentableId" value="LOCAL-00242" />
-      <option name="project" value="LOCAL" />
-      <updated>1736699499577</updated>
-    </task>
-    <task id="LOCAL-00243" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736699752274</created>
-      <option name="number" value="00243" />
-      <option name="presentableId" value="LOCAL-00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1736699752274</updated>
+      <workItem from="1735153335316" duration="63396000" />
     </task>
     <task id="LOCAL-00244" summary="Override">
       <option name="closed" value="true" />
@@ -545,7 +527,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737065340994</updated>
     </task>
-    <option name="localTasksCounter" value="291" />
+    <task id="LOCAL-00291" summary="drawingRectangle">
+      <option name="closed" value="true" />
+      <created>1737065669891</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1737065669891</updated>
+    </task>
+    <task id="LOCAL-00292" summary="drawingRectangle">
+      <option name="closed" value="true" />
+      <created>1737065840416</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1737065840416</updated>
+    </task>
+    <option name="localTasksCounter" value="293" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="this" />
     <MESSAGE value="Student" />
     <MESSAGE value="Void" />
     <MESSAGE value="Override" />
@@ -588,6 +585,7 @@
     <MESSAGE value="getCzyPiesMaOgon" />
     <MESSAGE value="Petle zagniezdzone" />
     <MESSAGE value="kwadrat 10x10" />
-    <option name="LAST_COMMIT_MESSAGE" value="kwadrat 10x10" />
+    <MESSAGE value="drawingRectangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="drawingRectangle" />
   </component>
 </project>
