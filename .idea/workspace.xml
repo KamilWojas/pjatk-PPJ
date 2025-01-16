@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="getCzyPiesMaOgon">
-      <change afterPath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Main.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Petle zagniezdzone">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,23 +152,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="61228000" />
-    </task>
-    <task id="LOCAL-00239" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736637784368</created>
-      <option name="number" value="00239" />
-      <option name="presentableId" value="LOCAL-00239" />
-      <option name="project" value="LOCAL" />
-      <updated>1736637784368</updated>
-    </task>
-    <task id="LOCAL-00240" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736699241973</created>
-      <option name="number" value="00240" />
-      <option name="presentableId" value="LOCAL-00240" />
-      <option name="project" value="LOCAL" />
-      <updated>1736699241973</updated>
+      <workItem from="1735153335316" duration="62080000" />
     </task>
     <task id="LOCAL-00241" summary="Override">
       <option name="closed" value="true" />
@@ -546,7 +530,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736978736003</updated>
     </task>
-    <option name="localTasksCounter" value="288" />
+    <task id="LOCAL-00288" summary="Petle zagniezdzone">
+      <option name="closed" value="true" />
+      <created>1737062455241</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1737062455242</updated>
+    </task>
+    <task id="LOCAL-00289" summary="Petle zagniezdzone">
+      <option name="closed" value="true" />
+      <created>1737062560425</created>
+      <option name="number" value="00289" />
+      <option name="presentableId" value="LOCAL-00289" />
+      <option name="project" value="LOCAL" />
+      <updated>1737062560425</updated>
+    </task>
+    <option name="localTasksCounter" value="290" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task4_1" />
     <MESSAGE value="Task4_3" />
     <MESSAGE value="this" />
     <MESSAGE value="Student" />
@@ -589,6 +588,7 @@
     <MESSAGE value="boolean" />
     <MESSAGE value="get" />
     <MESSAGE value="getCzyPiesMaOgon" />
-    <option name="LAST_COMMIT_MESSAGE" value="getCzyPiesMaOgon" />
+    <MESSAGE value="Petle zagniezdzone" />
+    <option name="LAST_COMMIT_MESSAGE" value="Petle zagniezdzone" />
   </component>
 </project>
