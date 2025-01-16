@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Rysowanie trójkata równoramiennego" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Rysowanie trójkata równoramiennego">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,23 +152,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="63773000" />
-    </task>
-    <task id="LOCAL-00245" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736701253178</created>
-      <option name="number" value="00245" />
-      <option name="presentableId" value="LOCAL-00245" />
-      <option name="project" value="LOCAL" />
-      <updated>1736701253178</updated>
-    </task>
-    <task id="LOCAL-00246" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736701837523</created>
-      <option name="number" value="00246" />
-      <option name="presentableId" value="LOCAL-00246" />
-      <option name="project" value="LOCAL" />
-      <updated>1736701837523</updated>
+      <workItem from="1735153335316" duration="64470000" />
     </task>
     <task id="LOCAL-00247" summary="Main">
       <option name="closed" value="true" />
@@ -543,7 +530,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737066527713</updated>
     </task>
-    <option name="localTasksCounter" value="294" />
+    <task id="LOCAL-00294" summary="Rysowanie trójkata równoramiennego">
+      <option name="closed" value="true" />
+      <created>1737066897083</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1737066897083</updated>
+    </task>
+    <task id="LOCAL-00295" summary="Rysowanie trójkata równoramiennego">
+      <option name="closed" value="true" />
+      <created>1737067013453</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1737067013453</updated>
+    </task>
+    <option name="localTasksCounter" value="296" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
