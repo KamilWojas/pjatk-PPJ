@@ -5,6 +5,13 @@ public class Main {
         triangleDrawing();
         LewdrawingTraingWithCoordinates();
 
+        String[] poem = {"Litwo, Ojczyzno moja! ty jesteś jak zdrowie",
+                "Ile cię trzeba cenić, ten tylko się dowie,\n",
+                "Ile cię trzeba cenić, ten tylko się dowie,\n",
+                "Widzę i opisuję, bo tęsknię po tobie."};
+
+        System.out.println(Arrays.toString(poem));
+
     }
 
     private static void LewdrawingTraingWithCoordinates() {
