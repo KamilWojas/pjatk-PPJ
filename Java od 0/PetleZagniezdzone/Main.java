@@ -1,6 +1,13 @@
 public class Main {
     public static void main(String[] args) {
 
+        drawingRectangle();
+
+        System.out.println("Rysowanie trójkata równobocznego");
+
+    }
+
+    private static void drawingRectangle() {
         //kwadrat 10x10
         for (int i = 0; i < 10; i++) {
             StringBuilder line = new Stringbuilder("");

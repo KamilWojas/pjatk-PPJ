@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Petle zagniezdzone">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="kwadrat 10x10">
       <change beforePath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,15 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="62080000" />
-    </task>
-    <task id="LOCAL-00241" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736699302757</created>
-      <option name="number" value="00241" />
-      <option name="presentableId" value="LOCAL-00241" />
-      <option name="project" value="LOCAL" />
-      <updated>1736699302757</updated>
+      <workItem from="1735153335316" duration="62660000" />
     </task>
     <task id="LOCAL-00242" summary="Override">
       <option name="closed" value="true" />
@@ -546,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737062560425</updated>
     </task>
-    <option name="localTasksCounter" value="290" />
+    <task id="LOCAL-00290" summary="kwadrat 10x10">
+      <option name="closed" value="true" />
+      <created>1737065340994</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1737065340994</updated>
+    </task>
+    <option name="localTasksCounter" value="291" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task4_3" />
     <MESSAGE value="this" />
     <MESSAGE value="Student" />
     <MESSAGE value="Void" />
@@ -589,6 +587,7 @@
     <MESSAGE value="get" />
     <MESSAGE value="getCzyPiesMaOgon" />
     <MESSAGE value="Petle zagniezdzone" />
-    <option name="LAST_COMMIT_MESSAGE" value="Petle zagniezdzone" />
+    <MESSAGE value="kwadrat 10x10" />
+    <option name="LAST_COMMIT_MESSAGE" value="kwadrat 10x10" />
   </component>
 </project>
