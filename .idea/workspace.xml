@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="drawingRectangle" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Rysowanie trójkata równoramiennego" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,15 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="63396000" />
-    </task>
-    <task id="LOCAL-00244" summary="Override">
-      <option name="closed" value="true" />
-      <created>1736699948897</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1736699948897</updated>
+      <workItem from="1735153335316" duration="63773000" />
     </task>
     <task id="LOCAL-00245" summary="Override">
       <option name="closed" value="true" />
@@ -543,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737065840416</updated>
     </task>
-    <option name="localTasksCounter" value="293" />
+    <task id="LOCAL-00293" summary="Rysowanie trójkata równoramiennego">
+      <option name="closed" value="true" />
+      <created>1737066527713</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1737066527713</updated>
+    </task>
+    <option name="localTasksCounter" value="294" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Student" />
     <MESSAGE value="Void" />
     <MESSAGE value="Override" />
     <MESSAGE value="Main" />
@@ -586,6 +585,7 @@
     <MESSAGE value="Petle zagniezdzone" />
     <MESSAGE value="kwadrat 10x10" />
     <MESSAGE value="drawingRectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="drawingRectangle" />
+    <MESSAGE value="Rysowanie trójkata równoramiennego" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rysowanie trójkata równoramiennego" />
   </component>
 </project>
