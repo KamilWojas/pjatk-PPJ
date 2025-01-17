@@ -1,9 +1,18 @@
 public class Main{
     public static void main(String[] args) {
 
-        Dog dog1 = new Dog();
-        Object dog2 = new Dog();
-        Mammal dog3 = new Dog();
+        Object dog1 = new Dog();
+        Mammal dog2 = new Dog();
+        Animal dog3 = new Dog();
+        Dog dog4 = new Dog();
+
+        dog1.toString();
+        dog2.eat();
+        dog2.sleap();
+        dog2.geveBirth();
+        dog3.eat();
+        dog4.bark();
+
 
     }
 }
