@@ -1,2 +1,5 @@
-public class Dog extends Mummals{
+public class Dog extends Mummal{
+
+    void bark(){
+    }
 }
