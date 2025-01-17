@@ -3,6 +3,10 @@ public class Main{
 
         inheryitance();
 
+        Fish fish1 = new Fish();
+        fish1.eat();
+        fish1.slep();
+
 
     }
 
