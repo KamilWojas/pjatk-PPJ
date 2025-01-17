@@ -22,6 +22,11 @@ public class Main {
                 {"31", "32", "33"}
         };
 
+        for (int i = 0; i < array2d.length; i++) {
+            System.out.println(Arrays.toString(array2d[i]));
+            
+        }
+
     }
 
     private static void LewdrawingTraingWithCoordinates() {
