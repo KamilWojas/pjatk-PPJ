@@ -1,6 +1,12 @@
 public class Main{
     public static void main(String[] args) {
 
+        inheryItems();
+
+
+    }
+
+    private static void inheryItems() {
         Object dog1 = new Dog();
         Mammal dog2 = new Dog();
         Animal dog3 = new Dog();
@@ -12,7 +18,5 @@ public class Main{
         dog2.geveBirth();
         dog3.eat();
         dog4.bark();
-
-
     }
 }
