@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Dziedziczenie">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Mammals" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Mammals.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Dziedziczenie" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,23 +149,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="67438000" />
-    </task>
-    <task id="LOCAL-00258" summary="metoda constructors">
-      <option name="closed" value="true" />
-      <created>1736806369613</created>
-      <option name="number" value="00258" />
-      <option name="presentableId" value="LOCAL-00258" />
-      <option name="project" value="LOCAL" />
-      <updated>1736806369613</updated>
-    </task>
-    <task id="LOCAL-00259" summary="metoda constructors">
-      <option name="closed" value="true" />
-      <created>1736806780516</created>
-      <option name="number" value="00259" />
-      <option name="presentableId" value="LOCAL-00259" />
-      <option name="project" value="LOCAL" />
-      <updated>1736806780516</updated>
+      <workItem from="1735153335316" duration="67746000" />
     </task>
     <task id="LOCAL-00260" summary="for">
       <option name="closed" value="true" />
@@ -545,7 +527,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737122813598</updated>
     </task>
-    <option name="localTasksCounter" value="307" />
+    <task id="LOCAL-00307" summary="Dziedziczenie">
+      <option name="closed" value="true" />
+      <created>1737122913494</created>
+      <option name="number" value="00307" />
+      <option name="presentableId" value="LOCAL-00307" />
+      <option name="project" value="LOCAL" />
+      <updated>1737122913494</updated>
+    </task>
+    <task id="LOCAL-00308" summary="Dziedziczenie">
+      <option name="closed" value="true" />
+      <created>1737123042620</created>
+      <option name="number" value="00308" />
+      <option name="presentableId" value="LOCAL-00308" />
+      <option name="project" value="LOCAL" />
+      <updated>1737123042620</updated>
+    </task>
+    <option name="localTasksCounter" value="309" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
