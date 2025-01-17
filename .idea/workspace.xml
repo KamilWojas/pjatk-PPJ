@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zagnieżdżenie tablic" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Dziedziczenie">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Mammals" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Mammals.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,31 +151,7 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="67085000" />
-    </task>
-    <task id="LOCAL-00255" summary="Konstruktor car = model">
-      <option name="closed" value="true" />
-      <created>1736724451419</created>
-      <option name="number" value="00255" />
-      <option name="presentableId" value="LOCAL-00255" />
-      <option name="project" value="LOCAL" />
-      <updated>1736724451419</updated>
-    </task>
-    <task id="LOCAL-00256" summary="metoda constructors">
-      <option name="closed" value="true" />
-      <created>1736724791003</created>
-      <option name="number" value="00256" />
-      <option name="presentableId" value="LOCAL-00256" />
-      <option name="project" value="LOCAL" />
-      <updated>1736724791003</updated>
-    </task>
-    <task id="LOCAL-00257" summary="metoda constructors">
-      <option name="closed" value="true" />
-      <created>1736805400601</created>
-      <option name="number" value="00257" />
-      <option name="presentableId" value="LOCAL-00257" />
-      <option name="project" value="LOCAL" />
-      <updated>1736805400601</updated>
+      <workItem from="1735153335316" duration="67438000" />
     </task>
     <task id="LOCAL-00258" summary="metoda constructors">
       <option name="closed" value="true" />
@@ -543,7 +521,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737122484170</updated>
     </task>
-    <option name="localTasksCounter" value="304" />
+    <task id="LOCAL-00304" summary="Dziedziczenie">
+      <option name="closed" value="true" />
+      <created>1737122685302</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
+      <option name="project" value="LOCAL" />
+      <updated>1737122685303</updated>
+    </task>
+    <task id="LOCAL-00305" summary="Dziedziczenie">
+      <option name="closed" value="true" />
+      <created>1737122768852</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
+      <option name="project" value="LOCAL" />
+      <updated>1737122768852</updated>
+    </task>
+    <task id="LOCAL-00306" summary="Dziedziczenie">
+      <option name="closed" value="true" />
+      <created>1737122813598</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
+      <option name="project" value="LOCAL" />
+      <updated>1737122813598</updated>
+    </task>
+    <option name="localTasksCounter" value="307" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Konstruktor car" />
     <MESSAGE value="Konstruktor car = model" />
     <MESSAGE value="metoda constructors" />
     <MESSAGE value="for" />
@@ -586,6 +587,7 @@
     <MESSAGE value="szachy" />
     <MESSAGE value="metoda LewdrawingTraingWithCoordinates" />
     <MESSAGE value="Zagnieżdżenie tablic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zagnieżdżenie tablic" />
+    <MESSAGE value="Dziedziczenie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dziedziczenie" />
   </component>
 </project>
