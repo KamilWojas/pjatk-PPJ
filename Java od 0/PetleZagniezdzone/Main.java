@@ -12,6 +12,16 @@ public class Main {
 
         System.out.println(Arrays.toString(poem));
 
+        String[][] arrayOfArray = new String[10][10];
+
+
+        String[] array1d = {"1", "2", "3"};
+        String[][] array2d = {
+                {"1", "2", "3"},
+                {"1", "2", "3"},
+                {"1", "2", "3"}
+        };
+
     }
 
     private static void LewdrawingTraingWithCoordinates() {
