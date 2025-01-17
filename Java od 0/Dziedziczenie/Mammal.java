@@ -1,4 +1,4 @@
-public class Mammals extends Animal{
+ class Mammals extends Animal{
 
     void geveBirth(){
 

@@ -1,2 +1,2 @@
-public class Horse {
+ class Horse {
 }

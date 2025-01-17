@@ -1,4 +1,4 @@
-public class Dog extends Mummal{
+ class Dog extends Mummal{
 
     void bark(){
     }

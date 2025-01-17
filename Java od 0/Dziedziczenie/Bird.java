@@ -1,2 +1,2 @@
-public class Bird extends Animal{
+ class Bird extends Animal{
 }
