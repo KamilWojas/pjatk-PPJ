@@ -1,12 +1,12 @@
 public class Main{
     public static void main(String[] args) {
 
-        inheryItems();
+        inheryitance();
 
 
     }
 
-    private static void inheryItems() {
+    private static void inheryitance() {
         Object dog1 = new Dog();
         Mammal dog2 = new Dog();
         Animal dog3 = new Dog();
