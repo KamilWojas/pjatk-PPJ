@@ -6,6 +6,12 @@ public class Main{
         Fish fish1 = new Fish();
         fish1.eat();
         fish1.slep();
+        Object fish2 = new Fish();
+        fish2.eat();
+        fish2.slep();
+        Animal fish3 = new Fish();
+        fish3.eat();
+        fish3.slep();
 
 
     }
