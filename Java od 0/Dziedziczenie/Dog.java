@@ -2,4 +2,8 @@
 
     void bark(){
     }
+
+    void race(){
+        
+    }
 }
