@@ -5,6 +5,10 @@ public class Main{
 
         fish();
 
+        Bird bird1 = new Bird();
+        Object bird2 = new Bird();
+        Animal bird3 = new Bird();
+
 
     }
 
