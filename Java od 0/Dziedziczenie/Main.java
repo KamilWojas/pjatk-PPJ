@@ -3,6 +3,12 @@ public class Main{
 
         inheryitance();
 
+        fish();
+
+
+    }
+
+    private static void fish() {
         Fish fish1 = new Fish();
         fish1.eat();
         fish1.slep();
@@ -12,8 +18,6 @@ public class Main{
         Animal fish3 = new Fish();
         fish3.eat();
         fish3.slep();
-
-
     }
 
     private static void inheryitance() {
