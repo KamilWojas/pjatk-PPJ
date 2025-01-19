@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Rakieta">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/Rakieta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Rakieta.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="metoda rozpoczniejJazde">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/TestPojazdu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,71 +152,7 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="3696000" />
-    </task>
-    <task id="LOCAL-00276" summary="break">
-      <option name="closed" value="true" />
-      <created>1736894649088</created>
-      <option name="number" value="00276" />
-      <option name="presentableId" value="LOCAL-00276" />
-      <option name="project" value="LOCAL" />
-      <updated>1736894649088</updated>
-    </task>
-    <task id="LOCAL-00277" summary="ContinueAndBreak">
-      <option name="closed" value="true" />
-      <created>1736894768717</created>
-      <option name="number" value="00277" />
-      <option name="presentableId" value="LOCAL-00277" />
-      <option name="project" value="LOCAL" />
-      <updated>1736894768717</updated>
-    </task>
-    <task id="LOCAL-00278" summary="while">
-      <option name="closed" value="true" />
-      <created>1736895233413</created>
-      <option name="number" value="00278" />
-      <option name="presentableId" value="LOCAL-00278" />
-      <option name="project" value="LOCAL" />
-      <updated>1736895233413</updated>
-    </task>
-    <task id="LOCAL-00279" summary="while">
-      <option name="closed" value="true" />
-      <created>1736895355233</created>
-      <option name="number" value="00279" />
-      <option name="presentableId" value="LOCAL-00279" />
-      <option name="project" value="LOCAL" />
-      <updated>1736895355233</updated>
-    </task>
-    <task id="LOCAL-00280" summary="while">
-      <option name="closed" value="true" />
-      <created>1736895632987</created>
-      <option name="number" value="00280" />
-      <option name="presentableId" value="LOCAL-00280" />
-      <option name="project" value="LOCAL" />
-      <updated>1736895632987</updated>
-    </task>
-    <task id="LOCAL-00281" summary="while">
-      <option name="closed" value="true" />
-      <created>1736978274688</created>
-      <option name="number" value="00281" />
-      <option name="presentableId" value="LOCAL-00281" />
-      <option name="project" value="LOCAL" />
-      <updated>1736978274689</updated>
-    </task>
-    <task id="LOCAL-00282" summary="while">
-      <option name="closed" value="true" />
-      <created>1736978358935</created>
-      <option name="number" value="00282" />
-      <option name="presentableId" value="LOCAL-00282" />
-      <option name="project" value="LOCAL" />
-      <updated>1736978358935</updated>
-    </task>
-    <task id="LOCAL-00283" summary="while">
-      <option name="closed" value="true" />
-      <created>1736978388572</created>
-      <option name="number" value="00283" />
-      <option name="presentableId" value="LOCAL-00283" />
-      <option name="project" value="LOCAL" />
-      <updated>1736978388572</updated>
+      <workItem from="1737251705731" duration="4005000" />
     </task>
     <task id="LOCAL-00284" summary="boolean">
       <option name="closed" value="true" />
@@ -546,7 +482,71 @@
       <option name="project" value="LOCAL" />
       <updated>1737323099167</updated>
     </task>
-    <option name="localTasksCounter" value="325" />
+    <task id="LOCAL-00325" summary="metoda zatankuj">
+      <option name="closed" value="true" />
+      <created>1737323557212</created>
+      <option name="number" value="00325" />
+      <option name="presentableId" value="LOCAL-00325" />
+      <option name="project" value="LOCAL" />
+      <updated>1737323557212</updated>
+    </task>
+    <task id="LOCAL-00326" summary="metoda start">
+      <option name="closed" value="true" />
+      <created>1737323573425</created>
+      <option name="number" value="00326" />
+      <option name="presentableId" value="LOCAL-00326" />
+      <option name="project" value="LOCAL" />
+      <updated>1737323573425</updated>
+    </task>
+    <task id="LOCAL-00327" summary="metoda główna">
+      <option name="closed" value="true" />
+      <created>1737323605397</created>
+      <option name="number" value="00327" />
+      <option name="presentableId" value="LOCAL-00327" />
+      <option name="project" value="LOCAL" />
+      <updated>1737323605397</updated>
+    </task>
+    <task id="LOCAL-00328" summary="clasa pojazd kołowy">
+      <option name="closed" value="true" />
+      <created>1737323702511</created>
+      <option name="number" value="00328" />
+      <option name="presentableId" value="LOCAL-00328" />
+      <option name="project" value="LOCAL" />
+      <updated>1737323702511</updated>
+    </task>
+    <task id="LOCAL-00329" summary="konstruktor">
+      <option name="closed" value="true" />
+      <created>1737323722951</created>
+      <option name="number" value="00329" />
+      <option name="presentableId" value="LOCAL-00329" />
+      <option name="project" value="LOCAL" />
+      <updated>1737323722951</updated>
+    </task>
+    <task id="LOCAL-00330" summary="clasa Pojazd">
+      <option name="closed" value="true" />
+      <created>1737323785022</created>
+      <option name="number" value="00330" />
+      <option name="presentableId" value="LOCAL-00330" />
+      <option name="project" value="LOCAL" />
+      <updated>1737323785023</updated>
+    </task>
+    <task id="LOCAL-00331" summary="clasa CiagnikSidlowy">
+      <option name="closed" value="true" />
+      <created>1737323817285</created>
+      <option name="number" value="00331" />
+      <option name="presentableId" value="LOCAL-00331" />
+      <option name="project" value="LOCAL" />
+      <updated>1737323817285</updated>
+    </task>
+    <task id="LOCAL-00332" summary="metoda rozpoczniejJazde">
+      <option name="closed" value="true" />
+      <created>1737323835024</created>
+      <option name="number" value="00332" />
+      <option name="presentableId" value="LOCAL-00332" />
+      <option name="project" value="LOCAL" />
+      <updated>1737323835024</updated>
+    </task>
+    <option name="localTasksCounter" value="333" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,14 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pętla do while" />
-    <MESSAGE value="metoda pętla while i do while" />
-    <MESSAGE value="pętla fori" />
-    <MESSAGE value="break" />
-    <MESSAGE value="ContinueAndBreak" />
-    <MESSAGE value="while" />
-    <MESSAGE value="boolean" />
-    <MESSAGE value="get" />
     <MESSAGE value="getCzyPiesMaOgon" />
     <MESSAGE value="Petle zagniezdzone" />
     <MESSAGE value="kwadrat 10x10" />
@@ -589,6 +581,14 @@
     <MESSAGE value="metoda fish" />
     <MESSAGE value="Bird" />
     <MESSAGE value="Rakieta" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rakieta" />
+    <MESSAGE value="metoda zatankuj" />
+    <MESSAGE value="metoda start" />
+    <MESSAGE value="metoda główna" />
+    <MESSAGE value="clasa pojazd kołowy" />
+    <MESSAGE value="konstruktor" />
+    <MESSAGE value="clasa Pojazd" />
+    <MESSAGE value="clasa CiagnikSidlowy" />
+    <MESSAGE value="metoda rozpoczniejJazde" />
+    <option name="LAST_COMMIT_MESSAGE" value="metoda rozpoczniejJazde" />
   </component>
 </project>
