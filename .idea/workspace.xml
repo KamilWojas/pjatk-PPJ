@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Bird">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Main.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Rakieta">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/Rakieta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Rakieta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,15 +152,7 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="3107000" />
-    </task>
-    <task id="LOCAL-00275" summary="pętla fori">
-      <option name="closed" value="true" />
-      <created>1736894204687</created>
-      <option name="number" value="00275" />
-      <option name="presentableId" value="LOCAL-00275" />
-      <option name="project" value="LOCAL" />
-      <updated>1736894204687</updated>
+      <workItem from="1737251705731" duration="3696000" />
     </task>
     <task id="LOCAL-00276" summary="break">
       <option name="closed" value="true" />
@@ -547,7 +538,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737239206051</updated>
     </task>
-    <option name="localTasksCounter" value="324" />
+    <task id="LOCAL-00324" summary="Rakieta">
+      <option name="closed" value="true" />
+      <created>1737323099167</created>
+      <option name="number" value="00324" />
+      <option name="presentableId" value="LOCAL-00324" />
+      <option name="project" value="LOCAL" />
+      <updated>1737323099167</updated>
+    </task>
+    <option name="localTasksCounter" value="325" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pętla while" />
     <MESSAGE value="pętla do while" />
     <MESSAGE value="metoda pętla while i do while" />
     <MESSAGE value="pętla fori" />
@@ -590,6 +588,7 @@
     <MESSAGE value="fish" />
     <MESSAGE value="metoda fish" />
     <MESSAGE value="Bird" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bird" />
+    <MESSAGE value="Rakieta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rakieta" />
   </component>
 </project>
