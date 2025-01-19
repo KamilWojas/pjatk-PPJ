@@ -1,30 +1,34 @@
 public class Main{
     public static void main(String[] args) {
 
-        inheryitance();
 
-        fish();
+        List<Animal> animals = new ArrayList<>();
+        animals.add(new Dog("Beagle", 2024,true));
+        animals.add(new Cat("black", true ));
+        animals.add(new Bird("Parrot", true));
 
-        Bird bird1 = new Bird();
-        Object bird2 = new Bird();
-        Animal bird3 = new Bird();
+        Animal dog5 = new Dog();
 
 
-    }
+        //inheryitance();
+        //fish();
 
-    private static void fish() {
-        Fish fish1 = new Fish();
-        fish1.eat();
-        fish1.slep();
-        Object fish2 = new Fish();
-        fish2.eat();
-        fish2.slep();
-        Animal fish3 = new Fish();
-        fish3.eat();
-        fish3.slep();
-    }
 
-    private static void inheryitance() {
+       /* private static void fish () {
+            System.out.println("======Ryby=======");
+            Fish fish1 = new Fish();
+            fish1.eat();
+            fish1.sleap();
+            Object fish2 = new Fish();
+            Animal fish3 = new Fish();
+            System.out.println("Ryba 3");
+            fish3.eat();
+            fish3.sleap();
+        }*/
+
+        Dog firstDog = new Dog("Bealge", 2024, true);
+        System.out.println("Rasa psa " + firstDog.getBreed() + "data urodzenia " + firstDog.getDateOfBirth());
+    /*private static void inheryitance() {
         Object dog1 = new Dog();
         Mammal dog2 = new Dog();
         Animal dog3 = new Dog();
@@ -36,5 +40,7 @@ public class Main{
         dog2.geveBirth();
         dog3.eat();
         dog4.bark();
+        System.out.println("============================");
+    }*/
     }
 }

@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="metody">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Bird">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,39 +152,8 @@
       <workItem from="1731282077834" duration="3458000" />
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
-      <workItem from="1735153335316" duration="72805000" />
-    </task>
-    <task id="LOCAL-00271" summary="metoda pętla while i do while">
-      <option name="closed" value="true" />
-      <created>1736893590728</created>
-      <option name="number" value="00271" />
-      <option name="presentableId" value="LOCAL-00271" />
-      <option name="project" value="LOCAL" />
-      <updated>1736893590728</updated>
-    </task>
-    <task id="LOCAL-00272" summary="pętla fori">
-      <option name="closed" value="true" />
-      <created>1736894087844</created>
-      <option name="number" value="00272" />
-      <option name="presentableId" value="LOCAL-00272" />
-      <option name="project" value="LOCAL" />
-      <updated>1736894087844</updated>
-    </task>
-    <task id="LOCAL-00273" summary="pętla fori">
-      <option name="closed" value="true" />
-      <created>1736894100926</created>
-      <option name="number" value="00273" />
-      <option name="presentableId" value="LOCAL-00273" />
-      <option name="project" value="LOCAL" />
-      <updated>1736894100926</updated>
-    </task>
-    <task id="LOCAL-00274" summary="pętla fori">
-      <option name="closed" value="true" />
-      <created>1736894169311</created>
-      <option name="number" value="00274" />
-      <option name="presentableId" value="LOCAL-00274" />
-      <option name="project" value="LOCAL" />
-      <updated>1736894169311</updated>
+      <workItem from="1735153335316" duration="74282000" />
+      <workItem from="1737251705731" duration="3107000" />
     </task>
     <task id="LOCAL-00275" summary="pętla fori">
       <option name="closed" value="true" />
@@ -545,7 +515,39 @@
       <option name="project" value="LOCAL" />
       <updated>1737233295784</updated>
     </task>
-    <option name="localTasksCounter" value="320" />
+    <task id="LOCAL-00320" summary="fish">
+      <option name="closed" value="true" />
+      <created>1737238941580</created>
+      <option name="number" value="00320" />
+      <option name="presentableId" value="LOCAL-00320" />
+      <option name="project" value="LOCAL" />
+      <updated>1737238941580</updated>
+    </task>
+    <task id="LOCAL-00321" summary="metoda fish">
+      <option name="closed" value="true" />
+      <created>1737238985481</created>
+      <option name="number" value="00321" />
+      <option name="presentableId" value="LOCAL-00321" />
+      <option name="project" value="LOCAL" />
+      <updated>1737238985481</updated>
+    </task>
+    <task id="LOCAL-00322" summary="Bird">
+      <option name="closed" value="true" />
+      <created>1737239115373</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
+      <option name="project" value="LOCAL" />
+      <updated>1737239115373</updated>
+    </task>
+    <task id="LOCAL-00323" summary="Bird">
+      <option name="closed" value="true" />
+      <created>1737239206051</created>
+      <option name="number" value="00323" />
+      <option name="presentableId" value="LOCAL-00323" />
+      <option name="project" value="LOCAL" />
+      <updated>1737239206051</updated>
+    </task>
+    <option name="localTasksCounter" value="324" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,9 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="metoda" />
-    <MESSAGE value="tablica" />
-    <MESSAGE value="metoda - forAndArray" />
     <MESSAGE value="pętla while" />
     <MESSAGE value="pętla do while" />
     <MESSAGE value="metoda pętla while i do while" />
@@ -588,6 +587,9 @@
     <MESSAGE value="inheryItems" />
     <MESSAGE value="inheryitance" />
     <MESSAGE value="metody" />
-    <option name="LAST_COMMIT_MESSAGE" value="metody" />
+    <MESSAGE value="fish" />
+    <MESSAGE value="metoda fish" />
+    <MESSAGE value="Bird" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bird" />
   </component>
 </project>
