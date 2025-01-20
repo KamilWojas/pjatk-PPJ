@@ -17,3 +17,7 @@ public class Zwierzak {
         System.out.println("Pomiar wagi u zwierzaka " +
                 this.name + " w dniu " + dataBadania + " waga wynosiła " + waga);
     }
+
+    public void incWiek(){
+        this.wiek++;
+    }
