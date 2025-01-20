@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="klasa główna">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="metoda show">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Bird.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,79 +152,7 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="4673000" />
-    </task>
-    <task id="LOCAL-00287" summary="getCzyPiesMaOgon">
-      <option name="closed" value="true" />
-      <created>1736978736003</created>
-      <option name="number" value="00287" />
-      <option name="presentableId" value="LOCAL-00287" />
-      <option name="project" value="LOCAL" />
-      <updated>1736978736003</updated>
-    </task>
-    <task id="LOCAL-00288" summary="Petle zagniezdzone">
-      <option name="closed" value="true" />
-      <created>1737062455241</created>
-      <option name="number" value="00288" />
-      <option name="presentableId" value="LOCAL-00288" />
-      <option name="project" value="LOCAL" />
-      <updated>1737062455242</updated>
-    </task>
-    <task id="LOCAL-00289" summary="Petle zagniezdzone">
-      <option name="closed" value="true" />
-      <created>1737062560425</created>
-      <option name="number" value="00289" />
-      <option name="presentableId" value="LOCAL-00289" />
-      <option name="project" value="LOCAL" />
-      <updated>1737062560425</updated>
-    </task>
-    <task id="LOCAL-00290" summary="kwadrat 10x10">
-      <option name="closed" value="true" />
-      <created>1737065340994</created>
-      <option name="number" value="00290" />
-      <option name="presentableId" value="LOCAL-00290" />
-      <option name="project" value="LOCAL" />
-      <updated>1737065340994</updated>
-    </task>
-    <task id="LOCAL-00291" summary="drawingRectangle">
-      <option name="closed" value="true" />
-      <created>1737065669891</created>
-      <option name="number" value="00291" />
-      <option name="presentableId" value="LOCAL-00291" />
-      <option name="project" value="LOCAL" />
-      <updated>1737065669891</updated>
-    </task>
-    <task id="LOCAL-00292" summary="drawingRectangle">
-      <option name="closed" value="true" />
-      <created>1737065840416</created>
-      <option name="number" value="00292" />
-      <option name="presentableId" value="LOCAL-00292" />
-      <option name="project" value="LOCAL" />
-      <updated>1737065840416</updated>
-    </task>
-    <task id="LOCAL-00293" summary="Rysowanie trójkata równoramiennego">
-      <option name="closed" value="true" />
-      <created>1737066527713</created>
-      <option name="number" value="00293" />
-      <option name="presentableId" value="LOCAL-00293" />
-      <option name="project" value="LOCAL" />
-      <updated>1737066527713</updated>
-    </task>
-    <task id="LOCAL-00294" summary="Rysowanie trójkata równoramiennego">
-      <option name="closed" value="true" />
-      <created>1737066897083</created>
-      <option name="number" value="00294" />
-      <option name="presentableId" value="LOCAL-00294" />
-      <option name="project" value="LOCAL" />
-      <updated>1737066897083</updated>
-    </task>
-    <task id="LOCAL-00295" summary="Rysowanie trójkata równoramiennego">
-      <option name="closed" value="true" />
-      <created>1737067013453</created>
-      <option name="number" value="00295" />
-      <option name="presentableId" value="LOCAL-00295" />
-      <option name="project" value="LOCAL" />
-      <updated>1737067013453</updated>
+      <workItem from="1737251705731" duration="5053000" />
     </task>
     <task id="LOCAL-00296" summary="metoda triangleDrawing">
       <option name="closed" value="true" />
@@ -547,7 +474,79 @@
       <option name="project" value="LOCAL" />
       <updated>1737323897656</updated>
     </task>
-    <option name="localTasksCounter" value="336" />
+    <task id="LOCAL-00336" summary="klasa główna">
+      <option name="closed" value="true" />
+      <created>1737410641869</created>
+      <option name="number" value="00336" />
+      <option name="presentableId" value="LOCAL-00336" />
+      <option name="project" value="LOCAL" />
+      <updated>1737410641870</updated>
+    </task>
+    <task id="LOCAL-00337" summary="klasa główna">
+      <option name="closed" value="true" />
+      <created>1737410654647</created>
+      <option name="number" value="00337" />
+      <option name="presentableId" value="LOCAL-00337" />
+      <option name="project" value="LOCAL" />
+      <updated>1737410654647</updated>
+    </task>
+    <task id="LOCAL-00338" summary="klasa zwierzak">
+      <option name="closed" value="true" />
+      <created>1737410685339</created>
+      <option name="number" value="00338" />
+      <option name="presentableId" value="LOCAL-00338" />
+      <option name="project" value="LOCAL" />
+      <updated>1737410685339</updated>
+    </task>
+    <task id="LOCAL-00339" summary="prywatne pola">
+      <option name="closed" value="true" />
+      <created>1737410715363</created>
+      <option name="number" value="00339" />
+      <option name="presentableId" value="LOCAL-00339" />
+      <option name="project" value="LOCAL" />
+      <updated>1737410715363</updated>
+    </task>
+    <task id="LOCAL-00340" summary="Konstruktor">
+      <option name="closed" value="true" />
+      <created>1737410758799</created>
+      <option name="number" value="00340" />
+      <option name="presentableId" value="LOCAL-00340" />
+      <option name="project" value="LOCAL" />
+      <updated>1737410758799</updated>
+    </task>
+    <task id="LOCAL-00341" summary="setter">
+      <option name="closed" value="true" />
+      <created>1737410776747</created>
+      <option name="number" value="00341" />
+      <option name="presentableId" value="LOCAL-00341" />
+      <option name="project" value="LOCAL" />
+      <updated>1737410776747</updated>
+    </task>
+    <task id="LOCAL-00342" summary="metoda setWaga">
+      <option name="closed" value="true" />
+      <created>1737410797962</created>
+      <option name="number" value="00342" />
+      <option name="presentableId" value="LOCAL-00342" />
+      <option name="project" value="LOCAL" />
+      <updated>1737410797962</updated>
+    </task>
+    <task id="LOCAL-00343" summary="inkrementcaja">
+      <option name="closed" value="true" />
+      <created>1737410836966</created>
+      <option name="number" value="00343" />
+      <option name="presentableId" value="LOCAL-00343" />
+      <option name="project" value="LOCAL" />
+      <updated>1737410836966</updated>
+    </task>
+    <task id="LOCAL-00344" summary="metoda show">
+      <option name="closed" value="true" />
+      <created>1737410859930</created>
+      <option name="number" value="00344" />
+      <option name="presentableId" value="LOCAL-00344" />
+      <option name="project" value="LOCAL" />
+      <updated>1737410859930</updated>
+    </task>
+    <option name="localTasksCounter" value="345" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,13 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Petle zagniezdzone" />
-    <MESSAGE value="kwadrat 10x10" />
-    <MESSAGE value="drawingRectangle" />
-    <MESSAGE value="Rysowanie trójkata równoramiennego" />
-    <MESSAGE value="metoda triangleDrawing" />
-    <MESSAGE value="szachy" />
-    <MESSAGE value="metoda LewdrawingTraingWithCoordinates" />
     <MESSAGE value="Zagnieżdżenie tablic" />
     <MESSAGE value="Dziedziczenie" />
     <MESSAGE value="inheryItems" />
@@ -590,6 +582,13 @@
     <MESSAGE value="clasa CiagnikSidlowy" />
     <MESSAGE value="metoda rozpoczniejJazde" />
     <MESSAGE value="klasa główna" />
-    <option name="LAST_COMMIT_MESSAGE" value="klasa główna" />
+    <MESSAGE value="klasa zwierzak" />
+    <MESSAGE value="prywatne pola" />
+    <MESSAGE value="Konstruktor" />
+    <MESSAGE value="setter" />
+    <MESSAGE value="metoda setWaga" />
+    <MESSAGE value="inkrementcaja" />
+    <MESSAGE value="metoda show" />
+    <option name="LAST_COMMIT_MESSAGE" value="metoda show" />
   </component>
 </project>
