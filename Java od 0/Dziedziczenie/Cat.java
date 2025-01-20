@@ -8,3 +8,7 @@ public class Cat extends Mammal{
         this.color = colorOfCat;
         this.isIndoor = isCatIndoor;
     }
+    
+    void meow(){
+        System.out.println("Miau!");
+    }
