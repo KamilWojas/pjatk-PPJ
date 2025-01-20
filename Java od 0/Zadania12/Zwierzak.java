@@ -8,3 +8,7 @@ public class Zwierzak {
         this.name = imie;
         this.wiek = wiek;
     }
+
+    public void setWaga(int waga) {
+        this.waga = waga;
+    }
