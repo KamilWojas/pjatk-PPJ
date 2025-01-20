@@ -21,3 +21,9 @@ public class Zwierzak {
     public void incWiek(){
         this.wiek++;
     }
+
+    public void show(){
+        System.out.print("Imie " + name + "\nWiek " + wiek + "\nWaga " + waga);
+    }
+
+}
