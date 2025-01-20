@@ -12,3 +12,7 @@ public class Cat extends Mammal{
     void meow(){
         System.out.println("Miau!");
     }
+
+    void hunt(){
+        System.out.println("cat is hunting a mouse");
+    }
