@@ -22,3 +22,10 @@
          this.dateOfBirth = dateOfBirthSpecyficDog;
          this.lineage = havePedigree;
      }
+
+     public String getBreed(){
+         return this.breed;
+     }
+     public int getDateOfBirth(){
+         return this.dateOfBirth;
+     }
