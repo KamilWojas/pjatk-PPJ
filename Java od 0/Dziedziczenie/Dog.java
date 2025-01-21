@@ -15,3 +15,10 @@
      void bark(){
          System.out.println("How how motherfucker");
      }
+
+     public Dog(String nameOfSpecificDog, int dateOfBirthSpecyficDog,
+                boolean havePedigree){
+         this.breed = nameOfSpecificDog;
+         this.dateOfBirth = dateOfBirthSpecyficDog;
+         this.lineage = havePedigree;
+     }
