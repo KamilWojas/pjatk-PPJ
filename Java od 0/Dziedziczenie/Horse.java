@@ -1,8 +1,7 @@
  class Horse extends Animal {
 
-    void sleap(){
-        System.out.println("Spij jak koń");
-    }
+     void stable(){
+         String [] stable = {"Koń zbyszek", "Koń Staszek", "Koń Janusz"};
+         System.out.println(Arrays.toString(stable));
 
-
-}
+     }
