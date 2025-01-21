@@ -1,9 +1,9 @@
  class Dog extends Mummal{
 
-    void bark(){
-    }
+     private String breed;
+     private String name;
+     private int dateOfBirth;
+     private boolean lineage;
 
-    void race(){
-        
-    }
-}
+     String[] dogBreeds = {"Mops", "Dalmatyńczyk", "Golden Retriever ", "Labrador",
+             "Basenji" };
