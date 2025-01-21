@@ -18,3 +18,17 @@ public class Osoba {
         this.nrPesel = nrPeselKonkretnejOsby;
         liczbaOsobWsystemie++;
     }
+
+    public Osoba(String imieKonkretnejOsoby
+            , String nazwiskoKonkrentejOosby
+            , int rokUrodzeniaKonkrentejOsoby,
+                 int rokSmierciKonkretnejOsoby,
+                 float nrPeselKonkretnejOsoby) {
+
+        this.imie = imieKonkretnejOsoby;
+        this.nazwisko = nazwiskoKonkrentejOosby;
+        this.rokUrodzenia = rokUrodzeniaKonkrentejOsoby;
+        this.rokSmierci = rokSmierciKonkretnejOsoby;
+        this.nrPesel = nrPeselKonkretnejOsoby;
+        liczbaOsobWsystemie++;
+    }
