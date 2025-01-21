@@ -5,3 +5,9 @@
          System.out.println(Arrays.toString(stable));
 
      }
+
+     @Override
+     void sleap() {
+         System.out.println("Śpij jak koń");
+     }
+ }
