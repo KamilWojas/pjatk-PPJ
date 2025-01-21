@@ -32,3 +32,12 @@ public class Osoba {
         this.nrPesel = nrPeselKonkretnejOsoby;
         liczbaOsobWsystemie++;
     }
+
+    public String getImie() {
+        return this.imie;
+    }
+
+    public Float getNrPesel() {
+        return this.nrPesel;
+
+    }
