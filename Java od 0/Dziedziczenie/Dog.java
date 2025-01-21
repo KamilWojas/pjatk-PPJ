@@ -29,3 +29,11 @@
      public int getDateOfBirth(){
          return this.dateOfBirth;
      }
+
+     void islineage(){
+         if (lineage){
+             System.out.println(breed + "Have lineage");
+         }else {
+             System.out.println(breed + "dont have lineage");
+         }
+     }
