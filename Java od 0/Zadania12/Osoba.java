@@ -41,3 +41,12 @@ public class Osoba {
         return this.nrPesel;
 
     }
+
+    public int obliczWiek(){
+        if (rokSmierci != 0){
+            return rokSmierci - rokUrodzenia;
+        }else {
+            return 2024 - rokUrodzenia;
+        }
+
+    }
