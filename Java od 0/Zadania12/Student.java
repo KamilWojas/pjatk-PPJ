@@ -11,3 +11,10 @@ public class Student {
     public int zwrocWiek(){
         return 2024 - rokUrodzenia;
     }
+
+    @Override
+    public String toString() {
+        return " Obiekt klasy student o danych " + imie + " " + " nazwisko " + nazwisko  + " " + "s"+eska;
+    }
+}
+
