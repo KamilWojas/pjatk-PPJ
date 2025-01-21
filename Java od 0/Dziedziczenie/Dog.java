@@ -7,3 +7,7 @@
 
      String[] dogBreeds = {"Mops", "Dalmatyńczyk", "Golden Retriever ", "Labrador",
              "Basenji" };
+
+     public Dog(){
+
+     }
