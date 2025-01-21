@@ -11,3 +11,7 @@
      public Dog(){
 
      }
+
+     void bark(){
+         System.out.println("How how motherfucker");
+     }
