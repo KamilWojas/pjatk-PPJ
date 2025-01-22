@@ -6,5 +6,8 @@ public class Main {
         studentPierwszy.nazwisko = " Brzeczyszczykiewicz";
 
         studentPierwszy.rokUrodzenia = 1999;
-        
+
+        int zmienna =  studentPierwszy.zwrocWiek();
+
+
     }
