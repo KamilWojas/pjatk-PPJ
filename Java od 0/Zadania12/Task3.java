@@ -8,4 +8,6 @@ public class Task3 extends Main {
         System.out.print("Podaj liczbę: ");
         int liczba = scanner.nextInt();
 
+        String wynik = (liczba % 2 == 0) ? "Parzysta" : "Nieparzysta";
+
     }
