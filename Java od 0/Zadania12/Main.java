@@ -9,5 +9,7 @@ public class Main {
 
         int zmienna =  studentPierwszy.zwrocWiek();
 
+        Osoba osobaPierwsza = new Osoba("Jan", "Zajac", 1975, 1975 );
+
 
     }
