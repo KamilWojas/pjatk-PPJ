@@ -5,4 +5,7 @@ public class Task3 extends Main {
 
         Scanner scanner = new Scanner(System.in);
 
+        System.out.print("Podaj liczbę: ");
+        int liczba = scanner.nextInt();
+
     }
