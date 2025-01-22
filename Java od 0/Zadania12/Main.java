@@ -12,4 +12,6 @@ public class Main {
         Osoba osobaPierwsza = new Osoba("Jan", "Zajac", 1975, 1975 );
 
 
+        Osoba osoba2 = new Osoba("Patryk", "Kowalski",
+                1989, 1988);
     }
