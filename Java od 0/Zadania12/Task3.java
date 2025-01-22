@@ -10,4 +10,6 @@ public class Task3 extends Main {
 
         String wynik = (liczba % 2 == 0) ? "Parzysta" : "Nieparzysta";
 
+        System.out.println("Liczba jest: " + wynik);
+
     }
