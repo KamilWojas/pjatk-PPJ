@@ -4,5 +4,7 @@ public class Main {
         Student studentPierwszy = new Student();
         studentPierwszy.imie = "Grzegorz";
         studentPierwszy.nazwisko = " Brzeczyszczykiewicz";
+
+        studentPierwszy.rokUrodzenia = 1999;
         
     }
