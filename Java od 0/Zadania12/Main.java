@@ -14,4 +14,8 @@ public class Main {
 
         Osoba osoba2 = new Osoba("Patryk", "Kowalski",
                 1989, 1988);
+
+        System.out.println(studentPierwszy);
+        //System.out.println(osobaPierwsza);
+        System.out.println(osoba2.getImie());
     }
