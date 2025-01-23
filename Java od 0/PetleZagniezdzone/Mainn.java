@@ -14,3 +14,6 @@ public class Mainn {
             System.out.println(line);
         }
     }
+
+    private static void triangleDrawing() {
+        System.out.println("");
