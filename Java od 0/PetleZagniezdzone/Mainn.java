@@ -9,4 +9,8 @@ public class Mainn {
             StringBuilder line = new StringBuilder("");
             for (int width = 1; width < lenght; width++) {
                 line.append("( " + lenght + ", " + width + ");");
+
+            }
+            System.out.println(line);
+        }
     }
