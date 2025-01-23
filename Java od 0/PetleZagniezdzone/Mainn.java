@@ -17,3 +17,5 @@ public class Mainn {
 
     private static void triangleDrawing() {
         System.out.println("");
+        for (int lenght = 1; lenght < 20 ; lenght = lenght * 2) {
+            StringBuilder line = new StringBuilder("");
