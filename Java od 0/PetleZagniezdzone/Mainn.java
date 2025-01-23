@@ -34,3 +34,6 @@ public class Mainn {
             }
             System.out.println(line);
         }
+
+        System.out.println("");
+        System.out.println("Rysowanie trójkata równoramiennego");
