@@ -40,3 +40,5 @@ public class Mainn {
 
         for (int lenght = 1; lenght < 10 ; lenght++) {
             StringBuilder line = new StringBuilder("");
+            for (int width = 1; width < lenght; width++) {
+                line.append("*");
