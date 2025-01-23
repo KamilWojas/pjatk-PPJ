@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="zmienna">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Main.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="wyświetlenie">
+      <change afterPath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Mainn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,31 +153,7 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="7693000" />
-    </task>
-    <task id="LOCAL-00333" summary="klasa główna">
-      <option name="closed" value="true" />
-      <created>1737323865654</created>
-      <option name="number" value="00333" />
-      <option name="presentableId" value="LOCAL-00333" />
-      <option name="project" value="LOCAL" />
-      <updated>1737323865654</updated>
-    </task>
-    <task id="LOCAL-00334" summary="klasa główna">
-      <option name="closed" value="true" />
-      <created>1737323879415</created>
-      <option name="number" value="00334" />
-      <option name="presentableId" value="LOCAL-00334" />
-      <option name="project" value="LOCAL" />
-      <updated>1737323879415</updated>
-    </task>
-    <task id="LOCAL-00335" summary="klasa główna">
-      <option name="closed" value="true" />
-      <created>1737323897656</created>
-      <option name="number" value="00335" />
-      <option name="presentableId" value="LOCAL-00335" />
-      <option name="project" value="LOCAL" />
-      <updated>1737323897656</updated>
+      <workItem from="1737251705731" duration="9044000" />
     </task>
     <task id="LOCAL-00336" summary="klasa główna">
       <option name="closed" value="true" />
@@ -546,7 +523,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737562149721</updated>
     </task>
-    <option name="localTasksCounter" value="382" />
+    <task id="LOCAL-00382" summary="zmienna">
+      <option name="closed" value="true" />
+      <created>1737562176580</created>
+      <option name="number" value="00382" />
+      <option name="presentableId" value="LOCAL-00382" />
+      <option name="project" value="LOCAL" />
+      <updated>1737562176580</updated>
+    </task>
+    <task id="LOCAL-00383" summary="zmienna">
+      <option name="closed" value="true" />
+      <created>1737562190491</created>
+      <option name="number" value="00383" />
+      <option name="presentableId" value="LOCAL-00383" />
+      <option name="project" value="LOCAL" />
+      <updated>1737562190491</updated>
+    </task>
+    <task id="LOCAL-00384" summary="wyświetlenie">
+      <option name="closed" value="true" />
+      <created>1737562210661</created>
+      <option name="number" value="00384" />
+      <option name="presentableId" value="LOCAL-00384" />
+      <option name="project" value="LOCAL" />
+      <updated>1737562210661</updated>
+    </task>
+    <option name="localTasksCounter" value="385" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tablica" />
     <MESSAGE value="metoda dog" />
     <MESSAGE value="metoda bark" />
     <MESSAGE value="konstruktor dog" />
@@ -589,6 +589,7 @@
     <MESSAGE value="Tworzenie obiektu student" />
     <MESSAGE value="rok" />
     <MESSAGE value="zmienna" />
-    <option name="LAST_COMMIT_MESSAGE" value="zmienna" />
+    <MESSAGE value="wyświetlenie" />
+    <option name="LAST_COMMIT_MESSAGE" value="wyświetlenie" />
   </component>
 </project>
