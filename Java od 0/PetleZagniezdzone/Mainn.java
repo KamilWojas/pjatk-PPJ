@@ -19,3 +19,5 @@ public class Mainn {
         System.out.println("");
         for (int lenght = 1; lenght < 20 ; lenght = lenght * 2) {
             StringBuilder line = new StringBuilder("");
+            for (int width = 1; width < lenght ; width = width * 1) {
+                line.append("*");
