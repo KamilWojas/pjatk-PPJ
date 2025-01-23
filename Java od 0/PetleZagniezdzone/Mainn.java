@@ -4,4 +4,7 @@ public class Mainn {
         drawingRectangle();
 
         triangleDrawing();
+
+        for (int lenght = 0; lenght < 20 ; lenght++) {
+            StringBuilder line = new StringBuilder("");
     }
