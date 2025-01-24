@@ -48,4 +48,6 @@ public class Mainn {
         }
     }
     
+    private static void drawingRectangle() {
+
     
