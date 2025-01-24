@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="drukowanie">
-      <change beforePath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Mainn.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/PetleZagniezdzone/Mainn.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="drukowanie" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,39 +150,7 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="9350000" />
-    </task>
-    <task id="LOCAL-00348" summary="konstruktor">
-      <option name="closed" value="true" />
-      <created>1737411115136</created>
-      <option name="number" value="00348" />
-      <option name="presentableId" value="LOCAL-00348" />
-      <option name="project" value="LOCAL" />
-      <updated>1737411115136</updated>
-    </task>
-    <task id="LOCAL-00349" summary="metoda">
-      <option name="closed" value="true" />
-      <created>1737411133146</created>
-      <option name="number" value="00349" />
-      <option name="presentableId" value="LOCAL-00349" />
-      <option name="project" value="LOCAL" />
-      <updated>1737411133146</updated>
-    </task>
-    <task id="LOCAL-00350" summary="metoda hunt">
-      <option name="closed" value="true" />
-      <created>1737411194666</created>
-      <option name="number" value="00350" />
-      <option name="presentableId" value="LOCAL-00350" />
-      <option name="project" value="LOCAL" />
-      <updated>1737411194666</updated>
-    </task>
-    <task id="LOCAL-00351" summary="metoda isCatIndoor">
-      <option name="closed" value="true" />
-      <created>1737411207794</created>
-      <option name="number" value="00351" />
-      <option name="presentableId" value="LOCAL-00351" />
-      <option name="project" value="LOCAL" />
-      <updated>1737411207794</updated>
+      <workItem from="1737251705731" duration="9998000" />
     </task>
     <task id="LOCAL-00352" summary="Tablica">
       <option name="closed" value="true" />
@@ -546,7 +512,39 @@
       <option name="project" value="LOCAL" />
       <updated>1737668262964</updated>
     </task>
-    <option name="localTasksCounter" value="397" />
+    <task id="LOCAL-00397" summary="pętla tworząca trójkąt">
+      <option name="closed" value="true" />
+      <created>1737668301332</created>
+      <option name="number" value="00397" />
+      <option name="presentableId" value="LOCAL-00397" />
+      <option name="project" value="LOCAL" />
+      <updated>1737668301332</updated>
+    </task>
+    <task id="LOCAL-00398" summary="pętla tworząca trójkąt">
+      <option name="closed" value="true" />
+      <created>1737668316934</created>
+      <option name="number" value="00398" />
+      <option name="presentableId" value="LOCAL-00398" />
+      <option name="project" value="LOCAL" />
+      <updated>1737668316934</updated>
+    </task>
+    <task id="LOCAL-00399" summary="drukowanie">
+      <option name="closed" value="true" />
+      <created>1737668333787</created>
+      <option name="number" value="00399" />
+      <option name="presentableId" value="LOCAL-00399" />
+      <option name="project" value="LOCAL" />
+      <updated>1737668333787</updated>
+    </task>
+    <task id="LOCAL-00400" summary="drukowanie">
+      <option name="closed" value="true" />
+      <created>1737668348802</created>
+      <option name="number" value="00400" />
+      <option name="presentableId" value="LOCAL-00400" />
+      <option name="project" value="LOCAL" />
+      <updated>1737668348802</updated>
+    </task>
+    <option name="localTasksCounter" value="401" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +562,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="metoda eat" />
     <MESSAGE value="konstruktor" />
     <MESSAGE value="motoda" />
     <MESSAGE value="motoda obliczWiek" />
@@ -588,6 +585,7 @@
     <MESSAGE value="zagnieżdżony for" />
     <MESSAGE value="Drukowanie" />
     <MESSAGE value="for" />
+    <MESSAGE value="pętla tworząca trójkąt" />
     <MESSAGE value="drukowanie" />
     <option name="LAST_COMMIT_MESSAGE" value="drukowanie" />
   </component>
