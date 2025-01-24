@@ -49,5 +49,8 @@ public class Mainn {
     }
     
     private static void drawingRectangle() {
+        for (int i = 0; i < 10; i++) {
+
+        }
 
     
