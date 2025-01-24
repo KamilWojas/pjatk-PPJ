@@ -6,7 +6,8 @@ public class Petla {
         for (int i = 0; i < tab.length; i++) {
             for (int j = i + 1; j < tab.length; j++) {
                 System.out.println("Różnica między tab[" + i + "] i tab[" + j + "]: " + (tab[i] - tab[j]));
-
-
-
+                
             }
+        }
+    }
+}
