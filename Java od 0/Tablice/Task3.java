@@ -12,8 +12,9 @@ public class Task3 {
 
         int i = 1;
         for (; i < 4; i++) {
-            System.out.print(tab[][]);
+            System.out.print(tab[i][i]);
 
         }
+        System.out.println(tab[i - 1][i - 1]);
     }
 }
