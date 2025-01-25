@@ -17,5 +17,6 @@ public class Task1 {
         osoby[0] = osoba1;
 
         System.out.println(osoby[0]);
+        System.out.println(osoby[1]);
     }
 }
