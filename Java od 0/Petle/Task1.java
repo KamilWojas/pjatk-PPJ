@@ -21,6 +21,7 @@ public class Task1 {
                         default -> 'f';
                     }
                     );
+            i++;
         }
     }
 }
