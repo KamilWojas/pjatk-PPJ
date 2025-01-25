@@ -11,6 +11,7 @@ public class Task4 {
             a = b;
         }
 
-
+        int b = 20;
+        System.out.println(b + " " + a + " ");
     }
 }
