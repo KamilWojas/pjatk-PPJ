@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Deklaracja warunku">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java od 0/Petle/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Petle/Task1.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task4">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Tablice/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,39 +152,7 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="14509000" />
-    </task>
-    <task id="LOCAL-00381" summary="zmienna">
-      <option name="closed" value="true" />
-      <created>1737562149721</created>
-      <option name="number" value="00381" />
-      <option name="presentableId" value="LOCAL-00381" />
-      <option name="project" value="LOCAL" />
-      <updated>1737562149721</updated>
-    </task>
-    <task id="LOCAL-00382" summary="zmienna">
-      <option name="closed" value="true" />
-      <created>1737562176580</created>
-      <option name="number" value="00382" />
-      <option name="presentableId" value="LOCAL-00382" />
-      <option name="project" value="LOCAL" />
-      <updated>1737562176580</updated>
-    </task>
-    <task id="LOCAL-00383" summary="zmienna">
-      <option name="closed" value="true" />
-      <created>1737562190491</created>
-      <option name="number" value="00383" />
-      <option name="presentableId" value="LOCAL-00383" />
-      <option name="project" value="LOCAL" />
-      <updated>1737562190491</updated>
-    </task>
-    <task id="LOCAL-00384" summary="wyświetlenie">
-      <option name="closed" value="true" />
-      <created>1737562210661</created>
-      <option name="number" value="00384" />
-      <option name="presentableId" value="LOCAL-00384" />
-      <option name="project" value="LOCAL" />
-      <updated>1737562210661</updated>
+      <workItem from="1737251705731" duration="14869000" />
     </task>
     <task id="LOCAL-00385" summary="Mainn">
       <option name="closed" value="true" />
@@ -548,7 +514,39 @@
       <option name="project" value="LOCAL" />
       <updated>1737842132867</updated>
     </task>
-    <option name="localTasksCounter" value="430" />
+    <task id="LOCAL-00430" summary="Task4">
+      <option name="closed" value="true" />
+      <created>1737848476108</created>
+      <option name="number" value="00430" />
+      <option name="presentableId" value="LOCAL-00430" />
+      <option name="project" value="LOCAL" />
+      <updated>1737848476108</updated>
+    </task>
+    <task id="LOCAL-00431" summary="Task4">
+      <option name="closed" value="true" />
+      <created>1737848508495</created>
+      <option name="number" value="00431" />
+      <option name="presentableId" value="LOCAL-00431" />
+      <option name="project" value="LOCAL" />
+      <updated>1737848508495</updated>
+    </task>
+    <task id="LOCAL-00432" summary="Task4">
+      <option name="closed" value="true" />
+      <created>1737848569691</created>
+      <option name="number" value="00432" />
+      <option name="presentableId" value="LOCAL-00432" />
+      <option name="project" value="LOCAL" />
+      <updated>1737848569691</updated>
+    </task>
+    <task id="LOCAL-00433" summary="Task4">
+      <option name="closed" value="true" />
+      <created>1737848629200</created>
+      <option name="number" value="00433" />
+      <option name="presentableId" value="LOCAL-00433" />
+      <option name="project" value="LOCAL" />
+      <updated>1737848629200</updated>
+    </task>
+    <option name="localTasksCounter" value="434" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tworzenie obiektu student" />
     <MESSAGE value="rok" />
     <MESSAGE value="zmienna" />
     <MESSAGE value="wyświetlenie" />
@@ -591,6 +588,7 @@
     <MESSAGE value="Deklaracja talicy" />
     <MESSAGE value="Petla switch" />
     <MESSAGE value="Deklaracja warunku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deklaracja warunku" />
+    <MESSAGE value="Task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task4" />
   </component>
 </project>
