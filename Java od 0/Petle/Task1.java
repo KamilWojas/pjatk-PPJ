@@ -13,7 +13,7 @@ public class Task1 {
                     break;
                 default:
                     System.out.print('c');
-            }
+            } 
             System.out.print(
                     switch (i % 3) {
                         case 0 -> 'd';

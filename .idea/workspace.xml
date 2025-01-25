@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Deklaracja talicy">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Petle/Task1.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Deklaracja warunku">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java od 0/Petle/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Petle/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,55 +154,7 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="12925000" />
-    </task>
-    <task id="LOCAL-00375" summary="Operator warunkowy">
-      <option name="closed" value="true" />
-      <created>1737561917704</created>
-      <option name="number" value="00375" />
-      <option name="presentableId" value="LOCAL-00375" />
-      <option name="project" value="LOCAL" />
-      <updated>1737561917704</updated>
-    </task>
-    <task id="LOCAL-00376" summary="Wyświetlenie wyniku">
-      <option name="closed" value="true" />
-      <created>1737561933983</created>
-      <option name="number" value="00376" />
-      <option name="presentableId" value="LOCAL-00376" />
-      <option name="project" value="LOCAL" />
-      <updated>1737561933983</updated>
-    </task>
-    <task id="LOCAL-00377" summary="Mainn">
-      <option name="closed" value="true" />
-      <created>1737561977569</created>
-      <option name="number" value="00377" />
-      <option name="presentableId" value="LOCAL-00377" />
-      <option name="project" value="LOCAL" />
-      <updated>1737561977569</updated>
-    </task>
-    <task id="LOCAL-00378" summary="Klasa main">
-      <option name="closed" value="true" />
-      <created>1737562010243</created>
-      <option name="number" value="00378" />
-      <option name="presentableId" value="LOCAL-00378" />
-      <option name="project" value="LOCAL" />
-      <updated>1737562010243</updated>
-    </task>
-    <task id="LOCAL-00379" summary="Tworzenie obiektu student">
-      <option name="closed" value="true" />
-      <created>1737562032600</created>
-      <option name="number" value="00379" />
-      <option name="presentableId" value="LOCAL-00379" />
-      <option name="project" value="LOCAL" />
-      <updated>1737562032600</updated>
-    </task>
-    <task id="LOCAL-00380" summary="rok">
-      <option name="closed" value="true" />
-      <created>1737562060202</created>
-      <option name="number" value="00380" />
-      <option name="presentableId" value="LOCAL-00380" />
-      <option name="project" value="LOCAL" />
-      <updated>1737562060202</updated>
+      <workItem from="1737251705731" duration="14509000" />
     </task>
     <task id="LOCAL-00381" summary="zmienna">
       <option name="closed" value="true" />
@@ -546,7 +500,55 @@
       <option name="project" value="LOCAL" />
       <updated>1737841966642</updated>
     </task>
-    <option name="localTasksCounter" value="424" />
+    <task id="LOCAL-00424" summary="Deklaracja talicy">
+      <option name="closed" value="true" />
+      <created>1737842003605</created>
+      <option name="number" value="00424" />
+      <option name="presentableId" value="LOCAL-00424" />
+      <option name="project" value="LOCAL" />
+      <updated>1737842003605</updated>
+    </task>
+    <task id="LOCAL-00425" summary="Petla switch">
+      <option name="closed" value="true" />
+      <created>1737842034818</created>
+      <option name="number" value="00425" />
+      <option name="presentableId" value="LOCAL-00425" />
+      <option name="project" value="LOCAL" />
+      <updated>1737842034818</updated>
+    </task>
+    <task id="LOCAL-00426" summary="Deklaracja warunku">
+      <option name="closed" value="true" />
+      <created>1737842062226</created>
+      <option name="number" value="00426" />
+      <option name="presentableId" value="LOCAL-00426" />
+      <option name="project" value="LOCAL" />
+      <updated>1737842062226</updated>
+    </task>
+    <task id="LOCAL-00427" summary="Deklaracja warunku">
+      <option name="closed" value="true" />
+      <created>1737842100649</created>
+      <option name="number" value="00427" />
+      <option name="presentableId" value="LOCAL-00427" />
+      <option name="project" value="LOCAL" />
+      <updated>1737842100649</updated>
+    </task>
+    <task id="LOCAL-00428" summary="Deklaracja warunku">
+      <option name="closed" value="true" />
+      <created>1737842117065</created>
+      <option name="number" value="00428" />
+      <option name="presentableId" value="LOCAL-00428" />
+      <option name="project" value="LOCAL" />
+      <updated>1737842117065</updated>
+    </task>
+    <task id="LOCAL-00429" summary="Deklaracja warunku">
+      <option name="closed" value="true" />
+      <created>1737842132867</created>
+      <option name="number" value="00429" />
+      <option name="presentableId" value="LOCAL-00429" />
+      <option name="project" value="LOCAL" />
+      <updated>1737842132867</updated>
+    </task>
+    <option name="localTasksCounter" value="430" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,8 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Wyświetlenie wyniku" />
-    <MESSAGE value="Klasa main" />
     <MESSAGE value="Tworzenie obiektu student" />
     <MESSAGE value="rok" />
     <MESSAGE value="zmienna" />
@@ -589,6 +589,8 @@
     <MESSAGE value="Zad1" />
     <MESSAGE value="Task2" />
     <MESSAGE value="Deklaracja talicy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deklaracja talicy" />
+    <MESSAGE value="Petla switch" />
+    <MESSAGE value="Deklaracja warunku" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deklaracja warunku" />
   </component>
 </project>
