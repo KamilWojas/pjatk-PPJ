@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pętla zewnętrzna">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Petle/Petla.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Petle/Petla.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Drukowanie">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,31 +152,7 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="10294000" />
-    </task>
-    <task id="LOCAL-00362" summary="klasa główna">
-      <option name="closed" value="true" />
-      <created>1737499755288</created>
-      <option name="number" value="00362" />
-      <option name="presentableId" value="LOCAL-00362" />
-      <option name="project" value="LOCAL" />
-      <updated>1737499755288</updated>
-    </task>
-    <task id="LOCAL-00363" summary="klasa główna">
-      <option name="closed" value="true" />
-      <created>1737499788172</created>
-      <option name="number" value="00363" />
-      <option name="presentableId" value="LOCAL-00363" />
-      <option name="project" value="LOCAL" />
-      <updated>1737499788172</updated>
-    </task>
-    <task id="LOCAL-00364" summary="konstruktor">
-      <option name="closed" value="true" />
-      <created>1737499806571</created>
-      <option name="number" value="00364" />
-      <option name="presentableId" value="LOCAL-00364" />
-      <option name="project" value="LOCAL" />
-      <updated>1737499806571</updated>
+      <workItem from="1737251705731" duration="11090000" />
     </task>
     <task id="LOCAL-00365" summary="konstruktor">
       <option name="closed" value="true" />
@@ -546,7 +522,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737757538809</updated>
     </task>
-    <option name="localTasksCounter" value="411" />
+    <task id="LOCAL-00411" summary="Pętla wewnętrzna">
+      <option name="closed" value="true" />
+      <created>1737757563861</created>
+      <option name="number" value="00411" />
+      <option name="presentableId" value="LOCAL-00411" />
+      <option name="project" value="LOCAL" />
+      <updated>1737757563861</updated>
+    </task>
+    <task id="LOCAL-00412" summary="Drukowanie">
+      <option name="closed" value="true" />
+      <created>1737757597819</created>
+      <option name="number" value="00412" />
+      <option name="presentableId" value="LOCAL-00412" />
+      <option name="project" value="LOCAL" />
+      <updated>1737757597819</updated>
+    </task>
+    <task id="LOCAL-00413" summary="Drukowanie">
+      <option name="closed" value="true" />
+      <created>1737757625364</created>
+      <option name="number" value="00413" />
+      <option name="presentableId" value="LOCAL-00413" />
+      <option name="project" value="LOCAL" />
+      <updated>1737757625364</updated>
+    </task>
+    <option name="localTasksCounter" value="414" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="przeciążenie metody" />
     <MESSAGE value="Klasa task3" />
     <MESSAGE value="Scanner" />
     <MESSAGE value="Pobranie liczby od użytkownika" />
@@ -579,7 +578,6 @@
     <MESSAGE value="zagnieższony for" />
     <MESSAGE value="metoda triangleDrawing" />
     <MESSAGE value="zagnieżdżony for" />
-    <MESSAGE value="Drukowanie" />
     <MESSAGE value="for" />
     <MESSAGE value="pętla tworząca trójkąt" />
     <MESSAGE value="drukowanie" />
@@ -589,6 +587,8 @@
     <MESSAGE value="Petla" />
     <MESSAGE value="Tablica" />
     <MESSAGE value="Pętla zewnętrzna" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pętla zewnętrzna" />
+    <MESSAGE value="Pętla wewnętrzna" />
+    <MESSAGE value="Drukowanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Drukowanie" />
   </component>
 </project>
