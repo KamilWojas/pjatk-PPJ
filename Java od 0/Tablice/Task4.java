@@ -15,8 +15,9 @@ public class Task4 {
             FileInputStram fis = new FileInputStream("out.bin");
             int = tmp;
             while ((tmp = fis.read()) != -1){
-                
+                System.out.print(tmp);
             }
+            fis.close();
         }
     }
 }
