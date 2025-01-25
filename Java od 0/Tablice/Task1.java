@@ -9,5 +9,11 @@ public class Task1 {
         String osoba2 = "Kasia";
         String osoba3 = "Darek";
         String osoba4 = "Jan";
+
+        String[] osoby = new String[4];
+
+        System.out.println(osoby.length);
+
+        osoby[0] = osoba1;
     }
 }
