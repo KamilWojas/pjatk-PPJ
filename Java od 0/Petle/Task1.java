@@ -20,7 +20,7 @@ public class Task1 {
                         case 1 -> 'e';
                         default -> 'f';
                     }
-                    );
+            );
             i++;
         }
     }
