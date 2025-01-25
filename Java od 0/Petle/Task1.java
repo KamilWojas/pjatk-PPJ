@@ -14,8 +14,13 @@ public class Task1 {
                 default:
                     System.out.print('c');
             }
-            }
-                
+            System.out.print(
+                    switch (i % 3) {
+                        case 0 -> 'd';
+                        case 1 -> 'e';
+                        default -> 'f';
+                    }
+                    );
         }
     }
 }
