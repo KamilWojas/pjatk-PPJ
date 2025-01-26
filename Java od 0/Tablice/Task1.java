@@ -21,5 +21,13 @@ public class Task1 {
 
         osoby[2] = osoba3; //nadpisanie
         System.out.println(osoby[2]);
+
+        int[] arryOfInt = new int[2];
+        arryOfInt[0] = 1;
+        arryOfInt[3] = 3;
+        double[] arrayOfDouble = new double[0];
+        arrayOfDouble[22] = 1.5;
+        arrayOfDouble[2] = 22.3;
+        
     }
 }
