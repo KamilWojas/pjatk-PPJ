@@ -18,5 +18,8 @@ public class Task1 {
 
         System.out.println(osoby[0]);
         System.out.println(osoby[1]);
+
+        osoby[2] = osoba3; //nadpisanie
+        System.out.println(osoby[2]);
     }
 }

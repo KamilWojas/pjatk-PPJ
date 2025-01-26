@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task4">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Tablice/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Tablice/Task4.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,47 +150,7 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="15169000" />
-    </task>
-    <task id="LOCAL-00390" summary="metoda triangleDrawing">
-      <option name="closed" value="true" />
-      <created>1737668134750</created>
-      <option name="number" value="00390" />
-      <option name="presentableId" value="LOCAL-00390" />
-      <option name="project" value="LOCAL" />
-      <updated>1737668134750</updated>
-    </task>
-    <task id="LOCAL-00391" summary="for">
-      <option name="closed" value="true" />
-      <created>1737668153806</created>
-      <option name="number" value="00391" />
-      <option name="presentableId" value="LOCAL-00391" />
-      <option name="project" value="LOCAL" />
-      <updated>1737668153806</updated>
-    </task>
-    <task id="LOCAL-00392" summary="zagnieżdżony for">
-      <option name="closed" value="true" />
-      <created>1737668182383</created>
-      <option name="number" value="00392" />
-      <option name="presentableId" value="LOCAL-00392" />
-      <option name="project" value="LOCAL" />
-      <updated>1737668182383</updated>
-    </task>
-    <task id="LOCAL-00393" summary="Drukowanie">
-      <option name="closed" value="true" />
-      <created>1737668203791</created>
-      <option name="number" value="00393" />
-      <option name="presentableId" value="LOCAL-00393" />
-      <option name="project" value="LOCAL" />
-      <updated>1737668203791</updated>
-    </task>
-    <task id="LOCAL-00394" summary="for">
-      <option name="closed" value="true" />
-      <created>1737668225863</created>
-      <option name="number" value="00394" />
-      <option name="presentableId" value="LOCAL-00394" />
-      <option name="project" value="LOCAL" />
-      <updated>1737668225863</updated>
+      <workItem from="1737251705731" duration="15504000" />
     </task>
     <task id="LOCAL-00395" summary="drukowanie">
       <option name="closed" value="true" />
@@ -546,7 +504,47 @@
       <option name="project" value="LOCAL" />
       <updated>1737849073779</updated>
     </task>
-    <option name="localTasksCounter" value="439" />
+    <task id="LOCAL-00439" summary="Deklaracja tablicy">
+      <option name="closed" value="true" />
+      <created>1737849139205</created>
+      <option name="number" value="00439" />
+      <option name="presentableId" value="LOCAL-00439" />
+      <option name="project" value="LOCAL" />
+      <updated>1737849139205</updated>
+    </task>
+    <task id="LOCAL-00440" summary="Task4">
+      <option name="closed" value="true" />
+      <created>1737849195953</created>
+      <option name="number" value="00440" />
+      <option name="presentableId" value="LOCAL-00440" />
+      <option name="project" value="LOCAL" />
+      <updated>1737849195953</updated>
+    </task>
+    <task id="LOCAL-00441" summary="Task4">
+      <option name="closed" value="true" />
+      <created>1737849275014</created>
+      <option name="number" value="00441" />
+      <option name="presentableId" value="LOCAL-00441" />
+      <option name="project" value="LOCAL" />
+      <updated>1737849275014</updated>
+    </task>
+    <task id="LOCAL-00442" summary="Task4">
+      <option name="closed" value="true" />
+      <created>1737849361854</created>
+      <option name="number" value="00442" />
+      <option name="presentableId" value="LOCAL-00442" />
+      <option name="project" value="LOCAL" />
+      <updated>1737849361854</updated>
+    </task>
+    <task id="LOCAL-00443" summary="Task4">
+      <option name="closed" value="true" />
+      <created>1737849391100</created>
+      <option name="number" value="00443" />
+      <option name="presentableId" value="LOCAL-00443" />
+      <option name="project" value="LOCAL" />
+      <updated>1737849391100</updated>
+    </task>
+    <option name="localTasksCounter" value="444" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +562,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rok" />
     <MESSAGE value="zmienna" />
     <MESSAGE value="wyświetlenie" />
     <MESSAGE value="Mainn" />
@@ -588,6 +585,7 @@
     <MESSAGE value="Deklaracja talicy" />
     <MESSAGE value="Petla switch" />
     <MESSAGE value="Deklaracja warunku" />
+    <MESSAGE value="Deklaracja tablicy" />
     <MESSAGE value="Task4" />
     <option name="LAST_COMMIT_MESSAGE" value="Task4" />
   </component>
