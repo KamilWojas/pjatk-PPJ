@@ -11,5 +11,7 @@ public class Task5 {
         fos.close();
 
         System.out.println(260 % 256);
+
+        FileInputStream fis = new FileInputStream("out.bin");
     }
 }
