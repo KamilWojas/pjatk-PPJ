@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Petla while">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task5.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task6">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,23 +153,7 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="18397000" />
-    </task>
-    <task id="LOCAL-00410" summary="Pętla zewnętrzna">
-      <option name="closed" value="true" />
-      <created>1737757538809</created>
-      <option name="number" value="00410" />
-      <option name="presentableId" value="LOCAL-00410" />
-      <option name="project" value="LOCAL" />
-      <updated>1737757538809</updated>
-    </task>
-    <task id="LOCAL-00411" summary="Pętla wewnętrzna">
-      <option name="closed" value="true" />
-      <created>1737757563861</created>
-      <option name="number" value="00411" />
-      <option name="presentableId" value="LOCAL-00411" />
-      <option name="project" value="LOCAL" />
-      <updated>1737757563861</updated>
+      <workItem from="1737251705731" duration="19051000" />
     </task>
     <task id="LOCAL-00412" summary="Drukowanie">
       <option name="closed" value="true" />
@@ -546,7 +531,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738017340488</updated>
     </task>
-    <option name="localTasksCounter" value="459" />
+    <task id="LOCAL-00459" summary="Petla while">
+      <option name="closed" value="true" />
+      <created>1738017382067</created>
+      <option name="number" value="00459" />
+      <option name="presentableId" value="LOCAL-00459" />
+      <option name="project" value="LOCAL" />
+      <updated>1738017382067</updated>
+    </task>
+    <task id="LOCAL-00460" summary="Task6">
+      <option name="closed" value="true" />
+      <created>1738017415839</created>
+      <option name="number" value="00460" />
+      <option name="presentableId" value="LOCAL-00460" />
+      <option name="project" value="LOCAL" />
+      <updated>1738017415839</updated>
+    </task>
+    <option name="localTasksCounter" value="461" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="for" />
     <MESSAGE value="pętla tworząca trójkąt" />
     <MESSAGE value="drukowanie" />
     <MESSAGE value="Klasa drawingRectangle" />
@@ -589,6 +589,7 @@
     <MESSAGE value="pętla for" />
     <MESSAGE value="task5" />
     <MESSAGE value="Petla while" />
-    <option name="LAST_COMMIT_MESSAGE" value="Petla while" />
+    <MESSAGE value="Task6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task6" />
   </component>
 </project>
