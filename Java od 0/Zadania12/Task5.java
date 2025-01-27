@@ -13,5 +13,7 @@ public class Task5 {
         System.out.println(260 % 256);
 
         FileInputStream fis = new FileInputStream("out.bin");
+
+        int tmp;
     }
 }
