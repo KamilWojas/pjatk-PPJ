@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="nadpisanie osoby" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,15 +152,7 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="15854000" />
-    </task>
-    <task id="LOCAL-00396" summary="drukowanie">
-      <option name="closed" value="true" />
-      <created>1737668262964</created>
-      <option name="number" value="00396" />
-      <option name="presentableId" value="LOCAL-00396" />
-      <option name="project" value="LOCAL" />
-      <updated>1737668262964</updated>
+      <workItem from="1737251705731" duration="16685000" />
     </task>
     <task id="LOCAL-00397" summary="pętla tworząca trójkąt">
       <option name="closed" value="true" />
@@ -544,7 +538,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737849619060</updated>
     </task>
-    <option name="localTasksCounter" value="445" />
+    <task id="LOCAL-00445" summary="Task4">
+      <option name="closed" value="true" />
+      <created>1737850049723</created>
+      <option name="number" value="00445" />
+      <option name="presentableId" value="LOCAL-00445" />
+      <option name="project" value="LOCAL" />
+      <updated>1737850049723</updated>
+    </task>
+    <option name="localTasksCounter" value="446" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,8 +587,8 @@
     <MESSAGE value="Petla switch" />
     <MESSAGE value="Deklaracja warunku" />
     <MESSAGE value="Deklaracja tablicy" />
-    <MESSAGE value="Task4" />
     <MESSAGE value="nadpisanie osoby" />
-    <option name="LAST_COMMIT_MESSAGE" value="nadpisanie osoby" />
+    <MESSAGE value="Task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task4" />
   </component>
 </project>

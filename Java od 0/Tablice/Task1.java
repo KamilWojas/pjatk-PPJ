@@ -13,6 +13,7 @@ public class Task1 {
         String[] osoby = new String[4];
 
         System.out.println(osoby.length);
+        
 
         osoby[0] = osoba1;
 
