@@ -12,5 +12,8 @@ public class Task7 {
         int i = 1;
         for (; i < 4; i++) {
 
+            System.out.print(tab[i][i]);
+
+        }
     }
 }
