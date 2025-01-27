@@ -5,6 +5,8 @@ public class Task5 {
         int[] arr = { 0b11111111, 0401, 514, 0x203 };
 
         FileOutputStream fos = new FileOutputStream("out.bin");
+        for (int i = arr.length - 1; i >= 0; i--) {
 
-    }
+
+        }
 }
