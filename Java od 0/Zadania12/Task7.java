@@ -15,5 +15,6 @@ public class Task7 {
             System.out.print(tab[i][i]);
 
         }
+        System.out.print(tab[i - 1]);
     }
 }
