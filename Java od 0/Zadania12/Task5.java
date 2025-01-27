@@ -6,7 +6,8 @@ public class Task5 {
 
         FileOutputStream fos = new FileOutputStream("out.bin");
         for (int i = arr.length - 1; i >= 0; i--) {
-
+            fos.write(arr[i]);
 
         }
+    }
 }
