@@ -9,5 +9,7 @@ public class Task5 {
             fos.write(arr[i]);
         }
         fos.close();
+
+        System.out.println(260 % 256);
     }
 }
