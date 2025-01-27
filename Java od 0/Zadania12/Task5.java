@@ -17,6 +17,8 @@ public class Task5 {
         int tmp;
 
         while ((tmp = fis.read()) != -1) {
+            System.out.print(tmp);
         }
+        fis.close();
     }
 }
