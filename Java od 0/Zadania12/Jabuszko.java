@@ -8,4 +8,10 @@ class Jabuszko{
         this.robaczek = Math.random() < 0.5 ? true : false;
         validate();
     }
+
+    private void validate(){
+        if (robaczek){
+            throw new RobaczekException();
+        }
+    }
 }
