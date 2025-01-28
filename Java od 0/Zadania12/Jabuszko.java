@@ -1,5 +1,5 @@
 class Jabuszko{
-
+    
     private String location;
     private boolean robaczek;
 
@@ -11,7 +11,17 @@ class Jabuszko{
 
     private void validate(){
         if (robaczek){
-            throw new RobaczekException();
+            throw new RobaczekException("A ja już nie mogę! Już dosyć! basta");
         }
     }
 }
+
+    class RobaczekException extends RuntimeException{
+      public RobaczekException(String message){
+        super(message);
+    }
+}
+
+ public class Task03{
+    
+ }
