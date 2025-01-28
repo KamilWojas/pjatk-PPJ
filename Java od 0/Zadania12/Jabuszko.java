@@ -23,5 +23,7 @@ class Jabuszko{
 }
 
  public class Task03{
-    
+     public static void main(String[] args) {
+      new Jabuszko("Sad")
+     }
  }
