@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task6">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task7.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task7">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Jabuszko.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,55 +153,8 @@
       <workItem from="1731611558506" duration="15575000" />
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
-      <workItem from="1737251705731" duration="19051000" />
-    </task>
-    <task id="LOCAL-00412" summary="Drukowanie">
-      <option name="closed" value="true" />
-      <created>1737757597819</created>
-      <option name="number" value="00412" />
-      <option name="presentableId" value="LOCAL-00412" />
-      <option name="project" value="LOCAL" />
-      <updated>1737757597819</updated>
-    </task>
-    <task id="LOCAL-00413" summary="Drukowanie">
-      <option name="closed" value="true" />
-      <created>1737757625364</created>
-      <option name="number" value="00413" />
-      <option name="presentableId" value="LOCAL-00413" />
-      <option name="project" value="LOCAL" />
-      <updated>1737757625364</updated>
-    </task>
-    <task id="LOCAL-00414" summary="Tablice">
-      <option name="closed" value="true" />
-      <created>1737816835464</created>
-      <option name="number" value="00414" />
-      <option name="presentableId" value="LOCAL-00414" />
-      <option name="project" value="LOCAL" />
-      <updated>1737816835464</updated>
-    </task>
-    <task id="LOCAL-00415" summary="Tablice">
-      <option name="closed" value="true" />
-      <created>1737816921045</created>
-      <option name="number" value="00415" />
-      <option name="presentableId" value="LOCAL-00415" />
-      <option name="project" value="LOCAL" />
-      <updated>1737816921045</updated>
-    </task>
-    <task id="LOCAL-00416" summary="Tablice">
-      <option name="closed" value="true" />
-      <created>1737816987508</created>
-      <option name="number" value="00416" />
-      <option name="presentableId" value="LOCAL-00416" />
-      <option name="project" value="LOCAL" />
-      <updated>1737816987508</updated>
-    </task>
-    <task id="LOCAL-00417" summary="Tablice">
-      <option name="closed" value="true" />
-      <created>1737817067460</created>
-      <option name="number" value="00417" />
-      <option name="presentableId" value="LOCAL-00417" />
-      <option name="project" value="LOCAL" />
-      <updated>1737817067460</updated>
+      <workItem from="1737251705731" duration="20458000" />
+      <workItem from="1738091843012" duration="630000" />
     </task>
     <task id="LOCAL-00418" summary="Tablice">
       <option name="closed" value="true" />
@@ -547,7 +500,55 @@
       <option name="project" value="LOCAL" />
       <updated>1738017415839</updated>
     </task>
-    <option name="localTasksCounter" value="461" />
+    <task id="LOCAL-00461" summary="Task7">
+      <option name="closed" value="true" />
+      <created>1738019209511</created>
+      <option name="number" value="00461" />
+      <option name="presentableId" value="LOCAL-00461" />
+      <option name="project" value="LOCAL" />
+      <updated>1738019209511</updated>
+    </task>
+    <task id="LOCAL-00462" summary="Task7">
+      <option name="closed" value="true" />
+      <created>1738019228196</created>
+      <option name="number" value="00462" />
+      <option name="presentableId" value="LOCAL-00462" />
+      <option name="project" value="LOCAL" />
+      <updated>1738019228196</updated>
+    </task>
+    <task id="LOCAL-00463" summary="Deklaracja tablicy">
+      <option name="closed" value="true" />
+      <created>1738019286098</created>
+      <option name="number" value="00463" />
+      <option name="presentableId" value="LOCAL-00463" />
+      <option name="project" value="LOCAL" />
+      <updated>1738019286098</updated>
+    </task>
+    <task id="LOCAL-00464" summary="Pętla for">
+      <option name="closed" value="true" />
+      <created>1738019329312</created>
+      <option name="number" value="00464" />
+      <option name="presentableId" value="LOCAL-00464" />
+      <option name="project" value="LOCAL" />
+      <updated>1738019329312</updated>
+    </task>
+    <task id="LOCAL-00465" summary="Pętla for">
+      <option name="closed" value="true" />
+      <created>1738019368868</created>
+      <option name="number" value="00465" />
+      <option name="presentableId" value="LOCAL-00465" />
+      <option name="project" value="LOCAL" />
+      <updated>1738019368868</updated>
+    </task>
+    <task id="LOCAL-00466" summary="Task7">
+      <option name="closed" value="true" />
+      <created>1738019412939</created>
+      <option name="number" value="00466" />
+      <option name="presentableId" value="LOCAL-00466" />
+      <option name="project" value="LOCAL" />
+      <updated>1738019412939</updated>
+    </task>
+    <option name="localTasksCounter" value="467" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,8 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pętla tworząca trójkąt" />
-    <MESSAGE value="drukowanie" />
     <MESSAGE value="Klasa drawingRectangle" />
     <MESSAGE value="Pętla" />
     <MESSAGE value="Zagnieżdżona" />
@@ -584,12 +583,14 @@
     <MESSAGE value="nadpisanie osoby" />
     <MESSAGE value="Task4" />
     <MESSAGE value="Task5" />
-    <MESSAGE value="Deklaracja tablicy" />
     <MESSAGE value="Zapis do pliku" />
     <MESSAGE value="pętla for" />
     <MESSAGE value="task5" />
     <MESSAGE value="Petla while" />
     <MESSAGE value="Task6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task6" />
+    <MESSAGE value="Deklaracja tablicy" />
+    <MESSAGE value="Pętla for" />
+    <MESSAGE value="Task7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task7" />
   </component>
 </project>
