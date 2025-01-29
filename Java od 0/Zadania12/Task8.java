@@ -18,6 +18,10 @@ class Skrzynia{
     public PustaSkrzyniaException(String message){
         super(message);
     }
+}
 
-
-        }
+ public class Task8 {
+     public static void main(String[] args) {
+         new Skrzynia("Znalazłeś skarb");
+     }
+}
