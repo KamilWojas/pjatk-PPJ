@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyjatek">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/Jabuszko.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Jabuszko.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyjatek" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,23 +151,7 @@
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
-      <workItem from="1738091843012" duration="1677000" />
-    </task>
-    <task id="LOCAL-00421" summary="Task2">
-      <option name="closed" value="true" />
-      <created>1737841844581</created>
-      <option name="number" value="00421" />
-      <option name="presentableId" value="LOCAL-00421" />
-      <option name="project" value="LOCAL" />
-      <updated>1737841844581</updated>
-    </task>
-    <task id="LOCAL-00422" summary="Deklaracja talicy">
-      <option name="closed" value="true" />
-      <created>1737841908730</created>
-      <option name="number" value="00422" />
-      <option name="presentableId" value="LOCAL-00422" />
-      <option name="project" value="LOCAL" />
-      <updated>1737841908730</updated>
+      <workItem from="1738091843012" duration="2408000" />
     </task>
     <task id="LOCAL-00423" summary="Deklaracja talicy">
       <option name="closed" value="true" />
@@ -548,7 +529,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738102512535</updated>
     </task>
-    <option name="localTasksCounter" value="470" />
+    <task id="LOCAL-00470" summary="Wyjatek">
+      <option name="closed" value="true" />
+      <created>1738103927073</created>
+      <option name="number" value="00470" />
+      <option name="presentableId" value="LOCAL-00470" />
+      <option name="project" value="LOCAL" />
+      <updated>1738103927073</updated>
+    </task>
+    <task id="LOCAL-00471" summary="Wyjatek">
+      <option name="closed" value="true" />
+      <created>1738103962153</created>
+      <option name="number" value="00471" />
+      <option name="presentableId" value="LOCAL-00471" />
+      <option name="project" value="LOCAL" />
+      <updated>1738103962153</updated>
+    </task>
+    <option name="localTasksCounter" value="472" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
