@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task8">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przesłania metodę show(), aby wypisać rozmiar (size)." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,71 +151,7 @@
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
-      <workItem from="1738091843012" duration="4545000" />
-    </task>
-    <task id="LOCAL-00429" summary="Deklaracja warunku">
-      <option name="closed" value="true" />
-      <created>1737842132867</created>
-      <option name="number" value="00429" />
-      <option name="presentableId" value="LOCAL-00429" />
-      <option name="project" value="LOCAL" />
-      <updated>1737842132867</updated>
-    </task>
-    <task id="LOCAL-00430" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737848476108</created>
-      <option name="number" value="00430" />
-      <option name="presentableId" value="LOCAL-00430" />
-      <option name="project" value="LOCAL" />
-      <updated>1737848476108</updated>
-    </task>
-    <task id="LOCAL-00431" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737848508495</created>
-      <option name="number" value="00431" />
-      <option name="presentableId" value="LOCAL-00431" />
-      <option name="project" value="LOCAL" />
-      <updated>1737848508495</updated>
-    </task>
-    <task id="LOCAL-00432" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737848569691</created>
-      <option name="number" value="00432" />
-      <option name="presentableId" value="LOCAL-00432" />
-      <option name="project" value="LOCAL" />
-      <updated>1737848569691</updated>
-    </task>
-    <task id="LOCAL-00433" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737848629200</created>
-      <option name="number" value="00433" />
-      <option name="presentableId" value="LOCAL-00433" />
-      <option name="project" value="LOCAL" />
-      <updated>1737848629200</updated>
-    </task>
-    <task id="LOCAL-00434" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737848833018</created>
-      <option name="number" value="00434" />
-      <option name="presentableId" value="LOCAL-00434" />
-      <option name="project" value="LOCAL" />
-      <updated>1737848833019</updated>
-    </task>
-    <task id="LOCAL-00435" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737848863977</created>
-      <option name="number" value="00435" />
-      <option name="presentableId" value="LOCAL-00435" />
-      <option name="project" value="LOCAL" />
-      <updated>1737848863977</updated>
-    </task>
-    <task id="LOCAL-00436" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737848939117</created>
-      <option name="number" value="00436" />
-      <option name="presentableId" value="LOCAL-00436" />
-      <option name="project" value="LOCAL" />
-      <updated>1737848939117</updated>
+      <workItem from="1738091843012" duration="4794000" />
     </task>
     <task id="LOCAL-00437" summary="Task4">
       <option name="closed" value="true" />
@@ -547,7 +481,71 @@
       <option name="project" value="LOCAL" />
       <updated>1738179967573</updated>
     </task>
-    <option name="localTasksCounter" value="478" />
+    <task id="LOCAL-00478" summary="Task9">
+      <option name="closed" value="true" />
+      <created>1738188520312</created>
+      <option name="number" value="00478" />
+      <option name="presentableId" value="LOCAL-00478" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188520312</updated>
+    </task>
+    <task id="LOCAL-00479" summary="Task9">
+      <option name="closed" value="true" />
+      <created>1738188554645</created>
+      <option name="number" value="00479" />
+      <option name="presentableId" value="LOCAL-00479" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188554645</updated>
+    </task>
+    <task id="LOCAL-00480" summary="Task9">
+      <option name="closed" value="true" />
+      <created>1738188572448</created>
+      <option name="number" value="00480" />
+      <option name="presentableId" value="LOCAL-00480" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188572448</updated>
+    </task>
+    <task id="LOCAL-00481" summary="Konstruktor + metoda show&#10;Konstruktor inicjalizuje value.&#10;Metoda show() wypisuje wartość obiektu.">
+      <option name="closed" value="true" />
+      <created>1738188638349</created>
+      <option name="number" value="00481" />
+      <option name="presentableId" value="LOCAL-00481" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188638349</updated>
+    </task>
+    <task id="LOCAL-00482" summary="Dziedziczenie">
+      <option name="closed" value="true" />
+      <created>1738188660674</created>
+      <option name="number" value="00482" />
+      <option name="presentableId" value="LOCAL-00482" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188660674</updated>
+    </task>
+    <task id="LOCAL-00483" summary="B dziedziczy z A, więc posiada value, ale dodaje swoje pole size.">
+      <option name="closed" value="true" />
+      <created>1738188692072</created>
+      <option name="number" value="00483" />
+      <option name="presentableId" value="LOCAL-00483" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188692072</updated>
+    </task>
+    <task id="LOCAL-00484" summary="Konstruktor B wywołuje super(value), czyli konstruktor A, inicjalizując value.">
+      <option name="closed" value="true" />
+      <created>1738188716653</created>
+      <option name="number" value="00484" />
+      <option name="presentableId" value="LOCAL-00484" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188716653</updated>
+    </task>
+    <task id="LOCAL-00485" summary="Przesłania metodę show(), aby wypisać rozmiar (size).">
+      <option name="closed" value="true" />
+      <created>1738188742936</created>
+      <option name="number" value="00485" />
+      <option name="presentableId" value="LOCAL-00485" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188742936</updated>
+    </task>
+    <option name="localTasksCounter" value="486" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,12 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Petla" />
-    <MESSAGE value="Tablica" />
-    <MESSAGE value="Pętla zewnętrzna" />
-    <MESSAGE value="Pętla wewnętrzna" />
-    <MESSAGE value="Drukowanie" />
-    <MESSAGE value="Tablice" />
     <MESSAGE value="Zad1" />
     <MESSAGE value="Task2" />
     <MESSAGE value="Deklaracja talicy" />
@@ -590,6 +582,12 @@
     <MESSAGE value="Jabuszko" />
     <MESSAGE value="Wyjatek" />
     <MESSAGE value="Task8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task8" />
+    <MESSAGE value="Task9" />
+    <MESSAGE value="Konstruktor + metoda show&#10;Konstruktor inicjalizuje value.&#10;Metoda show() wypisuje wartość obiektu." />
+    <MESSAGE value="Dziedziczenie" />
+    <MESSAGE value="B dziedziczy z A, więc posiada value, ale dodaje swoje pole size." />
+    <MESSAGE value="Konstruktor B wywołuje super(value), czyli konstruktor A, inicjalizując value." />
+    <MESSAGE value="Przesłania metodę show(), aby wypisać rozmiar (size)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Przesłania metodę show(), aby wypisać rozmiar (size)." />
   </component>
 </project>
