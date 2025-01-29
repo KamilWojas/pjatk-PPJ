@@ -13,6 +13,10 @@ class A {
 
 class B extends A {
 
+    private double size;
+
+}
+
 
 
 
