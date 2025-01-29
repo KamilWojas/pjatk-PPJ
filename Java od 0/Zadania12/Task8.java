@@ -14,6 +14,10 @@ class Skrzynia{
     }
 }
 
- public PustaSkrzyniaException extends RuntimeException{
+ class PustaSkrzyniaException extends RuntimeException{
+    public PustaSkrzyniaException(String message){
+        super(message);
+    }
+
 
         }
