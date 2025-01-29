@@ -14,6 +14,10 @@ class A {
 class B extends A {
 
     private double size;
+    public B(int value, double size) {
+        super(value);
+        this.size = size;
+    }
 
 }
 
