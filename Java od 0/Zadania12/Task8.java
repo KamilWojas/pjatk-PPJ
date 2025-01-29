@@ -14,4 +14,6 @@ class Skrzynia{
     }
 }
 
- 
+ public PustaSkrzyniaException extends RuntimeException{
+
+        }

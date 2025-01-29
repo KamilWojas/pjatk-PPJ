@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyjatek" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task8">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task8.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,15 +153,7 @@
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
-      <workItem from="1738091843012" duration="2782000" />
-    </task>
-    <task id="LOCAL-00424" summary="Deklaracja talicy">
-      <option name="closed" value="true" />
-      <created>1737842003605</created>
-      <option name="number" value="00424" />
-      <option name="presentableId" value="LOCAL-00424" />
-      <option name="project" value="LOCAL" />
-      <updated>1737842003605</updated>
+      <workItem from="1738091843012" duration="3102000" />
     </task>
     <task id="LOCAL-00425" summary="Petla switch">
       <option name="closed" value="true" />
@@ -545,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738179112861</updated>
     </task>
-    <option name="localTasksCounter" value="473" />
+    <task id="LOCAL-00473" summary="Task8">
+      <option name="closed" value="true" />
+      <created>1738179599337</created>
+      <option name="number" value="00473" />
+      <option name="presentableId" value="LOCAL-00473" />
+      <option name="project" value="LOCAL" />
+      <updated>1738179599337</updated>
+    </task>
+    <option name="localTasksCounter" value="474" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zagnieżdżona" />
     <MESSAGE value="Petla" />
     <MESSAGE value="Tablica" />
     <MESSAGE value="Pętla zewnętrzna" />
@@ -588,6 +589,7 @@
     <MESSAGE value="Task7" />
     <MESSAGE value="Jabuszko" />
     <MESSAGE value="Wyjatek" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wyjatek" />
+    <MESSAGE value="Task8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task8" />
   </component>
 </project>
