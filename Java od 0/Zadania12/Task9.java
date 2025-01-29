@@ -18,6 +18,11 @@ class B extends A {
         super(value);
         this.size = size;
     }
+    @Override
+    public void show() {
+        System.out.println("Klasa B, wartość: " + size);
+    }
+}
 
 }
 
