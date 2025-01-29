@@ -1,6 +1,15 @@
 
 class A {
+    
     private int value;
+    public A(int value) {
+        this.value = value;
+    }
+
+    public void show() {
+        System.out.println("Klasa A, wartość: " + value);
+    }
+}
 
 
 
