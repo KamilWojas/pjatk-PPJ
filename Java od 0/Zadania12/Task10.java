@@ -66,10 +66,10 @@ public class Main {
 
         objA.show(); 
         objB.show(); 
-        objC.show(); 
+        objC.show();
+
+        System.out.println("Wynik obliczeń B: " + objB.calculate());
+        System.out.println("Wynik obliczeń C: " + objC.calculate());
 
     }
-
-
-
 }
