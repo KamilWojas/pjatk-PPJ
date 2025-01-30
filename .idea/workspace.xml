@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przesłania metodę show(), aby wypisać rozmiar (size)." />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="objA.show() wypisze &quot;Klasa A, wartość: 10&quot;.&#10;objB.show() wypisze &quot;Klasa B, wartość: 5.5&quot;, ponieważ metoda show() w B przesłania tę z A." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,39 +151,7 @@
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
-      <workItem from="1738091843012" duration="4794000" />
-    </task>
-    <task id="LOCAL-00437" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737848985949</created>
-      <option name="number" value="00437" />
-      <option name="presentableId" value="LOCAL-00437" />
-      <option name="project" value="LOCAL" />
-      <updated>1737848985949</updated>
-    </task>
-    <task id="LOCAL-00438" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737849073779</created>
-      <option name="number" value="00438" />
-      <option name="presentableId" value="LOCAL-00438" />
-      <option name="project" value="LOCAL" />
-      <updated>1737849073779</updated>
-    </task>
-    <task id="LOCAL-00439" summary="Deklaracja tablicy">
-      <option name="closed" value="true" />
-      <created>1737849139205</created>
-      <option name="number" value="00439" />
-      <option name="presentableId" value="LOCAL-00439" />
-      <option name="project" value="LOCAL" />
-      <updated>1737849139205</updated>
-    </task>
-    <task id="LOCAL-00440" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737849195953</created>
-      <option name="number" value="00440" />
-      <option name="presentableId" value="LOCAL-00440" />
-      <option name="project" value="LOCAL" />
-      <updated>1737849195953</updated>
+      <workItem from="1738091843012" duration="5522000" />
     </task>
     <task id="LOCAL-00441" summary="Task4">
       <option name="closed" value="true" />
@@ -545,7 +513,39 @@
       <option name="project" value="LOCAL" />
       <updated>1738188742936</updated>
     </task>
-    <option name="localTasksCounter" value="486" />
+    <task id="LOCAL-00486" summary="Klasa main">
+      <option name="closed" value="true" />
+      <created>1738188770090</created>
+      <option name="number" value="00486" />
+      <option name="presentableId" value="LOCAL-00486" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188770090</updated>
+    </task>
+    <task id="LOCAL-00487" summary="Tworzymy dwa obiekty: objA (A) i objB (B).">
+      <option name="closed" value="true" />
+      <created>1738188795180</created>
+      <option name="number" value="00487" />
+      <option name="presentableId" value="LOCAL-00487" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188795180</updated>
+    </task>
+    <task id="LOCAL-00488" summary="objA.show() wypisze &quot;Klasa A, wartość: 10&quot;.&#10;objB.show() wypisze &quot;Klasa B, wartość: 5.5&quot;, ponieważ metoda show() w B przesłania tę z A.">
+      <option name="closed" value="true" />
+      <created>1738188846032</created>
+      <option name="number" value="00488" />
+      <option name="presentableId" value="LOCAL-00488" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188846032</updated>
+    </task>
+    <task id="LOCAL-00489" summary="objA.show() wypisze &quot;Klasa A, wartość: 10&quot;.&#10;objB.show() wypisze &quot;Klasa B, wartość: 5.5&quot;, ponieważ metoda show() w B przesłania tę z A.">
+      <option name="closed" value="true" />
+      <created>1738188861100</created>
+      <option name="number" value="00489" />
+      <option name="presentableId" value="LOCAL-00489" />
+      <option name="project" value="LOCAL" />
+      <updated>1738188861100</updated>
+    </task>
+    <option name="localTasksCounter" value="490" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,9 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zad1" />
-    <MESSAGE value="Task2" />
-    <MESSAGE value="Deklaracja talicy" />
     <MESSAGE value="Petla switch" />
     <MESSAGE value="Deklaracja warunku" />
     <MESSAGE value="nadpisanie osoby" />
@@ -588,6 +585,9 @@
     <MESSAGE value="B dziedziczy z A, więc posiada value, ale dodaje swoje pole size." />
     <MESSAGE value="Konstruktor B wywołuje super(value), czyli konstruktor A, inicjalizując value." />
     <MESSAGE value="Przesłania metodę show(), aby wypisać rozmiar (size)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Przesłania metodę show(), aby wypisać rozmiar (size)." />
+    <MESSAGE value="Klasa main" />
+    <MESSAGE value="Tworzymy dwa obiekty: objA (A) i objB (B)." />
+    <MESSAGE value="objA.show() wypisze &quot;Klasa A, wartość: 10&quot;.&#10;objB.show() wypisze &quot;Klasa B, wartość: 5.5&quot;, ponieważ metoda show() w B przesłania tę z A." />
+    <option name="LAST_COMMIT_MESSAGE" value="objA.show() wypisze &quot;Klasa A, wartość: 10&quot;.&#10;objB.show() wypisze &quot;Klasa B, wartość: 5.5&quot;, ponieważ metoda show() w B przesłania tę z A." />
   </component>
 </project>
