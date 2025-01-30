@@ -5,3 +5,5 @@ interface Displayable {
 interface Calculable {
     int calculate();
 }
+
+class A implements Displayable {
