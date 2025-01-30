@@ -38,5 +38,6 @@ class B extends A implements Calculable {
     }
 }
 
+class C extends B {
 
 }
