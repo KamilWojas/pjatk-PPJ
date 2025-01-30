@@ -46,5 +46,10 @@ class C extends B {
         this.name = name;
     }
 
+    @Override
+    public void show() {
+        System.out.println("Klasa C, nazwa: " + name);
+    }
+
 
 }
