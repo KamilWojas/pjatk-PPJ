@@ -41,5 +41,10 @@ class B extends A implements Calculable {
 class C extends B {
     private String name;
 
+    public C(int value, double size, String name) {
+        super(value, size);
+        this.name = name;
+    }
+
 
 }
