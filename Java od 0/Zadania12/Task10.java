@@ -19,4 +19,6 @@ class A implements Displayable {
     }
 }
 
+class B extends A implements Calculable {
+
 }
