@@ -51,5 +51,12 @@ class C extends B {
         System.out.println("Klasa C, nazwa: " + name);
     }
 
+    @Override
+    public int calculate() {
+        return super.calculate() + name.length();
+    }
+}
+
+
 
 }
