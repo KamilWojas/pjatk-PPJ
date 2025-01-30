@@ -7,3 +7,6 @@ interface Calculable {
 }
 
 class A implements Displayable {
+    private int value;
+
+}
