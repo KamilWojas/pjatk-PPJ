@@ -26,5 +26,11 @@ class B extends A implements Calculable {
         super(value);
         this.size = size;
     }
+    
+    @Override
+    public void show() {
+        System.out.println("Klasa B, wartość: " + size);
+    }
+
 
 }

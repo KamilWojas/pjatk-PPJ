@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="objA.show() wypisze &quot;Klasa A, wartość: 10&quot;.&#10;objB.show() wypisze &quot;Klasa B, wartość: 5.5&quot;, ponieważ metoda show() w B przesłania tę z A." />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Konstruktor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,79 +151,7 @@
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
-      <workItem from="1738091843012" duration="5522000" />
-    </task>
-    <task id="LOCAL-00441" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737849275014</created>
-      <option name="number" value="00441" />
-      <option name="presentableId" value="LOCAL-00441" />
-      <option name="project" value="LOCAL" />
-      <updated>1737849275014</updated>
-    </task>
-    <task id="LOCAL-00442" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737849361854</created>
-      <option name="number" value="00442" />
-      <option name="presentableId" value="LOCAL-00442" />
-      <option name="project" value="LOCAL" />
-      <updated>1737849361854</updated>
-    </task>
-    <task id="LOCAL-00443" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737849391100</created>
-      <option name="number" value="00443" />
-      <option name="presentableId" value="LOCAL-00443" />
-      <option name="project" value="LOCAL" />
-      <updated>1737849391100</updated>
-    </task>
-    <task id="LOCAL-00444" summary="nadpisanie osoby">
-      <option name="closed" value="true" />
-      <created>1737849619060</created>
-      <option name="number" value="00444" />
-      <option name="presentableId" value="LOCAL-00444" />
-      <option name="project" value="LOCAL" />
-      <updated>1737849619060</updated>
-    </task>
-    <task id="LOCAL-00445" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737850049723</created>
-      <option name="number" value="00445" />
-      <option name="presentableId" value="LOCAL-00445" />
-      <option name="project" value="LOCAL" />
-      <updated>1737850049723</updated>
-    </task>
-    <task id="LOCAL-00446" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1737995688678</created>
-      <option name="number" value="00446" />
-      <option name="presentableId" value="LOCAL-00446" />
-      <option name="project" value="LOCAL" />
-      <updated>1737995688681</updated>
-    </task>
-    <task id="LOCAL-00447" summary="Task4">
-      <option name="closed" value="true" />
-      <created>1738013240006</created>
-      <option name="number" value="00447" />
-      <option name="presentableId" value="LOCAL-00447" />
-      <option name="project" value="LOCAL" />
-      <updated>1738013240006</updated>
-    </task>
-    <task id="LOCAL-00448" summary="Task5">
-      <option name="closed" value="true" />
-      <created>1738017082845</created>
-      <option name="number" value="00448" />
-      <option name="presentableId" value="LOCAL-00448" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017082846</updated>
-    </task>
-    <task id="LOCAL-00449" summary="Task5">
-      <option name="closed" value="true" />
-      <created>1738017102650</created>
-      <option name="number" value="00449" />
-      <option name="presentableId" value="LOCAL-00449" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017102650</updated>
+      <workItem from="1738091843012" duration="5822000" />
     </task>
     <task id="LOCAL-00450" summary="Deklaracja tablicy">
       <option name="closed" value="true" />
@@ -545,7 +473,79 @@
       <option name="project" value="LOCAL" />
       <updated>1738188861100</updated>
     </task>
-    <option name="localTasksCounter" value="490" />
+    <task id="LOCAL-00490" summary="Interfejsy">
+      <option name="closed" value="true" />
+      <created>1738269790087</created>
+      <option name="number" value="00490" />
+      <option name="presentableId" value="LOCAL-00490" />
+      <option name="project" value="LOCAL" />
+      <updated>1738269790087</updated>
+    </task>
+    <task id="LOCAL-00491" summary="Interfejsy">
+      <option name="closed" value="true" />
+      <created>1738269808289</created>
+      <option name="number" value="00491" />
+      <option name="presentableId" value="LOCAL-00491" />
+      <option name="project" value="LOCAL" />
+      <updated>1738269808289</updated>
+    </task>
+    <task id="LOCAL-00492" summary="Klasa A">
+      <option name="closed" value="true" />
+      <created>1738269832344</created>
+      <option name="number" value="00492" />
+      <option name="presentableId" value="LOCAL-00492" />
+      <option name="project" value="LOCAL" />
+      <updated>1738269832344</updated>
+    </task>
+    <task id="LOCAL-00493" summary="Zmienna">
+      <option name="closed" value="true" />
+      <created>1738269879477</created>
+      <option name="number" value="00493" />
+      <option name="presentableId" value="LOCAL-00493" />
+      <option name="project" value="LOCAL" />
+      <updated>1738269879477</updated>
+    </task>
+    <task id="LOCAL-00494" summary="Konstruktor">
+      <option name="closed" value="true" />
+      <created>1738269901789</created>
+      <option name="number" value="00494" />
+      <option name="presentableId" value="LOCAL-00494" />
+      <option name="project" value="LOCAL" />
+      <updated>1738269901789</updated>
+    </task>
+    <task id="LOCAL-00495" summary="Przeciążenie metody schow">
+      <option name="closed" value="true" />
+      <created>1738269931779</created>
+      <option name="number" value="00495" />
+      <option name="presentableId" value="LOCAL-00495" />
+      <option name="project" value="LOCAL" />
+      <updated>1738269931779</updated>
+    </task>
+    <task id="LOCAL-00496" summary=" Klasa B dziedziczy po A i implementuje Calculable">
+      <option name="closed" value="true" />
+      <created>1738269956192</created>
+      <option name="number" value="00496" />
+      <option name="presentableId" value="LOCAL-00496" />
+      <option name="project" value="LOCAL" />
+      <updated>1738269956192</updated>
+    </task>
+    <task id="LOCAL-00497" summary="Zmienna double">
+      <option name="closed" value="true" />
+      <created>1738269979791</created>
+      <option name="number" value="00497" />
+      <option name="presentableId" value="LOCAL-00497" />
+      <option name="project" value="LOCAL" />
+      <updated>1738269979791</updated>
+    </task>
+    <task id="LOCAL-00498" summary="Konstruktor">
+      <option name="closed" value="true" />
+      <created>1738270002872</created>
+      <option name="number" value="00498" />
+      <option name="presentableId" value="LOCAL-00498" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270002872</updated>
+    </task>
+    <option name="localTasksCounter" value="499" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,13 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Petla switch" />
-    <MESSAGE value="Deklaracja warunku" />
-    <MESSAGE value="nadpisanie osoby" />
-    <MESSAGE value="Task4" />
-    <MESSAGE value="Task5" />
-    <MESSAGE value="Zapis do pliku" />
-    <MESSAGE value="pętla for" />
     <MESSAGE value="task5" />
     <MESSAGE value="Petla while" />
     <MESSAGE value="Task6" />
@@ -588,6 +581,13 @@
     <MESSAGE value="Klasa main" />
     <MESSAGE value="Tworzymy dwa obiekty: objA (A) i objB (B)." />
     <MESSAGE value="objA.show() wypisze &quot;Klasa A, wartość: 10&quot;.&#10;objB.show() wypisze &quot;Klasa B, wartość: 5.5&quot;, ponieważ metoda show() w B przesłania tę z A." />
-    <option name="LAST_COMMIT_MESSAGE" value="objA.show() wypisze &quot;Klasa A, wartość: 10&quot;.&#10;objB.show() wypisze &quot;Klasa B, wartość: 5.5&quot;, ponieważ metoda show() w B przesłania tę z A." />
+    <MESSAGE value="Interfejsy" />
+    <MESSAGE value="Klasa A" />
+    <MESSAGE value="Zmienna" />
+    <MESSAGE value="Przeciążenie metody schow" />
+    <MESSAGE value=" Klasa B dziedziczy po A i implementuje Calculable" />
+    <MESSAGE value="Zmienna double" />
+    <MESSAGE value="Konstruktor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Konstruktor" />
   </component>
 </project>
