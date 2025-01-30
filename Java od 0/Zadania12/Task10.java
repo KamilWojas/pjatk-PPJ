@@ -63,6 +63,11 @@ public class Main {
         A objA = new A(10);
         B objB = new B(20, 5.5);
         C objC = new C(30, 7.2, "ObiektC");
+
+        objA.show(); 
+        objB.show(); 
+        objC.show(); 
+
     }
 
 
