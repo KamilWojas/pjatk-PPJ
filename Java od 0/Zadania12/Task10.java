@@ -60,6 +60,11 @@ class C extends B {
 public class Main {
     public static void main(String[] args) {
 
+        A objA = new A(10);
+        B objB = new B(20, 5.5);
+        C objC = new C(30, 7.2, "ObiektC");
+    }
+
 
 
 }
