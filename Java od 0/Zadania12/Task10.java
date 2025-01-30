@@ -22,5 +22,9 @@ class A implements Displayable {
 class B extends A implements Calculable {
     private double size;
 
+    public B(int value, double size) {
+        super(value);
+        this.size = size;
+    }
 
 }
