@@ -13,4 +13,10 @@ class A implements Displayable {
         this.value = value;
     }
 
+    @Override
+    public void show() {
+        System.out.println("Klasa A, wartość: " + value);
+    }
+}
+
 }
