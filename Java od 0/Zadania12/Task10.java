@@ -8,5 +8,9 @@ interface Calculable {
 
 class A implements Displayable {
     private int value;
+    
+    public A(int value) {
+        this.value = value;
+    }
 
 }
