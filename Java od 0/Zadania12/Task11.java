@@ -24,5 +24,7 @@ class Pojazd implements PojazdInfo {
     }
 }
 class Samochód extends Pojazd implements Silnikowy {
+    private int liczbaDrzwi;
+
 
 }
