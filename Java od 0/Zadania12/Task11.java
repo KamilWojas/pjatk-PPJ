@@ -26,5 +26,10 @@ class Pojazd implements PojazdInfo {
 class Samochód extends Pojazd implements Silnikowy {
     private int liczbaDrzwi;
 
+    public Samochód(int maksymalnaPrędkość, int liczbaDrzwi) {
+        super(maksymalnaPrędkość);
+        this.liczbaDrzwi = liczbaDrzwi;
+    }
+
 
 }
