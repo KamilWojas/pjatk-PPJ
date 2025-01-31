@@ -50,6 +50,12 @@ class Motocykl extends Pojazd implements Silnikowy {
         this.typKierownicy = typKierownicy;
     }
 
+    @Override
+    public void pokazInformacje() {
+        System.out.println("Motocykl: maksymalna prędkość = " + getMaksymalnaPrędkość() + " km/h, typ kierownicy = " + typKierownicy);
+    }
+
+
 
 
 }
