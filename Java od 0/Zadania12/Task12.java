@@ -15,4 +15,8 @@ interface Silnikowy {
 class Pojazd implements PojazdInfo {
     private int maksymalnaPrędkość;
 
+    public Pojazd(int maksymalnaPrędkość) {
+        this.maksymalnaPrędkość = maksymalnaPrędkość;
+    }
+
 }
