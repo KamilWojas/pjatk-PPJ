@@ -31,5 +31,10 @@ class Samochód extends Pojazd implements Silnikowy {
         this.liczbaDrzwi = liczbaDrzwi;
     }
 
+    @Override
+    public void pokazInformacje() {
+        System.out.println("Samochód: maksymalna prędkość = " + getMaksymalnaPrędkość() + " km/h, liczba drzwi = " + liczbaDrzwi);
+    }
+
 
 }
