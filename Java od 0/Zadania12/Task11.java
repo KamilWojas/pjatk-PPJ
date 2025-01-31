@@ -74,8 +74,4 @@ public class Task11 {
         motor.uruchomSilnik();
 
     }
-
-
-
-
 }
