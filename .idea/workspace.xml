@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Konstruktor" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klasa główna Main do testowania" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,95 +151,7 @@
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
-      <workItem from="1738091843012" duration="5822000" />
-    </task>
-    <task id="LOCAL-00450" summary="Deklaracja tablicy">
-      <option name="closed" value="true" />
-      <created>1738017147199</created>
-      <option name="number" value="00450" />
-      <option name="presentableId" value="LOCAL-00450" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017147199</updated>
-    </task>
-    <task id="LOCAL-00451" summary="Zapis do pliku">
-      <option name="closed" value="true" />
-      <created>1738017187495</created>
-      <option name="number" value="00451" />
-      <option name="presentableId" value="LOCAL-00451" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017187495</updated>
-    </task>
-    <task id="LOCAL-00452" summary="pętla for">
-      <option name="closed" value="true" />
-      <created>1738017201047</created>
-      <option name="number" value="00452" />
-      <option name="presentableId" value="LOCAL-00452" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017201047</updated>
-    </task>
-    <task id="LOCAL-00453" summary="task5">
-      <option name="closed" value="true" />
-      <created>1738017241509</created>
-      <option name="number" value="00453" />
-      <option name="presentableId" value="LOCAL-00453" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017241509</updated>
-    </task>
-    <task id="LOCAL-00454" summary="task5">
-      <option name="closed" value="true" />
-      <created>1738017263678</created>
-      <option name="number" value="00454" />
-      <option name="presentableId" value="LOCAL-00454" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017263678</updated>
-    </task>
-    <task id="LOCAL-00455" summary="task5">
-      <option name="closed" value="true" />
-      <created>1738017278162</created>
-      <option name="number" value="00455" />
-      <option name="presentableId" value="LOCAL-00455" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017278162</updated>
-    </task>
-    <task id="LOCAL-00456" summary="task5">
-      <option name="closed" value="true" />
-      <created>1738017294503</created>
-      <option name="number" value="00456" />
-      <option name="presentableId" value="LOCAL-00456" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017294503</updated>
-    </task>
-    <task id="LOCAL-00457" summary="task5">
-      <option name="closed" value="true" />
-      <created>1738017311863</created>
-      <option name="number" value="00457" />
-      <option name="presentableId" value="LOCAL-00457" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017311863</updated>
-    </task>
-    <task id="LOCAL-00458" summary="Petla while">
-      <option name="closed" value="true" />
-      <created>1738017340488</created>
-      <option name="number" value="00458" />
-      <option name="presentableId" value="LOCAL-00458" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017340488</updated>
-    </task>
-    <task id="LOCAL-00459" summary="Petla while">
-      <option name="closed" value="true" />
-      <created>1738017382067</created>
-      <option name="number" value="00459" />
-      <option name="presentableId" value="LOCAL-00459" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017382067</updated>
-    </task>
-    <task id="LOCAL-00460" summary="Task6">
-      <option name="closed" value="true" />
-      <created>1738017415839</created>
-      <option name="number" value="00460" />
-      <option name="presentableId" value="LOCAL-00460" />
-      <option name="project" value="LOCAL" />
-      <updated>1738017415839</updated>
+      <workItem from="1738091843012" duration="6716000" />
     </task>
     <task id="LOCAL-00461" summary="Task7">
       <option name="closed" value="true" />
@@ -545,7 +457,95 @@
       <option name="project" value="LOCAL" />
       <updated>1738270002872</updated>
     </task>
-    <option name="localTasksCounter" value="499" />
+    <task id="LOCAL-00499" summary="Przeciążenie metody show">
+      <option name="closed" value="true" />
+      <created>1738270037917</created>
+      <option name="number" value="00499" />
+      <option name="presentableId" value="LOCAL-00499" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270037918</updated>
+    </task>
+    <task id="LOCAL-00500" summary="Przeciążenie metody calculate">
+      <option name="closed" value="true" />
+      <created>1738270069162</created>
+      <option name="number" value="00500" />
+      <option name="presentableId" value="LOCAL-00500" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270069162</updated>
+    </task>
+    <task id="LOCAL-00501" summary="Nowa klasa C dziedzicząca po B i implementująca oba interfejsy">
+      <option name="closed" value="true" />
+      <created>1738270099335</created>
+      <option name="number" value="00501" />
+      <option name="presentableId" value="LOCAL-00501" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270099335</updated>
+    </task>
+    <task id="LOCAL-00502" summary="Zmienna name">
+      <option name="closed" value="true" />
+      <created>1738270130077</created>
+      <option name="number" value="00502" />
+      <option name="presentableId" value="LOCAL-00502" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270130077</updated>
+    </task>
+    <task id="LOCAL-00503" summary="Konstruktor C">
+      <option name="closed" value="true" />
+      <created>1738270152294</created>
+      <option name="number" value="00503" />
+      <option name="presentableId" value="LOCAL-00503" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270152295</updated>
+    </task>
+    <task id="LOCAL-00504" summary="Przeciążenie metody schow">
+      <option name="closed" value="true" />
+      <created>1738270181359</created>
+      <option name="number" value="00504" />
+      <option name="presentableId" value="LOCAL-00504" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270181359</updated>
+    </task>
+    <task id="LOCAL-00505" summary="Przeciążenie metody calculate">
+      <option name="closed" value="true" />
+      <created>1738270201872</created>
+      <option name="number" value="00505" />
+      <option name="presentableId" value="LOCAL-00505" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270201872</updated>
+    </task>
+    <task id="LOCAL-00506" summary="Klasa główna Main do testowania">
+      <option name="closed" value="true" />
+      <created>1738270225356</created>
+      <option name="number" value="00506" />
+      <option name="presentableId" value="LOCAL-00506" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270225356</updated>
+    </task>
+    <task id="LOCAL-00507" summary="Klasa główna Main do testowania">
+      <option name="closed" value="true" />
+      <created>1738270245127</created>
+      <option name="number" value="00507" />
+      <option name="presentableId" value="LOCAL-00507" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270245128</updated>
+    </task>
+    <task id="LOCAL-00508" summary="Klasa główna Main do testowania">
+      <option name="closed" value="true" />
+      <created>1738270270928</created>
+      <option name="number" value="00508" />
+      <option name="presentableId" value="LOCAL-00508" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270270928</updated>
+    </task>
+    <task id="LOCAL-00509" summary="Klasa główna Main do testowania">
+      <option name="closed" value="true" />
+      <created>1738270292726</created>
+      <option name="number" value="00509" />
+      <option name="presentableId" value="LOCAL-00509" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270292726</updated>
+    </task>
+    <option name="localTasksCounter" value="510" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,12 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task5" />
-    <MESSAGE value="Petla while" />
-    <MESSAGE value="Task6" />
-    <MESSAGE value="Deklaracja tablicy" />
-    <MESSAGE value="Pętla for" />
-    <MESSAGE value="Task7" />
     <MESSAGE value="Jabuszko" />
     <MESSAGE value="Wyjatek" />
     <MESSAGE value="Task8" />
@@ -584,10 +578,16 @@
     <MESSAGE value="Interfejsy" />
     <MESSAGE value="Klasa A" />
     <MESSAGE value="Zmienna" />
-    <MESSAGE value="Przeciążenie metody schow" />
     <MESSAGE value=" Klasa B dziedziczy po A i implementuje Calculable" />
     <MESSAGE value="Zmienna double" />
     <MESSAGE value="Konstruktor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Konstruktor" />
+    <MESSAGE value="Przeciążenie metody show" />
+    <MESSAGE value="Nowa klasa C dziedzicząca po B i implementująca oba interfejsy" />
+    <MESSAGE value="Zmienna name" />
+    <MESSAGE value="Konstruktor C" />
+    <MESSAGE value="Przeciążenie metody schow" />
+    <MESSAGE value="Przeciążenie metody calculate" />
+    <MESSAGE value="Klasa główna Main do testowania" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klasa główna Main do testowania" />
   </component>
 </project>
