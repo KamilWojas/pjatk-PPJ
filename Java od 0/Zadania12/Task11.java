@@ -70,6 +70,9 @@ public class Task11 {
         auto.pokazInformacje();
         auto.uruchomSilnik();
 
+        motor.pokazInformacje();
+        motor.uruchomSilnik();
+
     }
 
 
