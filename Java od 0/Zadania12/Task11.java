@@ -67,6 +67,9 @@ public class Task11 {
         Samochód auto = new Samochód(220, 5);
         Motocykl motor = new Motocykl(180, "sportowa");
 
+        auto.pokazInformacje();
+        auto.uruchomSilnik();
+
     }
 
 
