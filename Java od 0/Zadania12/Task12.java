@@ -28,3 +28,5 @@ class Pojazd implements PojazdInfo {
         System.out.println("Pojazd: maksymalna prędkość = " + maksymalnaPrędkość + " km/h");
     }
 }
+
+class Samochód extends Pojazd implements Silnikowy {
