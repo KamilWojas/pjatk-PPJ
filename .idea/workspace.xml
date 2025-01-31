@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="getter">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task11.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przeciążenie metody pokazInformacje" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,87 +151,7 @@
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
-      <workItem from="1738091843012" duration="7035000" />
-    </task>
-    <task id="LOCAL-00468" summary="Jabuszko">
-      <option name="closed" value="true" />
-      <created>1738102459054</created>
-      <option name="number" value="00468" />
-      <option name="presentableId" value="LOCAL-00468" />
-      <option name="project" value="LOCAL" />
-      <updated>1738102459054</updated>
-    </task>
-    <task id="LOCAL-00469" summary="Wyjatek">
-      <option name="closed" value="true" />
-      <created>1738102512535</created>
-      <option name="number" value="00469" />
-      <option name="presentableId" value="LOCAL-00469" />
-      <option name="project" value="LOCAL" />
-      <updated>1738102512535</updated>
-    </task>
-    <task id="LOCAL-00470" summary="Wyjatek">
-      <option name="closed" value="true" />
-      <created>1738103927073</created>
-      <option name="number" value="00470" />
-      <option name="presentableId" value="LOCAL-00470" />
-      <option name="project" value="LOCAL" />
-      <updated>1738103927073</updated>
-    </task>
-    <task id="LOCAL-00471" summary="Wyjatek">
-      <option name="closed" value="true" />
-      <created>1738103962153</created>
-      <option name="number" value="00471" />
-      <option name="presentableId" value="LOCAL-00471" />
-      <option name="project" value="LOCAL" />
-      <updated>1738103962153</updated>
-    </task>
-    <task id="LOCAL-00472" summary="Wyjatek">
-      <option name="closed" value="true" />
-      <created>1738179112861</created>
-      <option name="number" value="00472" />
-      <option name="presentableId" value="LOCAL-00472" />
-      <option name="project" value="LOCAL" />
-      <updated>1738179112861</updated>
-    </task>
-    <task id="LOCAL-00473" summary="Task8">
-      <option name="closed" value="true" />
-      <created>1738179599337</created>
-      <option name="number" value="00473" />
-      <option name="presentableId" value="LOCAL-00473" />
-      <option name="project" value="LOCAL" />
-      <updated>1738179599337</updated>
-    </task>
-    <task id="LOCAL-00474" summary="Task8">
-      <option name="closed" value="true" />
-      <created>1738179786372</created>
-      <option name="number" value="00474" />
-      <option name="presentableId" value="LOCAL-00474" />
-      <option name="project" value="LOCAL" />
-      <updated>1738179786372</updated>
-    </task>
-    <task id="LOCAL-00475" summary="Task8">
-      <option name="closed" value="true" />
-      <created>1738179861625</created>
-      <option name="number" value="00475" />
-      <option name="presentableId" value="LOCAL-00475" />
-      <option name="project" value="LOCAL" />
-      <updated>1738179861625</updated>
-    </task>
-    <task id="LOCAL-00476" summary="Task8">
-      <option name="closed" value="true" />
-      <created>1738179908544</created>
-      <option name="number" value="00476" />
-      <option name="presentableId" value="LOCAL-00476" />
-      <option name="project" value="LOCAL" />
-      <updated>1738179908544</updated>
-    </task>
-    <task id="LOCAL-00477" summary="Task8">
-      <option name="closed" value="true" />
-      <created>1738179967573</created>
-      <option name="number" value="00477" />
-      <option name="presentableId" value="LOCAL-00477" />
-      <option name="project" value="LOCAL" />
-      <updated>1738179967573</updated>
+      <workItem from="1738091843012" duration="7939000" />
     </task>
     <task id="LOCAL-00478" summary="Task9">
       <option name="closed" value="true" />
@@ -547,7 +465,87 @@
       <option name="project" value="LOCAL" />
       <updated>1738362242454</updated>
     </task>
-    <option name="localTasksCounter" value="517" />
+    <task id="LOCAL-00517" summary="Przeciążaenie metody">
+      <option name="closed" value="true" />
+      <created>1738362275554</created>
+      <option name="number" value="00517" />
+      <option name="presentableId" value="LOCAL-00517" />
+      <option name="project" value="LOCAL" />
+      <updated>1738362275555</updated>
+    </task>
+    <task id="LOCAL-00518" summary="Klasa Samochód dziedziczy po Pojazd i implementuje Silnikowy">
+      <option name="closed" value="true" />
+      <created>1738362313683</created>
+      <option name="number" value="00518" />
+      <option name="presentableId" value="LOCAL-00518" />
+      <option name="project" value="LOCAL" />
+      <updated>1738362313683</updated>
+    </task>
+    <task id="LOCAL-00519" summary="Klasa Samochód dziedziczy po Pojazd i implementuje Silnikowy">
+      <option name="closed" value="true" />
+      <created>1738362330784</created>
+      <option name="number" value="00519" />
+      <option name="presentableId" value="LOCAL-00519" />
+      <option name="project" value="LOCAL" />
+      <updated>1738362330784</updated>
+    </task>
+    <task id="LOCAL-00520" summary="Konstruktor">
+      <option name="closed" value="true" />
+      <created>1738362366670</created>
+      <option name="number" value="00520" />
+      <option name="presentableId" value="LOCAL-00520" />
+      <option name="project" value="LOCAL" />
+      <updated>1738362366670</updated>
+    </task>
+    <task id="LOCAL-00521" summary="Przeciążenie metody pokazInformacje">
+      <option name="closed" value="true" />
+      <created>1738362392507</created>
+      <option name="number" value="00521" />
+      <option name="presentableId" value="LOCAL-00521" />
+      <option name="project" value="LOCAL" />
+      <updated>1738362392507</updated>
+    </task>
+    <task id="LOCAL-00522" summary="Przeciążenie metody uruchomSilnik">
+      <option name="closed" value="true" />
+      <created>1738362411242</created>
+      <option name="number" value="00522" />
+      <option name="presentableId" value="LOCAL-00522" />
+      <option name="project" value="LOCAL" />
+      <updated>1738362411242</updated>
+    </task>
+    <task id="LOCAL-00523" summary="Klasa Motocykl dziedziczy po Pojazd i implementuje Silnikowy">
+      <option name="closed" value="true" />
+      <created>1738362492339</created>
+      <option name="number" value="00523" />
+      <option name="presentableId" value="LOCAL-00523" />
+      <option name="project" value="LOCAL" />
+      <updated>1738362492339</updated>
+    </task>
+    <task id="LOCAL-00524" summary="Klasa Motocykl dziedziczy po Pojazd i implementuje Silnikowy">
+      <option name="closed" value="true" />
+      <created>1738362504410</created>
+      <option name="number" value="00524" />
+      <option name="presentableId" value="LOCAL-00524" />
+      <option name="project" value="LOCAL" />
+      <updated>1738362504410</updated>
+    </task>
+    <task id="LOCAL-00525" summary="Konstruktor">
+      <option name="closed" value="true" />
+      <created>1738362529430</created>
+      <option name="number" value="00525" />
+      <option name="presentableId" value="LOCAL-00525" />
+      <option name="project" value="LOCAL" />
+      <updated>1738362529430</updated>
+    </task>
+    <task id="LOCAL-00526" summary="Przeciążenie metody pokazInformacje">
+      <option name="closed" value="true" />
+      <created>1738364789932</created>
+      <option name="number" value="00526" />
+      <option name="presentableId" value="LOCAL-00526" />
+      <option name="project" value="LOCAL" />
+      <updated>1738364789932</updated>
+    </task>
+    <option name="localTasksCounter" value="527" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,11 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dziedziczenie" />
-    <MESSAGE value="B dziedziczy z A, więc posiada value, ale dodaje swoje pole size." />
-    <MESSAGE value="Konstruktor B wywołuje super(value), czyli konstruktor A, inicjalizując value." />
-    <MESSAGE value="Przesłania metodę show(), aby wypisać rozmiar (size)." />
-    <MESSAGE value="Klasa main" />
     <MESSAGE value="Tworzymy dwa obiekty: objA (A) i objB (B)." />
     <MESSAGE value="objA.show() wypisze &quot;Klasa A, wartość: 10&quot;.&#10;objB.show() wypisze &quot;Klasa B, wartość: 5.5&quot;, ponieważ metoda show() w B przesłania tę z A." />
     <MESSAGE value="Interfejsy" />
@@ -588,8 +581,13 @@
     <MESSAGE value="Interfejs wymuszający metodę pokazującą informacje o pojeździe" />
     <MESSAGE value="Interfejs wymuszający metodę startowania silnika" />
     <MESSAGE value="Klasa bazowa" />
-    <MESSAGE value="Konstruktor" />
     <MESSAGE value="getter" />
-    <option name="LAST_COMMIT_MESSAGE" value="getter" />
+    <MESSAGE value="Przeciążaenie metody" />
+    <MESSAGE value="Klasa Samochód dziedziczy po Pojazd i implementuje Silnikowy" />
+    <MESSAGE value="Przeciążenie metody uruchomSilnik" />
+    <MESSAGE value="Klasa Motocykl dziedziczy po Pojazd i implementuje Silnikowy" />
+    <MESSAGE value="Konstruktor" />
+    <MESSAGE value="Przeciążenie metody pokazInformacje" />
+    <option name="LAST_COMMIT_MESSAGE" value="Przeciążenie metody pokazInformacje" />
   </component>
 </project>

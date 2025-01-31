@@ -55,6 +55,12 @@ class Motocykl extends Pojazd implements Silnikowy {
         System.out.println("Motocykl: maksymalna prędkość = " + getMaksymalnaPrędkość() + " km/h, typ kierownicy = " + typKierownicy);
     }
 
+    @Override
+    public void uruchomSilnik() {
+        System.out.println("Silnik motocykla uruchomiony! 🏍️🔥");
+    }
+}
+
 
 
 
