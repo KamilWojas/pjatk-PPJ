@@ -64,6 +64,11 @@ class Motocykl extends Pojazd implements Silnikowy {
 public class Task11 {
     public static void main(String[] args) {
 
+        Samochód auto = new Samochód(220, 5);
+        Motocykl motor = new Motocykl(180, "sportowa");
+
+    }
+
 
 
 
