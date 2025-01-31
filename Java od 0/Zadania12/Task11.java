@@ -61,6 +61,9 @@ class Motocykl extends Pojazd implements Silnikowy {
     }
 }
 
+public class Task11 {
+    public static void main(String[] args) {
+
 
 
 
