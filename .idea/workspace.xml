@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przeciążenie metody pokazInformacje" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klasa główna do testowania">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,55 +154,7 @@
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
-      <workItem from="1738091843012" duration="7939000" />
-    </task>
-    <task id="LOCAL-00478" summary="Task9">
-      <option name="closed" value="true" />
-      <created>1738188520312</created>
-      <option name="number" value="00478" />
-      <option name="presentableId" value="LOCAL-00478" />
-      <option name="project" value="LOCAL" />
-      <updated>1738188520312</updated>
-    </task>
-    <task id="LOCAL-00479" summary="Task9">
-      <option name="closed" value="true" />
-      <created>1738188554645</created>
-      <option name="number" value="00479" />
-      <option name="presentableId" value="LOCAL-00479" />
-      <option name="project" value="LOCAL" />
-      <updated>1738188554645</updated>
-    </task>
-    <task id="LOCAL-00480" summary="Task9">
-      <option name="closed" value="true" />
-      <created>1738188572448</created>
-      <option name="number" value="00480" />
-      <option name="presentableId" value="LOCAL-00480" />
-      <option name="project" value="LOCAL" />
-      <updated>1738188572448</updated>
-    </task>
-    <task id="LOCAL-00481" summary="Konstruktor + metoda show&#10;Konstruktor inicjalizuje value.&#10;Metoda show() wypisuje wartość obiektu.">
-      <option name="closed" value="true" />
-      <created>1738188638349</created>
-      <option name="number" value="00481" />
-      <option name="presentableId" value="LOCAL-00481" />
-      <option name="project" value="LOCAL" />
-      <updated>1738188638349</updated>
-    </task>
-    <task id="LOCAL-00482" summary="Dziedziczenie">
-      <option name="closed" value="true" />
-      <created>1738188660674</created>
-      <option name="number" value="00482" />
-      <option name="presentableId" value="LOCAL-00482" />
-      <option name="project" value="LOCAL" />
-      <updated>1738188660674</updated>
-    </task>
-    <task id="LOCAL-00483" summary="B dziedziczy z A, więc posiada value, ale dodaje swoje pole size.">
-      <option name="closed" value="true" />
-      <created>1738188692072</created>
-      <option name="number" value="00483" />
-      <option name="presentableId" value="LOCAL-00483" />
-      <option name="project" value="LOCAL" />
-      <updated>1738188692072</updated>
+      <workItem from="1738091843012" duration="9287000" />
     </task>
     <task id="LOCAL-00484" summary="Konstruktor B wywołuje super(value), czyli konstruktor A, inicjalizując value.">
       <option name="closed" value="true" />
@@ -545,7 +500,55 @@
       <option name="project" value="LOCAL" />
       <updated>1738364789932</updated>
     </task>
-    <option name="localTasksCounter" value="527" />
+    <task id="LOCAL-00527" summary="Przeciążenie metody uruchomSilnik">
+      <option name="closed" value="true" />
+      <created>1738364811182</created>
+      <option name="number" value="00527" />
+      <option name="presentableId" value="LOCAL-00527" />
+      <option name="project" value="LOCAL" />
+      <updated>1738364811182</updated>
+    </task>
+    <task id="LOCAL-00528" summary="Klasa główna do testowania">
+      <option name="closed" value="true" />
+      <created>1738364842677</created>
+      <option name="number" value="00528" />
+      <option name="presentableId" value="LOCAL-00528" />
+      <option name="project" value="LOCAL" />
+      <updated>1738364842677</updated>
+    </task>
+    <task id="LOCAL-00529" summary="Klasa główna do testowania">
+      <option name="closed" value="true" />
+      <created>1738364859586</created>
+      <option name="number" value="00529" />
+      <option name="presentableId" value="LOCAL-00529" />
+      <option name="project" value="LOCAL" />
+      <updated>1738364859586</updated>
+    </task>
+    <task id="LOCAL-00530" summary="Klasa główna do testowania">
+      <option name="closed" value="true" />
+      <created>1738364874265</created>
+      <option name="number" value="00530" />
+      <option name="presentableId" value="LOCAL-00530" />
+      <option name="project" value="LOCAL" />
+      <updated>1738364874265</updated>
+    </task>
+    <task id="LOCAL-00531" summary="Klasa główna do testowania">
+      <option name="closed" value="true" />
+      <created>1738364886702</created>
+      <option name="number" value="00531" />
+      <option name="presentableId" value="LOCAL-00531" />
+      <option name="project" value="LOCAL" />
+      <updated>1738364886702</updated>
+    </task>
+    <task id="LOCAL-00532" summary="Klasa główna do testowania">
+      <option name="closed" value="true" />
+      <created>1738364894575</created>
+      <option name="number" value="00532" />
+      <option name="presentableId" value="LOCAL-00532" />
+      <option name="project" value="LOCAL" />
+      <updated>1738364894576</updated>
+    </task>
+    <option name="localTasksCounter" value="533" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tworzymy dwa obiekty: objA (A) i objB (B)." />
     <MESSAGE value="objA.show() wypisze &quot;Klasa A, wartość: 10&quot;.&#10;objB.show() wypisze &quot;Klasa B, wartość: 5.5&quot;, ponieważ metoda show() w B przesłania tę z A." />
     <MESSAGE value="Interfejsy" />
     <MESSAGE value="Klasa A" />
@@ -584,10 +586,11 @@
     <MESSAGE value="getter" />
     <MESSAGE value="Przeciążaenie metody" />
     <MESSAGE value="Klasa Samochód dziedziczy po Pojazd i implementuje Silnikowy" />
-    <MESSAGE value="Przeciążenie metody uruchomSilnik" />
     <MESSAGE value="Klasa Motocykl dziedziczy po Pojazd i implementuje Silnikowy" />
     <MESSAGE value="Konstruktor" />
     <MESSAGE value="Przeciążenie metody pokazInformacje" />
-    <option name="LAST_COMMIT_MESSAGE" value="Przeciążenie metody pokazInformacje" />
+    <MESSAGE value="Przeciążenie metody uruchomSilnik" />
+    <MESSAGE value="Klasa główna do testowania" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klasa główna do testowania" />
   </component>
 </project>
