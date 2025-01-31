@@ -36,5 +36,12 @@ class Samochód extends Pojazd implements Silnikowy {
         System.out.println("Samochód: maksymalna prędkość = " + getMaksymalnaPrędkość() + " km/h, liczba drzwi = " + liczbaDrzwi);
     }
 
+    @Override
+    public void uruchomSilnik() {
+        System.out.println("Silnik samochodu uruchomiony! 🔥🚗");
+    }
+}
+
+
 
 }
