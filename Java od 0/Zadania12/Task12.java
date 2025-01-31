@@ -10,3 +10,6 @@ interface PojazdInfo {
 interface Silnikowy {
     void uruchomSilnik();
 }
+
+
+class Pojazd implements PojazdInfo {
