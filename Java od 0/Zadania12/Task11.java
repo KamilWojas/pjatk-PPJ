@@ -1,0 +1,3 @@
+interface PojazdInfo {
+    void pokazInformacje();
+}
