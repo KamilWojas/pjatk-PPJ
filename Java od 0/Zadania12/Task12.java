@@ -5,3 +5,8 @@ import java.util.List;
 interface PojazdInfo {
     void pokazInformacje();
 }
+
+
+interface Silnikowy {
+    void uruchomSilnik();
+}
