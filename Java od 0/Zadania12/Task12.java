@@ -19,4 +19,9 @@ class Pojazd implements PojazdInfo {
         this.maksymalnaPrędkość = maksymalnaPrędkość;
     }
 
+    public int getMaksymalnaPrędkość() {
+        return maksymalnaPrędkość;
+    }
+
+
 }
