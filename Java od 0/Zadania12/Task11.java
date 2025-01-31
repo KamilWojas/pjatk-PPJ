@@ -42,6 +42,9 @@ class Samochód extends Pojazd implements Silnikowy {
     }
 }
 
+class Motocykl extends Pojazd implements Silnikowy {
+
+
 
 
 }
