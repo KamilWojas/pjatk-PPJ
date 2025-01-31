@@ -22,6 +22,9 @@ class Pojazd implements PojazdInfo {
     public int getMaksymalnaPrędkość() {
         return maksymalnaPrędkość;
     }
-
-
+    
+    @Override
+    public void pokazInformacje() {
+        System.out.println("Pojazd: maksymalna prędkość = " + maksymalnaPrędkość + " km/h");
+    }
 }
