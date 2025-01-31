@@ -45,6 +45,10 @@ class Samochód extends Pojazd implements Silnikowy {
 class Motocykl extends Pojazd implements Silnikowy {
     private String typKierownicy;
 
+    public Motocykl(int maksymalnaPrędkość, String typKierownicy) {
+        super(maksymalnaPrędkość);
+        this.typKierownicy = typKierownicy;
+    }
 
 
 
