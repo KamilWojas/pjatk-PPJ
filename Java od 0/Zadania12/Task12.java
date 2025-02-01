@@ -36,5 +36,4 @@ class Samochód extends Pojazd implements Silnikowy {
         super(maksymalnaPrędkość);
         this.liczbaDrzwi = liczbaDrzwi;
     }
-
 }
