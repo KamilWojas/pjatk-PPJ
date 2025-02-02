@@ -27,5 +27,14 @@ public class Rakieta {
 
     public static void main(String[] args) {
 
+        try {
+            Rakieta rakieta = new Rakieta("Apollo 13", 999);
+            rakieta.zatankuj();
+            rakieta.start();
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
     }
+
+
 }
