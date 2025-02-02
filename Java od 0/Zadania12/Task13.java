@@ -16,6 +16,9 @@ public class Rakieta {
 
     }
 
+    public void start() throws Exception{
+        System.out.println("Rozpoczynam metą startową ");
+
 
     }
 }
