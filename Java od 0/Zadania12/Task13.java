@@ -10,6 +10,12 @@ public class Rakieta {
 
     public void zatankuj(){
         Random random = new Random();
+        int tankujPaliwo = random.nextInt(40) + 1250;
+        this.wagaPaliwa += tankujPaliwo;
+        System.out.println("Zatankowano " + tankujPaliwo + " stan paliwa: " + this.wagaPaliwa);
+
+    }
+
 
     }
 }
