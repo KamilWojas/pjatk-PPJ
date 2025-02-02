@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Konstruktor Samochód">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/Task12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,15 +153,7 @@
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
-      <workItem from="1738091843012" duration="11337000" />
-    </task>
-    <task id="LOCAL-00494" summary="Konstruktor">
-      <option name="closed" value="true" />
-      <created>1738269901789</created>
-      <option name="number" value="00494" />
-      <option name="presentableId" value="LOCAL-00494" />
-      <option name="project" value="LOCAL" />
-      <updated>1738269901789</updated>
+      <workItem from="1738091843012" duration="11993000" />
     </task>
     <task id="LOCAL-00495" summary="Przeciążenie metody schow">
       <option name="closed" value="true" />
@@ -548,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738367522033</updated>
     </task>
-    <option name="localTasksCounter" value="543" />
+    <task id="LOCAL-00543" summary="Konstruktor Samochód">
+      <option name="closed" value="true" />
+      <created>1738450913423</created>
+      <option name="number" value="00543" />
+      <option name="presentableId" value="LOCAL-00543" />
+      <option name="project" value="LOCAL" />
+      <updated>1738450913423</updated>
+    </task>
+    <option name="localTasksCounter" value="544" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
