@@ -18,6 +18,12 @@ public class Rakieta {
 
     public void start() throws Exception{
         System.out.println("Rozpoczynam metą startową ");
+        if (this.wagaPaliwa < 1000){
+            throw new Exception("Start niemożliwy - za mało paliwa");
+        }
+
+        System.out.println("Start rakiety " + this.nazwa + " zakonczony powodzeniem");
+    }
 
 
     }
