@@ -7,4 +7,6 @@ public class Rakieta {
         this.nazwa = nazwa;
         this.wagaPaliwa = wagaPaliwa;
     }
+
+    public void zatankuj(){
 }
