@@ -9,4 +9,7 @@ public class Rakieta {
     }
 
     public void zatankuj(){
+        Random random = new Random();
+
+    }
 }
