@@ -25,6 +25,7 @@ public class Rakieta {
         System.out.println("Start rakiety " + this.nazwa + " zakonczony powodzeniem");
     }
 
+    public static void main(String[] args) {
 
     }
 }
