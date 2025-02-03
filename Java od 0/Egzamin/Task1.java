@@ -17,3 +17,5 @@ class Task1 {
         fis.close();
     }
 }
+
+//Co wyświetli powyższy kod
