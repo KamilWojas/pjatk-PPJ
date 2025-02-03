@@ -13,6 +13,6 @@ class Task2 {
         while ((result = fis.read()) != -1) {
             System.out.print(result);
         }
-
-
+        fis.close();
     }
+}
