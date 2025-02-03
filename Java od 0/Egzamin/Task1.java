@@ -9,5 +9,8 @@ class Task1 {
         }
         fos.close();
 
+        FileInputStream fis = new FileInputStream("example1.bin");
+
+
 
     }
