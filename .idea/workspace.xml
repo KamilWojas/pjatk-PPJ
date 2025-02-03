@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Konstruktor Samochód">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task13.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klasa bazowa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,103 +151,7 @@
       <workItem from="1732917817280" duration="43057000" />
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
-      <workItem from="1738091843012" duration="11993000" />
-    </task>
-    <task id="LOCAL-00495" summary="Przeciążenie metody schow">
-      <option name="closed" value="true" />
-      <created>1738269931779</created>
-      <option name="number" value="00495" />
-      <option name="presentableId" value="LOCAL-00495" />
-      <option name="project" value="LOCAL" />
-      <updated>1738269931779</updated>
-    </task>
-    <task id="LOCAL-00496" summary=" Klasa B dziedziczy po A i implementuje Calculable">
-      <option name="closed" value="true" />
-      <created>1738269956192</created>
-      <option name="number" value="00496" />
-      <option name="presentableId" value="LOCAL-00496" />
-      <option name="project" value="LOCAL" />
-      <updated>1738269956192</updated>
-    </task>
-    <task id="LOCAL-00497" summary="Zmienna double">
-      <option name="closed" value="true" />
-      <created>1738269979791</created>
-      <option name="number" value="00497" />
-      <option name="presentableId" value="LOCAL-00497" />
-      <option name="project" value="LOCAL" />
-      <updated>1738269979791</updated>
-    </task>
-    <task id="LOCAL-00498" summary="Konstruktor">
-      <option name="closed" value="true" />
-      <created>1738270002872</created>
-      <option name="number" value="00498" />
-      <option name="presentableId" value="LOCAL-00498" />
-      <option name="project" value="LOCAL" />
-      <updated>1738270002872</updated>
-    </task>
-    <task id="LOCAL-00499" summary="Przeciążenie metody show">
-      <option name="closed" value="true" />
-      <created>1738270037917</created>
-      <option name="number" value="00499" />
-      <option name="presentableId" value="LOCAL-00499" />
-      <option name="project" value="LOCAL" />
-      <updated>1738270037918</updated>
-    </task>
-    <task id="LOCAL-00500" summary="Przeciążenie metody calculate">
-      <option name="closed" value="true" />
-      <created>1738270069162</created>
-      <option name="number" value="00500" />
-      <option name="presentableId" value="LOCAL-00500" />
-      <option name="project" value="LOCAL" />
-      <updated>1738270069162</updated>
-    </task>
-    <task id="LOCAL-00501" summary="Nowa klasa C dziedzicząca po B i implementująca oba interfejsy">
-      <option name="closed" value="true" />
-      <created>1738270099335</created>
-      <option name="number" value="00501" />
-      <option name="presentableId" value="LOCAL-00501" />
-      <option name="project" value="LOCAL" />
-      <updated>1738270099335</updated>
-    </task>
-    <task id="LOCAL-00502" summary="Zmienna name">
-      <option name="closed" value="true" />
-      <created>1738270130077</created>
-      <option name="number" value="00502" />
-      <option name="presentableId" value="LOCAL-00502" />
-      <option name="project" value="LOCAL" />
-      <updated>1738270130077</updated>
-    </task>
-    <task id="LOCAL-00503" summary="Konstruktor C">
-      <option name="closed" value="true" />
-      <created>1738270152294</created>
-      <option name="number" value="00503" />
-      <option name="presentableId" value="LOCAL-00503" />
-      <option name="project" value="LOCAL" />
-      <updated>1738270152295</updated>
-    </task>
-    <task id="LOCAL-00504" summary="Przeciążenie metody schow">
-      <option name="closed" value="true" />
-      <created>1738270181359</created>
-      <option name="number" value="00504" />
-      <option name="presentableId" value="LOCAL-00504" />
-      <option name="project" value="LOCAL" />
-      <updated>1738270181359</updated>
-    </task>
-    <task id="LOCAL-00505" summary="Przeciążenie metody calculate">
-      <option name="closed" value="true" />
-      <created>1738270201872</created>
-      <option name="number" value="00505" />
-      <option name="presentableId" value="LOCAL-00505" />
-      <option name="project" value="LOCAL" />
-      <updated>1738270201872</updated>
-    </task>
-    <task id="LOCAL-00506" summary="Klasa główna Main do testowania">
-      <option name="closed" value="true" />
-      <created>1738270225356</created>
-      <option name="number" value="00506" />
-      <option name="presentableId" value="LOCAL-00506" />
-      <option name="project" value="LOCAL" />
-      <updated>1738270225356</updated>
+      <workItem from="1738091843012" duration="12871000" />
     </task>
     <task id="LOCAL-00507" summary="Klasa główna Main do testowania">
       <option name="closed" value="true" />
@@ -547,7 +449,103 @@
       <option name="project" value="LOCAL" />
       <updated>1738450913423</updated>
     </task>
-    <option name="localTasksCounter" value="544" />
+    <task id="LOCAL-00544" summary="Konstruktor Samochód">
+      <option name="closed" value="true" />
+      <created>1738533315594</created>
+      <option name="number" value="00544" />
+      <option name="presentableId" value="LOCAL-00544" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533315594</updated>
+    </task>
+    <task id="LOCAL-00545" summary="Task13">
+      <option name="closed" value="true" />
+      <created>1738533334863</created>
+      <option name="number" value="00545" />
+      <option name="presentableId" value="LOCAL-00545" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533334863</updated>
+    </task>
+    <task id="LOCAL-00546" summary="String int">
+      <option name="closed" value="true" />
+      <created>1738533357311</created>
+      <option name="number" value="00546" />
+      <option name="presentableId" value="LOCAL-00546" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533357311</updated>
+    </task>
+    <task id="LOCAL-00547" summary="Konstruktor rakieta">
+      <option name="closed" value="true" />
+      <created>1738533379931</created>
+      <option name="number" value="00547" />
+      <option name="presentableId" value="LOCAL-00547" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533379931</updated>
+    </task>
+    <task id="LOCAL-00548" summary="Metoda zatankuj">
+      <option name="closed" value="true" />
+      <created>1738533398524</created>
+      <option name="number" value="00548" />
+      <option name="presentableId" value="LOCAL-00548" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533398524</updated>
+    </task>
+    <task id="LOCAL-00549" summary="Przypisywanie losowej wartości">
+      <option name="closed" value="true" />
+      <created>1738533423712</created>
+      <option name="number" value="00549" />
+      <option name="presentableId" value="LOCAL-00549" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533423712</updated>
+    </task>
+    <task id="LOCAL-00550" summary="Przypisywanie losowej wartości">
+      <option name="closed" value="true" />
+      <created>1738533455551</created>
+      <option name="number" value="00550" />
+      <option name="presentableId" value="LOCAL-00550" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533455551</updated>
+    </task>
+    <task id="LOCAL-00551" summary="Metoda start">
+      <option name="closed" value="true" />
+      <created>1738533475647</created>
+      <option name="number" value="00551" />
+      <option name="presentableId" value="LOCAL-00551" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533475647</updated>
+    </task>
+    <task id="LOCAL-00552" summary="Instrukacja warunkowa sprawdzająca poziom paliwa">
+      <option name="closed" value="true" />
+      <created>1738533502380</created>
+      <option name="number" value="00552" />
+      <option name="presentableId" value="LOCAL-00552" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533502380</updated>
+    </task>
+    <task id="LOCAL-00553" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1738533521414</created>
+      <option name="number" value="00553" />
+      <option name="presentableId" value="LOCAL-00553" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533521414</updated>
+    </task>
+    <task id="LOCAL-00554" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1738533546670</created>
+      <option name="number" value="00554" />
+      <option name="presentableId" value="LOCAL-00554" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533546670</updated>
+    </task>
+    <task id="LOCAL-00555" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1738533571760</created>
+      <option name="number" value="00555" />
+      <option name="presentableId" value="LOCAL-00555" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533571760</updated>
+    </task>
+    <option name="localTasksCounter" value="556" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,18 +563,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zmienna" />
-    <MESSAGE value=" Klasa B dziedziczy po A i implementuje Calculable" />
-    <MESSAGE value="Zmienna double" />
-    <MESSAGE value="Przeciążenie metody show" />
-    <MESSAGE value="Nowa klasa C dziedzicząca po B i implementująca oba interfejsy" />
-    <MESSAGE value="Zmienna name" />
-    <MESSAGE value="Konstruktor C" />
     <MESSAGE value="Przeciążenie metody schow" />
     <MESSAGE value="Przeciążenie metody calculate" />
     <MESSAGE value="Klasa główna Main do testowania" />
     <MESSAGE value="Task11" />
-    <MESSAGE value="Klasa bazowa" />
     <MESSAGE value="Przeciążaenie metody" />
     <MESSAGE value="Klasa Motocykl dziedziczy po Pojazd i implementuje Silnikowy" />
     <MESSAGE value="Konstruktor" />
@@ -590,6 +580,14 @@
     <MESSAGE value="Przeciążenie metody pokazInformacje" />
     <MESSAGE value="Klasa Samochód dziedziczy po Pojazd i implementuje Silnikowy" />
     <MESSAGE value="Konstruktor Samochód" />
-    <option name="LAST_COMMIT_MESSAGE" value="Konstruktor Samochód" />
+    <MESSAGE value="Task13" />
+    <MESSAGE value="String int" />
+    <MESSAGE value="Konstruktor rakieta" />
+    <MESSAGE value="Metoda zatankuj" />
+    <MESSAGE value="Przypisywanie losowej wartości" />
+    <MESSAGE value="Metoda start" />
+    <MESSAGE value="Instrukacja warunkowa sprawdzająca poziom paliwa" />
+    <MESSAGE value="Klasa bazowa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klasa bazowa" />
   </component>
 </project>
