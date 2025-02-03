@@ -3,6 +3,8 @@ class Task2 {
         int[] data = { 0b11001100, 0123, 0x7A, 200 };
 
         FileOutputStream fos = new FileOutputStream("example2.bin");
-
+        for (int i = data.length - 1; i >= 0; i--) {
+            fos.write(data[i]);
+        }
 
     }
