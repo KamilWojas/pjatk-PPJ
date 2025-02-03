@@ -14,7 +14,6 @@ class Task1 {
         while ((value = fis.read()) != -1) {
             System.out.print(value);
         }
-
-
-
+        fis.close();
     }
+}
