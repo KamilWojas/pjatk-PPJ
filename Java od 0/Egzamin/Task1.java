@@ -11,6 +11,9 @@ class Task1 {
 
         FileInputStream fis = new FileInputStream("example1.bin");
         int value;
+        while ((value = fis.read()) != -1) {
+            System.out.print(value);
+        }
 
 
 
