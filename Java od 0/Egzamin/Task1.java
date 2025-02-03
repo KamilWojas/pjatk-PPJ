@@ -18,4 +18,12 @@ class Task1 {
     }
 }
 
-//Co wyświetli powyższy kod
+//Co wyświetli powyższy kod:
+//          a) 633255
+//          b) 637255
+//          c) 255637
+//          d) 255733
+//          e) 637325
+//          f) 736255
+//          g) 733255
+//          h) 637523
