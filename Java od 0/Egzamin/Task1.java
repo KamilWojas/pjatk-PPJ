@@ -7,5 +7,7 @@ class Task1 {
         for (int i = numbers.length - 1; i >= 0; i--) {
             fos.write(numbers[i]);
         }
+        fos.close();
+
 
     }
