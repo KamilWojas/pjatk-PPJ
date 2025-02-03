@@ -6,5 +6,7 @@ class Task2 {
         for (int i = data.length - 1; i >= 0; i--) {
             fos.write(data[i]);
         }
+        fos.close();
 
-    }
+
+}
