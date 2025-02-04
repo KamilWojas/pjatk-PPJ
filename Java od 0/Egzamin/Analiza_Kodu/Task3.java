@@ -8,5 +8,6 @@ public class Main {
             x += y;
         }
         int y = 20;
+        System.out.print(y + " " + x);
 
     }
