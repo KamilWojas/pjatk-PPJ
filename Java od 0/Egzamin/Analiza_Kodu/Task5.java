@@ -10,3 +10,11 @@ public class Main {
             System.out.print(y + " " + x);
         }
     }
+
+
+//    Możliwe odpowiedzi:
+//        a) 4 8 15 10
+//        b) 5 8 15 10
+//        c) 5 8 15 8
+//        d) 6 8 15 10
+//        e) 5 8 15 5
