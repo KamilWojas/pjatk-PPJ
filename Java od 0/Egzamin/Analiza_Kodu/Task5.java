@@ -6,4 +6,7 @@ public class Main {
             System.out.print(++y + " " + x + " ");
             x = y * 2;
         }
+            int y = 15;
+            System.out.print(y + " " + x);
+        }
     }
