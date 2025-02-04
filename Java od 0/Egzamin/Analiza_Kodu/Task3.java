@@ -7,4 +7,6 @@ public class Main {
             System.out.print(y++ + " " + x + " ");
             x += y;
         }
+        int y = 20;
+
     }
