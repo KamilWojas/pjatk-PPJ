@@ -6,4 +6,7 @@ public class Task4 {
             System.out.print((b++) + " " + a + " ");
             a = b;
         }
+            int b = 12;
+            System.out.print(b + " " + a);
     }
+}
