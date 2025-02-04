@@ -9,5 +9,5 @@ public class Main {
         }
         int y = 20;
         System.out.print(y + " " + x);
-
     }
+}
