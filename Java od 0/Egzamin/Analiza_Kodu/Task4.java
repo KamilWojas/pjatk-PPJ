@@ -10,3 +10,9 @@ public class Task4 {
             System.out.print(b + " " + a);
     }
 }
+
+//    Możliwe odpowiedzi:
+//        a) 7 3 12 7
+//        b) 8 3 12 7
+//        c) 7 3 12 8
+//        d) 8 3 12 8
