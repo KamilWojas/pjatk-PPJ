@@ -6,3 +6,8 @@ public class Tab2 {
                 {20, 25, 30},
                 {35, 40, 45}
         };
+
+        int i = 0, j;
+        for (j = 2; j >= 0; j--) {
+            System.out.print(numbers[i][j] + " ");
+        }
