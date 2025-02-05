@@ -1,4 +1,4 @@
-public class Main {
+public class Tab1 {
     public static void main(String[] args) {
         int[][] tab = {
                 {2, 4, 6, 8},
