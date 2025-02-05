@@ -7,5 +7,8 @@ public class Main {
         };
 
         int i, j = 0;
+        for (i = 1; i < 3; i++) {
+            System.out.print(tab[i][j] + " ");
+        }
 
     }
