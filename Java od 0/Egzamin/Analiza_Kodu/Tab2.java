@@ -14,3 +14,11 @@ public class Tab2 {
         System.out.print(numbers[i + 1][j + 1]);
     }
 }
+
+//    Możliwe odpowiedzi:
+//        a) 15 10 5 25
+//        b) 30 25 20 10
+//        c) 15 10 5 20
+//        d) 45 40 35 30
+//        e) 15 10 5 30
+//        f) Błąd kompilacji
