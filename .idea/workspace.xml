@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task5">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Analiza_Kodu/Task8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="FileTask1">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Egzamin/Analiza_Kodu/FileTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Analiza_Kodu/FileTask1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,47 +155,7 @@
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
       <workItem from="1738091843012" duration="16953000" />
-      <workItem from="1738782544387" duration="654000" />
-    </task>
-    <task id="LOCAL-00550" summary="Przypisywanie losowej wartości">
-      <option name="closed" value="true" />
-      <created>1738533455551</created>
-      <option name="number" value="00550" />
-      <option name="presentableId" value="LOCAL-00550" />
-      <option name="project" value="LOCAL" />
-      <updated>1738533455551</updated>
-    </task>
-    <task id="LOCAL-00551" summary="Metoda start">
-      <option name="closed" value="true" />
-      <created>1738533475647</created>
-      <option name="number" value="00551" />
-      <option name="presentableId" value="LOCAL-00551" />
-      <option name="project" value="LOCAL" />
-      <updated>1738533475647</updated>
-    </task>
-    <task id="LOCAL-00552" summary="Instrukacja warunkowa sprawdzająca poziom paliwa">
-      <option name="closed" value="true" />
-      <created>1738533502380</created>
-      <option name="number" value="00552" />
-      <option name="presentableId" value="LOCAL-00552" />
-      <option name="project" value="LOCAL" />
-      <updated>1738533502380</updated>
-    </task>
-    <task id="LOCAL-00553" summary="Klasa bazowa">
-      <option name="closed" value="true" />
-      <created>1738533521414</created>
-      <option name="number" value="00553" />
-      <option name="presentableId" value="LOCAL-00553" />
-      <option name="project" value="LOCAL" />
-      <updated>1738533521414</updated>
-    </task>
-    <task id="LOCAL-00554" summary="Klasa bazowa">
-      <option name="closed" value="true" />
-      <created>1738533546670</created>
-      <option name="number" value="00554" />
-      <option name="presentableId" value="LOCAL-00554" />
-      <option name="project" value="LOCAL" />
-      <updated>1738533546670</updated>
+      <workItem from="1738782544387" duration="955000" />
     </task>
     <task id="LOCAL-00555" summary="Klasa bazowa">
       <option name="closed" value="true" />
@@ -550,7 +509,47 @@
       <option name="project" value="LOCAL" />
       <updated>1738708937961</updated>
     </task>
-    <option name="localTasksCounter" value="599" />
+    <task id="LOCAL-00599" summary="Task8">
+      <option name="closed" value="true" />
+      <created>1738794633013</created>
+      <option name="number" value="00599" />
+      <option name="presentableId" value="LOCAL-00599" />
+      <option name="project" value="LOCAL" />
+      <updated>1738794633014</updated>
+    </task>
+    <task id="LOCAL-00600" summary="FileTask1">
+      <option name="closed" value="true" />
+      <created>1738794860355</created>
+      <option name="number" value="00600" />
+      <option name="presentableId" value="LOCAL-00600" />
+      <option name="project" value="LOCAL" />
+      <updated>1738794860355</updated>
+    </task>
+    <task id="LOCAL-00601" summary="FileTask1 - tablica">
+      <option name="closed" value="true" />
+      <created>1738794875838</created>
+      <option name="number" value="00601" />
+      <option name="presentableId" value="LOCAL-00601" />
+      <option name="project" value="LOCAL" />
+      <updated>1738794875838</updated>
+    </task>
+    <task id="LOCAL-00602" summary="FileTask1">
+      <option name="closed" value="true" />
+      <created>1738794915783</created>
+      <option name="number" value="00602" />
+      <option name="presentableId" value="LOCAL-00602" />
+      <option name="project" value="LOCAL" />
+      <updated>1738794915783</updated>
+    </task>
+    <task id="LOCAL-00603" summary="FileTask1">
+      <option name="closed" value="true" />
+      <created>1738794923148</created>
+      <option name="number" value="00603" />
+      <option name="presentableId" value="LOCAL-00603" />
+      <option name="project" value="LOCAL" />
+      <updated>1738794923148</updated>
+    </task>
+    <option name="localTasksCounter" value="604" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,9 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Konstruktor rakieta" />
-    <MESSAGE value="Metoda zatankuj" />
-    <MESSAGE value="Przypisywanie losowej wartości" />
     <MESSAGE value="Metoda start" />
     <MESSAGE value="Instrukacja warunkowa sprawdzająca poziom paliwa" />
     <MESSAGE value="Klasa bazowa" />
@@ -593,6 +589,9 @@
     <MESSAGE value="Task3" />
     <MESSAGE value="Task4" />
     <MESSAGE value="Task5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task5" />
+    <MESSAGE value="Task8" />
+    <MESSAGE value="FileTask1 - tablica" />
+    <MESSAGE value="FileTask1" />
+    <option name="LAST_COMMIT_MESSAGE" value="FileTask1" />
   </component>
 </project>

@@ -6,6 +6,8 @@ class FileTask1 {
         for (int i = values.length - 1; i >= 0; i--) {
             fos.write(values[i]);
         }
+        fos.close();
+
 
 
     }
