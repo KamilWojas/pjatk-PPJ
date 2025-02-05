@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Task5">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Analiza_Kodu/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Analiza_Kodu/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,6 +156,7 @@
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
       <workItem from="1738091843012" duration="16953000" />
+      <workItem from="1738782544387" duration="654000" />
     </task>
     <task id="LOCAL-00550" summary="Przypisywanie losowej wartości">
       <option name="closed" value="true" />
