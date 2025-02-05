@@ -10,7 +10,9 @@ class FileTask1 {
 
         FileInputStream fis = new FileInputStream("task1.bin");
         int output;
-
+        while ((output = fis.read()) != -1) {
+            System.out.print(output);
+        }
 
 
 
