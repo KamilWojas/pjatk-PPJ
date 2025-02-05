@@ -11,3 +11,6 @@ public class Tab2 {
         for (j = 2; j >= 0; j--) {
             System.out.print(numbers[i][j] + " ");
         }
+        System.out.print(numbers[i + 1][j + 1]);
+    }
+}
