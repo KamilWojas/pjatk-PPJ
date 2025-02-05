@@ -10,5 +10,6 @@ public class Main {
         for (i = 1; i < 3; i++) {
             System.out.print(tab[i][j] + " ");
         }
-
+        System.out.print(tab[i - 2][j + 1]);
     }
+}
