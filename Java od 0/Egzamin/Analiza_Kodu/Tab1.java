@@ -13,3 +13,11 @@ public class Main {
         System.out.print(tab[i - 2][j + 1]);
     }
 }
+
+//    Możliwe odpowiedzi:
+//        a) 1 10 4
+//        b) 2 10 4
+//        c) 1 10 6
+//        d) 1 12 4
+//        e) 2 12 4
+//        f) Błąd kompilacji
