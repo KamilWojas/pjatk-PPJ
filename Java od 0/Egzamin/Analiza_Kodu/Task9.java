@@ -14,4 +14,12 @@ public class Main {
     }
 }
 
-    
+
+//    Możliwe odpowiedzi:
+//        a) 6 4 8
+//        b) 6 2 8
+//        c) 6 4 7
+//        d) 6 2 7
+//        e) 9 5 7
+//        f) Błąd mechaniczny
+
