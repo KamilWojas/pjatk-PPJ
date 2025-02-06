@@ -14,4 +14,10 @@ public class Main {
     }
 }
 
-    
+//    Możliwe odpowiedzi:
+//        a) 99 88 77 22
+//        b) 99 88 77 33
+//        c) 99 77 66 22
+//        d) 99 88 77 11
+//        e) 99 88 77 44
+//        f) Błąd wykonaniai
