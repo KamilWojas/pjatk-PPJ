@@ -7,5 +7,8 @@ public class Main {
         };
 
         int i = 1, j;
+        for (j = 0; j < 3; j += 2) {
+            System.out.print(array[i][j] + " ");
+        }
 
     }
