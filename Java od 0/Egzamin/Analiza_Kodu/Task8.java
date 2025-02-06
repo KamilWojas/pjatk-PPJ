@@ -7,5 +7,8 @@ public class Main {
         };
 
         int i = 2, j;
+        for (j = 2; j >= 0; j--) {
+            System.out.print(matrix[i][j] + " ");
+        }
 
     }
