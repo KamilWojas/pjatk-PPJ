@@ -10,5 +10,8 @@ public class Main {
         for (j = 2; j >= 0; j--) {
             System.out.print(matrix[i][j] + " ");
         }
-
+        System.out.print(matrix[i - 2][j + 1]);
     }
+}
+
+    
