@@ -10,5 +10,8 @@ public class Main {
         for (j = 0; j < 3; j += 2) {
             System.out.print(array[i][j] + " ");
         }
-
+        System.out.print(array[i - 1][j - 1]);
     }
+}
+
+    
