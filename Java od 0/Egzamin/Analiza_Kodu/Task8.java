@@ -5,4 +5,7 @@ public class Main {
                 {44, 55, 66},
                 {77, 88, 99}
         };
+
+        int i = 2, j;
+
     }
