@@ -3,3 +3,5 @@ class Main {
 
     public int getLiczba() {
         return liczba;
+    }
+}
