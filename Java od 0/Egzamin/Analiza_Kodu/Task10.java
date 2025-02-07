@@ -11,3 +11,6 @@ class Podklasa extends Task10 {
         System.out.println("Liczba z klasy nadrzędnej: " + getLiczba());
     }
 }
+
+public class Test {
+
