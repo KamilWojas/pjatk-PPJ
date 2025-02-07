@@ -9,4 +9,9 @@ public class Task11 {
         listaZwierzat.add(new Krowa());
 
         int i = 0;
-
+        while (i < listaZwierzat.size()) {
+            listaZwierzat.get(i).wydajDzwiek(); // Polimorficzne wywołanie metody
+            i++;
+        }
+    }
+}
