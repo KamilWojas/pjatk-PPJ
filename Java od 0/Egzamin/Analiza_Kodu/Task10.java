@@ -13,4 +13,8 @@ class Podklasa extends Task10 {
 }
 
 public class Test {
+    public static void main(String[] args) {
+        Podklasa obj = new Podklasa();
+        obj.test();
+}
 
