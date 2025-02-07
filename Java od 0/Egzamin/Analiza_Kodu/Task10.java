@@ -7,3 +7,6 @@ class Task10 {
 }
 
 class Podklasa extends Task10 {
+    public void test() {
+
+    }
