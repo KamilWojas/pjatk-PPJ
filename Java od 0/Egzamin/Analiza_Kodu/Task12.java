@@ -19,3 +19,6 @@ class Krowa implements Zwierze {
         System.out.println("Muuu!");
     }
 }
+
+public class Task12 {
+    public static void main(String[] args) {
