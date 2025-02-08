@@ -13,3 +13,9 @@ class Kot implements Zwierze {
         System.out.println("Miau miau!");
     }
 }
+
+class Krowa implements Zwierze {
+    public void wydajDzwiek() {
+        System.out.println("Muuu!");
+    }
+}
