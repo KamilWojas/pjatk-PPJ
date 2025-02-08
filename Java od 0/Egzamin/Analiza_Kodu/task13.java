@@ -1,0 +1,3 @@
+interface Pojazd {
+    void uruchom();
+}
