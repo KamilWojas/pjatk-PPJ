@@ -13,3 +13,6 @@ class Rower implements Pojazd {
         System.out.println("Rower gotowy do jazdy");
     }
 }
+
+public class Task13 {
+    public static void main(String[] args) {
