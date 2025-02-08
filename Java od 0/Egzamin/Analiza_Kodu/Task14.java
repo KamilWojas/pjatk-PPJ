@@ -11,5 +11,7 @@ class Kalkulator {
 public class Task14 {
     public static void main(String[] args) {
         Kalkulator k = new Kalkulator();
-
+        System.out.println(k.dodaj(5, 10));
+        System.out.println(k.dodaj(5.5, 2.5));
     }
+}
