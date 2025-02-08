@@ -16,3 +16,6 @@ class Rower implements Pojazd {
 
 public class Task13 {
     public static void main(String[] args) {
+        Pojazd p1 = new Samochod();
+        Pojazd p2 = new Rower();
+    }
