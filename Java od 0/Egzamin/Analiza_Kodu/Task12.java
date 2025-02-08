@@ -22,3 +22,10 @@ class Krowa implements Zwierze {
 
 public class Task12 {
     public static void main(String[] args) {
+        Zwierze[] zwierzeta = {new Pies(), new Kot(), new Krowa()};
+
+        for (Zwierze z : zwierzeta) {
+            z.wydajDzwiek(); 
+        }
+    }
+}
