@@ -18,4 +18,8 @@ public class Task13 {
     public static void main(String[] args) {
         Pojazd p1 = new Samochod();
         Pojazd p2 = new Rower();
+
+        p1.uruchom(); 
+        p2.uruchom();
     }
+}
