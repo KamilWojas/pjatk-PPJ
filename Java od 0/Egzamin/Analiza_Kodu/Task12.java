@@ -1,0 +1,3 @@
+interface Zwierze {
+    void wydajDzwiek();
+}
