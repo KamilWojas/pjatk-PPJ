@@ -15,3 +15,6 @@ class PlatnoscBlik extends Platnosc {
         System.out.println("Płatność BLIK na kwotę: " + kwota + " zł.");
     }
 }
+
+public class Task14 {
+    public static void main(String[] args) {
