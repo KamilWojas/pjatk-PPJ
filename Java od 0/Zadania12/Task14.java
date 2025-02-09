@@ -18,3 +18,6 @@ class PlatnoscBlik extends Platnosc {
 
 public class Task14 {
     public static void main(String[] args) {
+        Platnosc p1 = new PlatnoscKarta();
+        Platnosc p2 = new PlatnoscBlik();
+    }
