@@ -20,4 +20,8 @@ public class Task14 {
     public static void main(String[] args) {
         Platnosc p1 = new PlatnoscKarta();
         Platnosc p2 = new PlatnoscBlik();
+
+        p1.wykonajPlatnosc(100);
+        p2.wykonajPlatnosc(50);
     }
+}
