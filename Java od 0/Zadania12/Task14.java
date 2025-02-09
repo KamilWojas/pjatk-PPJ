@@ -25,3 +25,6 @@ public class Task14 {
         p2.wykonajPlatnosc(50);
     }
 }
+
+//        Płatność kartą na kwotę: 100.0 zł.
+//        Płatność BLIK na kwotę: 50.0 zł.
