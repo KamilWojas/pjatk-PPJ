@@ -13,3 +13,4 @@ public class Task3 extends Main {
         System.out.println("Liczba jest: " + wynik);
 
     }
+}
