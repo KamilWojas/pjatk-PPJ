@@ -8,3 +8,10 @@ class PlatnoscKarta extends Platnosc {
         System.out.println("Płatność kartą na kwotę: " + kwota + " zł.");
     }
 }
+
+class PlatnoscBlik extends Platnosc {
+    @Override
+    void wykonajPlatnosc(double kwota) {
+        System.out.println("Płatność BLIK na kwotę: " + kwota + " zł.");
+    }
+}
