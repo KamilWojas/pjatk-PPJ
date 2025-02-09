@@ -7,9 +7,9 @@ public class Main {
 
         studentPierwszy.rokUrodzenia = 1999;
 
-        int zmienna =  studentPierwszy.zwrocWiek();
+        int zmienna = studentPierwszy.zwrocWiek();
 
-        Osoba osobaPierwsza = new Osoba("Jan", "Zajac", 1975, 1975 );
+        Osoba osobaPierwsza = new Osoba("Jan", "Zajac", 1975, 1975);
 
 
         Osoba osoba2 = new Osoba("Patryk", "Kowalski",
@@ -19,3 +19,4 @@ public class Main {
         //System.out.println(osobaPierwsza);
         System.out.println(osoba2.getImie());
     }
+}
