@@ -27,3 +27,4 @@ class Jabuszko{
       new Jabuszko("Sad");
      }
  }
+ 

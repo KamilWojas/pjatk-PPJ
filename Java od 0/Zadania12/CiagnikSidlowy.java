@@ -1,5 +1,4 @@
 class CiagnikSidlowy extends PojazdKolowy{
-
     private double masa;
 
     public CiagnikSidlowy(String color, int iloscOsi, double masa){
@@ -17,6 +16,4 @@ class CiagnikSidlowy extends PojazdKolowy{
 
         System.out.println("Nacisk na oś: " + naicskNaOs + "ton" + "Silnik uruchomiony");
     }
-
-
 }
