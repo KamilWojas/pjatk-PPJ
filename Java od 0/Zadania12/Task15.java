@@ -22,3 +22,7 @@ class Kot extends Zwierze {
 
 public class Main {
     public static void main(String[] args) {
+        Zwierze pies = new Pies();
+        Zwierze kot = new Kot();
+
+    }
