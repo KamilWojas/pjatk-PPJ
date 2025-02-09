@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klasa dziedzicząca - musi zaimplementować metodę abstrakcyjną">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/Task15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task15.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klasa bazowa">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,47 +155,7 @@
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
       <workItem from="1738091843012" duration="16953000" />
-      <workItem from="1738782544387" duration="6785000" />
-    </task>
-    <task id="LOCAL-00640" summary="Task10">
-      <option name="closed" value="true" />
-      <created>1738964580430</created>
-      <option name="number" value="00640" />
-      <option name="presentableId" value="LOCAL-00640" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964580430</updated>
-    </task>
-    <task id="LOCAL-00641" summary="Task10">
-      <option name="closed" value="true" />
-      <created>1738964596929</created>
-      <option name="number" value="00641" />
-      <option name="presentableId" value="LOCAL-00641" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964596929</updated>
-    </task>
-    <task id="LOCAL-00642" summary="Task10">
-      <option name="closed" value="true" />
-      <created>1738964607537</created>
-      <option name="number" value="00642" />
-      <option name="presentableId" value="LOCAL-00642" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964607537</updated>
-    </task>
-    <task id="LOCAL-00643" summary="Task10">
-      <option name="closed" value="true" />
-      <created>1738964621499</created>
-      <option name="number" value="00643" />
-      <option name="presentableId" value="LOCAL-00643" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964621499</updated>
-    </task>
-    <task id="LOCAL-00644" summary="Task10">
-      <option name="closed" value="true" />
-      <created>1738964649014</created>
-      <option name="number" value="00644" />
-      <option name="presentableId" value="LOCAL-00644" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964649014</updated>
+      <workItem from="1738782544387" duration="7560000" />
     </task>
     <task id="LOCAL-00645" summary="Task10">
       <option name="closed" value="true" />
@@ -549,7 +509,47 @@
       <option name="project" value="LOCAL" />
       <updated>1739137712576</updated>
     </task>
-    <option name="localTasksCounter" value="689" />
+    <task id="LOCAL-00689" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1739137732010</created>
+      <option name="number" value="00689" />
+      <option name="presentableId" value="LOCAL-00689" />
+      <option name="project" value="LOCAL" />
+      <updated>1739137732010</updated>
+    </task>
+    <task id="LOCAL-00690" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1739137749887</created>
+      <option name="number" value="00690" />
+      <option name="presentableId" value="LOCAL-00690" />
+      <option name="project" value="LOCAL" />
+      <updated>1739137749887</updated>
+    </task>
+    <task id="LOCAL-00691" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1739137777960</created>
+      <option name="number" value="00691" />
+      <option name="presentableId" value="LOCAL-00691" />
+      <option name="project" value="LOCAL" />
+      <updated>1739137777960</updated>
+    </task>
+    <task id="LOCAL-00692" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1739137804914</created>
+      <option name="number" value="00692" />
+      <option name="presentableId" value="LOCAL-00692" />
+      <option name="project" value="LOCAL" />
+      <updated>1739137804914</updated>
+    </task>
+    <task id="LOCAL-00693" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1739137849678</created>
+      <option name="number" value="00693" />
+      <option name="presentableId" value="LOCAL-00693" />
+      <option name="project" value="LOCAL" />
+      <updated>1739137849678</updated>
+    </task>
+    <option name="localTasksCounter" value="694" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,12 +586,12 @@
     <MESSAGE value="Metoda abstrakcyjna (każda płatność ma inną implementację)" />
     <MESSAGE value="Klasa dziedzicząca - płatność kartą" />
     <MESSAGE value="Klasa dziedzicząca - płatność BLIK" />
-    <MESSAGE value="Klasa bazowa" />
     <MESSAGE value="Task15" />
     <MESSAGE value="Klasa abstrakcyjna &#10;Metoda abstrakcyjna (nie ma ciała)" />
     <MESSAGE value="Metoda konkretna (posiada ciało)" />
     <MESSAGE value=" Klasa dziedzicząca - musi zaimplementować metodę abstrakcyjną" />
     <MESSAGE value="Klasa dziedzicząca - musi zaimplementować metodę abstrakcyjną" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klasa dziedzicząca - musi zaimplementować metodę abstrakcyjną" />
+    <MESSAGE value="Klasa bazowa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klasa bazowa" />
   </component>
 </project>
