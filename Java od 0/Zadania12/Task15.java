@@ -12,3 +12,10 @@ class Pies extends Zwierze {
         System.out.println("Hau! Hau!");
     }
 }
+
+class Kot extends Zwierze {
+    @Override
+    void wydajDzwiek() {
+        System.out.println("Miau! Miau!");
+    }
+}
