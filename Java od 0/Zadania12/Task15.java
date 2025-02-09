@@ -32,3 +32,8 @@ public class Main {
         kot.wydajDzwiek();
     }
 }
+
+//    Jestem zwierzęciem.
+//        Hau! Hau!
+//        Jestem zwierzęciem.
+//        Miau! Miau!
