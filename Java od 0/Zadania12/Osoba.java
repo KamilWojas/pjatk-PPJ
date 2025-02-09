@@ -1,7 +1,6 @@
 public class Osoba {
 
     static int liczbaOsobWsystemie;
-
     private String imie;
     private String nazwisko;
     private int rokUrodzenia;
@@ -42,11 +41,12 @@ public class Osoba {
 
     }
 
-    public int obliczWiek(){
-        if (rokSmierci != 0){
+    public int obliczWiek() {
+        if (rokSmierci != 0) {
             return rokSmierci - rokUrodzenia;
-        }else {
+        } else {
             return 2024 - rokUrodzenia;
         }
 
     }
+}
