@@ -25,4 +25,10 @@ public class Main {
         Zwierze pies = new Pies();
         Zwierze kot = new Kot();
 
+        pies.przedstawSie();
+        pies.wydajDzwiek();
+
+        kot.przedstawSie();
+        kot.wydajDzwiek();
     }
+}
