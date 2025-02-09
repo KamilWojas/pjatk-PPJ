@@ -19,3 +19,6 @@ class Kot extends Zwierze {
         System.out.println("Miau! Miau!");
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
