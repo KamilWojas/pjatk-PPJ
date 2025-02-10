@@ -9,3 +9,5 @@ class Osoba implements Serializable {
         this.imie = imie;
     }
 }
+
+public class Main {
