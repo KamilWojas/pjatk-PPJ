@@ -17,3 +17,7 @@ public class Main {
         ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("osoba.dat"));
         out.writeObject(osoba);
         out.close();
+
+        ObjectInputStream in = new ObjectInputStream(new FileInputStream("osoba.dat"));
+        Osoba nowaOsoba = (Osoba) in.readObject();
+        in.close();
