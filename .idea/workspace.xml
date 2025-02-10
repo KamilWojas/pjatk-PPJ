@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klasa bazowa">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Task16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,55 +155,7 @@
       <workItem from="1735153335316" duration="74282000" />
       <workItem from="1737251705731" duration="20458000" />
       <workItem from="1738091843012" duration="16953000" />
-      <workItem from="1738782544387" duration="7560000" />
-    </task>
-    <task id="LOCAL-00645" summary="Task10">
-      <option name="closed" value="true" />
-      <created>1738964664476</created>
-      <option name="number" value="00645" />
-      <option name="presentableId" value="LOCAL-00645" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964664476</updated>
-    </task>
-    <task id="LOCAL-00646" summary="Task10">
-      <option name="closed" value="true" />
-      <created>1738964678466</created>
-      <option name="number" value="00646" />
-      <option name="presentableId" value="LOCAL-00646" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964678466</updated>
-    </task>
-    <task id="LOCAL-00647" summary="Task10">
-      <option name="closed" value="true" />
-      <created>1738964695266</created>
-      <option name="number" value="00647" />
-      <option name="presentableId" value="LOCAL-00647" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964695266</updated>
-    </task>
-    <task id="LOCAL-00648" summary="Task10">
-      <option name="closed" value="true" />
-      <created>1738964706784</created>
-      <option name="number" value="00648" />
-      <option name="presentableId" value="LOCAL-00648" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964706784</updated>
-    </task>
-    <task id="LOCAL-00649" summary="Task10">
-      <option name="closed" value="true" />
-      <created>1738964721433</created>
-      <option name="number" value="00649" />
-      <option name="presentableId" value="LOCAL-00649" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964721433</updated>
-    </task>
-    <task id="LOCAL-00650" summary="Task11">
-      <option name="closed" value="true" />
-      <created>1738964765753</created>
-      <option name="number" value="00650" />
-      <option name="presentableId" value="LOCAL-00650" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964765753</updated>
+      <workItem from="1738782544387" duration="8287000" />
     </task>
     <task id="LOCAL-00651" summary="Task11">
       <option name="closed" value="true" />
@@ -549,7 +501,55 @@
       <option name="project" value="LOCAL" />
       <updated>1739137849678</updated>
     </task>
-    <option name="localTasksCounter" value="694" />
+    <task id="LOCAL-00694" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1739140646484</created>
+      <option name="number" value="00694" />
+      <option name="presentableId" value="LOCAL-00694" />
+      <option name="project" value="LOCAL" />
+      <updated>1739140646485</updated>
+    </task>
+    <task id="LOCAL-00695" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1739140656300</created>
+      <option name="number" value="00695" />
+      <option name="presentableId" value="LOCAL-00695" />
+      <option name="project" value="LOCAL" />
+      <updated>1739140656300</updated>
+    </task>
+    <task id="LOCAL-00696" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1739140677566</created>
+      <option name="number" value="00696" />
+      <option name="presentableId" value="LOCAL-00696" />
+      <option name="project" value="LOCAL" />
+      <updated>1739140677566</updated>
+    </task>
+    <task id="LOCAL-00697" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1739140703561</created>
+      <option name="number" value="00697" />
+      <option name="presentableId" value="LOCAL-00697" />
+      <option name="project" value="LOCAL" />
+      <updated>1739140703561</updated>
+    </task>
+    <task id="LOCAL-00698" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1739140720572</created>
+      <option name="number" value="00698" />
+      <option name="presentableId" value="LOCAL-00698" />
+      <option name="project" value="LOCAL" />
+      <updated>1739140720572</updated>
+    </task>
+    <task id="LOCAL-00699" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1739140756381</created>
+      <option name="number" value="00699" />
+      <option name="presentableId" value="LOCAL-00699" />
+      <option name="project" value="LOCAL" />
+      <updated>1739140756381</updated>
+    </task>
+    <option name="localTasksCounter" value="700" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
