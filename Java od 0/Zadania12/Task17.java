@@ -9,3 +9,10 @@ class Osoba {
         this.imie = imie;
         ekstensja.add(this);
     }
+
+    public static void pokazEkstensje() {
+        for (Osoba o : ekstensja) {
+            System.out.println(o.imie);
+        }
+    }
+}
