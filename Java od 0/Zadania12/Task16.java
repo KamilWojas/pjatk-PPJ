@@ -21,3 +21,7 @@ public class Main {
         ObjectInputStream in = new ObjectInputStream(new FileInputStream("osoba.dat"));
         Osoba nowaOsoba = (Osoba) in.readObject();
         in.close();
+
+        System.out.println("Wczytano: " + nowaOsoba.imie);
+    }
+}
