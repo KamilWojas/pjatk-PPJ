@@ -16,3 +16,11 @@ class Osoba {
         }
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
+        new Osoba("Jan");
+        new Osoba("Anna");
+        Osoba.pokazEkstensje();
+    }
+}
