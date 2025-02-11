@@ -11,3 +11,9 @@ class Task18 implements Serializable {
         this.imie = imie;
         ekstensja.add(this);
     }
+
+    public static void zapiszEkstensje(String plik) throws IOException {
+        ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream(plik));
+        out.writeObject(ekstensja);
+        out.close();
+    }
