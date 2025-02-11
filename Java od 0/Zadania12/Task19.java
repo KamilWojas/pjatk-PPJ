@@ -14,3 +14,6 @@ class Task19 {
         this.adres = adres;
         liczbaOsob++;
     }
+
+    public int getDlugoscImienia() { return imie.length(); } // Atrybut pochodny
+}
