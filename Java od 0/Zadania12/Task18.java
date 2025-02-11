@@ -17,5 +17,10 @@ class Task18 implements Serializable {
         out.writeObject(ekstensja);
         out.close();
 
-        public static void wczytajEkstensje(String plik) throws IOException, ClassNotFoundException {
+        public static void wczytajEkstensje (String plik) throws IOException, ClassNotFoundException {
             ObjectInputStream in = new ObjectInputStream(new FileInputStream(plik));
+            ekstensja = (List<Osoba>) in.readObject();
+            in.close();
+        }
+    }
+}
