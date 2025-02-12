@@ -5,7 +5,5 @@ public class Task20 {
 
         System.out.println("Liczba: " + liczba + " (binarnie: " + Integer.toBinaryString(liczba) + ")");
         System.out.println("Ostatnie 5 bitów: " + ostatnie5Bitow + " (binarnie: " + Integer.toBinaryString(ostatnie5Bitow) + ")");
-
-
-
     }
+}
