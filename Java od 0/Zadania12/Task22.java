@@ -4,5 +4,7 @@ public class Task22 {
 
         // 1. Przesunięcie o zero pozycji w prawo
         int wynik1 = liczba >> 0; // Przesunięcie o 0 nie zmienia liczby
+        System.out.println("1. Przesunięcie o 0 w prawo: " + wynik1 + " (binarnie: " + Integer.toBinaryString(wynik1) + ")");
+
 
     }
