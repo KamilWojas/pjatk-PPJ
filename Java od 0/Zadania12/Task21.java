@@ -6,4 +6,6 @@ public class Task21 {
         int wLewo = 0b1110 << 2;
         System.out.println("Przesunięcie o 2 w lewo: " + wLewo); // Wynik: 56
 
+        int wPrawoO4 = wLewo >> 4;
+
     }
