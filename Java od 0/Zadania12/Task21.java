@@ -10,3 +10,4 @@ public class Task21 {
         System.out.println("Przesunięcie o 4 w prawo: " + wPrawoO4); // Wynik: 3
 
     }
+}
