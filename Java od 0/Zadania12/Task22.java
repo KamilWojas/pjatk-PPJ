@@ -12,4 +12,6 @@ public class Task22 {
 
         // 3. Rezultat poprzedniego punktu przesunięty o 4 pozycje w prawo
         int wynik3 = wynik2 >> 4; // Przesunięcie o 4 w prawo
+        System.out.println("3. Przesunięcie o 4 w prawo: " + wynik3 + " (binarnie: " + Integer.toBinaryString(wynik3) + ")");
     }
+}
