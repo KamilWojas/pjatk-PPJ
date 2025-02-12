@@ -8,5 +8,6 @@ public class Task22 {
 
         // 2. Rezultat poprzedniego punktu przesunięty o 2 pozycje w lewo
         int wynik2 = wynik1 << 2; // Przesunięcie o 2 w lewo
+        System.out.println("2. Przesunięcie o 2 w lewo: " + wynik2 + " (binarnie: " + Integer.toBinaryString(wynik2) + ")");
 
     }
