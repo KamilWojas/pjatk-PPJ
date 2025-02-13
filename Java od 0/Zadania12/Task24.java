@@ -13,5 +13,7 @@ public class Task24 {
         // Instrukcja warunkowa
         if (liczba1 > liczba2) {
             System.out.println("Większa liczba to: " + liczba1);
+        } else if (liczba1 < liczba2) {
+            System.out.println("Większa liczba to: " + liczba2);
 
     }
