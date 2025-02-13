@@ -10,3 +10,8 @@ public class Task25 {
 
         // Operator warunkowy
         String wynik = (liczba % 2 == 0) ? "Parzysta" : "Nieparzysta";
+
+        // Wyświetlenie wyniku
+        System.out.println("Liczba jest: " + wynik);
+    }
+}
