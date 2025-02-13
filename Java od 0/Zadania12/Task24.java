@@ -7,5 +7,7 @@ public class Task24 {
         // Pobranie dwóch liczb od użytkownika
         System.out.print("Podaj pierwszą liczbę: ");
         int liczba1 = scanner.nextInt();
+        System.out.print("Podaj drugą liczbę: ");
+        int liczba2 = scanner.nextInt();
 
     }
