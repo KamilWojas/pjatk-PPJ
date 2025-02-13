@@ -15,5 +15,8 @@ public class Task24 {
             System.out.println("Większa liczba to: " + liczba1);
         } else if (liczba1 < liczba2) {
             System.out.println("Większa liczba to: " + liczba2);
-
+        } else {
+            System.out.println("Obie liczby są równe.");
+        }
     }
+}
