@@ -7,4 +7,6 @@ public class Task23 {
 
         // Wyświetlamy wyniki
         System.out.println("Wartość: " + wartosc + " (binarnie: " + Integer.toBinaryString(wartosc) + ")");
+        System.out.println("Ostatnie 5 bitów: " + ostatnie5Bitow + " (binarnie: " + Integer.toBinaryString(ostatnie5Bitow) + ")");
     }
+}
