@@ -10,4 +10,8 @@ public class Task24 {
         System.out.print("Podaj drugą liczbę: ");
         int liczba2 = scanner.nextInt();
 
+        // Instrukcja warunkowa
+        if (liczba1 > liczba2) {
+            System.out.println("Większa liczba to: " + liczba1);
+
     }
