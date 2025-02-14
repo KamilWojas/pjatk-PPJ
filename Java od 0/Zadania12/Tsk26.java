@@ -14,3 +14,6 @@ class Task26 {
         return bonus;
     }
 }
+
+class Project {
+    private List<Task> tasks = new ArrayList<>();
