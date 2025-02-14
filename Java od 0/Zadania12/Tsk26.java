@@ -17,3 +17,7 @@ class Task26 {
 
 class Project {
     private List<Task> tasks = new ArrayList<>();
+
+    public void addTask(String name, double bonus) {
+        tasks.add(new Task(name, bonus));
+    }
