@@ -26,3 +26,6 @@ class Project {
         return tasks.stream().mapToDouble(Task::getBonus).sum();
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
