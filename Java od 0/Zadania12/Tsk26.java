@@ -32,4 +32,8 @@ public class Main {
         Project project = new Project();
         project.addTask("Frontend Development", 1000);
         project.addTask("Backend Development", 2000);
+        project.addTask("Testing", 500);
+
+        System.out.println("Całkowita premia za wykonane zadania: " + project.getFinishedTaskBonus());
     }
+}
