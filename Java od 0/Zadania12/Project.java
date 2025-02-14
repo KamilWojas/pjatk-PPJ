@@ -7,3 +7,8 @@ class Project {
     public void setPaymentDate(LocalDate date) {
         this.paymentDate = Optional.ofNullable(date);
     }
+
+    public Optional<LocalDate> getPaymentDate() {
+        return paymentDate;
+    }
+}
