@@ -21,3 +21,8 @@ class Project {
     public void addTask(String name, double bonus) {
         tasks.add(new Task(name, bonus));
     }
+
+    public double getFinishedTaskBonus() {
+        return tasks.stream().mapToDouble(Task::getBonus).sum();
+    }
+}
