@@ -29,3 +29,7 @@ class Project {
 
 public class Main {
     public static void main(String[] args) {
+        Project project = new Project();
+        project.addTask("Frontend Development", 1000);
+        project.addTask("Backend Development", 2000);
+    }
