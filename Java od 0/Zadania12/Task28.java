@@ -6,4 +6,8 @@ class Task28 {
     public Task28(Double finishedTaskBonus) {
         this.finishedTaskBonus = Optional.ofNullable(finishedTaskBonus);
     }
+
+    public Optional<Double> getFinishedTaskBonus() {
+        return finishedTaskBonus;
+    }
 }
