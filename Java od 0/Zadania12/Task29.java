@@ -7,3 +7,9 @@ class Task29 {
         if (programmer != null && designer != null) {
             throw new IllegalArgumentException("Task może być przypisany do Programmer LUB Designer, ale nie do obu jednocześnie (XOR constraint).");
         }
+
+        this.name = name;
+        this.assignedProgrammer = programmer;
+        this.assignedDesigner = designer;
+    }
+}
