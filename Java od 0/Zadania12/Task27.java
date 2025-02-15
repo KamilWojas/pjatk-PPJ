@@ -4,3 +4,8 @@ class Task27 {
     public Task27(Double finishedTaskBonus) {
         this.finishedTaskBonus = finishedTaskBonus;
     }
+
+    public Double getFinishedTaskBonus() {
+        return finishedTaskBonus;
+    }
+}
