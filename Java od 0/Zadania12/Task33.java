@@ -25,3 +25,15 @@ class FirmCustomer {
         return nip;
     }
 }
+
+class PrivateCustomer {
+    private String pesel;
+
+    public PrivateCustomer(String pesel) {
+        this.pesel = pesel;
+    }
+
+    public String getPesel() {
+        return pesel;
+    }
+}
