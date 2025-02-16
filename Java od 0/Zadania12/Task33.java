@@ -65,3 +65,6 @@ class Customer extends Employee {
 public class Task33 {
     public static void main(String[] args) {
         Customer client = new Customer("2023-01-10", 5000);
+
+        client.setPrivateCustomer(new PrivateCustomer("12345678901"));
+        client.setFirmCustomer(new FirmCustomer("9876543210"));
