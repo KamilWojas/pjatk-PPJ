@@ -28,3 +28,7 @@ public class Task31 {
     public static void main(String[] args) {
         Aktor aktor1 = new Aktor("Leonardo DiCaprio");
         Aktor aktor2 = new Aktor("Joseph Gordon-Levitt");
+
+        Film.dodajAktorDoFilmu("Incepcja", aktor1);
+        Film.dodajAktorDoFilmu("Incepcja", aktor2);
+        Film.dodajAktorDoFilmu("Titanic", aktor1);
