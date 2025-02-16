@@ -21,3 +21,8 @@ class FilmManager {
     public void dodajAktorDoFilmu(String tytul, Aktor aktor) {
         filmy.computeIfAbsent(tytul, k -> new ArrayList<>()).add(aktor);
     }
+
+    public List<Aktor> getAktorzyDlaFilmu(String tytul) {
+        return filmy.getOrDefault(tytul, new ArrayList<>());
+    }
+}
