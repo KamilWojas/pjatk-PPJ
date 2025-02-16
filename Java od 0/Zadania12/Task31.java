@@ -23,3 +23,8 @@ class Film {
         return filmy.getOrDefault(tytul, Collections.emptyList());
     }
 }
+
+public class Task31 {
+    public static void main(String[] args) {
+        Aktor aktor1 = new Aktor("Leonardo DiCaprio");
+        Aktor aktor2 = new Aktor("Joseph Gordon-Levitt");
