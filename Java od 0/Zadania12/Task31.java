@@ -32,3 +32,8 @@ public class Task31 {
         Film.dodajAktorDoFilmu("Incepcja", aktor1);
         Film.dodajAktorDoFilmu("Incepcja", aktor2);
         Film.dodajAktorDoFilmu("Titanic", aktor1);
+
+        System.out.println("Aktorzy w filmie 'Incepcja':");
+        for (Aktor a : Film.pobierzAktorowZFilmu("Incepcja")) {
+            System.out.println("- " + a.getImieNazwisko());
+        }
