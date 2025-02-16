@@ -49,3 +49,15 @@ class Customer extends Employee {
     public void setFirmCustomer(FirmCustomer firmCustomer) {
         this.firmCustomer = firmCustomer;
     }
+    public void setPrivateCustomer(PrivateCustomer privateCustomer) {
+        this.privateCustomer = privateCustomer;
+    }
+
+    public String getNip() {
+        return firmCustomer != null ? firmCustomer.getNip() : "Brak NIP";
+    }
+
+    public String getPesel() {
+        return privateCustomer != null ? privateCustomer.getPesel() : "Brak PESEL";
+    }
+}
