@@ -61,3 +61,7 @@ class Customer extends Employee {
         return privateCustomer != null ? privateCustomer.getPesel() : "Brak PESEL";
     }
 }
+
+public class Task33 {
+    public static void main(String[] args) {
+        Customer client = new Customer("2023-01-10", 5000);
