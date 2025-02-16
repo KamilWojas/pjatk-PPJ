@@ -33,3 +33,7 @@ public class Task32 {
 
         Aktor aktor1 = new Aktor("Leonardo DiCaprio");
         Aktor aktor2 = new Aktor("Joseph Gordon-Levitt");
+
+        filmManager.dodajAktorDoFilmu("Incepcja", aktor1);
+        filmManager.dodajAktorDoFilmu("Incepcja", aktor2);
+        filmManager.dodajAktorDoFilmu("Titanic", aktor1);
