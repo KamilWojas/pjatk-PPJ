@@ -37,3 +37,10 @@ public class Task31 {
         for (Aktor a : Film.pobierzAktorowZFilmu("Incepcja")) {
             System.out.println("- " + a.getImieNazwisko());
         }
+
+        System.out.println("Aktorzy w filmie 'Titanic':");
+        for (Aktor a : Film.pobierzAktorowZFilmu("Titanic")) {
+            System.out.println("- " + a.getImieNazwisko());
+        }
+    }
+}
