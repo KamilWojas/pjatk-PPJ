@@ -13,3 +13,15 @@ class Employee {
         return baseSalary * period;
     }
 }
+
+class FirmCustomer {
+    private String nip;
+
+    public FirmCustomer(String nip) {
+        this.nip = nip;
+    }
+
+    public String getNip() {
+        return nip;
+    }
+}
