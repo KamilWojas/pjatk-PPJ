@@ -37,3 +37,15 @@ class PrivateCustomer {
         return pesel;
     }
 }
+
+class Customer extends Employee {
+    private FirmCustomer firmCustomer;
+    private PrivateCustomer privateCustomer;
+
+    public Customer(String hireDate, double baseSalary) {
+        super(hireDate, baseSalary);
+    }
+
+    public void setFirmCustomer(FirmCustomer firmCustomer) {
+        this.firmCustomer = firmCustomer;
+    }
