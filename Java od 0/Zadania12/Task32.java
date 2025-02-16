@@ -26,3 +26,10 @@ class FilmManager {
         return filmy.getOrDefault(tytul, new ArrayList<>());
     }
 }
+
+public class Task32 {
+    public static void main(String[] args) {
+        FilmManager filmManager = new FilmManager();
+
+        Aktor aktor1 = new Aktor("Leonardo DiCaprio");
+        Aktor aktor2 = new Aktor("Joseph Gordon-Levitt");
