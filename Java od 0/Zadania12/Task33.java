@@ -68,3 +68,9 @@ public class Task33 {
 
         client.setPrivateCustomer(new PrivateCustomer("12345678901"));
         client.setFirmCustomer(new FirmCustomer("9876543210"));
+
+        System.out.println("PESEL: " + client.getPesel());
+        System.out.println("NIP: " + client.getNip());
+        System.out.println("Wynagrodzenie za 3 miesiące: " + client.calculateSalary(3));
+    }
+}
