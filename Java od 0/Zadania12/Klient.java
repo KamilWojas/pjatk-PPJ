@@ -9,3 +9,7 @@ class Klient {
         this.imie = imie;
         this.koszyk = new HashMap<>();
     }
+
+    public void dodajProdukt(Produkt produkt) {
+        koszyk.put(produkt, koszyk.getOrDefault(produkt, 0) + 1);
+    }
