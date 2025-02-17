@@ -57,4 +57,8 @@ class Dzial {
     public String getNazwa() {
         return nazwa;
     }
+    public void dodajPracownika(Pracownik pracownik) {
+        System.out.println("Pracownik dodany do działu: " + nazwa);
+    }
+}
 
