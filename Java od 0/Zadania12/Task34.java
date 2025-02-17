@@ -10,3 +10,8 @@ public class Task34 {
         try {
             pracownik1.przypiszDoDzialu(dzial1);
         } catch (IllegalStateException e) {
+            System.out.println("Błąd: " + e.getMessage());
+        }
+    }
+}
+        }
