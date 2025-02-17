@@ -32,3 +32,18 @@ class Pracownik {
         }
     }
 }
+class Projekt {
+    private String nazwa;
+
+    public Projekt(String nazwa) {
+        this.nazwa = nazwa;
+    }
+
+    public String getNazwa() {
+        return nazwa;
+    }
+
+    public void dodajPracownika(Pracownik pracownik) {
+        System.out.println("Pracownik dodany do projektu: " + nazwa);
+    }
+}
