@@ -6,3 +6,7 @@ public class Task34 {
 
         pracownik1.przypiszDoProjektu(projekt1);
         pracownik1.wyswietlInformacje();
+
+        try {
+            pracownik1.przypiszDoDzialu(dzial1);
+        } catch (IllegalStateException e) {
