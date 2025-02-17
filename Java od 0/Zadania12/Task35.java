@@ -14,3 +14,10 @@ class Pracownik {
         this.projekt = projekt;
         projekt.dodajPracownika(this);
     }
+    public void przypiszDoDzialu(Dzial dzial) {
+        if (this.projekt != null) {
+            throw new IllegalStateException("Pracownik już należy do projektu i nie może być przypisany do działu.");
+        }
+        this.dzial = dzial;
+        dzial.dodajPracownika(this);
+    }
