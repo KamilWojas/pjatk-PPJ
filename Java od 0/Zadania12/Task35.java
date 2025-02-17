@@ -6,3 +6,11 @@ class Pracownik {
     public Pracownik(String imie) {
         this.imie = imie;
     }
+
+    public void przypiszDoProjektu(Projekt projekt) {
+        if (this.dzial != null) {
+            throw new IllegalStateException("Pracownik już należy do działu i nie może być przypisany do projektu.");
+        }
+        this.projekt = projekt;
+        projekt.dodajPracownika(this);
+    }
