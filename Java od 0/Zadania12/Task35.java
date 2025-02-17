@@ -21,3 +21,14 @@ class Pracownik {
         this.dzial = dzial;
         dzial.dodajPracownika(this);
     }
+    public void wyswietlInformacje() {
+        System.out.println("Pracownik: " + imie);
+        if (projekt != null) {
+            System.out.println("Pracuje w projekcie: " + projekt.getNazwa());
+        } else if (dzial != null) {
+            System.out.println("Pracuje w dziale: " + dzial.getNazwa());
+        } else {
+            System.out.println("Nie jest przypisany do żadnego projektu ani działu.");
+        }
+    }
+}
