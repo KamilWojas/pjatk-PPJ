@@ -47,3 +47,14 @@ class Projekt {
         System.out.println("Pracownik dodany do projektu: " + nazwa);
     }
 }
+class Dzial {
+    private String nazwa;
+
+    public Dzial(String nazwa) {
+        this.nazwa = nazwa;
+    }
+
+    public String getNazwa() {
+        return nazwa;
+    }
+
