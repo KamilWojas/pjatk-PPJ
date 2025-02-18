@@ -9,3 +9,10 @@ class Produkt {
         this.nazwa = nazwa;
         this.cena = cena;
     }
+    public String getNazwa() {
+        return nazwa;
+    }
+
+    public double getCena() {
+        return cena;
+    }
