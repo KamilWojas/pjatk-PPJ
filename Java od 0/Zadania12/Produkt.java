@@ -35,5 +35,12 @@ class Klient {
     public void dodajProdukt(Produkt produkt) {
         koszyk.add(produkt);
     }
+    public void wyswietlKoszyk() {
+        System.out.println("Koszyk klienta: " + imie);
+        for (Produkt p : koszyk) {
+            System.out.println(p);
+        }
+    }
+}
 
 
