@@ -31,5 +31,9 @@ class Klient {
         this.imie = imie;
         this.koszyk = new ArrayList<>();
     }
-    
+
+    public void dodajProdukt(Produkt produkt) {
+        koszyk.add(produkt);
+    }
+
 
