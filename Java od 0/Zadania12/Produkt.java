@@ -25,5 +25,11 @@ class Produkt {
 
 class Klient {
     private String imie;
-    private List<Produkt> koszyk; 
+    private List<Produkt> koszyk;
+
+    public Klient(String imie) {
+        this.imie = imie;
+        this.koszyk = new ArrayList<>();
+    }
+    
 
