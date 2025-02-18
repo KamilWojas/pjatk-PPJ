@@ -23,3 +23,7 @@ class Produkt {
     }
 }
 
+class Klient {
+    private String imie;
+    private List<Produkt> koszyk; 
+
