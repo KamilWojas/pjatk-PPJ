@@ -59,4 +59,10 @@ public class Main {
     }
 }
 
+//    Koszyk klienta: Jan Kowalski
+//        Chleb - 3.5 PLN
+//        Mleko - 2.8 PLN
+//        Chleb - 3.5 PLN
+//        Mleko - 2.8 PLN
+
 
