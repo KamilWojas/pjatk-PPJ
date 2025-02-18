@@ -50,4 +50,9 @@ public class Main {
         Produkt p1 = new Produkt("Chleb", 3.50);
         Produkt p2 = new Produkt("Mleko", 2.80);
 
+        klient1.dodajProdukt(p1);
+        klient1.dodajProdukt(p2);
+        klient1.dodajProdukt(p1); 
+        klient1.dodajProdukt(p2);
+
 
