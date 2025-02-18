@@ -16,3 +16,10 @@ class Produkt {
     public double getCena() {
         return cena;
     }
+
+    @Override
+    public String toString() {
+        return nazwa + " - " + cena + " PLN";
+    }
+}
+
