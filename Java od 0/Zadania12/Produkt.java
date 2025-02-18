@@ -52,7 +52,11 @@ public class Main {
 
         klient1.dodajProdukt(p1);
         klient1.dodajProdukt(p2);
-        klient1.dodajProdukt(p1); 
+        klient1.dodajProdukt(p1);
         klient1.dodajProdukt(p2);
+
+        klient1.wyswietlKoszyk();
+    }
+}
 
 
