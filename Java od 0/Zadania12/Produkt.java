@@ -47,4 +47,7 @@ public class Main {
     public static void main(String[] args) {
         Klient klient1 = new Klient("Jan Kowalski");
 
+        Produkt p1 = new Produkt("Chleb", 3.50);
+        Produkt p2 = new Produkt("Mleko", 2.80);
+
 
