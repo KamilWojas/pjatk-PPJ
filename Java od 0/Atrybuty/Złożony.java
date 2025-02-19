@@ -10,4 +10,19 @@ public class Złożony {
     }
 
     //Gettery i Settery
+    public String getMiasto(){
+        return miasto;
+    }
+
+    public void setMiasto(String miasto) {
+        this.miasto = miasto;
+    }
+
+    public String getUlica() {
+        return ulica;
+    }
+
+    public void setUlica(String ulica) {
+        this.ulica = ulica;
+    }
 }
