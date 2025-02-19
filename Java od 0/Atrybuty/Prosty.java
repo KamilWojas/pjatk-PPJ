@@ -40,6 +40,11 @@ public class Main{
     public static void main(String [] args){
         Osoba osoba1 = new Prosty("Jan", 22);
         osoba1.wyswietlInformacje();
+
+        osoba1.setWiek(21);
+        System.out.println("Nowy wiek: " + osoba1.getWiek()); //Nowy wiek 21
+
+        osoba1.setWiek(-3); //wiek nie może być ujemny 
     }
 }
 
