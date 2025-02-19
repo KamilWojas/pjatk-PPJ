@@ -21,8 +21,12 @@ public class Prosty{
     public int getWiek() {
         return wiek;
     }
-
+    //Setter dla wieku
     public void setWiek(int wiek) {
-        this.wiek = wiek;
+        if (wiek >= 0){
+            this.wiek = wiek;
+        }else {
+            System.out.println("Wiek nie może być ujemny");
+        }
     }
 }
