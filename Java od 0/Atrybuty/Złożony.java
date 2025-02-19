@@ -28,4 +28,8 @@ public class Złożony {
     public void setKodPocztowy(String kodPocztowy) {
         this.kodPocztowy = kodPocztowy;
     }
+
+    public String getPełenAdres(){
+        return ulica + ", " + miasto + ", " + kodPocztowy + ", ";
+    }
 }
