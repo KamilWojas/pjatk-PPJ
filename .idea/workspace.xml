@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Prosty">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Atrybuty/Prosty.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Atrybuty/Prosty.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Złożony">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Atrybuty/Złożony.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Atrybuty/Złożony.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,39 +157,7 @@
       <workItem from="1738091843012" duration="16953000" />
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
-      <workItem from="1739986880532" duration="1295000" />
-    </task>
-    <task id="LOCAL-00808" summary="Task32">
-      <option name="closed" value="true" />
-      <created>1739744028644</created>
-      <option name="number" value="00808" />
-      <option name="presentableId" value="LOCAL-00808" />
-      <option name="project" value="LOCAL" />
-      <updated>1739744028644</updated>
-    </task>
-    <task id="LOCAL-00809" summary="Task32">
-      <option name="closed" value="true" />
-      <created>1739744044186</created>
-      <option name="number" value="00809" />
-      <option name="presentableId" value="LOCAL-00809" />
-      <option name="project" value="LOCAL" />
-      <updated>1739744044186</updated>
-    </task>
-    <task id="LOCAL-00810" summary="Task32">
-      <option name="closed" value="true" />
-      <created>1739744056160</created>
-      <option name="number" value="00810" />
-      <option name="presentableId" value="LOCAL-00810" />
-      <option name="project" value="LOCAL" />
-      <updated>1739744056160</updated>
-    </task>
-    <task id="LOCAL-00811" summary="Task33">
-      <option name="closed" value="true" />
-      <created>1739744138773</created>
-      <option name="number" value="00811" />
-      <option name="presentableId" value="LOCAL-00811" />
-      <option name="project" value="LOCAL" />
-      <updated>1739744138773</updated>
+      <workItem from="1739986880532" duration="1649000" />
     </task>
     <task id="LOCAL-00812" summary="Task33">
       <option name="closed" value="true" />
@@ -551,7 +519,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740001623666</updated>
     </task>
-    <option name="localTasksCounter" value="857" />
+    <task id="LOCAL-00857" summary="Prosty">
+      <option name="closed" value="true" />
+      <created>1740001738558</created>
+      <option name="number" value="00857" />
+      <option name="presentableId" value="LOCAL-00857" />
+      <option name="project" value="LOCAL" />
+      <updated>1740001738558</updated>
+    </task>
+    <task id="LOCAL-00858" summary="Prosty">
+      <option name="closed" value="true" />
+      <created>1740001826278</created>
+      <option name="number" value="00858" />
+      <option name="presentableId" value="LOCAL-00858" />
+      <option name="project" value="LOCAL" />
+      <updated>1740001826278</updated>
+    </task>
+    <task id="LOCAL-00859" summary="Złożony">
+      <option name="closed" value="true" />
+      <created>1740001938196</created>
+      <option name="number" value="00859" />
+      <option name="presentableId" value="LOCAL-00859" />
+      <option name="project" value="LOCAL" />
+      <updated>1740001938196</updated>
+    </task>
+    <task id="LOCAL-00860" summary="Złożony">
+      <option name="closed" value="true" />
+      <created>1740002014615</created>
+      <option name="number" value="00860" />
+      <option name="presentableId" value="LOCAL-00860" />
+      <option name="project" value="LOCAL" />
+      <updated>1740002014616</updated>
+    </task>
+    <option name="localTasksCounter" value="861" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zapis do pliku" />
     <MESSAGE value="Odczyt z pliku" />
     <MESSAGE value="Task17" />
     <MESSAGE value="Task18" />
@@ -594,6 +593,7 @@
     <MESSAGE value="Klient" />
     <MESSAGE value="Produkt" />
     <MESSAGE value="Prosty" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prosty" />
+    <MESSAGE value="Złożony" />
+    <option name="LAST_COMMIT_MESSAGE" value="Złożony" />
   </component>
 </project>
