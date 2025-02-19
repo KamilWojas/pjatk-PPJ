@@ -35,6 +35,14 @@ public class Prosty{
     }
 }
 
+//Testowanie
+public class Main{
+    public static void main(String [] args){
+        Osoba osoba1 = new Prosty("Jan", 22);
+        osoba1.wyswietlInformacje();
+    }
+}
+
 //    Prywatne pola (private) – Zapewniają enkapsulację.
 //    Metody get i set – Umożliwiają dostęp do wartości atrybutów.
 //    Konstruktor – Inicjalizuje obiekt.
