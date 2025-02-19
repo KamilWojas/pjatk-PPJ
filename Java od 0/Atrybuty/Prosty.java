@@ -34,3 +34,8 @@ public class Prosty{
         System.out.println("Imię: " + imie + ", Wiek " + wiek);
     }
 }
+
+//    Prywatne pola (private) – Zapewniają enkapsulację.
+//    Metody get i set – Umożliwiają dostęp do wartości atrybutów.
+//    Konstruktor – Inicjalizuje obiekt.
+//    Walidacja w setWiek – Zapobiega ustawieniu ujemnej wartości wieku.
