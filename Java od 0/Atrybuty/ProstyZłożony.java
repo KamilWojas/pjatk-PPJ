@@ -1,5 +1,5 @@
 public class ProstyZłożony {
-    private String imie;
+    private String imie; //atrybut prosty
     private int wiek;
     private Adres adres; //atrybut złożony
 
