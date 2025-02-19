@@ -29,4 +29,8 @@ public class Prosty{
             System.out.println("Wiek nie może być ujemny");
         }
     }
+    //Metoda do wyświetlenia informacji
+    public void wyswietlInformacje(){
+        System.out.println("Imię: " + imie + ", Wiek " + wiek);
+    }
 }

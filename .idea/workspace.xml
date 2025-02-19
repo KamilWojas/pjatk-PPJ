@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Produkt">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Atrybuty/Prosty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Prosty">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Atrybuty/Prosty.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Atrybuty/Prosty.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,31 +157,7 @@
       <workItem from="1738091843012" duration="16953000" />
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
-      <workItem from="1739986880532" duration="649000" />
-    </task>
-    <task id="LOCAL-00802" summary="Task31">
-      <option name="closed" value="true" />
-      <created>1739743916420</created>
-      <option name="number" value="00802" />
-      <option name="presentableId" value="LOCAL-00802" />
-      <option name="project" value="LOCAL" />
-      <updated>1739743916420</updated>
-    </task>
-    <task id="LOCAL-00803" summary="Task31">
-      <option name="closed" value="true" />
-      <created>1739743932128</created>
-      <option name="number" value="00803" />
-      <option name="presentableId" value="LOCAL-00803" />
-      <option name="project" value="LOCAL" />
-      <updated>1739743932128</updated>
-    </task>
-    <task id="LOCAL-00804" summary="Task32">
-      <option name="closed" value="true" />
-      <created>1739743954483</created>
-      <option name="number" value="00804" />
-      <option name="presentableId" value="LOCAL-00804" />
-      <option name="project" value="LOCAL" />
-      <updated>1739743954483</updated>
+      <workItem from="1739986880532" duration="988000" />
     </task>
     <task id="LOCAL-00805" summary="Task32">
       <option name="closed" value="true" />
@@ -552,7 +527,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739916578280</updated>
     </task>
-    <option name="localTasksCounter" value="851" />
+    <task id="LOCAL-00851" summary="Prosty">
+      <option name="closed" value="true" />
+      <created>1740001103910</created>
+      <option name="number" value="00851" />
+      <option name="presentableId" value="LOCAL-00851" />
+      <option name="project" value="LOCAL" />
+      <updated>1740001103910</updated>
+    </task>
+    <task id="LOCAL-00852" summary="Prosty">
+      <option name="closed" value="true" />
+      <created>1740001187149</created>
+      <option name="number" value="00852" />
+      <option name="presentableId" value="LOCAL-00852" />
+      <option name="project" value="LOCAL" />
+      <updated>1740001187149</updated>
+    </task>
+    <task id="LOCAL-00853" summary="Prosty">
+      <option name="closed" value="true" />
+      <created>1740001314832</created>
+      <option name="number" value="00853" />
+      <option name="presentableId" value="LOCAL-00853" />
+      <option name="project" value="LOCAL" />
+      <updated>1740001314832</updated>
+    </task>
+    <option name="localTasksCounter" value="854" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="klasa bazowa" />
     <MESSAGE value="Zapis do pliku" />
     <MESSAGE value="Odczyt z pliku" />
     <MESSAGE value="Task17" />
@@ -595,6 +593,7 @@
     <MESSAGE value="Task35" />
     <MESSAGE value="Klient" />
     <MESSAGE value="Produkt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Produkt" />
+    <MESSAGE value="Prosty" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prosty" />
   </component>
 </project>
