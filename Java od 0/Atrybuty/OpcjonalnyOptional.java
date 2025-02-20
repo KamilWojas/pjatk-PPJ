@@ -3,11 +3,18 @@
 public class OpcjonalnyOptional {
     public String imie;
     public int wiek;
-    public Optiona<String> numerTelefon; //Opcjonalny nr telefonu
+    public Optiona<String> numerTelefonu; //Opcjonalny nr telefonu
 
+    //Konstruktor z bez nr telefonu
     public OpcjonalnyOptional(String imie, int wiek){
         this.imie = imie;
         this.wiek = wiek;
         this.numerTelefon = Optional.empty(); //brak nr
+    }
+    //Konstruktor z nr telefonu
+    public OpcjonalnyOptional(String imie, int wiek, String numerTelefonu){
+        this.imie = imie;
+        this.wiek = wiek;
+        this.numerTelefon = Optional.of(numerTelefonu);
     }
 }
