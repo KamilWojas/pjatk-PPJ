@@ -38,7 +38,8 @@ public class Main{
 
         osobaBezTelefonu.wyswietlInformacje();
         osobaZTelefonem.wyswietlInformacje();
-        
 
+        osobaBezTelefonu.setNumerTelefonu("123-123-123");
+        osobaZTelefonem.wyswietlInformacje();
     }
 }
