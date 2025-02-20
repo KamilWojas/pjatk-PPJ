@@ -41,6 +41,8 @@ public class Main{
 
         osoba1.wyswietlInformacje();
         osoba2.wyswietlInformacje();
-        
+
+        osoba1.setNumerTelefonu("432-234-123");
+        osoba2.getNumerTelefonu();
     }
 }
