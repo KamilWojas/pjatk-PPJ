@@ -43,3 +43,11 @@ public class Main{
         osobaZTelefonem.wyswietlInformacje();
     }
 }
+
+
+//Imię: Jan, Wiek: 30
+//        Numer telefonu: Brak
+//        Imię: Anna, Wiek: 25
+//        Numer telefonu: 123-456-789
+//        Imię: Jan, Wiek: 30
+//      Numer telefonu: 987-654-321
