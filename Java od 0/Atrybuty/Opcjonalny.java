@@ -14,4 +14,18 @@ public class Opcjonalny {
         this.wiek = wiek;
         this.numerTelefonu = numerTelefonu;
     }
+
+    public String getNumerTelefonu() {
+        return numerTelefonu;
+    }
+
+    public void setNumerTelefonu(String numerTelefonu) {
+        this.numerTelefonu = numerTelefonu;
+    }
+
+    //Metoda testowa
+    public void wyswietlInformacje(){
+        System.out.println("Imie: " + imie + ", wiek" + wiek);
+        System.out.println("Nr telefonu: " + (numerTelefonu !=null ? numerTelefonu : "Brak"));
+    }
 }
