@@ -35,6 +35,9 @@ public class Main{
     public static void main(String[] args){
         Opcjonalny osobaBezTelefonu = new Opcjonalny("Jan", 22);
         Opcjonalny osobaZTelefonem = new Opcjonalny('Kasia', 28, "321-123-456");
+
+        osobaBezTelefonu.wyswietlInformacje();
+        osobaZTelefonem.wyswietlInformacje();
         
 
     }
