@@ -158,47 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="2717000" />
-    </task>
-    <task id="LOCAL-00833" summary="Klient">
-      <option name="closed" value="true" />
-      <created>1739828460151</created>
-      <option name="number" value="00833" />
-      <option name="presentableId" value="LOCAL-00833" />
-      <option name="project" value="LOCAL" />
-      <updated>1739828460151</updated>
-    </task>
-    <task id="LOCAL-00834" summary="Klient">
-      <option name="closed" value="true" />
-      <created>1739828471253</created>
-      <option name="number" value="00834" />
-      <option name="presentableId" value="LOCAL-00834" />
-      <option name="project" value="LOCAL" />
-      <updated>1739828471253</updated>
-    </task>
-    <task id="LOCAL-00835" summary="Klient">
-      <option name="closed" value="true" />
-      <created>1739828482859</created>
-      <option name="number" value="00835" />
-      <option name="presentableId" value="LOCAL-00835" />
-      <option name="project" value="LOCAL" />
-      <updated>1739828482859</updated>
-    </task>
-    <task id="LOCAL-00836" summary="Klient">
-      <option name="closed" value="true" />
-      <created>1739828496899</created>
-      <option name="number" value="00836" />
-      <option name="presentableId" value="LOCAL-00836" />
-      <option name="project" value="LOCAL" />
-      <updated>1739828496899</updated>
-    </task>
-    <task id="LOCAL-00837" summary="Klient">
-      <option name="closed" value="true" />
-      <created>1739828509403</created>
-      <option name="number" value="00837" />
-      <option name="presentableId" value="LOCAL-00837" />
-      <option name="project" value="LOCAL" />
-      <updated>1739828509403</updated>
+      <workItem from="1740068933537" duration="3048000" />
     </task>
     <task id="LOCAL-00838" summary="Produkt">
       <option name="closed" value="true" />
@@ -552,7 +512,47 @@
       <option name="project" value="LOCAL" />
       <updated>1740075264100</updated>
     </task>
-    <option name="localTasksCounter" value="882" />
+    <task id="LOCAL-00882" summary="Opcjonalny optional">
+      <option name="closed" value="true" />
+      <created>1740075497738</created>
+      <option name="number" value="00882" />
+      <option name="presentableId" value="LOCAL-00882" />
+      <option name="project" value="LOCAL" />
+      <updated>1740075497738</updated>
+    </task>
+    <task id="LOCAL-00883" summary="Opcjonalny optional">
+      <option name="closed" value="true" />
+      <created>1740075548119</created>
+      <option name="number" value="00883" />
+      <option name="presentableId" value="LOCAL-00883" />
+      <option name="project" value="LOCAL" />
+      <updated>1740075548119</updated>
+    </task>
+    <task id="LOCAL-00884" summary="Opcjonalny optional">
+      <option name="closed" value="true" />
+      <created>1740075659536</created>
+      <option name="number" value="00884" />
+      <option name="presentableId" value="LOCAL-00884" />
+      <option name="project" value="LOCAL" />
+      <updated>1740075659536</updated>
+    </task>
+    <task id="LOCAL-00885" summary="Opcjonalny optional">
+      <option name="closed" value="true" />
+      <created>1740075688991</created>
+      <option name="number" value="00885" />
+      <option name="presentableId" value="LOCAL-00885" />
+      <option name="project" value="LOCAL" />
+      <updated>1740075688991</updated>
+    </task>
+    <task id="LOCAL-00886" summary="Opcjonalny optional">
+      <option name="closed" value="true" />
+      <created>1740075786918</created>
+      <option name="number" value="00886" />
+      <option name="presentableId" value="LOCAL-00886" />
+      <option name="project" value="LOCAL" />
+      <updated>1740075786918</updated>
+    </task>
+    <option name="localTasksCounter" value="887" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
