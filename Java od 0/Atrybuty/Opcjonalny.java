@@ -23,9 +23,16 @@ public class Opcjonalny {
         this.numerTelefonu = numerTelefonu;
     }
 
-    //Metoda testowa
+    //Metoda sprawdzająca
     public void wyswietlInformacje(){
         System.out.println("Imie: " + imie + ", wiek" + wiek);
         System.out.println("Nr telefonu: " + (numerTelefonu !=null ? numerTelefonu : "Brak"));
+    }
+}
+
+//Metoda testowa
+public class Main{
+    public static void main(String[] args){
+
     }
 }
