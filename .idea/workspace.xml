@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Złożony">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Atrybuty/ProstyZłożony.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Atrybuty/ProstyZłożony.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Złożony + prosty">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Atrybuty/Opcjonalny.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,31 +158,8 @@
       <workItem from="1738091843012" duration="16953000" />
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
-      <workItem from="1739986880532" duration="2297000" />
-    </task>
-    <task id="LOCAL-00818" summary="Task33">
-      <option name="closed" value="true" />
-      <created>1739744250019</created>
-      <option name="number" value="00818" />
-      <option name="presentableId" value="LOCAL-00818" />
-      <option name="project" value="LOCAL" />
-      <updated>1739744250019</updated>
-    </task>
-    <task id="LOCAL-00819" summary="Task33">
-      <option name="closed" value="true" />
-      <created>1739744265987</created>
-      <option name="number" value="00819" />
-      <option name="presentableId" value="LOCAL-00819" />
-      <option name="project" value="LOCAL" />
-      <updated>1739744265987</updated>
-    </task>
-    <task id="LOCAL-00820" summary="Task34">
-      <option name="closed" value="true" />
-      <created>1739828218377</created>
-      <option name="number" value="00820" />
-      <option name="presentableId" value="LOCAL-00820" />
-      <option name="project" value="LOCAL" />
-      <updated>1739828218377</updated>
+      <workItem from="1739986880532" duration="2929000" />
+      <workItem from="1740068933537" duration="1222000" />
     </task>
     <task id="LOCAL-00821" summary="Task34">
       <option name="closed" value="true" />
@@ -551,7 +529,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740002374870</updated>
     </task>
-    <option name="localTasksCounter" value="867" />
+    <task id="LOCAL-00867" summary="Złożony">
+      <option name="closed" value="true" />
+      <created>1740002743486</created>
+      <option name="number" value="00867" />
+      <option name="presentableId" value="LOCAL-00867" />
+      <option name="project" value="LOCAL" />
+      <updated>1740002743486</updated>
+    </task>
+    <task id="LOCAL-00868" summary="Złożony">
+      <option name="closed" value="true" />
+      <created>1740002752156</created>
+      <option name="number" value="00868" />
+      <option name="presentableId" value="LOCAL-00868" />
+      <option name="project" value="LOCAL" />
+      <updated>1740002752156</updated>
+    </task>
+    <task id="LOCAL-00869" summary="Złożony + prosty">
+      <option name="closed" value="true" />
+      <created>1740002775105</created>
+      <option name="number" value="00869" />
+      <option name="presentableId" value="LOCAL-00869" />
+      <option name="project" value="LOCAL" />
+      <updated>1740002775105</updated>
+    </task>
+    <option name="localTasksCounter" value="870" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Odczyt z pliku" />
     <MESSAGE value="Task17" />
     <MESSAGE value="Task18" />
     <MESSAGE value="Task19" />
@@ -594,6 +595,7 @@
     <MESSAGE value="Produkt" />
     <MESSAGE value="Prosty" />
     <MESSAGE value="Złożony" />
-    <option name="LAST_COMMIT_MESSAGE" value="Złożony" />
+    <MESSAGE value="Złożony + prosty" />
+    <option name="LAST_COMMIT_MESSAGE" value="Złożony + prosty" />
   </component>
 </project>
