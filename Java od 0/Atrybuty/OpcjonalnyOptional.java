@@ -17,4 +17,12 @@ public class OpcjonalnyOptional {
         this.wiek = wiek;
         this.numerTelefon = Optional.of(numerTelefonu);
     }
+
+    public Optiona<String> getNumerTelefonu() {
+        return numerTelefonu;
+    }
+
+    public void setNumerTelefonu(Optiona<String> numerTelefonu) {
+        this.numerTelefonu = numerTelefonu;
+    }
 }
