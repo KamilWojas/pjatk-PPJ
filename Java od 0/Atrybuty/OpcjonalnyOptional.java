@@ -36,6 +36,11 @@ public class OpcjonalnyOptional {
 //Metoda testowa
 public class Main{
     public static void main(String[] args) {
+        OpcjonalnyOptional osoba1 = new OpcjonalnyOptional("Jan", 34);
+        OpcjonalnyOptional osoba2 = new OpcjonalnyOptional("Kamil", 34, "231-321-123");
+
+        osoba1.wyswietlInformacje();
+        osoba2.wyswietlInformacje();
         
     }
 }
