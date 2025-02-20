@@ -25,4 +25,10 @@ public class OpcjonalnyOptional {
     public void setNumerTelefonu(Optiona<String> numerTelefonu) {
         this.numerTelefonu = numerTelefonu;
     }
+
+    //Metoda sprawdzająca
+    public void wyswietlInformacje(){
+        System.out.println("Imie: " + imie + ", wiek " + wiek);
+        System.out.println("Numer telefonu " + numerTelefonu.orElse("Brak"));
+    }
 }
