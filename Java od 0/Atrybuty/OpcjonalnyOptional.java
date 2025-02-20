@@ -32,3 +32,10 @@ public class OpcjonalnyOptional {
         System.out.println("Numer telefonu " + numerTelefonu.orElse("Brak"));
     }
 }
+
+//Metoda testowa
+public class Main{
+    public static void main(String[] args) {
+        
+    }
+}
