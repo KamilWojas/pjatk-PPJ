@@ -14,6 +14,8 @@ public class AtrybutKlasowy {
 
 public class Main{
     public static void main(String[] args) {
-        
+        AtrybutKlasowy auto1 = new AtrybutKlasowy("Toyota");
+        AtrybutKlasowy auto2 = new AtrybutKlasowy("Honda");
+
     }
 }
