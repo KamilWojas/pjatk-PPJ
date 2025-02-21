@@ -30,3 +30,10 @@ public class Pochodny {
 
     }
 }
+
+//test klasy
+public class Main{
+    public static void main(String[] args) {
+        Osoba osoba = new Pochodny("Jan", LocalDate.of(1987, 5, 12));
+    }
+}
