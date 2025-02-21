@@ -6,7 +6,6 @@ public class AtrybutKlasowy {
     public AtrybutKlasowy(String marka){
         this.marka = marka;
     }
-
     public String getMarka() {
         return marka;
     }
