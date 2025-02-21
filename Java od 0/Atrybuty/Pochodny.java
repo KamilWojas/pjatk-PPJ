@@ -14,4 +14,12 @@ public class Pochodny {
         return imie;
     }
 
+    public LocalDate getDataUrodzenia() {
+        return dataUrodzenia;
+    }
+    //Atrybut pochodny - wiek
+    public int getWiek(){
+        return Period.between(dataUrodzenia, LocalDate.now()).getYears();
+        
+    }
 }
