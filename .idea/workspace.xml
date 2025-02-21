@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Atrybut klasowy">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Atrybuty/AtrybutKlasowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Atrybuty/AtrybutKlasowy.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Atrybut klasowy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,71 +156,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="4579000" />
-    </task>
-    <task id="LOCAL-00850" summary="Produkt">
-      <option name="closed" value="true" />
-      <created>1739916578280</created>
-      <option name="number" value="00850" />
-      <option name="presentableId" value="LOCAL-00850" />
-      <option name="project" value="LOCAL" />
-      <updated>1739916578280</updated>
-    </task>
-    <task id="LOCAL-00851" summary="Prosty">
-      <option name="closed" value="true" />
-      <created>1740001103910</created>
-      <option name="number" value="00851" />
-      <option name="presentableId" value="LOCAL-00851" />
-      <option name="project" value="LOCAL" />
-      <updated>1740001103910</updated>
-    </task>
-    <task id="LOCAL-00852" summary="Prosty">
-      <option name="closed" value="true" />
-      <created>1740001187149</created>
-      <option name="number" value="00852" />
-      <option name="presentableId" value="LOCAL-00852" />
-      <option name="project" value="LOCAL" />
-      <updated>1740001187149</updated>
-    </task>
-    <task id="LOCAL-00853" summary="Prosty">
-      <option name="closed" value="true" />
-      <created>1740001314832</created>
-      <option name="number" value="00853" />
-      <option name="presentableId" value="LOCAL-00853" />
-      <option name="project" value="LOCAL" />
-      <updated>1740001314832</updated>
-    </task>
-    <task id="LOCAL-00854" summary="Prosty">
-      <option name="closed" value="true" />
-      <created>1740001431439</created>
-      <option name="number" value="00854" />
-      <option name="presentableId" value="LOCAL-00854" />
-      <option name="project" value="LOCAL" />
-      <updated>1740001431439</updated>
-    </task>
-    <task id="LOCAL-00855" summary="Prosty">
-      <option name="closed" value="true" />
-      <created>1740001497142</created>
-      <option name="number" value="00855" />
-      <option name="presentableId" value="LOCAL-00855" />
-      <option name="project" value="LOCAL" />
-      <updated>1740001497142</updated>
-    </task>
-    <task id="LOCAL-00856" summary="Prosty">
-      <option name="closed" value="true" />
-      <created>1740001623666</created>
-      <option name="number" value="00856" />
-      <option name="presentableId" value="LOCAL-00856" />
-      <option name="project" value="LOCAL" />
-      <updated>1740001623666</updated>
-    </task>
-    <task id="LOCAL-00857" summary="Prosty">
-      <option name="closed" value="true" />
-      <created>1740001738558</created>
-      <option name="number" value="00857" />
-      <option name="presentableId" value="LOCAL-00857" />
-      <option name="project" value="LOCAL" />
-      <updated>1740001738558</updated>
+      <workItem from="1740068933537" duration="4883000" />
     </task>
     <task id="LOCAL-00858" summary="Prosty">
       <option name="closed" value="true" />
@@ -552,7 +486,71 @@
       <option name="project" value="LOCAL" />
       <updated>1740164640338</updated>
     </task>
-    <option name="localTasksCounter" value="899" />
+    <task id="LOCAL-00899" summary="Atrybut klasowy">
+      <option name="closed" value="true" />
+      <created>1740164735948</created>
+      <option name="number" value="00899" />
+      <option name="presentableId" value="LOCAL-00899" />
+      <option name="project" value="LOCAL" />
+      <updated>1740164735948</updated>
+    </task>
+    <task id="LOCAL-00900" summary="Atrybut klasowy">
+      <option name="closed" value="true" />
+      <created>1740164786327</created>
+      <option name="number" value="00900" />
+      <option name="presentableId" value="LOCAL-00900" />
+      <option name="project" value="LOCAL" />
+      <updated>1740164786327</updated>
+    </task>
+    <task id="LOCAL-00901" summary="Atrybut klasowy">
+      <option name="closed" value="true" />
+      <created>1740164862929</created>
+      <option name="number" value="00901" />
+      <option name="presentableId" value="LOCAL-00901" />
+      <option name="project" value="LOCAL" />
+      <updated>1740164862929</updated>
+    </task>
+    <task id="LOCAL-00902" summary="Atrybut klasowy">
+      <option name="closed" value="true" />
+      <created>1740164894099</created>
+      <option name="number" value="00902" />
+      <option name="presentableId" value="LOCAL-00902" />
+      <option name="project" value="LOCAL" />
+      <updated>1740164894099</updated>
+    </task>
+    <task id="LOCAL-00903" summary="Atrybut klasowy">
+      <option name="closed" value="true" />
+      <created>1740164942843</created>
+      <option name="number" value="00903" />
+      <option name="presentableId" value="LOCAL-00903" />
+      <option name="project" value="LOCAL" />
+      <updated>1740164942843</updated>
+    </task>
+    <task id="LOCAL-00904" summary="Atrybut klasowy">
+      <option name="closed" value="true" />
+      <created>1740164985012</created>
+      <option name="number" value="00904" />
+      <option name="presentableId" value="LOCAL-00904" />
+      <option name="project" value="LOCAL" />
+      <updated>1740164985012</updated>
+    </task>
+    <task id="LOCAL-00905" summary="Atrybut klasowy">
+      <option name="closed" value="true" />
+      <created>1740165011963</created>
+      <option name="number" value="00905" />
+      <option name="presentableId" value="LOCAL-00905" />
+      <option name="project" value="LOCAL" />
+      <updated>1740165011963</updated>
+    </task>
+    <task id="LOCAL-00906" summary="Atrybut klasowy">
+      <option name="closed" value="true" />
+      <created>1740165023670</created>
+      <option name="number" value="00906" />
+      <option name="presentableId" value="LOCAL-00906" />
+      <option name="project" value="LOCAL" />
+      <updated>1740165023670</updated>
+    </task>
+    <option name="localTasksCounter" value="907" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
