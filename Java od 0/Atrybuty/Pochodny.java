@@ -20,6 +20,10 @@ public class Pochodny {
     //Atrybut pochodny - wiek
     public int getWiek(){
         return Period.between(dataUrodzenia, LocalDate.now()).getYears();
+
+    }
+    //Mtoda wyświetlająca informcje o osobie
+    public void wyswietlInformacje(){
         
     }
 }
