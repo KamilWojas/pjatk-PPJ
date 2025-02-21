@@ -21,5 +21,6 @@ public class Main{
 
         AtrybutKlasowy.liczbaKol = 3;
 
+        System.out.println(AtrybutKlasowy.liczbaKol);
     }
 }
