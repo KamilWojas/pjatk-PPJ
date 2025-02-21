@@ -35,5 +35,7 @@ public class Pochodny {
 public class Main{
     public static void main(String[] args) {
         Osoba osoba = new Pochodny("Jan", LocalDate.of(1987, 5, 12));
+
+        osoba.wyswietlInformacje();
     }
 }
