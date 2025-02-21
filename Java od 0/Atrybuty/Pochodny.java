@@ -24,6 +24,9 @@ public class Pochodny {
     }
     //Mtoda wyświetlająca informcje o osobie
     public void wyswietlInformacje(){
-        
+        System.out.println("Imię: " + imie);
+        System.out.println("Datat urodzenia: " + dataUrodzenia);
+        System.out.println("Wiek: " + getWiek());
+
     }
 }
