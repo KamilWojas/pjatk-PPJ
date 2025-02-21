@@ -11,3 +11,9 @@ public class AtrybutKlasowy {
         return marka;
     }
 }
+
+public class Main{
+    public static void main(String[] args) {
+        
+    }
+}
