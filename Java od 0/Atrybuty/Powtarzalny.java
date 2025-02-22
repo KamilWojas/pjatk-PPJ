@@ -21,6 +21,6 @@ public class Powtarzalny {
 
     //Metoda usuwająca numer telefonu
     public void usunNumerTelefonu(String numer){
-        
+        numerTelefonu.remove(numer);
     }
 }
