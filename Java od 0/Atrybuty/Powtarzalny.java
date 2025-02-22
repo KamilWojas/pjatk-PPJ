@@ -15,7 +15,7 @@ public class Powtarzalny {
         if (numer != null && !numer.isEmpty()){
             numerTelefonu.add(numer);
         }else {
-            
+            throw new IllegalArgumentException("Numer telefonu nie może być pusty");
         }
     }
 }
