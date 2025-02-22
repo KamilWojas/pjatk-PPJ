@@ -158,55 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="5779000" />
-    </task>
-    <task id="LOCAL-00863" summary="Złożony">
-      <option name="closed" value="true" />
-      <created>1740002144430</created>
-      <option name="number" value="00863" />
-      <option name="presentableId" value="LOCAL-00863" />
-      <option name="project" value="LOCAL" />
-      <updated>1740002144430</updated>
-    </task>
-    <task id="LOCAL-00864" summary="Złożony">
-      <option name="closed" value="true" />
-      <created>1740002216306</created>
-      <option name="number" value="00864" />
-      <option name="presentableId" value="LOCAL-00864" />
-      <option name="project" value="LOCAL" />
-      <updated>1740002216306</updated>
-    </task>
-    <task id="LOCAL-00865" summary="Złożony">
-      <option name="closed" value="true" />
-      <created>1740002302845</created>
-      <option name="number" value="00865" />
-      <option name="presentableId" value="LOCAL-00865" />
-      <option name="project" value="LOCAL" />
-      <updated>1740002302845</updated>
-    </task>
-    <task id="LOCAL-00866" summary="Złożony">
-      <option name="closed" value="true" />
-      <created>1740002374870</created>
-      <option name="number" value="00866" />
-      <option name="presentableId" value="LOCAL-00866" />
-      <option name="project" value="LOCAL" />
-      <updated>1740002374870</updated>
-    </task>
-    <task id="LOCAL-00867" summary="Złożony">
-      <option name="closed" value="true" />
-      <created>1740002743486</created>
-      <option name="number" value="00867" />
-      <option name="presentableId" value="LOCAL-00867" />
-      <option name="project" value="LOCAL" />
-      <updated>1740002743486</updated>
-    </task>
-    <task id="LOCAL-00868" summary="Złożony">
-      <option name="closed" value="true" />
-      <created>1740002752156</created>
-      <option name="number" value="00868" />
-      <option name="presentableId" value="LOCAL-00868" />
-      <option name="project" value="LOCAL" />
-      <updated>1740002752156</updated>
+      <workItem from="1740068933537" duration="6088000" />
     </task>
     <task id="LOCAL-00869" summary="Złożony + prosty">
       <option name="closed" value="true" />
@@ -552,7 +504,55 @@
       <option name="project" value="LOCAL" />
       <updated>1740165280500</updated>
     </task>
-    <option name="localTasksCounter" value="912" />
+    <task id="LOCAL-00912" summary="Powtarzalny">
+      <option name="closed" value="true" />
+      <created>1740261030755</created>
+      <option name="number" value="00912" />
+      <option name="presentableId" value="LOCAL-00912" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261030755</updated>
+    </task>
+    <task id="LOCAL-00913" summary="Powtarzalny">
+      <option name="closed" value="true" />
+      <created>1740261083336</created>
+      <option name="number" value="00913" />
+      <option name="presentableId" value="LOCAL-00913" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261083336</updated>
+    </task>
+    <task id="LOCAL-00914" summary="Powtarzalny">
+      <option name="closed" value="true" />
+      <created>1740261095557</created>
+      <option name="number" value="00914" />
+      <option name="presentableId" value="LOCAL-00914" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261095557</updated>
+    </task>
+    <task id="LOCAL-00915" summary="Powtarzalny">
+      <option name="closed" value="true" />
+      <created>1740261157589</created>
+      <option name="number" value="00915" />
+      <option name="presentableId" value="LOCAL-00915" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261157589</updated>
+    </task>
+    <task id="LOCAL-00916" summary="Powtarzalny">
+      <option name="closed" value="true" />
+      <created>1740261215361</created>
+      <option name="number" value="00916" />
+      <option name="presentableId" value="LOCAL-00916" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261215361</updated>
+    </task>
+    <task id="LOCAL-00917" summary="Powtarzalny">
+      <option name="closed" value="true" />
+      <created>1740261264235</created>
+      <option name="number" value="00917" />
+      <option name="presentableId" value="LOCAL-00917" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261264235</updated>
+    </task>
+    <option name="localTasksCounter" value="918" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
