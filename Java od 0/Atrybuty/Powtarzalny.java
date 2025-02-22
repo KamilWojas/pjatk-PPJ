@@ -12,6 +12,8 @@ public class Powtarzalny {
 
     //Metoda dodająca nr telefonu
     public void dodajNumerTelefonu(String numer){
-        
+        if (numer != null && !numer.isEmpty()){
+            numerTelefonu.add(numer);
+        }
     }
 }
