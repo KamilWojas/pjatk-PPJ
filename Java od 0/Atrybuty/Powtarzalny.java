@@ -8,6 +8,10 @@ public class Powtarzalny {
     public Powtarzalny(String imie){
         this.imie = imie;
         this.numerTelefonu = new ArrayList<>();
+    }
 
+    //Metoda dodająca nr telefonu
+    public void dodajNumerTelefonu(String numer){
+        
     }
 }
