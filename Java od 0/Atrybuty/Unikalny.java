@@ -6,4 +6,10 @@ public class Unikalny {
     private String PESEL;
     private String imie;
     private String nazwisko;
+
+    public Unikalny(String PESEL, String imie, String nazwisko){
+        this.PESEL = PESEL;
+        this.imie = imie;
+        this.nazwisko = nazwisko;
+    }
 }
