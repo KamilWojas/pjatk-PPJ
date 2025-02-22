@@ -21,4 +21,16 @@ public class Unikalny {
             return nowaOsoba;
         }
     }
+
+    public String getPESEL() {
+        return PESEL;
+    }
+
+    public String getImie() {
+        return imie;
+    }
+
+    public String getNazwisko() {
+        return nazwisko;
+    }
 }
