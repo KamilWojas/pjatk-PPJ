@@ -23,4 +23,10 @@ public class Powtarzalny {
     public void usunNumerTelefonu(String numer){
         numerTelefonu.remove(numer);
     }
+
+    //Zwracamy listę nr telefonów
+
+    public List<String> getNumerTelefonu() {
+        return new ArrayList<>(numerTelefonu);
+    }
 }
