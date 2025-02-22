@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Powtarzalny">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Atrybuty/Powtarzalny.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Atrybuty/Powtarzalny.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Uniklany">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Atrybuty/Unikalny.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Atrybuty/Unikalny.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,47 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="6088000" />
-    </task>
-    <task id="LOCAL-00869" summary="Złożony + prosty">
-      <option name="closed" value="true" />
-      <created>1740002775105</created>
-      <option name="number" value="00869" />
-      <option name="presentableId" value="LOCAL-00869" />
-      <option name="project" value="LOCAL" />
-      <updated>1740002775105</updated>
-    </task>
-    <task id="LOCAL-00870" summary="Opcjonalny">
-      <option name="closed" value="true" />
-      <created>1740074006127</created>
-      <option name="number" value="00870" />
-      <option name="presentableId" value="LOCAL-00870" />
-      <option name="project" value="LOCAL" />
-      <updated>1740074006127</updated>
-    </task>
-    <task id="LOCAL-00871" summary="Opcjonalny">
-      <option name="closed" value="true" />
-      <created>1740074067359</created>
-      <option name="number" value="00871" />
-      <option name="presentableId" value="LOCAL-00871" />
-      <option name="project" value="LOCAL" />
-      <updated>1740074067359</updated>
-    </task>
-    <task id="LOCAL-00872" summary="Opcjonalny">
-      <option name="closed" value="true" />
-      <created>1740074319521</created>
-      <option name="number" value="00872" />
-      <option name="presentableId" value="LOCAL-00872" />
-      <option name="project" value="LOCAL" />
-      <updated>1740074319521</updated>
-    </task>
-    <task id="LOCAL-00873" summary="Opcjonalny">
-      <option name="closed" value="true" />
-      <created>1740074556478</created>
-      <option name="number" value="00873" />
-      <option name="presentableId" value="LOCAL-00873" />
-      <option name="project" value="LOCAL" />
-      <updated>1740074556478</updated>
+      <workItem from="1740068933537" duration="6401000" />
     </task>
     <task id="LOCAL-00874" summary="Opcjonalny">
       <option name="closed" value="true" />
@@ -552,7 +512,47 @@
       <option name="project" value="LOCAL" />
       <updated>1740261264235</updated>
     </task>
-    <option name="localTasksCounter" value="918" />
+    <task id="LOCAL-00918" summary="Powtarzalny">
+      <option name="closed" value="true" />
+      <created>1740261337442</created>
+      <option name="number" value="00918" />
+      <option name="presentableId" value="LOCAL-00918" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261337442</updated>
+    </task>
+    <task id="LOCAL-00919" summary="Uniklany">
+      <option name="closed" value="true" />
+      <created>1740261369951</created>
+      <option name="number" value="00919" />
+      <option name="presentableId" value="LOCAL-00919" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261369952</updated>
+    </task>
+    <task id="LOCAL-00920" summary="Uniklany">
+      <option name="closed" value="true" />
+      <created>1740261381255</created>
+      <option name="number" value="00920" />
+      <option name="presentableId" value="LOCAL-00920" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261381255</updated>
+    </task>
+    <task id="LOCAL-00921" summary="Uniklany">
+      <option name="closed" value="true" />
+      <created>1740261513177</created>
+      <option name="number" value="00921" />
+      <option name="presentableId" value="LOCAL-00921" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261513177</updated>
+    </task>
+    <task id="LOCAL-00922" summary="Uniklany">
+      <option name="closed" value="true" />
+      <created>1740261551728</created>
+      <option name="number" value="00922" />
+      <option name="presentableId" value="LOCAL-00922" />
+      <option name="project" value="LOCAL" />
+      <updated>1740261551728</updated>
+    </task>
+    <option name="localTasksCounter" value="923" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task22" />
     <MESSAGE value="Task23" />
     <MESSAGE value="Task24" />
     <MESSAGE value="Task25" />
@@ -595,6 +594,7 @@
     <MESSAGE value="Pochodny" />
     <MESSAGE value="Atrybut klasowy" />
     <MESSAGE value="Powtarzalny" />
-    <option name="LAST_COMMIT_MESSAGE" value="Powtarzalny" />
+    <MESSAGE value="Uniklany" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uniklany" />
   </component>
 </project>
