@@ -31,6 +31,6 @@ public class Unikalny {
     }
 
     public String getNazwisko() {
-        return nazwisko;
+        return nazwisko; 
     }
 }
