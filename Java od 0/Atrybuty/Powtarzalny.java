@@ -18,4 +18,9 @@ public class Powtarzalny {
             throw new IllegalArgumentException("Numer telefonu nie może być pusty");
         }
     }
+
+    //Metoda usuwająca numer telefonu
+    public void usunNumerTelefonu(String numer){
+        
+    }
 }
