@@ -14,7 +14,7 @@ public class Unikalny {
     }
     public sealed Unikalny utworzOsobe(String PESEL, String imie, String nazwisko) throws Exception{
         if (istniejacePESELe.contains(PESEL)){
-            
+            throw new Exception("Osoba z takim PESEL-em już istnieje");
         }
     }
 }
