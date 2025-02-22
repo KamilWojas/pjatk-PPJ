@@ -13,6 +13,8 @@ public class Unikalny {
         this.nazwisko = nazwisko;
     }
     public sealed Unikalny utworzOsobe(String PESEL, String imie, String nazwisko) throws Exception{
-        if (istniejacePESELe)
+        if (istniejacePESELe.contains(PESEL)){
+            
+        }
     }
 }
