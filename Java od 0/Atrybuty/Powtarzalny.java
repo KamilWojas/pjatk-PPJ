@@ -14,6 +14,8 @@ public class Powtarzalny {
     public void dodajNumerTelefonu(String numer){
         if (numer != null && !numer.isEmpty()){
             numerTelefonu.add(numer);
+        }else {
+            
         }
     }
 }
