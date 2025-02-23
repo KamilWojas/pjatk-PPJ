@@ -7,4 +7,8 @@ public class Subset {
         projekty.add(projekt);
         projekt.dodajUczestnika(this);
     }
+
+    public boolean jestUczestnikiem(Projekt projekt){
+        return projekty.contains(projekt);
+    }
 }
