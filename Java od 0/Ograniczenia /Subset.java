@@ -33,6 +33,7 @@ public class Projekt{
 
 public class Main{
     public static void main(String[] args) {
-        
+        Subset pracownik1 = new Subset("Jan", "Kowalski");
+        Projekt projekt1 = new Projekt("Projekt A", 18900);
     }
 }
