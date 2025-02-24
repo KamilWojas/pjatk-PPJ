@@ -16,4 +16,5 @@ public class Subset {
 public class Subset{
     private String imie;
     private double budżet;
+    private Set<Pracownik> uczestnicy = new HashSet<>();
 }
