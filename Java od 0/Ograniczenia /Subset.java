@@ -25,7 +25,7 @@ public class Projekt{
 
     public void ustawMenadżera(Pracownik pracownik){
         if (!uczestnicy.contains(pracownik)){
-            
+            throw new IllegalArgumentException("Pracownik nie może być uczestnikiem projektu, aby zostać menadżerem");
         }
     }
 }
