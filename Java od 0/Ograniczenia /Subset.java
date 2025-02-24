@@ -21,6 +21,9 @@ public class Projekt{
 
     public void dodajUczestnika(Pracownik pracownik){
         uczestnicy.add(pracownik);
+    }
 
+    public void ustawMenadżera(Pracownik pracownik){
+        
     }
 }
