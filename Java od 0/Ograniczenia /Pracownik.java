@@ -9,4 +9,12 @@ public class Pracownik {
         this.imie = imie;
         this.nazwisko = nazwisko;
     }
+
+    public String getImie() {
+        return imie;
+    }
+
+    public String getNazwisko() {
+        return nazwisko;
+    }
 }
