@@ -27,5 +27,6 @@ public class Projekt{
         if (!uczestnicy.contains(pracownik)){
             throw new IllegalArgumentException("Pracownik nie może być uczestnikiem projektu, aby zostać menadżerem");
         }
+        this.menadżer = pracownik;
     }
 }
