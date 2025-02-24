@@ -12,3 +12,8 @@ public class Subset {
         return projekty.contains(projekt);
     }
 }
+
+public class Subset{
+    private String imie;
+    private double budżet;
+}
