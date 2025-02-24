@@ -28,4 +28,11 @@ class Brygada{
     public void dodajPracownika(Pracownik pracownik){
         pracpwnicy.add(pracownik);
     }
+    public boolean czyNalezy(Pracownik pracownik){
+        return pracpwnicy.contains(pracownik);
+    }
+
+    public String getNazwa() {
+        return nazwa;
+    }
 }
