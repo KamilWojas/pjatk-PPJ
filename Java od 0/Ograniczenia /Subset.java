@@ -20,6 +20,7 @@ public class Projekt{
     private Pracownik menadżer;
 
     public void dodajUczestnika(Pracownik pracownik){
-        
+        uczestnicy.add(pracownik);
+
     }
 }
