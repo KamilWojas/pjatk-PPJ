@@ -25,4 +25,7 @@ class Brygada{
     public Brygada(String nazwa){
         this.nazwa = nazwa;
     }
+    public void dodajPracownika(Pracownik pracownik){
+        pracpwnicy.add(pracownik);
+    }
 }
