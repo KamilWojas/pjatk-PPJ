@@ -24,6 +24,8 @@ public class Projekt{
     }
 
     public void ustawMenadżera(Pracownik pracownik){
-        
+        if (!uczestnicy.contains(pracownik)){
+            
+        }
     }
 }
