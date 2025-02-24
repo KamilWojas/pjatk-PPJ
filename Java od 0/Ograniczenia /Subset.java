@@ -30,3 +30,9 @@ public class Projekt{
         this.menadżer = pracownik;
     }
 }
+
+public class Main{
+    public static void main(String[] args) {
+        
+    }
+}
