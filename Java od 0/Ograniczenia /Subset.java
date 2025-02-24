@@ -35,5 +35,12 @@ public class Main{
     public static void main(String[] args) {
         Subset pracownik1 = new Subset("Jan", "Kowalski");
         Projekt projekt1 = new Projekt("Projekt A", 18900);
+
+        pracownik1.dodajProjekt(projekt1);
+
+        try {
+            projekt1.ustawMenadżera(projekt1);
+            System.out.println(pracownik1.getImię() + " został menadżerem projektu " + projekt1.getNazwa());
+        }
     }
 }
