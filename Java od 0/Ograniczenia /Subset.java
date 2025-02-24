@@ -41,6 +41,8 @@ public class Main{
         try {
             projekt1.ustawMenadżera(projekt1);
             System.out.println(pracownik1.getImię() + " został menadżerem projektu " + projekt1.getNazwa());
+        }catch (IllegalArgumentException e){
+            System.out.println(e.getMessage());
         }
     }
 }
