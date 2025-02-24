@@ -17,5 +17,9 @@ public class Projekt{
     private String imie;
     private double budżet;
     private Set<Pracownik> uczestnicy = new HashSet<>();
-    private Subset menadżer;
+    private Pracownik menadżer;
+
+    public void dodajUczestnika(Pracownik pracownik){
+        
+    }
 }
