@@ -13,8 +13,9 @@ public class Subset {
     }
 }
 
-public class Subset{
+public class Projekt{
     private String imie;
     private double budżet;
     private Set<Pracownik> uczestnicy = new HashSet<>();
+    private Subset menadżer;
 }
