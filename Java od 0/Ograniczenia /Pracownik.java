@@ -18,3 +18,11 @@ public class Pracownik {
         return nazwisko;
     }
 }
+class Brygada{
+    private String nazwa;
+    private Set<Pracownik> pracpwnicy = new HashSet<>();
+
+    public Brygada(String nazwa){
+        this.nazwa = nazwa;
+    }
+}
