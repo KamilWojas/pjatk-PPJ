@@ -46,5 +46,11 @@ class Czlonkostwo{
     private Grupa grupa;
     private Date dataRozpoczecia;
     private Date dataZakonczenia;
+
+    public Czlonkostwo(Pracownik pracownik, Grupa grupa, Date dataRozpoczecia){
+        this.pracownik = pracownik;
+        this.grupa = grupa;
+        this.dataRozpoczecia = dataRozpoczecia;
+    }
 }
     
