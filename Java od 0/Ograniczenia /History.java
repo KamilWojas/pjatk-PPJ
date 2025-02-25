@@ -52,5 +52,13 @@ class Czlonkostwo{
         this.grupa = grupa;
         this.dataRozpoczecia = dataRozpoczecia;
     }
+
+    public void setDataZakonczenia(Date dataZakonczenia) {
+        this.dataZakonczenia = dataZakonczenia;
+    }
+
+    public Grupa getGrupa() {
+        return grupa;
+    }
 }
     
