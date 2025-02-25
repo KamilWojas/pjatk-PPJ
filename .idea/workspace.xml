@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Subset">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Ograniczenia /Pracownik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java od 0/Ograniczenia /History.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,63 +159,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="8889000" />
-    </task>
-    <task id="LOCAL-00899" summary="Atrybut klasowy">
-      <option name="closed" value="true" />
-      <created>1740164735948</created>
-      <option name="number" value="00899" />
-      <option name="presentableId" value="LOCAL-00899" />
-      <option name="project" value="LOCAL" />
-      <updated>1740164735948</updated>
-    </task>
-    <task id="LOCAL-00900" summary="Atrybut klasowy">
-      <option name="closed" value="true" />
-      <created>1740164786327</created>
-      <option name="number" value="00900" />
-      <option name="presentableId" value="LOCAL-00900" />
-      <option name="project" value="LOCAL" />
-      <updated>1740164786327</updated>
-    </task>
-    <task id="LOCAL-00901" summary="Atrybut klasowy">
-      <option name="closed" value="true" />
-      <created>1740164862929</created>
-      <option name="number" value="00901" />
-      <option name="presentableId" value="LOCAL-00901" />
-      <option name="project" value="LOCAL" />
-      <updated>1740164862929</updated>
-    </task>
-    <task id="LOCAL-00902" summary="Atrybut klasowy">
-      <option name="closed" value="true" />
-      <created>1740164894099</created>
-      <option name="number" value="00902" />
-      <option name="presentableId" value="LOCAL-00902" />
-      <option name="project" value="LOCAL" />
-      <updated>1740164894099</updated>
-    </task>
-    <task id="LOCAL-00903" summary="Atrybut klasowy">
-      <option name="closed" value="true" />
-      <created>1740164942843</created>
-      <option name="number" value="00903" />
-      <option name="presentableId" value="LOCAL-00903" />
-      <option name="project" value="LOCAL" />
-      <updated>1740164942843</updated>
-    </task>
-    <task id="LOCAL-00904" summary="Atrybut klasowy">
-      <option name="closed" value="true" />
-      <created>1740164985012</created>
-      <option name="number" value="00904" />
-      <option name="presentableId" value="LOCAL-00904" />
-      <option name="project" value="LOCAL" />
-      <updated>1740164985012</updated>
-    </task>
-    <task id="LOCAL-00905" summary="Atrybut klasowy">
-      <option name="closed" value="true" />
-      <created>1740165011963</created>
-      <option name="number" value="00905" />
-      <option name="presentableId" value="LOCAL-00905" />
-      <option name="project" value="LOCAL" />
-      <updated>1740165011963</updated>
+      <workItem from="1740068933537" duration="9786000" />
     </task>
     <task id="LOCAL-00906" summary="Atrybut klasowy">
       <option name="closed" value="true" />
@@ -552,7 +497,63 @@
       <option name="project" value="LOCAL" />
       <updated>1740433660026</updated>
     </task>
-    <option name="localTasksCounter" value="948" />
+    <task id="LOCAL-00948" summary="Subset">
+      <option name="closed" value="true" />
+      <created>1740433751099</created>
+      <option name="number" value="00948" />
+      <option name="presentableId" value="LOCAL-00948" />
+      <option name="project" value="LOCAL" />
+      <updated>1740433751099</updated>
+    </task>
+    <task id="LOCAL-00949" summary="Subset">
+      <option name="closed" value="true" />
+      <created>1740433781116</created>
+      <option name="number" value="00949" />
+      <option name="presentableId" value="LOCAL-00949" />
+      <option name="project" value="LOCAL" />
+      <updated>1740433781116</updated>
+    </task>
+    <task id="LOCAL-00950" summary="Subset">
+      <option name="closed" value="true" />
+      <created>1740433815727</created>
+      <option name="number" value="00950" />
+      <option name="presentableId" value="LOCAL-00950" />
+      <option name="project" value="LOCAL" />
+      <updated>1740433815727</updated>
+    </task>
+    <task id="LOCAL-00951" summary="Subset">
+      <option name="closed" value="true" />
+      <created>1740433841019</created>
+      <option name="number" value="00951" />
+      <option name="presentableId" value="LOCAL-00951" />
+      <option name="project" value="LOCAL" />
+      <updated>1740433841019</updated>
+    </task>
+    <task id="LOCAL-00952" summary="Subset">
+      <option name="closed" value="true" />
+      <created>1740433938590</created>
+      <option name="number" value="00952" />
+      <option name="presentableId" value="LOCAL-00952" />
+      <option name="project" value="LOCAL" />
+      <updated>1740433938590</updated>
+    </task>
+    <task id="LOCAL-00953" summary="Subset">
+      <option name="closed" value="true" />
+      <created>1740433978025</created>
+      <option name="number" value="00953" />
+      <option name="presentableId" value="LOCAL-00953" />
+      <option name="project" value="LOCAL" />
+      <updated>1740433978025</updated>
+    </task>
+    <task id="LOCAL-00954" summary="Subset">
+      <option name="closed" value="true" />
+      <created>1740434031627</created>
+      <option name="number" value="00954" />
+      <option name="presentableId" value="LOCAL-00954" />
+      <option name="project" value="LOCAL" />
+      <updated>1740434031627</updated>
+    </task>
+    <option name="localTasksCounter" value="955" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
