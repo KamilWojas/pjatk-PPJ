@@ -16,4 +16,12 @@ public class History {
         historiaCzlonkostwa.add(czlonkostwo);
         grupa.dodajCzlonkostwo(czlonkostwo);
     }
-}
+
+    public void opuscGrupe(Grupa grupa, Date dataZakonczenia){
+        for (Czlonkostwo czlonkostwo : historiaCzlonkostwa) {
+            if (czlonkostwo.getGrupa().equals(grupa) && czlonkostwo.getDataZakonczenia() == null) {
+                czlonkostwo.setDataZakonczenia(dataZakonczenia);
+                break;
+            }
+        }
+    }
