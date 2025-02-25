@@ -11,4 +11,7 @@ public class History {
         this.imie = imie;
         this.nazwisko = nazwisko;
     }
+    public void dodaDoGrupy(Grupa grupa, Date dataRozpoczecia){
+        
+    }
 }
