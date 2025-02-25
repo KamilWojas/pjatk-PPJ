@@ -39,4 +39,12 @@ class Grupa {
     public void dodajCzlonkostwo(Czlonkostwo czlonkostwo) {
         czlonkowie.add(czlonkostwo);
     }
+}
+
+class Czlonkostwo{
+    private Pracownik pracownik;
+    private Grupa grupa;
+    private Date dataRozpoczecia;
+    private Date dataZakonczenia;
+}
     
