@@ -39,3 +39,4 @@ class Grupa {
     public void dodajCzlonkostwo(Czlonkostwo czlonkostwo) {
         czlonkowie.add(czlonkostwo);
     }
+    
