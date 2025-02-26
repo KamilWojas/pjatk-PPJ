@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Disjoint">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Overlapping.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Overlapping">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Overlapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Overlapping.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,47 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="12699000" />
-    </task>
-    <task id="LOCAL-00928" summary="Uniklany">
-      <option name="closed" value="true" />
-      <created>1740261930465</created>
-      <option name="number" value="00928" />
-      <option name="presentableId" value="LOCAL-00928" />
-      <option name="project" value="LOCAL" />
-      <updated>1740261930465</updated>
-    </task>
-    <task id="LOCAL-00929" summary="Uniklany">
-      <option name="closed" value="true" />
-      <created>1740261963248</created>
-      <option name="number" value="00929" />
-      <option name="presentableId" value="LOCAL-00929" />
-      <option name="project" value="LOCAL" />
-      <updated>1740261963248</updated>
-    </task>
-    <task id="LOCAL-00930" summary="Uniklany">
-      <option name="closed" value="true" />
-      <created>1740261970392</created>
-      <option name="number" value="00930" />
-      <option name="presentableId" value="LOCAL-00930" />
-      <option name="project" value="LOCAL" />
-      <updated>1740261970392</updated>
-    </task>
-    <task id="LOCAL-00931" summary="Subset">
-      <option name="closed" value="true" />
-      <created>1740350651559</created>
-      <option name="number" value="00931" />
-      <option name="presentableId" value="LOCAL-00931" />
-      <option name="project" value="LOCAL" />
-      <updated>1740350651560</updated>
-    </task>
-    <task id="LOCAL-00932" summary="Subset">
-      <option name="closed" value="true" />
-      <created>1740350730775</created>
-      <option name="number" value="00932" />
-      <option name="presentableId" value="LOCAL-00932" />
-      <option name="project" value="LOCAL" />
-      <updated>1740350730775</updated>
+      <workItem from="1740068933537" duration="13123000" />
     </task>
     <task id="LOCAL-00933" summary="Subset">
       <option name="closed" value="true" />
@@ -552,7 +512,47 @@
       <option name="project" value="LOCAL" />
       <updated>1740606942605</updated>
     </task>
-    <option name="localTasksCounter" value="977" />
+    <task id="LOCAL-00977" summary="Overlapping">
+      <option name="closed" value="true" />
+      <created>1740607215771</created>
+      <option name="number" value="00977" />
+      <option name="presentableId" value="LOCAL-00977" />
+      <option name="project" value="LOCAL" />
+      <updated>1740607215771</updated>
+    </task>
+    <task id="LOCAL-00978" summary="Overlapping">
+      <option name="closed" value="true" />
+      <created>1740607260378</created>
+      <option name="number" value="00978" />
+      <option name="presentableId" value="LOCAL-00978" />
+      <option name="project" value="LOCAL" />
+      <updated>1740607260378</updated>
+    </task>
+    <task id="LOCAL-00979" summary="Overlapping">
+      <option name="closed" value="true" />
+      <created>1740607303763</created>
+      <option name="number" value="00979" />
+      <option name="presentableId" value="LOCAL-00979" />
+      <option name="project" value="LOCAL" />
+      <updated>1740607303763</updated>
+    </task>
+    <task id="LOCAL-00980" summary="Overlapping">
+      <option name="closed" value="true" />
+      <created>1740607395015</created>
+      <option name="number" value="00980" />
+      <option name="presentableId" value="LOCAL-00980" />
+      <option name="project" value="LOCAL" />
+      <updated>1740607395015</updated>
+    </task>
+    <task id="LOCAL-00981" summary="Overlapping">
+      <option name="closed" value="true" />
+      <created>1740607489030</created>
+      <option name="number" value="00981" />
+      <option name="presentableId" value="LOCAL-00981" />
+      <option name="project" value="LOCAL" />
+      <updated>1740607489030</updated>
+    </task>
+    <option name="localTasksCounter" value="982" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Project" />
     <MESSAGE value="Task27" />
     <MESSAGE value="Task28" />
     <MESSAGE value="Task26" />
@@ -595,6 +594,7 @@
     <MESSAGE value="Subset" />
     <MESSAGE value="History" />
     <MESSAGE value="Disjoint" />
-    <option name="LAST_COMMIT_MESSAGE" value="Disjoint" />
+    <MESSAGE value="Overlapping" />
+    <option name="LAST_COMMIT_MESSAGE" value="Overlapping" />
   </component>
 </project>
