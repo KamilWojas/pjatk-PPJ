@@ -17,6 +17,10 @@ class Samochod extends Disjoint{
     public Samochod(String marka,int liczbaDrzwi){
         super(marka);
         this.liczbaDrzwi = liczbaDrzwi;
+    }
 
+    @java.lang.Override
+    public void wyswietlInformacje() {
+        System.out.println("Samochód marki " + getMarka() + " z " + liczbaDrzwi + " drzwiami");
     }
 }

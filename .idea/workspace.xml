@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="History" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Disjoint">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Disjoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie/Disjoint.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,23 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="11320000" />
-    </task>
-    <task id="LOCAL-00917" summary="Powtarzalny">
-      <option name="closed" value="true" />
-      <created>1740261264235</created>
-      <option name="number" value="00917" />
-      <option name="presentableId" value="LOCAL-00917" />
-      <option name="project" value="LOCAL" />
-      <updated>1740261264235</updated>
-    </task>
-    <task id="LOCAL-00918" summary="Powtarzalny">
-      <option name="closed" value="true" />
-      <created>1740261337442</created>
-      <option name="number" value="00918" />
-      <option name="presentableId" value="LOCAL-00918" />
-      <option name="project" value="LOCAL" />
-      <updated>1740261337442</updated>
+      <workItem from="1740068933537" duration="11701000" />
     </task>
     <task id="LOCAL-00919" summary="Uniklany">
       <option name="closed" value="true" />
@@ -550,7 +536,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740521573606</updated>
     </task>
-    <option name="localTasksCounter" value="966" />
+    <task id="LOCAL-00966" summary="Disjoint">
+      <option name="closed" value="true" />
+      <created>1740605962316</created>
+      <option name="number" value="00966" />
+      <option name="presentableId" value="LOCAL-00966" />
+      <option name="project" value="LOCAL" />
+      <updated>1740605962316</updated>
+    </task>
+    <task id="LOCAL-00967" summary="Disjoint">
+      <option name="closed" value="true" />
+      <created>1740606029663</created>
+      <option name="number" value="00967" />
+      <option name="presentableId" value="LOCAL-00967" />
+      <option name="project" value="LOCAL" />
+      <updated>1740606029663</updated>
+    </task>
+    <option name="localTasksCounter" value="968" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task25" />
     <MESSAGE value="Project" />
     <MESSAGE value="Task27" />
     <MESSAGE value="Task28" />
@@ -593,6 +594,7 @@
     <MESSAGE value="Uniklany" />
     <MESSAGE value="Subset" />
     <MESSAGE value="History" />
-    <option name="LAST_COMMIT_MESSAGE" value="History" />
+    <MESSAGE value="Disjoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Disjoint" />
   </component>
 </project>
