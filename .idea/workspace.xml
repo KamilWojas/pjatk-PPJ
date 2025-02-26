@@ -158,39 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="11701000" />
-    </task>
-    <task id="LOCAL-00919" summary="Uniklany">
-      <option name="closed" value="true" />
-      <created>1740261369951</created>
-      <option name="number" value="00919" />
-      <option name="presentableId" value="LOCAL-00919" />
-      <option name="project" value="LOCAL" />
-      <updated>1740261369952</updated>
-    </task>
-    <task id="LOCAL-00920" summary="Uniklany">
-      <option name="closed" value="true" />
-      <created>1740261381255</created>
-      <option name="number" value="00920" />
-      <option name="presentableId" value="LOCAL-00920" />
-      <option name="project" value="LOCAL" />
-      <updated>1740261381255</updated>
-    </task>
-    <task id="LOCAL-00921" summary="Uniklany">
-      <option name="closed" value="true" />
-      <created>1740261513177</created>
-      <option name="number" value="00921" />
-      <option name="presentableId" value="LOCAL-00921" />
-      <option name="project" value="LOCAL" />
-      <updated>1740261513177</updated>
-    </task>
-    <task id="LOCAL-00922" summary="Uniklany">
-      <option name="closed" value="true" />
-      <created>1740261551728</created>
-      <option name="number" value="00922" />
-      <option name="presentableId" value="LOCAL-00922" />
-      <option name="project" value="LOCAL" />
-      <updated>1740261551728</updated>
+      <workItem from="1740068933537" duration="12067000" />
     </task>
     <task id="LOCAL-00923" summary="Uniklany">
       <option name="closed" value="true" />
@@ -552,7 +520,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740606029663</updated>
     </task>
-    <option name="localTasksCounter" value="968" />
+    <task id="LOCAL-00968" summary="Disjoint">
+      <option name="closed" value="true" />
+      <created>1740606209801</created>
+      <option name="number" value="00968" />
+      <option name="presentableId" value="LOCAL-00968" />
+      <option name="project" value="LOCAL" />
+      <updated>1740606209801</updated>
+    </task>
+    <task id="LOCAL-00969" summary="Disjoint">
+      <option name="closed" value="true" />
+      <created>1740606275773</created>
+      <option name="number" value="00969" />
+      <option name="presentableId" value="LOCAL-00969" />
+      <option name="project" value="LOCAL" />
+      <updated>1740606275773</updated>
+    </task>
+    <task id="LOCAL-00970" summary="Disjoint">
+      <option name="closed" value="true" />
+      <created>1740606402326</created>
+      <option name="number" value="00970" />
+      <option name="presentableId" value="LOCAL-00970" />
+      <option name="project" value="LOCAL" />
+      <updated>1740606402326</updated>
+    </task>
+    <task id="LOCAL-00971" summary="Disjoint">
+      <option name="closed" value="true" />
+      <created>1740606487614</created>
+      <option name="number" value="00971" />
+      <option name="presentableId" value="LOCAL-00971" />
+      <option name="project" value="LOCAL" />
+      <updated>1740606487614</updated>
+    </task>
+    <option name="localTasksCounter" value="972" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

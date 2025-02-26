@@ -19,7 +19,7 @@ class Samochod extends Disjoint{
         this.liczbaDrzwi = liczbaDrzwi;
     }
 
-    @java.lang.Override
+    @Override
     public void wyswietlInformacje() {
         System.out.println("Samochód marki " + getMarka() + " z " + liczbaDrzwi + " drzwiami");
     }
@@ -33,7 +33,7 @@ class Motocykl extends Disjoint{
         this.maKask = maKask;
     }
 
-    @java.lang.Override
+    @Override
     public void wyswietlInformacje() {
         System.out.println("Motocykl marki " + getMarka() + (maKask ? " z kaskiem. " : " bez kasku."));
     }
@@ -45,5 +45,10 @@ class Rower extends Disjoint{
     public Rower(String marka, boolean elektryczny){
         super(marka);
         this.elektryczny = elektryczny;
+    }
+
+    @Override
+    public void wyswietlInformacje() {
+        System.out.println("Rower marki " + getMarka() + (elektryczny ? " elektryczny " : "Tradycyjny"));
     }
 }
