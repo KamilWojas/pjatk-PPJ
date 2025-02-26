@@ -52,3 +52,9 @@ class Rower extends Disjoint{
         System.out.println("Rower marki " + getMarka() + (elektryczny ? " elektryczny " : "Tradycyjny"));
     }
 }
+
+public class Main{
+    public static void main(String[] args) {
+
+    }
+}
