@@ -55,6 +55,11 @@ class Rower extends Disjoint{
 
 public class Main{
     public static void main(String[] args) {
+        Disjoint pojazd1 = new Samochod("Toyata", 5);
+        Disjoint pojazd2 = new Motocykl("Yamaha", true);
+        Disjoint pojazd3 = new Rower("Romet", false);
+
+        
 
     }
 }
