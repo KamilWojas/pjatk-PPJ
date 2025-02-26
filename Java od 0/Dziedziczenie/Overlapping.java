@@ -45,3 +45,4 @@ class PracownikIT extends Overlapping implements Programista,Menadzer, Tester{
         System.out.println(getImie() + " testuje aplikacje");
     }
 }
+
