@@ -24,3 +24,17 @@ class Samochod extends Disjoint{
         System.out.println("Samochód marki " + getMarka() + " z " + liczbaDrzwi + " drzwiami");
     }
 }
+
+class Motocykl extends Disjoint{
+    private boolean maKask;
+
+    public Motocykl(String marka, boolean maKask){
+        super(marka);
+        this.maKask = maKask;
+    }
+
+    @java.lang.Override
+    public void wyswietlInformacje() {
+        System.out.println();
+    }
+}
