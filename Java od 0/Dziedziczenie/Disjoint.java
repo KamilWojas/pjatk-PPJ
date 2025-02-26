@@ -59,7 +59,8 @@ public class Main{
         Disjoint pojazd2 = new Motocykl("Yamaha", true);
         Disjoint pojazd3 = new Rower("Romet", false);
 
-        
-
+        pojazd1.wyswietlInformacje();
+        pojazd2.wyswietlInformacje();
+        pojazd3.wyswietlInformacje();
     }
 }
