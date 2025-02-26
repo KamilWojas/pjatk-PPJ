@@ -38,3 +38,12 @@ class Motocykl extends Disjoint{
         System.out.println("Motocykl marki " + getMarka() + (maKask ? " z kaskiem. " : " bez kasku."));
     }
 }
+
+class Rower extends Disjoint{
+    private boolean elektryczny;
+
+    public Rower(String marka, boolean elektryczny){
+        super(marka);
+        this.elektryczny = elektryczny;
+    }
+}
