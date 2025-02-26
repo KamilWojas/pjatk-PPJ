@@ -12,3 +12,12 @@ public class Overlapping {
         System.out.println("Pracownik " + imie);
     }
 }
+
+//interfejs programista
+interface Programista{
+    void piszKod();
+}
+
+interface Menadzer{
+    void zarzadzajZespolem();
+}
