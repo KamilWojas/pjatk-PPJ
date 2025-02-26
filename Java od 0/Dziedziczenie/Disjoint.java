@@ -35,6 +35,6 @@ class Motocykl extends Disjoint{
 
     @java.lang.Override
     public void wyswietlInformacje() {
-        System.out.println();
+        System.out.println("Motocykl marki " + getMarka() + (maKask ? " z kaskiem. " : " bez kasku."));
     }
 }
