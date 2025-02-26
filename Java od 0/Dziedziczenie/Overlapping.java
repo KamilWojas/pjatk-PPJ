@@ -21,3 +21,13 @@ interface Programista{
 interface Menadzer{
     void zarzadzajZespolem();
 }
+
+interface Tester{
+    void testujAplikacje();
+}
+
+class PracownikIT extends Overlapping implements Programista,Menadzer, Tester{
+    public PracownikIT(String imie){
+        super(imie);
+    }
+}
