@@ -31,3 +31,17 @@ class Samochod extends Pojazd {
         System.out.println("Samochód marki " + getMarka() + " z " + liczbaDrzwi + " drzwiami, prędkość maksymalna: " + getPredkoscMaksymalna() + " km/h.");
     }
 }
+
+class Motocykl extends Pojazd {
+    private boolean maKask;
+
+    public Motocykl(String marka, int predkoscMaksymalna, boolean maKask) {
+        super(marka, predkoscMaksymalna);
+        this.maKask = maKask;
+    }
+
+    @Override
+    public void wyswietlInformacje() {
+        System.out.println("Motocykl marki " + getMarka() + (maKask ? " z kaskiem" : " bez kasku") + ", prędkość maksymalna: " + getPredkoscMaksymalna() + " km/h.");
+    }
+}
