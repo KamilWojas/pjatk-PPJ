@@ -49,3 +49,11 @@ class PojazdPoSplaszczeniu {
         }
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
+        Pojazd samochod = new Pojazd("Toyota", 180, Pojazd.TypPojazdu.SAMOCHOD);
+        samochod.ustawLiczbeDrzwi(4);
+
+        Pojazd motocykl = new Pojazd("Yamaha", 220, Pojazd.TypPojazdu.MOTOCYKL);
+        motocykl.ustawKask(true);
