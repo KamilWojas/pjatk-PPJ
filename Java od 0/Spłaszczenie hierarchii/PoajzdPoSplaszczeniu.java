@@ -13,3 +13,11 @@ class PojazdPoSplaszczeniu {
         this.predkoscMaksymalna = predkoscMaksymalna;
         this.typ = typ;
     }
+
+    public void ustawLiczbeDrzwi(int liczbaDrzwi) {
+        if (typ == TypPojazdu.SAMOCHOD) {
+            this.liczbaDrzwi = liczbaDrzwi;
+        } else {
+            throw new IllegalArgumentException("Liczba drzwi dotyczy tylko samochodu.");
+        }
+    }
