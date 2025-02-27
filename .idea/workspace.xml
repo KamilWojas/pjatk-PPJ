@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Overlapping">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Spłaszczenie hierarchii dziedziczenia" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,47 +156,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="15691000" />
-    </task>
-    <task id="LOCAL-00937" summary="Subset">
-      <option name="closed" value="true" />
-      <created>1740433180969</created>
-      <option name="number" value="00937" />
-      <option name="presentableId" value="LOCAL-00937" />
-      <option name="project" value="LOCAL" />
-      <updated>1740433180969</updated>
-    </task>
-    <task id="LOCAL-00938" summary="Subset">
-      <option name="closed" value="true" />
-      <created>1740433237539</created>
-      <option name="number" value="00938" />
-      <option name="presentableId" value="LOCAL-00938" />
-      <option name="project" value="LOCAL" />
-      <updated>1740433237539</updated>
-    </task>
-    <task id="LOCAL-00939" summary="Subset">
-      <option name="closed" value="true" />
-      <created>1740433255876</created>
-      <option name="number" value="00939" />
-      <option name="presentableId" value="LOCAL-00939" />
-      <option name="project" value="LOCAL" />
-      <updated>1740433255876</updated>
-    </task>
-    <task id="LOCAL-00940" summary="Subset">
-      <option name="closed" value="true" />
-      <created>1740433293044</created>
-      <option name="number" value="00940" />
-      <option name="presentableId" value="LOCAL-00940" />
-      <option name="project" value="LOCAL" />
-      <updated>1740433293044</updated>
-    </task>
-    <task id="LOCAL-00941" summary="Subset">
-      <option name="closed" value="true" />
-      <created>1740433319113</created>
-      <option name="number" value="00941" />
-      <option name="presentableId" value="LOCAL-00941" />
-      <option name="project" value="LOCAL" />
-      <updated>1740433319113</updated>
+      <workItem from="1740068933537" duration="15919000" />
     </task>
     <task id="LOCAL-00942" summary="Subset">
       <option name="closed" value="true" />
@@ -552,7 +510,47 @@
       <option name="project" value="LOCAL" />
       <updated>1740610090886</updated>
     </task>
-    <option name="localTasksCounter" value="986" />
+    <task id="LOCAL-00986" summary="Spłaszczenie hierarchii dziedziczenia">
+      <option name="closed" value="true" />
+      <created>1740695793955</created>
+      <option name="number" value="00986" />
+      <option name="presentableId" value="LOCAL-00986" />
+      <option name="project" value="LOCAL" />
+      <updated>1740695793955</updated>
+    </task>
+    <task id="LOCAL-00987" summary="Spłaszczenie hierarchii dziedziczenia">
+      <option name="closed" value="true" />
+      <created>1740695846294</created>
+      <option name="number" value="00987" />
+      <option name="presentableId" value="LOCAL-00987" />
+      <option name="project" value="LOCAL" />
+      <updated>1740695846294</updated>
+    </task>
+    <task id="LOCAL-00988" summary="Spłaszczenie hierarchii dziedziczenia">
+      <option name="closed" value="true" />
+      <created>1740695860447</created>
+      <option name="number" value="00988" />
+      <option name="presentableId" value="LOCAL-00988" />
+      <option name="project" value="LOCAL" />
+      <updated>1740695860447</updated>
+    </task>
+    <task id="LOCAL-00989" summary="Spłaszczenie hierarchii dziedziczenia">
+      <option name="closed" value="true" />
+      <created>1740695874532</created>
+      <option name="number" value="00989" />
+      <option name="presentableId" value="LOCAL-00989" />
+      <option name="project" value="LOCAL" />
+      <updated>1740695874532</updated>
+    </task>
+    <task id="LOCAL-00990" summary="Spłaszczenie hierarchii dziedziczenia">
+      <option name="closed" value="true" />
+      <created>1740695892311</created>
+      <option name="number" value="00990" />
+      <option name="presentableId" value="LOCAL-00990" />
+      <option name="project" value="LOCAL" />
+      <updated>1740695892311</updated>
+    </task>
+    <option name="localTasksCounter" value="991" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +568,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task27" />
     <MESSAGE value="Task28" />
     <MESSAGE value="Task26" />
     <MESSAGE value="Task29" />
@@ -595,6 +592,7 @@
     <MESSAGE value="History" />
     <MESSAGE value="Disjoint" />
     <MESSAGE value="Overlapping" />
-    <option name="LAST_COMMIT_MESSAGE" value="Overlapping" />
+    <MESSAGE value="Spłaszczenie hierarchii dziedziczenia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spłaszczenie hierarchii dziedziczenia" />
   </component>
 </project>
