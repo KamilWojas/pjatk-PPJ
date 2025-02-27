@@ -57,3 +57,12 @@ public class Main {
 
         Pojazd motocykl = new Pojazd("Yamaha", 220, Pojazd.TypPojazdu.MOTOCYKL);
         motocykl.ustawKask(true);
+
+        Pojazd rower = new Pojazd("Kross", 30, Pojazd.TypPojazdu.ROWER);
+        rower.ustawElektryczny(false);
+
+        samochod.wyswietlInformacje();
+        motocykl.wyswietlInformacje();
+        rower.wyswietlInformacje();
+    }
+}
