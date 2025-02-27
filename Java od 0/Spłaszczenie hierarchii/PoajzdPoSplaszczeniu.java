@@ -37,3 +37,15 @@ class PojazdPoSplaszczeniu {
             throw new IllegalArgumentException("Elektryczność dotyczy tylko roweru.");
         }
     }
+
+    public void wyswietlInformacje() {
+        System.out.println("Pojazd: " + marka + ", prędkość maksymalna: " + predkoscMaksymalna + " km/h, typ: " + typ);
+        if (typ == TypPojazdu.SAMOCHOD) {
+            System.out.println("Liczba drzwi: " + liczbaDrzwi);
+        } else if (typ == TypPojazdu.MOTOCYKL) {
+            System.out.println("Motocykl " + (maKask ? "z kaskiem" : "bez kasku"));
+        } else if (typ == TypPojazdu.ROWER) {
+            System.out.println("Rower " + (elektryczny ? "elektryczny" : "tradycyjny"));
+        }
+    }
+}
