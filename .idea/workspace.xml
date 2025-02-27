@@ -158,23 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="15004000" />
-    </task>
-    <task id="LOCAL-00935" summary="Subset">
-      <option name="closed" value="true" />
-      <created>1740433102273</created>
-      <option name="number" value="00935" />
-      <option name="presentableId" value="LOCAL-00935" />
-      <option name="project" value="LOCAL" />
-      <updated>1740433102273</updated>
-    </task>
-    <task id="LOCAL-00936" summary="Subset">
-      <option name="closed" value="true" />
-      <created>1740433142181</created>
-      <option name="number" value="00936" />
-      <option name="presentableId" value="LOCAL-00936" />
-      <option name="project" value="LOCAL" />
-      <updated>1740433142181</updated>
+      <workItem from="1740068933537" duration="15691000" />
     </task>
     <task id="LOCAL-00937" summary="Subset">
       <option name="closed" value="true" />
@@ -552,7 +536,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740607667446</updated>
     </task>
-    <option name="localTasksCounter" value="984" />
+    <task id="LOCAL-00984" summary="Overlapping">
+      <option name="closed" value="true" />
+      <created>1740610054413</created>
+      <option name="number" value="00984" />
+      <option name="presentableId" value="LOCAL-00984" />
+      <option name="project" value="LOCAL" />
+      <updated>1740610054413</updated>
+    </task>
+    <task id="LOCAL-00985" summary="Overlapping">
+      <option name="closed" value="true" />
+      <created>1740610090886</created>
+      <option name="number" value="00985" />
+      <option name="presentableId" value="LOCAL-00985" />
+      <option name="project" value="LOCAL" />
+      <updated>1740610090886</updated>
+    </task>
+    <option name="localTasksCounter" value="986" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
