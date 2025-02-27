@@ -29,3 +29,11 @@ class PojazdPoSplaszczeniu {
             throw new IllegalArgumentException("Kask dotyczy tylko motocykla.");
         }
     }
+
+    public void ustawElektryczny(boolean elektryczny) {
+        if (typ == TypPojazdu.ROWER) {
+            this.elektryczny = elektryczny;
+        } else {
+            throw new IllegalArgumentException("Elektryczność dotyczy tylko roweru.");
+        }
+    }
