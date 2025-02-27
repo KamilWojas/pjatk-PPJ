@@ -7,4 +7,15 @@ abstract class Pojazd{
         this.predkoscMaksymalna = predkoscMaksymalna;
     }
 
+    public String getMarka() {
+        return marka;
+    }
+
+    public int getPredkoscMaksymalna() {
+        return predkoscMaksymalna;
+    }
+
+    public abstract void wyswietlInformacje();
+}
+
 }
