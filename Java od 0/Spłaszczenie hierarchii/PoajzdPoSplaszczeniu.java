@@ -21,3 +21,11 @@ class PojazdPoSplaszczeniu {
             throw new IllegalArgumentException("Liczba drzwi dotyczy tylko samochodu.");
         }
     }
+
+    public void ustawKask(boolean maKask) {
+        if (typ == TypPojazdu.MOTOCYKL) {
+            this.maKask = maKask;
+        } else {
+            throw new IllegalArgumentException("Kask dotyczy tylko motocykla.");
+        }
+    }
