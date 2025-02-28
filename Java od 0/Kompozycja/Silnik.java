@@ -15,6 +15,7 @@ class Samochod{
     private Silnik silnik; //Kompozycja - samochód posiada silnik
 
     public Samochod(String marka, String typSilnika){
-        
+        this.marka = marka;
+        this.silnik = new Silnik(typSilnika);
     }
 }
