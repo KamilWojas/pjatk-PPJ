@@ -26,6 +26,7 @@ class Samochod{
 
 public class Main{
     public static void main(String[] args) {
-        
+        Samochod samochod = new Samochod("Audi", "V5");
+        samochod.uruchomSamochod();
     }
 }
