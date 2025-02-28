@@ -13,4 +13,8 @@ class Silnik{
 class Samochod{
     private String marka;
     private Silnik silnik; //Kompozycja - samochód posiada silnik
+
+    public Samochod(String marka, String typSilnika){
+        
+    }
 }
