@@ -9,3 +9,8 @@ class Silnik{
         System.out.println("Silniik " + typ + " został uruchomiony ");
     }
 }
+
+class Samochod{
+    private String marka;
+    private Silnik silnik; //Kompozycja - samochód posiada silnik
+}
