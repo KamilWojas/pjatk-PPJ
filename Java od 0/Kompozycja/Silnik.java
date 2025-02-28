@@ -18,4 +18,7 @@ class Samochod{
         this.marka = marka;
         this.silnik = new Silnik(typSilnika);
     }
+    public void uruchomSamochod(){
+        System.out.println("Samochós " + marka + " uruchamianie silnika");
+    }
 }
