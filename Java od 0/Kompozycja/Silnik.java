@@ -4,4 +4,8 @@ class Silnik{
     public Silnik(String typ){
         this.typ = typ;
     }
+
+    public void uruchom(){
+        System.out.println("Silniik " + typ + " został uruchomiony ");
+    }
 }
