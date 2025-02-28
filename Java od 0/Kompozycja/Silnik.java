@@ -20,5 +20,6 @@ class Samochod{
     }
     public void uruchomSamochod(){
         System.out.println("Samochós " + marka + " uruchamianie silnika");
+        silnik.uruchom();
     }
 }
