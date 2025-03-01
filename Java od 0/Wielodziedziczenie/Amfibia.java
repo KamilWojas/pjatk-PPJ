@@ -11,3 +11,9 @@ class Amfibia implements Latajacy, Plywajacy {
     public void lec() {
         System.out.println("Amfibia leci w powietrzu!");
     }
+
+    @Override
+    public void plyn() {
+        System.out.println("Amfibia pływa po wodzie!");
+    }
+}
