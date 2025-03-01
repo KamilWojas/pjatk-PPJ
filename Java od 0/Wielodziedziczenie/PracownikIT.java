@@ -24,4 +24,8 @@ public class Main {
     public static void main(String[] args) {
         PracownikIT pracownik1 = new PracownikIT("Jan Kowalski", true, false);
         PracownikIT pracownik2 = new PracownikIT("Anna Nowak", true, true);
+
+        pracownik1.pracuj();
+        pracownik2.pracuj();
     }
+}
