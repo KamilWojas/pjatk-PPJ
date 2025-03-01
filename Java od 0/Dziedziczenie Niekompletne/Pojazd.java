@@ -39,3 +39,6 @@ class Motocykl extends Pojazd {
         System.out.println("Motocykl marki " + getMarka() + (maKask ? " z kaskiem." : " bez kasku."));
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
