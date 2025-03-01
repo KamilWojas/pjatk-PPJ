@@ -1,5 +1,7 @@
 interface Latajacy {
-    void lec();
+    default void ruch() {
+        System.out.println("Lecę!");
+    }
 }
 
 interface Plywajacy {
@@ -26,4 +28,3 @@ public class Main {
         amfibia.plyn();
     }
 }
-    
