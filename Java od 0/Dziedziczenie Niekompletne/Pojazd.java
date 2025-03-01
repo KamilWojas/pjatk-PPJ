@@ -25,3 +25,17 @@ class Samochod extends Pojazd {
         System.out.println("Samochód marki " + getMarka() + " z " + liczbaDrzwi + " drzwiami.");
     }
 }
+
+class Motocykl extends Pojazd {
+    private boolean maKask;
+
+    public Motocykl(String marka, boolean maKask) {
+        super(marka);
+        this.maKask = maKask;
+    }
+
+    @Override
+    public void wyswietlInformacje() {
+        System.out.println("Motocykl marki " + getMarka() + (maKask ? " z kaskiem." : " bez kasku."));
+    }
+}
