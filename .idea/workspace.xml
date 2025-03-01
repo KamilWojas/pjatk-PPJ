@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Kompozycja" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wielodziedziczenie - spłaszczenie">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Wielodziedziczenie/PracownikIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Wielodziedziczenie/PracownikIT.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,79 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="17969000" />
-    </task>
-    <task id="LOCAL-00963" summary="History">
-      <option name="closed" value="true" />
-      <created>1740521464491</created>
-      <option name="number" value="00963" />
-      <option name="presentableId" value="LOCAL-00963" />
-      <option name="project" value="LOCAL" />
-      <updated>1740521464491</updated>
-    </task>
-    <task id="LOCAL-00964" summary="History">
-      <option name="closed" value="true" />
-      <created>1740521537672</created>
-      <option name="number" value="00964" />
-      <option name="presentableId" value="LOCAL-00964" />
-      <option name="project" value="LOCAL" />
-      <updated>1740521537672</updated>
-    </task>
-    <task id="LOCAL-00965" summary="History">
-      <option name="closed" value="true" />
-      <created>1740521573606</created>
-      <option name="number" value="00965" />
-      <option name="presentableId" value="LOCAL-00965" />
-      <option name="project" value="LOCAL" />
-      <updated>1740521573606</updated>
-    </task>
-    <task id="LOCAL-00966" summary="Disjoint">
-      <option name="closed" value="true" />
-      <created>1740605962316</created>
-      <option name="number" value="00966" />
-      <option name="presentableId" value="LOCAL-00966" />
-      <option name="project" value="LOCAL" />
-      <updated>1740605962316</updated>
-    </task>
-    <task id="LOCAL-00967" summary="Disjoint">
-      <option name="closed" value="true" />
-      <created>1740606029663</created>
-      <option name="number" value="00967" />
-      <option name="presentableId" value="LOCAL-00967" />
-      <option name="project" value="LOCAL" />
-      <updated>1740606029663</updated>
-    </task>
-    <task id="LOCAL-00968" summary="Disjoint">
-      <option name="closed" value="true" />
-      <created>1740606209801</created>
-      <option name="number" value="00968" />
-      <option name="presentableId" value="LOCAL-00968" />
-      <option name="project" value="LOCAL" />
-      <updated>1740606209801</updated>
-    </task>
-    <task id="LOCAL-00969" summary="Disjoint">
-      <option name="closed" value="true" />
-      <created>1740606275773</created>
-      <option name="number" value="00969" />
-      <option name="presentableId" value="LOCAL-00969" />
-      <option name="project" value="LOCAL" />
-      <updated>1740606275773</updated>
-    </task>
-    <task id="LOCAL-00970" summary="Disjoint">
-      <option name="closed" value="true" />
-      <created>1740606402326</created>
-      <option name="number" value="00970" />
-      <option name="presentableId" value="LOCAL-00970" />
-      <option name="project" value="LOCAL" />
-      <updated>1740606402326</updated>
-    </task>
-    <task id="LOCAL-00971" summary="Disjoint">
-      <option name="closed" value="true" />
-      <created>1740606487614</created>
-      <option name="number" value="00971" />
-      <option name="presentableId" value="LOCAL-00971" />
-      <option name="project" value="LOCAL" />
-      <updated>1740606487614</updated>
+      <workItem from="1740068933537" duration="18272000" />
     </task>
     <task id="LOCAL-00972" summary="Disjoint">
       <option name="closed" value="true" />
@@ -550,7 +480,79 @@
       <option name="project" value="LOCAL" />
       <updated>1740842180362</updated>
     </task>
-    <option name="localTasksCounter" value="1012" />
+    <task id="LOCAL-01012" summary="Amfibia">
+      <option name="closed" value="true" />
+      <created>1740842244945</created>
+      <option name="number" value="01012" />
+      <option name="presentableId" value="LOCAL-01012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740842244945</updated>
+    </task>
+    <task id="LOCAL-01013" summary="Amfibia">
+      <option name="closed" value="true" />
+      <created>1740842257236</created>
+      <option name="number" value="01013" />
+      <option name="presentableId" value="LOCAL-01013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740842257236</updated>
+    </task>
+    <task id="LOCAL-01014" summary="Amfibia">
+      <option name="closed" value="true" />
+      <created>1740842272045</created>
+      <option name="number" value="01014" />
+      <option name="presentableId" value="LOCAL-01014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740842272045</updated>
+    </task>
+    <task id="LOCAL-01015" summary="Amfibia">
+      <option name="closed" value="true" />
+      <created>1740842283902</created>
+      <option name="number" value="01015" />
+      <option name="presentableId" value="LOCAL-01015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740842283902</updated>
+    </task>
+    <task id="LOCAL-01016" summary="Amfibia">
+      <option name="closed" value="true" />
+      <created>1740842295708</created>
+      <option name="number" value="01016" />
+      <option name="presentableId" value="LOCAL-01016" />
+      <option name="project" value="LOCAL" />
+      <updated>1740842295708</updated>
+    </task>
+    <task id="LOCAL-01017" summary="Amfibia">
+      <option name="closed" value="true" />
+      <created>1740842312978</created>
+      <option name="number" value="01017" />
+      <option name="presentableId" value="LOCAL-01017" />
+      <option name="project" value="LOCAL" />
+      <updated>1740842312978</updated>
+    </task>
+    <task id="LOCAL-01018" summary="Amfibia">
+      <option name="closed" value="true" />
+      <created>1740842340556</created>
+      <option name="number" value="01018" />
+      <option name="presentableId" value="LOCAL-01018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740842340556</updated>
+    </task>
+    <task id="LOCAL-01019" summary="Amfibia">
+      <option name="closed" value="true" />
+      <created>1740842353455</created>
+      <option name="number" value="01019" />
+      <option name="presentableId" value="LOCAL-01019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740842353455</updated>
+    </task>
+    <task id="LOCAL-01020" summary="Wielodziedziczenie - spłaszczenie">
+      <option name="closed" value="true" />
+      <created>1740842507703</created>
+      <option name="number" value="01020" />
+      <option name="presentableId" value="LOCAL-01020" />
+      <option name="project" value="LOCAL" />
+      <updated>1740842507703</updated>
+    </task>
+    <option name="localTasksCounter" value="1021" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,8 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task26" />
-    <MESSAGE value="Task29" />
     <MESSAGE value="Task30" />
     <MESSAGE value="Task31" />
     <MESSAGE value="Task32" />
@@ -593,6 +593,8 @@
     <MESSAGE value="Overlapping" />
     <MESSAGE value="Spłaszczenie hierarchii dziedziczenia" />
     <MESSAGE value="Kompozycja" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kompozycja" />
+    <MESSAGE value="Amfibia" />
+    <MESSAGE value="Wielodziedziczenie - spłaszczenie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wielodziedziczenie - spłaszczenie" />
   </component>
 </project>
