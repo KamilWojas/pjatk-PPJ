@@ -8,3 +8,9 @@ class PracownikIT {
         this.jestProgramista = programista;
         this.jestMenedzerem = menedzer;
     }
+
+    public void pracuj() {
+        System.out.println(imie + " pracuje jako:");
+        if (jestProgramista) {
+            System.out.println("- Programista: pisze kod.");
+        }
