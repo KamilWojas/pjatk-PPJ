@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Kompozycja">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Kompozycja/Silnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Kompozycja/Silnik.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Kompozycja" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,47 +156,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="17169000" />
-    </task>
-    <task id="LOCAL-00957" summary="History">
-      <option name="closed" value="true" />
-      <created>1740520880397</created>
-      <option name="number" value="00957" />
-      <option name="presentableId" value="LOCAL-00957" />
-      <option name="project" value="LOCAL" />
-      <updated>1740520880397</updated>
-    </task>
-    <task id="LOCAL-00958" summary="History">
-      <option name="closed" value="true" />
-      <created>1740520921975</created>
-      <option name="number" value="00958" />
-      <option name="presentableId" value="LOCAL-00958" />
-      <option name="project" value="LOCAL" />
-      <updated>1740520921975</updated>
-    </task>
-    <task id="LOCAL-00959" summary="History">
-      <option name="closed" value="true" />
-      <created>1740521022723</created>
-      <option name="number" value="00959" />
-      <option name="presentableId" value="LOCAL-00959" />
-      <option name="project" value="LOCAL" />
-      <updated>1740521022723</updated>
-    </task>
-    <task id="LOCAL-00960" summary="History">
-      <option name="closed" value="true" />
-      <created>1740521279668</created>
-      <option name="number" value="00960" />
-      <option name="presentableId" value="LOCAL-00960" />
-      <option name="project" value="LOCAL" />
-      <updated>1740521279668</updated>
-    </task>
-    <task id="LOCAL-00961" summary="History">
-      <option name="closed" value="true" />
-      <created>1740521380363</created>
-      <option name="number" value="00961" />
-      <option name="presentableId" value="LOCAL-00961" />
-      <option name="project" value="LOCAL" />
-      <updated>1740521380363</updated>
+      <workItem from="1740068933537" duration="17475000" />
     </task>
     <task id="LOCAL-00962" summary="History">
       <option name="closed" value="true" />
@@ -552,7 +510,47 @@
       <option name="project" value="LOCAL" />
       <updated>1740780957938</updated>
     </task>
-    <option name="localTasksCounter" value="1006" />
+    <task id="LOCAL-01006" summary="Kompozycja">
+      <option name="closed" value="true" />
+      <created>1740781000208</created>
+      <option name="number" value="01006" />
+      <option name="presentableId" value="LOCAL-01006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740781000208</updated>
+    </task>
+    <task id="LOCAL-01007" summary="Kompozycja">
+      <option name="closed" value="true" />
+      <created>1740781066824</created>
+      <option name="number" value="01007" />
+      <option name="presentableId" value="LOCAL-01007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740781066824</updated>
+    </task>
+    <task id="LOCAL-01008" summary="Kompozycja">
+      <option name="closed" value="true" />
+      <created>1740781086568</created>
+      <option name="number" value="01008" />
+      <option name="presentableId" value="LOCAL-01008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740781086568</updated>
+    </task>
+    <task id="LOCAL-01009" summary="Kompozycja">
+      <option name="closed" value="true" />
+      <created>1740781112638</created>
+      <option name="number" value="01009" />
+      <option name="presentableId" value="LOCAL-01009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740781112638</updated>
+    </task>
+    <task id="LOCAL-01010" summary="Kompozycja">
+      <option name="closed" value="true" />
+      <created>1740781155997</created>
+      <option name="number" value="01010" />
+      <option name="presentableId" value="LOCAL-01010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740781155997</updated>
+    </task>
+    <option name="localTasksCounter" value="1011" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
