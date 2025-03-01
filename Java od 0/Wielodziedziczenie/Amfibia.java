@@ -17,3 +17,6 @@ class Amfibia implements Latajacy, Plywajacy {
         System.out.println("Amfibia pływa po wodzie!");
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
