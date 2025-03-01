@@ -42,3 +42,6 @@ class Motocykl extends Pojazd {
 
 public class Main {
     public static void main(String[] args) {
+        Pojazd samochod = new Samochod("Toyota", 5);
+        Pojazd motocykl = new Motocykl("Yamaha", true);
+    }
