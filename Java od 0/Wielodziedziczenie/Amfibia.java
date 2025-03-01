@@ -5,7 +5,9 @@ interface Latajacy {
 }
 
 interface Plywajacy {
-    void plyn();
+    default void ruch() {
+        System.out.println("Płynę!");
+    }
 }
 
 class Amfibia implements Latajacy, Plywajacy {
