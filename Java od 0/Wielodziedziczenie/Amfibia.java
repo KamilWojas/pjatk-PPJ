@@ -20,3 +20,10 @@ class Amfibia implements Latajacy, Plywajacy {
 
 public class Main {
     public static void main(String[] args) {
+
+        Amfibia amfibia = new Amfibia();
+        amfibia.lec();
+        amfibia.plyn();
+    }
+}
+    
