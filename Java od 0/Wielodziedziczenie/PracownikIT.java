@@ -14,3 +14,8 @@ class PracownikIT {
         if (jestProgramista) {
             System.out.println("- Programista: pisze kod.");
         }
+        if (jestMenedzerem) {
+            System.out.println("- Menedżer: zarządza zespołem.");
+        }
+    }
+}
