@@ -31,3 +31,12 @@ abstract class Pojazd{
 
     public abstract void wyswietlInformacje();
 }
+
+class Samochod extends Pojazd implements Spalinowy{
+    public Silnik silnik;
+
+    public Samochod(String marka, String typSilnika){
+        super(marka);
+        this.silnik = new Silnik(typSilnika); //Kompozycja – Silnik istnieje tylko z Samochodem
+    }
+}
