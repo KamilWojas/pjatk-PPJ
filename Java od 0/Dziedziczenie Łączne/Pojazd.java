@@ -33,7 +33,7 @@ abstract class Pojazd{
 }
 
 class Samochod extends Pojazd implements Spalinowy{
-    public Silnik silnik;
+    private Silnik silnik;
 
     public Samochod(String marka, String typSilnika){
         super(marka);
