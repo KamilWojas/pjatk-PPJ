@@ -73,7 +73,7 @@ class Skuter extends Pojazd implements Elektryczny{
 public class Main{
     public static void main(String[] args) {
         Samochod samochod = new Samochod("Toyota", "V8");
-        Skuter skuter = new Skuter("Ducatti");
+        Skuter skuter = new Skuter("Ducati");
 
         samochod.wyswietlInformacje();
         samochod.zatankuj();
