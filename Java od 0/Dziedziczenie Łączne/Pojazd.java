@@ -39,4 +39,17 @@ class Samochod extends Pojazd implements Spalinowy{
         super(marka);
         this.silnik = new Silnik(typSilnika); //Kompozycja – Silnik istnieje tylko z Samochodem
     }
+
+    @Override
+    public void zatankuj() {
+        System.out.println(getMarka() + " zatankowano paliwo. ");
+
+    }
+
+    @Override
+    public void wyswietlInformacje() {
+        System.out.println("Samochód spalinowy marki " + getMarka());
+        silnik.uruchom();
+
+    }
 }
