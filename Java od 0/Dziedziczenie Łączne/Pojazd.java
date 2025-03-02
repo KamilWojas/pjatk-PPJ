@@ -66,6 +66,19 @@ class Skuter extends Pojazd implements Elektryczny{
     @Override
     public void wyswietlInformacje() {
         System.out.println("Elektryczny skuter marki " + getMarka());
-        
+
+    }
+}
+
+public class Main{
+    public static void main(String[] args) {
+        Samochod samochod = new Samochod("Toyota", "V8");
+        Skuter skuter = new Skuter("Ducatti");
+
+        samochod.wyswietlInformacje();
+        samochod.zatankuj();
+
+        skuter.wyswietlInformacje();
+        skuter.naladuj();
     }
 }
