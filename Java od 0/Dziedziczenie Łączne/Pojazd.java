@@ -50,6 +50,22 @@ class Samochod extends Pojazd implements Spalinowy{
     public void wyswietlInformacje() {
         System.out.println("Samochód spalinowy marki " + getMarka());
         silnik.uruchom();
+    }
+}
 
+class Skuter extends Pojazd implements Elektryczny{
+    public Skuter(String marka){
+        super(marka);
+    }
+
+    @Override
+    public void naladuj() {
+        System.out.println(getMarka() + " ładowanie baterii ");
+    }
+
+    @Override
+    public void wyswietlInformacje() {
+        System.out.println("Elektryczny skuter marki " + getMarka());
+        
     }
 }
