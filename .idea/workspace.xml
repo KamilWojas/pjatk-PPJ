@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Dziedziczenie niekompletne" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="dziedziczenie lączne kompozycji?">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Pojazd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Pojazd.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,23 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="19791000" />
-    </task>
-    <task id="LOCAL-00986" summary="Spłaszczenie hierarchii dziedziczenia">
-      <option name="closed" value="true" />
-      <created>1740695793955</created>
-      <option name="number" value="00986" />
-      <option name="presentableId" value="LOCAL-00986" />
-      <option name="project" value="LOCAL" />
-      <updated>1740695793955</updated>
-    </task>
-    <task id="LOCAL-00987" summary="Spłaszczenie hierarchii dziedziczenia">
-      <option name="closed" value="true" />
-      <created>1740695846294</created>
-      <option name="number" value="00987" />
-      <option name="presentableId" value="LOCAL-00987" />
-      <option name="project" value="LOCAL" />
-      <updated>1740695846294</updated>
+      <workItem from="1740068933537" duration="20135000" />
     </task>
     <task id="LOCAL-00988" summary="Spłaszczenie hierarchii dziedziczenia">
       <option name="closed" value="true" />
@@ -550,7 +536,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740867585707</updated>
     </task>
-    <option name="localTasksCounter" value="1035" />
+    <task id="LOCAL-01035" summary="dziedziczenie lączne kompozycji?">
+      <option name="closed" value="true" />
+      <created>1740948241668</created>
+      <option name="number" value="01035" />
+      <option name="presentableId" value="LOCAL-01035" />
+      <option name="project" value="LOCAL" />
+      <updated>1740948241669</updated>
+    </task>
+    <task id="LOCAL-01036" summary="dziedziczenie lączne kompozycji?">
+      <option name="closed" value="true" />
+      <created>1740948343957</created>
+      <option name="number" value="01036" />
+      <option name="presentableId" value="LOCAL-01036" />
+      <option name="project" value="LOCAL" />
+      <updated>1740948343957</updated>
+    </task>
+    <option name="localTasksCounter" value="1037" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task31" />
     <MESSAGE value="Task32" />
     <MESSAGE value="Task33" />
     <MESSAGE value="Task34" />
@@ -593,6 +594,7 @@
     <MESSAGE value="Amfibia" />
     <MESSAGE value="Wielodziedziczenie - spłaszczenie" />
     <MESSAGE value="Dziedziczenie niekompletne" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dziedziczenie niekompletne" />
+    <MESSAGE value="dziedziczenie lączne kompozycji?" />
+    <option name="LAST_COMMIT_MESSAGE" value="dziedziczenie lączne kompozycji?" />
   </component>
 </project>
