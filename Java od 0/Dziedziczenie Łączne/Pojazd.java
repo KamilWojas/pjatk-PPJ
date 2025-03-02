@@ -9,3 +9,11 @@ class Silnik{
             System.out.println("Silnik " + typ + " został uruchomiony");
         }
 }
+
+interface Spalinowy{
+    void zatankuj();
+}
+
+interface Elektryczny{
+    void naladuj();
+}
