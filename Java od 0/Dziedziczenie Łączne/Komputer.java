@@ -28,4 +28,13 @@ class Pracownik implements Programista, Menadzer, Teste{
     private boolean jestProgramista;
     private boolean jestMenadzerem;
     private boolean jestTesterem;
+
+    public Pracownik(String imie, String modelKomputera, boolean jestMenadzerem, boolean jestProgramista,
+                     boolean jestTesterem){
+        this.imie = imie;
+        this.komputer = new Komputer(modelKomputera);
+        this.jestMenadzerem = menadzer;
+        this.jestProgramista = programista;
+        this.jestTesterem = tester;
+    }
 }
