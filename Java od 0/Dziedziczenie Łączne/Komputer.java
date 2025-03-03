@@ -17,3 +17,7 @@ interface Programista{
 interface Menadzer{
     void zarzadzajZespolem();
 }
+
+interface Teste{
+    void testujAplikacje();
+}
