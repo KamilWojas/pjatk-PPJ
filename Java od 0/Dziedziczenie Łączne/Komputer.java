@@ -37,4 +37,9 @@ class Pracownik implements Programista, Menadzer, Teste{
         this.jestProgramista = programista;
         this.jestTesterem = tester;
     }
+
+    public void rozpocznijPrace(){
+        System.out.println(imie + " rozpoczyna prace");
+        komputer.uruchom();
+    }
 }
