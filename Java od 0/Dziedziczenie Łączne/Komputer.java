@@ -21,3 +21,7 @@ interface Menadzer{
 interface Teste{
     void testujAplikacje();
 }
+
+class Pracownik implements Programista, Menadzer, Teste{
+    
+}

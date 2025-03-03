@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="dziedziczenie lączne kompozycji?">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Komputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Komputer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,39 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="21366000" />
-    </task>
-    <task id="LOCAL-00998" summary="Spłaszczenie hierarchii dziedziczenia">
-      <option name="closed" value="true" />
-      <created>1740696159783</created>
-      <option name="number" value="00998" />
-      <option name="presentableId" value="LOCAL-00998" />
-      <option name="project" value="LOCAL" />
-      <updated>1740696159783</updated>
-    </task>
-    <task id="LOCAL-00999" summary="Spłaszczenie hierarchii dziedziczenia">
-      <option name="closed" value="true" />
-      <created>1740696173648</created>
-      <option name="number" value="00999" />
-      <option name="presentableId" value="LOCAL-00999" />
-      <option name="project" value="LOCAL" />
-      <updated>1740696173648</updated>
-    </task>
-    <task id="LOCAL-01000" summary="Spłaszczenie hierarchii dziedziczenia">
-      <option name="closed" value="true" />
-      <created>1740696186881</created>
-      <option name="number" value="01000" />
-      <option name="presentableId" value="LOCAL-01000" />
-      <option name="project" value="LOCAL" />
-      <updated>1740696186881</updated>
-    </task>
-    <task id="LOCAL-01001" summary="Kompozycja">
-      <option name="closed" value="true" />
-      <created>1740780731633</created>
-      <option name="number" value="01001" />
-      <option name="presentableId" value="LOCAL-01001" />
-      <option name="project" value="LOCAL" />
-      <updated>1740780731633</updated>
+      <workItem from="1740068933537" duration="21671000" />
     </task>
     <task id="LOCAL-01002" summary="Kompozycja">
       <option name="closed" value="true" />
@@ -552,7 +520,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740949023176</updated>
     </task>
-    <option name="localTasksCounter" value="1047" />
+    <task id="LOCAL-01047" summary="dziedziczenie lączne kompozycji?">
+      <option name="closed" value="true" />
+      <created>1741037899905</created>
+      <option name="number" value="01047" />
+      <option name="presentableId" value="LOCAL-01047" />
+      <option name="project" value="LOCAL" />
+      <updated>1741037899905</updated>
+    </task>
+    <task id="LOCAL-01048" summary="dziedziczenie lączne kompozycji?">
+      <option name="closed" value="true" />
+      <created>1741038025576</created>
+      <option name="number" value="01048" />
+      <option name="presentableId" value="LOCAL-01048" />
+      <option name="project" value="LOCAL" />
+      <updated>1741038025576</updated>
+    </task>
+    <task id="LOCAL-01049" summary="dziedziczenie lączne kompozycji?">
+      <option name="closed" value="true" />
+      <created>1741038055569</created>
+      <option name="number" value="01049" />
+      <option name="presentableId" value="LOCAL-01049" />
+      <option name="project" value="LOCAL" />
+      <updated>1741038055569</updated>
+    </task>
+    <task id="LOCAL-01050" summary="dziedziczenie lączne kompozycji?">
+      <option name="closed" value="true" />
+      <created>1741038080328</created>
+      <option name="number" value="01050" />
+      <option name="presentableId" value="LOCAL-01050" />
+      <option name="project" value="LOCAL" />
+      <updated>1741038080328</updated>
+    </task>
+    <option name="localTasksCounter" value="1051" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
