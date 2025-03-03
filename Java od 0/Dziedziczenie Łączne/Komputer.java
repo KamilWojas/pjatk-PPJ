@@ -41,5 +41,15 @@ class Pracownik implements Programista, Menadzer, Teste{
     public void rozpocznijPrace(){
         System.out.println(imie + " rozpoczyna prace");
         komputer.uruchom();
+
+        if (jestProgramista){
+            piszKod();
+        }
+        if (jestMenadzerem){
+            zarzadzajZespolem();
+        }
+        if (jestTesterem){
+            testujAplikacje();
+        }
     }
 }
