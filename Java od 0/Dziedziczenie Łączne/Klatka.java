@@ -20,3 +20,11 @@ interface Wodne{
 interface Latajace{
     void lataj();
 }
+
+class Zwierze implements Latajace, Wodne, Latajace{
+    private String gatunek;
+    private Klatka klatka;
+    private boolean jestLodowe;
+    private boolean jestWodne;
+    private boolean jestLatajace;
+}
