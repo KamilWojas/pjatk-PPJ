@@ -23,5 +23,6 @@ interface Teste{
 }
 
 class Pracownik implements Programista, Menadzer, Teste{
-    
+    private String imie;
+    private Komputer komputer; //Kompozycja - każdy pracownik ma komputer
 }
