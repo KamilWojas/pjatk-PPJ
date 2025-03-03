@@ -68,3 +68,10 @@ class Pracownik implements Programista, Menadzer, Teste{
         System.out.println(imie + " testuje apliakcje");
     }
 }
+
+public class Main{
+    public static void main(String[] args) {
+        Pracownik pracownik1 = new Pracownik("Kamil Wojas", "Mac pro 16", true, false, false);
+        Pracownik pracownik2 = new Pracownik("Jan Kowalski", "Dell xps", false, false, true);
+    }
+}
