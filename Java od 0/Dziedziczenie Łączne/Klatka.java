@@ -9,7 +9,7 @@ class Klatka{
     }
 }
 
-interface Lodowe{
+interface Ladowe{
     void biegaj();
 }
 
@@ -21,18 +21,18 @@ interface Latajace{
     void lataj();
 }
 
-class Zwierze implements Latajace, Wodne, Latajace{
+class Zwierze implements Ladowe, Wodne, Latajace{
     private String gatunek;
     private Klatka klatka;
-    private boolean jestLodowe;
+    private boolean jestLadowe;
     private boolean jestWodne;
     private boolean jestLatajace;
 
-    public Zwierze(String gatunek, int numerKlatki, boolean jestLodowe, boolean jestWodne,
+    public Zwierze(String gatunek, int numerKlatki, boolean jestLadowe, boolean jestWodne,
                    boolean jestLatajace){
         this.gatunek = gatunek;
         this.klatka = new Klatka(numerKlatki);
-        this.jestLodowe = lodowe;
+        this.jestLadowe = ladowe;
         this.jestWodne = wodne;
         this.jestLatajace = latajace;
     }
@@ -49,5 +49,20 @@ class Zwierze implements Latajace, Wodne, Latajace{
         if (jestLatajace){
             lataj();
         }
+    }
+
+    @Override
+    public void biegaj() {
+        System.out.println(gatunek + " biega po lesie");
+    }
+
+    @Override
+    public void plywaj() {
+        System.out.println(gatunek + " pływa w oceaniue");
+    }
+
+    @Override
+    public void lataj() {
+        System.out.println(gatunek + " lata");
     }
 }
