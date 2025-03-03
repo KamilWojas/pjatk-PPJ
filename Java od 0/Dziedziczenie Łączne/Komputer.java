@@ -52,4 +52,14 @@ class Pracownik implements Programista, Menadzer, Teste{
             testujAplikacje();
         }
     }
+
+    @Override
+    public void piszKod() {
+        System.out.println(imie + " pisze kod jako programista");
+    }
+
+    @Override
+    public void zarzadzajZespolem() {
+        System.out.println(imie + " zarządza zespołem");
+    }
 }
