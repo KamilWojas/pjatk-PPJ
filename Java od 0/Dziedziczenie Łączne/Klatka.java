@@ -30,6 +30,11 @@ class Zwierze implements Latajace, Wodne, Latajace{
 
     public Zwierze(String gatunek, int numerKlatki, boolean jestLodowe, boolean jestWodne,
                    boolean jestLatajace){
-        
+        this.gatunek = gatunek;
+        this.klatka = new Klatka(numerKlatki);
+        this.jestLodowe = lodowe;
+        this.jestWodne = wodne;
+        this.jestLatajace = latajace;
+
     }
 }
