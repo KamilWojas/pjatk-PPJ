@@ -35,6 +35,19 @@ class Zwierze implements Latajace, Wodne, Latajace{
         this.jestLodowe = lodowe;
         this.jestWodne = wodne;
         this.jestLatajace = latajace;
+    }
 
+    public void aktywnosc(){
+        System.out.println(gatunek + " wykonuje swoją aktywność");
+
+        if (jestLodowe){
+            biegaj();
+        }
+        if (jestWodne){
+            plywaj();
+        }
+        if (jestLatajace){
+            lataj();
+        }
     }
 }
