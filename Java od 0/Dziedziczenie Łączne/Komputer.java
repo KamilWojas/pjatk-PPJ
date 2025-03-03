@@ -9,3 +9,7 @@ class Komputer{
         System.out.println("Komputer " + model + " Został uruchomiony ");
     }
 }
+
+interface Programista{
+    void piszKod();
+}
