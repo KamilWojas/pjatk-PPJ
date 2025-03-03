@@ -73,5 +73,9 @@ public class Main{
     public static void main(String[] args) {
         Pracownik pracownik1 = new Pracownik("Kamil Wojas", "Mac pro 16", true, false, false);
         Pracownik pracownik2 = new Pracownik("Jan Kowalski", "Dell xps", false, false, true);
+        
+        pracownik1.rozpocznijPrace();
+        System.out.println();
+        pracownik2.rozpocznijPrace();
     }
 }
