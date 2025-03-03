@@ -13,3 +13,7 @@ class Komputer{
 interface Programista{
     void piszKod();
 }
+
+interface Menadzer{
+    void zarzadzajZespolem();
+}
