@@ -74,6 +74,12 @@ class Samochod extends Pojazd2{
     }
 }
 
+class Lodz extends Pojazd2{
+    public Lodz(String numerID){
+        super(numerID, "Diesel", false, true, false);
+    }
+}
+
 
 class Samochod extends Pojazd2{
     public static void main(String[] args) {
