@@ -67,3 +67,9 @@ abstract class Pojazd2 implements Ladowe, Wodne, Latajace{
 
     }
 }
+
+class Samochod extends Pojazd2{
+    public static void main(String[] args) {
+        
+    }
+}
