@@ -72,6 +72,14 @@ class Samochod extends Pojazd2{
     public static void main(String[] args) {
         Pojazd2 samochod = new Samochod("A123");
         Pojazd2 lodz = new Lodz("B123");
+        Pojazd2 samolot = new Samolot("F16");
+
+        samochod.uruchomPojazd();
+        System.out.println();
+        lodz.uruchomPojazd();
+        System.out.println();
+        samolot.uruchomPojazd();
+        System.out.println();
 
     }
 }
