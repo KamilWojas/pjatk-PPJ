@@ -30,4 +30,8 @@ abstract class Pojazd2 implements Ladowe, Wodne, Latajace{
     private boolean jestWodny;
     private boolean jestLatajacy;
 
+    public Pojazd2(String numerID, String typSilnika, boolean jestLadowwy, boolean jestWodny,
+                   boolean jestLatajacy){
+
+    }
 }
