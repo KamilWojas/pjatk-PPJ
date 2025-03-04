@@ -34,4 +34,10 @@ abstract class Pojazd2 implements Ladowe, Wodne, Latajace{
                    boolean jestLatajacy){
 
     }
+
+    public void uruchomPojazd(){
+        System.out.println("Pojazd nr " + numerID + " rozpoczuna prace");
+        silnik.uruchom();
+
+    }
 }
