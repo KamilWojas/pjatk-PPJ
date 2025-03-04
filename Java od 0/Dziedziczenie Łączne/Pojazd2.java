@@ -69,6 +69,13 @@ abstract class Pojazd2 implements Ladowe, Wodne, Latajace{
 }
 
 class Samochod extends Pojazd2{
+    public Samochod(String numerID){
+        super(numerID, "Benzynowy", true, false, false);
+    }
+}
+
+
+class Samochod extends Pojazd2{
     public static void main(String[] args) {
         Pojazd2 samochod = new Samochod("A123");
         Pojazd2 lodz = new Lodz("B123");
