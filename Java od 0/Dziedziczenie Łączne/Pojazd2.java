@@ -80,6 +80,12 @@ class Lodz extends Pojazd2{
     }
 }
 
+class Samolot extends Pojazd2{
+    public Samolot(String numerID){
+        super(numerID, "Odrzutowy", false, false, true);
+    }
+}
+
 
 class Samochod extends Pojazd2{
     public static void main(String[] args) {
