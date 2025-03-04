@@ -22,3 +22,12 @@ interface Wodne{
 interface Latajace{
     void lec();
 }
+
+abstract class Pojazd2 implements Ladowe, Wodne, Latajace{
+    private String  numerID;
+    private Silnik silnik;
+    private boolean jestLadowwy;
+    private boolean jestWodny;
+    private boolean jestLatajacy;
+
+}
