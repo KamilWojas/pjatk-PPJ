@@ -49,4 +49,15 @@ abstract class Pojazd2 implements Ladowe, Wodne, Latajace{
             plyn();
         }
     }
+
+    @Override
+    public void jedz() {
+        System.out.println("Pojazd " + numerID + " jedz po drodze");
+
+    }
+
+    @Override
+    public void lec() {
+        System.out.println("Pojazd " + numerID + " płynie po wodzie");
+    }
 }
