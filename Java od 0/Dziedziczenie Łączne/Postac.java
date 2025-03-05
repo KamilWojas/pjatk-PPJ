@@ -97,6 +97,14 @@ public class Main{
         Postac lucznik = new Lucznik("Legolas");
         Postac mag = new Mag("Gandalf");
         Postac elf = new Elf("Elrond");
+
+        wojownik.rozpocznijWalke();
+        System.out.println();
+        lucznik.rozpocznijWalke();
+        System.out.println();
+        mag.rozpocznijWalke();
+        System.out.println();
+        elf.rozpocznijWalke();
     }
 }
 
