@@ -9,3 +9,15 @@ class Ekwipunek{
         System.out.println("Używasz :" + nazwa);
     }
 }
+
+interface Walczy{
+    void atakWrecz();
+}
+
+interface Strzela{
+    void strzela();
+}
+
+interface RzucaZaklecia{
+    void rzycaZaklecia();
+}
