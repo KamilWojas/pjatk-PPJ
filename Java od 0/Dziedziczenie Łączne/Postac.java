@@ -43,5 +43,12 @@ abstract class Postac implements Walczy, Strzela, RzucaZaklecia{
         if (jestWojownikiem) {
             atakWręcz();
         }
+        if (jestLucznikiem) {
+            atakDystansowy();
+        }
+        if (jestMagiem) {
+            rzucZaklecie();
+        }
     }
+
 }
