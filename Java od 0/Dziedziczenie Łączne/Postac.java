@@ -55,5 +55,11 @@ abstract class Postac implements Walczy, Strzela, RzucaZaklecia{
         System.out.println(imie + " atakuje mieczem!");
     }
 
+    @Override
+    public void atakDystansowy() {
+        System.out.println(imie + " strzela z łuku!");
+    }
+
+
 
 }
