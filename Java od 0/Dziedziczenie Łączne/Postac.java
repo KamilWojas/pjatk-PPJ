@@ -91,4 +91,13 @@ class Elf extends Postac{
     }
 }
 
+public class Main{
+    public static void main(String[] args) {
+        Postac wojownik = new Wojownik("Thorin");
+        Postac lucznik = new Lucznik("Legolas");
+        Postac mag = new Mag("Gandalf");
+        Postac elf = new Elf("Elrond");
+    }
+}
+
 

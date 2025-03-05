@@ -158,79 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="26768000" />
-    </task>
-    <task id="LOCAL-01048" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038025576</created>
-      <option name="number" value="01048" />
-      <option name="presentableId" value="LOCAL-01048" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038025576</updated>
-    </task>
-    <task id="LOCAL-01049" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038055569</created>
-      <option name="number" value="01049" />
-      <option name="presentableId" value="LOCAL-01049" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038055569</updated>
-    </task>
-    <task id="LOCAL-01050" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038080328</created>
-      <option name="number" value="01050" />
-      <option name="presentableId" value="LOCAL-01050" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038080328</updated>
-    </task>
-    <task id="LOCAL-01051" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038104628</created>
-      <option name="number" value="01051" />
-      <option name="presentableId" value="LOCAL-01051" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038104628</updated>
-    </task>
-    <task id="LOCAL-01052" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038140650</created>
-      <option name="number" value="01052" />
-      <option name="presentableId" value="LOCAL-01052" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038140650</updated>
-    </task>
-    <task id="LOCAL-01053" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038182385</created>
-      <option name="number" value="01053" />
-      <option name="presentableId" value="LOCAL-01053" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038182385</updated>
-    </task>
-    <task id="LOCAL-01054" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038223236</created>
-      <option name="number" value="01054" />
-      <option name="presentableId" value="LOCAL-01054" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038223236</updated>
-    </task>
-    <task id="LOCAL-01055" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038342111</created>
-      <option name="number" value="01055" />
-      <option name="presentableId" value="LOCAL-01055" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038342111</updated>
-    </task>
-    <task id="LOCAL-01056" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038392897</created>
-      <option name="number" value="01056" />
-      <option name="presentableId" value="LOCAL-01056" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038392897</updated>
+      <workItem from="1740068933537" duration="27098000" />
     </task>
     <task id="LOCAL-01057" summary="dziedziczenie lączne kompozycji?">
       <option name="closed" value="true" />
@@ -552,7 +480,79 @@
       <option name="project" value="LOCAL" />
       <updated>1741215490615</updated>
     </task>
-    <option name="localTasksCounter" value="1097" />
+    <task id="LOCAL-01097" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741215520941</created>
+      <option name="number" value="01097" />
+      <option name="presentableId" value="LOCAL-01097" />
+      <option name="project" value="LOCAL" />
+      <updated>1741215520941</updated>
+    </task>
+    <task id="LOCAL-01098" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741215544119</created>
+      <option name="number" value="01098" />
+      <option name="presentableId" value="LOCAL-01098" />
+      <option name="project" value="LOCAL" />
+      <updated>1741215544119</updated>
+    </task>
+    <task id="LOCAL-01099" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741215560914</created>
+      <option name="number" value="01099" />
+      <option name="presentableId" value="LOCAL-01099" />
+      <option name="project" value="LOCAL" />
+      <updated>1741215560914</updated>
+    </task>
+    <task id="LOCAL-01100" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741215572071</created>
+      <option name="number" value="01100" />
+      <option name="presentableId" value="LOCAL-01100" />
+      <option name="project" value="LOCAL" />
+      <updated>1741215572071</updated>
+    </task>
+    <task id="LOCAL-01101" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741215589311</created>
+      <option name="number" value="01101" />
+      <option name="presentableId" value="LOCAL-01101" />
+      <option name="project" value="LOCAL" />
+      <updated>1741215589311</updated>
+    </task>
+    <task id="LOCAL-01102" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741215599630</created>
+      <option name="number" value="01102" />
+      <option name="presentableId" value="LOCAL-01102" />
+      <option name="project" value="LOCAL" />
+      <updated>1741215599630</updated>
+    </task>
+    <task id="LOCAL-01103" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741215669765</created>
+      <option name="number" value="01103" />
+      <option name="presentableId" value="LOCAL-01103" />
+      <option name="project" value="LOCAL" />
+      <updated>1741215669765</updated>
+    </task>
+    <task id="LOCAL-01104" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741215726862</created>
+      <option name="number" value="01104" />
+      <option name="presentableId" value="LOCAL-01104" />
+      <option name="project" value="LOCAL" />
+      <updated>1741215726862</updated>
+    </task>
+    <task id="LOCAL-01105" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741215795285</created>
+      <option name="number" value="01105" />
+      <option name="presentableId" value="LOCAL-01105" />
+      <option name="project" value="LOCAL" />
+      <updated>1741215795285</updated>
+    </task>
+    <option name="localTasksCounter" value="1106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
