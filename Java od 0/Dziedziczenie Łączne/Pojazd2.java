@@ -99,6 +99,5 @@ class Samochod extends Pojazd2{
         System.out.println();
         samolot.uruchomPojazd();
         System.out.println();
-
     }
 }
