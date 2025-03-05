@@ -35,6 +35,8 @@ abstract class Postac implements Walczy, Strzela, RzucaZaklecia{
         this.jestWojownikiem = wojownik;
         this.jestLucznikiem = lucznik;
         this.jastMagiem = mag;
-
+    }
+    private void rozpocznijWalke(){
+        System.out.println(imie + " przygotuj się do walki");
     }
 }
