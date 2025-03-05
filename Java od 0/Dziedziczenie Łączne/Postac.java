@@ -85,5 +85,10 @@ class Mag extends Postac{
     }
 }
 
+class Elf extends Postac{
+    public Elf(String imie){
+        super(imie, " Łuk elficki ", false, true, true);
+    }
+}
 
 
