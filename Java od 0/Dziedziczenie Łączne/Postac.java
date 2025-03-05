@@ -21,3 +21,15 @@ interface Strzela{
 interface RzucaZaklecia{
     void rzycaZaklecia();
 }
+
+abstract class Postac implements Walczy, Strzela, RzucaZaklecia{
+    private String imie;
+    private Ekwipunek ekwipunek;
+    private boolean jestWojownikiem;
+    private boolean jestLucznikiem;
+    private boolean jastMagiem;
+
+    private Postac(String imie, String ekwipunek, boolean wojownik, boolean lucznik, boolean mag){
+        
+    }
+}
