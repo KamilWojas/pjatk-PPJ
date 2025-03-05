@@ -73,5 +73,11 @@ class Wojownik extends Postac{
     }
 }
 
+class Lucznik extends Postac{
+    public Lucznik(String imie){
+        super(imie, "Łuk", false, false, true);
+    }
+}
+
 
 
