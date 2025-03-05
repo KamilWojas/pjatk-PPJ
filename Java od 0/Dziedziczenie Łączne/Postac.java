@@ -38,5 +38,10 @@ abstract class Postac implements Walczy, Strzela, RzucaZaklecia{
     }
     private void rozpocznijWalke(){
         System.out.println(imie + " przygotuj się do walki");
+        ekwipunek.uzyj();
+
+        if (jestWojownikiem) {
+            atakWręcz();
+        }
     }
 }
