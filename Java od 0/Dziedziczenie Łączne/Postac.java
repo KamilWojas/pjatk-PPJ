@@ -50,7 +50,7 @@ abstract class Postac implements Walczy, Strzela, RzucaZaklecia{
             rzucZaklecie();
         }
     }
-    
+
     @Override
     public void atakWręcz() {
         System.out.println(imie + " atakuje mieczem!");
@@ -64,6 +64,12 @@ abstract class Postac implements Walczy, Strzela, RzucaZaklecia{
     @Override
     public void rzucZaklecie() {
         System.out.println(imie + " rzuca potężne zaklęcie!");
+    }
+}
+
+class Wojownik extends Postac{
+    public Wojownik(String imie){
+        super(imie, "Miecz", true, false, true);
     }
 }
 
