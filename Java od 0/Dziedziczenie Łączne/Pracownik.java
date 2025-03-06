@@ -119,5 +119,20 @@ public class Main{
         Pracownik tester = new TesterImpl("Krzystof Krawczyk", 45, 9500);
         Pracownik fullstack = new FullStackPracownik("Leo Messi", 37, 123456);
         
+        programista.wyswietlInformacje();
+        ((Programista)programista).piszKod();
+        System.out.println();
+        
+        menadzer.wyswietlInformacje();
+        ((Menadzer)menadzer).zarzadzajZespolem();
+        System.out.println();
+        
+        tester.wyswietlInformacje();
+        ((Tester)tester).testujOprogramowanie();
+        System.out.println();
+        
+        fullstack.wyswietlInformacje();
+        ((FullStackPracownik)fullstack).piszKod();
+        ((FullStackPracownik)fullstack).testujOprogramowanie();
     }
 }
