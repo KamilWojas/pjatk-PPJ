@@ -62,6 +62,11 @@ class MenadzerImpl extends Pracownik implements Menadzer{
     @verride
     public void zarzadzajZespolem() {
         System.out.println("Menadżer zarządza zespołem");
-        
+    }
+
+    @Override
+    public void wyswietlInformacje() {
+        super.wyswietlInformacje();
+        System.out.println("Rola: Menadżer zespołu");
     }
 }
