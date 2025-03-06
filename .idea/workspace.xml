@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Dziedziczenie łączne ({overlapping}) + Kompozycja">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Postac.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Postac.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Dziedziczenie łączne ({overlapping}) + Kompozycja" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,31 +156,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="27098000" />
-    </task>
-    <task id="LOCAL-01057" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038441211</created>
-      <option name="number" value="01057" />
-      <option name="presentableId" value="LOCAL-01057" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038441211</updated>
-    </task>
-    <task id="LOCAL-01058" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038510099</created>
-      <option name="number" value="01058" />
-      <option name="presentableId" value="LOCAL-01058" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038510099</updated>
-    </task>
-    <task id="LOCAL-01059" summary="dziedziczenie lączne kompozycji?">
-      <option name="closed" value="true" />
-      <created>1741038542487</created>
-      <option name="number" value="01059" />
-      <option name="presentableId" value="LOCAL-01059" />
-      <option name="project" value="LOCAL" />
-      <updated>1741038542487</updated>
+      <workItem from="1740068933537" duration="27973000" />
     </task>
     <task id="LOCAL-01060" summary="dziedziczenie lączne kompozycji?">
       <option name="closed" value="true" />
@@ -552,7 +526,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741215795285</updated>
     </task>
-    <option name="localTasksCounter" value="1106" />
+    <task id="LOCAL-01106" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741215850692</created>
+      <option name="number" value="01106" />
+      <option name="presentableId" value="LOCAL-01106" />
+      <option name="project" value="LOCAL" />
+      <updated>1741215850692</updated>
+    </task>
+    <task id="LOCAL-01107" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741215955106</created>
+      <option name="number" value="01107" />
+      <option name="presentableId" value="LOCAL-01107" />
+      <option name="project" value="LOCAL" />
+      <updated>1741215955106</updated>
+    </task>
+    <task id="LOCAL-01108" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
+      <option name="closed" value="true" />
+      <created>1741216059691</created>
+      <option name="number" value="01108" />
+      <option name="presentableId" value="LOCAL-01108" />
+      <option name="project" value="LOCAL" />
+      <updated>1741216059691</updated>
+    </task>
+    <option name="localTasksCounter" value="1109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
