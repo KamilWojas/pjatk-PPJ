@@ -46,4 +46,10 @@ class ProgramistaImpl extends Pracownik implements Programista{
     public void piszKod() {
         System.out.println("Programista pisze kod");
     }
+
+    @Override
+    public void wyswietlInformacje() {
+        super.wyswietlInformacje();
+        System.out.println("Rola: progamista");
+    }
 }
