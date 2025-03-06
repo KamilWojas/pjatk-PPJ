@@ -7,6 +7,10 @@ abstract class Pracownik{
     private double pensja;
 
     public Pracownik(String imie, int wiek, double pensja){
-        
+        this.id = UUID.randomUUID().toString(); //generowanie ID
+        this.imie = imie;
+        this.wiek = wiek;
+        this.pensja = pensja;
+
     }
 }
