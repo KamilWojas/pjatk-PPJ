@@ -12,4 +12,8 @@ abstract class Pracownik{
         this.wiek = wiek;
         this.pensja = pensja;
     }
+
+    public double getPensjaRoczna() {
+        return pensja;
+    }
 }
