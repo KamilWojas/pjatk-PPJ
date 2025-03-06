@@ -36,3 +36,9 @@ interface Menadzer{
 interface Tester{
     void testojOprogramowanie();
 }
+
+class ProgramistaImpl extends Pracownik implements Programista{
+    public ProgramistaImpl(String imie, int wiek, double pensja){
+        super(imie, wiek, pensja);
+    }
+}
