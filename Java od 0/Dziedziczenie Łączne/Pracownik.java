@@ -114,6 +114,10 @@ class FullStackPracownik extends Pracownik implements Programista, Tester{
 
 public class Main{
     public static void main(String[] args) {
+        Pracownik programista = new ProgramistaImpl("Kamil Wojas", 28, 15000);
+        Pracownik menadzer = new MenadzerImpl("Jan Matejko", 33, 22000);
+        Pracownik tester = new TesterImpl("Krzystof Krawczyk", 45, 9500);
+        Pracownik fullstack = new FullStackPracownik("Leo Messi", 37, 123456);
         
     }
 }
