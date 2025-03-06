@@ -11,6 +11,5 @@ abstract class Pracownik{
         this.imie = imie;
         this.wiek = wiek;
         this.pensja = pensja;
-
     }
 }
