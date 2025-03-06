@@ -14,7 +14,7 @@ abstract class Pracownik{
     }
 
     public double getPensjaRoczna() {
-        return pensja;
+        return pensja * 12;
     }
     public void wyswietlInformacje(){
         System.out.println("ID " + id);
@@ -59,7 +59,7 @@ class MenadzerImpl extends Pracownik implements Menadzer{
         super(imie, wiek, pensja);
     }
 
-    @verride
+    @Override
     public void zarzadzajZespolem() {
         System.out.println("Menadżer zarządza zespołem");
     }
