@@ -16,4 +16,11 @@ abstract class Pracownik{
     public double getPensjaRoczna() {
         return pensja;
     }
+    public void wyswietlInformacje(){
+        System.out.println("ID " + id);
+        System.out.println("Imie " + imie);
+        System.out.println("Wiek " + wiek);
+        System.out.println("Pensja " + pensja + " zł ");
+        System.out.println("Pensja roczna " + getPensjaRoczna() + " zł ");
+    }
 }
