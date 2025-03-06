@@ -158,71 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="29082000" />
-    </task>
-    <task id="LOCAL-01070" summary="Dziedziczenie łączne + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741126663326</created>
-      <option name="number" value="01070" />
-      <option name="presentableId" value="LOCAL-01070" />
-      <option name="project" value="LOCAL" />
-      <updated>1741126663326</updated>
-    </task>
-    <task id="LOCAL-01071" summary="Dziedziczenie łączne + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741126748835</created>
-      <option name="number" value="01071" />
-      <option name="presentableId" value="LOCAL-01071" />
-      <option name="project" value="LOCAL" />
-      <updated>1741126748835</updated>
-    </task>
-    <task id="LOCAL-01072" summary="Dziedziczenie łączne + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741127377390</created>
-      <option name="number" value="01072" />
-      <option name="presentableId" value="LOCAL-01072" />
-      <option name="project" value="LOCAL" />
-      <updated>1741127377390</updated>
-    </task>
-    <task id="LOCAL-01073" summary="Dziedziczenie łączne + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741127469126</created>
-      <option name="number" value="01073" />
-      <option name="presentableId" value="LOCAL-01073" />
-      <option name="project" value="LOCAL" />
-      <updated>1741127469126</updated>
-    </task>
-    <task id="LOCAL-01074" summary="Dziedziczenie łączne + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741127608938</created>
-      <option name="number" value="01074" />
-      <option name="presentableId" value="LOCAL-01074" />
-      <option name="project" value="LOCAL" />
-      <updated>1741127608938</updated>
-    </task>
-    <task id="LOCAL-01075" summary="Dziedziczenie łączne + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741127708871</created>
-      <option name="number" value="01075" />
-      <option name="presentableId" value="LOCAL-01075" />
-      <option name="project" value="LOCAL" />
-      <updated>1741127708871</updated>
-    </task>
-    <task id="LOCAL-01076" summary="Dziedziczenie łączne + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741127791563</created>
-      <option name="number" value="01076" />
-      <option name="presentableId" value="LOCAL-01076" />
-      <option name="project" value="LOCAL" />
-      <updated>1741127791563</updated>
-    </task>
-    <task id="LOCAL-01077" summary="Dziedziczenie łączne + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741127859435</created>
-      <option name="number" value="01077" />
-      <option name="presentableId" value="LOCAL-01077" />
-      <option name="project" value="LOCAL" />
-      <updated>1741127859435</updated>
+      <workItem from="1740068933537" duration="29514000" />
     </task>
     <task id="LOCAL-01078" summary="Dziedziczenie łączne + Kompozycja">
       <option name="closed" value="true" />
@@ -552,7 +488,71 @@
       <option name="project" value="LOCAL" />
       <updated>1741296054307</updated>
     </task>
-    <option name="localTasksCounter" value="1119" />
+    <task id="LOCAL-01119" summary="Utworzenie klasy specjalniej MenadzerImpl">
+      <option name="closed" value="true" />
+      <created>1741296149911</created>
+      <option name="number" value="01119" />
+      <option name="presentableId" value="LOCAL-01119" />
+      <option name="project" value="LOCAL" />
+      <updated>1741296149911</updated>
+    </task>
+    <task id="LOCAL-01120" summary="Przesłonięcie metody zarzadzajZespolem">
+      <option name="closed" value="true" />
+      <created>1741296213233</created>
+      <option name="number" value="01120" />
+      <option name="presentableId" value="LOCAL-01120" />
+      <option name="project" value="LOCAL" />
+      <updated>1741296213233</updated>
+    </task>
+    <task id="LOCAL-01121" summary="Przesłonięcie metody wyswietlInformacje">
+      <option name="closed" value="true" />
+      <created>1741296259968</created>
+      <option name="number" value="01121" />
+      <option name="presentableId" value="LOCAL-01121" />
+      <option name="project" value="LOCAL" />
+      <updated>1741296259968</updated>
+    </task>
+    <task id="LOCAL-01122" summary="Utworzenie klasy specjalnej TesterImpl">
+      <option name="closed" value="true" />
+      <created>1741296339383</created>
+      <option name="number" value="01122" />
+      <option name="presentableId" value="LOCAL-01122" />
+      <option name="project" value="LOCAL" />
+      <updated>1741296339383</updated>
+    </task>
+    <task id="LOCAL-01123" summary="Przesłonięcie metody testojOprogramowanie">
+      <option name="closed" value="true" />
+      <created>1741296390033</created>
+      <option name="number" value="01123" />
+      <option name="presentableId" value="LOCAL-01123" />
+      <option name="project" value="LOCAL" />
+      <updated>1741296390033</updated>
+    </task>
+    <task id="LOCAL-01124" summary="Przesłonięcie metody testojOprogramowanie">
+      <option name="closed" value="true" />
+      <created>1741296414057</created>
+      <option name="number" value="01124" />
+      <option name="presentableId" value="LOCAL-01124" />
+      <option name="project" value="LOCAL" />
+      <updated>1741296414057</updated>
+    </task>
+    <task id="LOCAL-01125" summary="Przesłonięcie metody testojOprogramowanie">
+      <option name="closed" value="true" />
+      <created>1741296430227</created>
+      <option name="number" value="01125" />
+      <option name="presentableId" value="LOCAL-01125" />
+      <option name="project" value="LOCAL" />
+      <updated>1741296430227</updated>
+    </task>
+    <task id="LOCAL-01126" summary="Przesłonięcie metody wyswietlInformacje">
+      <option name="closed" value="true" />
+      <created>1741296468113</created>
+      <option name="number" value="01126" />
+      <option name="presentableId" value="LOCAL-01126" />
+      <option name="project" value="LOCAL" />
+      <updated>1741296468113</updated>
+    </task>
+    <option name="localTasksCounter" value="1127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,10 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Opcjonalny optional" />
-    <MESSAGE value="Pochodny" />
-    <MESSAGE value="Atrybut klasowy" />
-    <MESSAGE value="Powtarzalny" />
     <MESSAGE value="Uniklany" />
     <MESSAGE value="Subset" />
     <MESSAGE value="History" />
@@ -594,6 +590,10 @@
     <MESSAGE value="Implementacja interfejsów" />
     <MESSAGE value="Klasa specjalna programisty" />
     <MESSAGE value="Przesłonięcie metody piszKod" />
+    <MESSAGE value="Utworzenie klasy specjalniej MenadzerImpl" />
+    <MESSAGE value="Przesłonięcie metody zarzadzajZespolem" />
+    <MESSAGE value="Utworzenie klasy specjalnej TesterImpl" />
+    <MESSAGE value="Przesłonięcie metody testojOprogramowanie" />
     <MESSAGE value="Przesłonięcie metody wyswietlInformacje" />
     <option name="LAST_COMMIT_MESSAGE" value="Przesłonięcie metody wyswietlInformacje" />
   </component>

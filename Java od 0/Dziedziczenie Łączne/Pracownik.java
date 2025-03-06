@@ -87,3 +87,9 @@ class TesterImpl extends Pracownik implements Tester{
         System.out.println("Rola: Tester oprogramowania ");
     }
 }
+
+class FullStackPracownik extends Pracownik implements Programista, Menadzer, Tester{
+    public FullStackPracownik(String imie, int wiek, double pensja){
+        super(imie, wiek, pensja);
+    }
+}
