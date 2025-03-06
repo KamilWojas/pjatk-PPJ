@@ -80,4 +80,10 @@ class TesterImpl extends Pracownik implements Tester{
     public void testujOprogramowanie() {
         System.out.println("Tester testuje oprogramowanie ");
     }
+
+    @Override
+    public void wyswietlInformacje() {
+        super.wyswietlInformacje();
+        System.out.println("Rola: Tester oprogramowania ");
+    }
 }
