@@ -70,3 +70,9 @@ class MenadzerImpl extends Pracownik implements Menadzer{
         System.out.println("Rola: Menadżer zespołu");
     }
 }
+
+class TesterImpl extends Pracownik implements Tester{
+    public TesterImpl(String imie, int wiek, double pensja){
+        super(imie, wiek, pensja);
+    }
+}
