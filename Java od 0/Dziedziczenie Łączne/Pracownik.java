@@ -34,7 +34,7 @@ interface Menadzer{
 }
 
 interface Tester{
-    void testojOprogramowanie();
+    void testujOprogramowanie();
 }
 
 class ProgramistaImpl extends Pracownik implements Programista{
