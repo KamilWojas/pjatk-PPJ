@@ -58,4 +58,10 @@ class MenadzerImpl extends Pracownik implements Menadzer{
     public MenadzerImpl(String imie, int wiek, double pensja){
         super(imie, wiek, pensja);
     }
+
+    @verride
+    public void zarzadzajZespolem() {
+        System.out.println("Menadżer zarządza zespołem");
+        
+    }
 }
