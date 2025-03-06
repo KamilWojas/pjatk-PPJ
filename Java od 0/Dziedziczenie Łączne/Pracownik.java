@@ -41,4 +41,9 @@ class ProgramistaImpl extends Pracownik implements Programista{
     public ProgramistaImpl(String imie, int wiek, double pensja){
         super(imie, wiek, pensja);
     }
+
+    @Override
+    public void piszKod() {
+        System.out.println("Programista pisze kod");
+    }
 }
