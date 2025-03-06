@@ -75,4 +75,9 @@ class TesterImpl extends Pracownik implements Tester{
     public TesterImpl(String imie, int wiek, double pensja){
         super(imie, wiek, pensja);
     }
+
+    @Override
+    public void testojOprogramowanie() {
+        System.out.println("Tester testuje oprogramowanie ");
+    }
 }
