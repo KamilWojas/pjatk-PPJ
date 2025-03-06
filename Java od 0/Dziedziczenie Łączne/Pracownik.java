@@ -24,3 +24,15 @@ abstract class Pracownik{
         System.out.println("Pensja roczna " + getPensjaRoczna() + " zł ");
     }
 }
+
+interface Programista{
+    void piszKod();
+}
+
+interface Menadzer{
+    void zarzadzajZespolem();
+}
+
+interface Tester{
+    void testojOprogramowanie();
+}
