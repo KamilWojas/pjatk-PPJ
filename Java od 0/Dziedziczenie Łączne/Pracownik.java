@@ -88,8 +88,26 @@ class TesterImpl extends Pracownik implements Tester{
     }
 }
 
-class FullStackPracownik extends Pracownik implements Programista, Menadzer, Tester{
+class FullStackPracownik extends Pracownik implements Programista, Tester{
     public FullStackPracownik(String imie, int wiek, double pensja){
         super(imie, wiek, pensja);
+    }
+
+    @Override
+    public void piszKod() {
+        System.out.println("Fullstack developer pisze kod");
+
+    }
+
+    @Override
+    public void testujOprogramowanie() {
+        System.out.println("Fullstac tester testuje oprogramownie");
+
+    }
+
+    @Override
+    public void wyswietlInformacje() {
+        super.wyswietlInformacje();
+        System.out.println("Rola : fullstac Developer");
     }
 }
