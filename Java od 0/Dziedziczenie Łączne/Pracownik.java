@@ -53,3 +53,9 @@ class ProgramistaImpl extends Pracownik implements Programista{
         System.out.println("Rola: progamista");
     }
 }
+
+class MenadzerImpl extends Pracownik implements Menadzer{
+    public MenadzerImpl(String imie, int wiek, double pensja){
+        super(imie, wiek, pensja);
+    }
+}
