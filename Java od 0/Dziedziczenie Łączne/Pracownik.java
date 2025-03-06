@@ -77,7 +77,7 @@ class TesterImpl extends Pracownik implements Tester{
     }
 
     @Override
-    public void testojOprogramowanie() {
+    public void testujOprogramowanie() {
         System.out.println("Tester testuje oprogramowanie ");
     }
 }
