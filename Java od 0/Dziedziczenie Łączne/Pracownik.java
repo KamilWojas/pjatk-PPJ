@@ -111,3 +111,9 @@ class FullStackPracownik extends Pracownik implements Programista, Tester{
         System.out.println("Rola : fullstac Developer");
     }
 }
+
+public class Main{
+    public static void main(String[] args) {
+        
+    }
+}
