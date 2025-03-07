@@ -3,6 +3,7 @@ import java.util.List;
 import java.util.UUID;
 
 abstract class Pojazd3{
+    private String marka;
     private double cenaZaDzien;
     private int liczbaDni;
 
@@ -18,6 +19,13 @@ abstract class Pojazd3{
 
     public double getKosztCalkowity{
         return cenaZaDzien = liczbaDni;
-    } 
+    }
+
+    public void wyswietlInformacje(){
+        System.out.println("Pojazd :" + marka);
+        System.out.println("Cena za dzień :" + cenaZaDzien + " zł");
+        System.out.println("Liczba dni wynajmu :" + liczbaDni);
+        System.out.println("Koszt całkowity :" + getKosztCalkowity + " zł");
+    }
 
 }
