@@ -61,3 +61,9 @@ class Samochod extends Pojazd3 implements Ladowe, Wodne{
         System.out.println("Typ: Samochód");
     }
 }
+
+class Lodz extends Pojazd3 implements Ladowe, Wodne{
+    public Lodz(String marka, double cenaZaDzien, int liczbaDni){
+        super(marka, cenaZaDzien, liczbaDni);
+    }
+}
