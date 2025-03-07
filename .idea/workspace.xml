@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Implementacja klasy Łódź">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Utworzenie paramtrów testowych">
       <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Pojazd3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Pojazd3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,39 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="33033000" />
-    </task>
-    <task id="LOCAL-01100" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741215572071</created>
-      <option name="number" value="01100" />
-      <option name="presentableId" value="LOCAL-01100" />
-      <option name="project" value="LOCAL" />
-      <updated>1741215572071</updated>
-    </task>
-    <task id="LOCAL-01101" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741215589311</created>
-      <option name="number" value="01101" />
-      <option name="presentableId" value="LOCAL-01101" />
-      <option name="project" value="LOCAL" />
-      <updated>1741215589311</updated>
-    </task>
-    <task id="LOCAL-01102" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741215599630</created>
-      <option name="number" value="01102" />
-      <option name="presentableId" value="LOCAL-01102" />
-      <option name="project" value="LOCAL" />
-      <updated>1741215599630</updated>
-    </task>
-    <task id="LOCAL-01103" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741215669765</created>
-      <option name="number" value="01103" />
-      <option name="presentableId" value="LOCAL-01103" />
-      <option name="project" value="LOCAL" />
-      <updated>1741215669765</updated>
+      <workItem from="1740068933537" duration="33394000" />
     </task>
     <task id="LOCAL-01104" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
       <option name="closed" value="true" />
@@ -552,7 +520,39 @@
       <option name="project" value="LOCAL" />
       <updated>1741384165602</updated>
     </task>
-    <option name="localTasksCounter" value="1149" />
+    <task id="LOCAL-01149" summary="Przeciążanie metody pływaj">
+      <option name="closed" value="true" />
+      <created>1741384218388</created>
+      <option name="number" value="01149" />
+      <option name="presentableId" value="LOCAL-01149" />
+      <option name="project" value="LOCAL" />
+      <updated>1741384218388</updated>
+    </task>
+    <task id="LOCAL-01150" summary="Przeciążanie metody wyswietlInformacje">
+      <option name="closed" value="true" />
+      <created>1741384268475</created>
+      <option name="number" value="01150" />
+      <option name="presentableId" value="LOCAL-01150" />
+      <option name="project" value="LOCAL" />
+      <updated>1741384268475</updated>
+    </task>
+    <task id="LOCAL-01151" summary="Utworzenie klasy testującej">
+      <option name="closed" value="true" />
+      <created>1741384331237</created>
+      <option name="number" value="01151" />
+      <option name="presentableId" value="LOCAL-01151" />
+      <option name="project" value="LOCAL" />
+      <updated>1741384331238</updated>
+    </task>
+    <task id="LOCAL-01152" summary="Utworzenie paramtrów testowych">
+      <option name="closed" value="true" />
+      <created>1741384488926</created>
+      <option name="number" value="01152" />
+      <option name="presentableId" value="LOCAL-01152" />
+      <option name="project" value="LOCAL" />
+      <updated>1741384488926</updated>
+    </task>
+    <option name="localTasksCounter" value="1153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,10 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Metoda wyliczająca roczną pensję" />
-    <MESSAGE value="Metoda wyświtlająca informacje" />
-    <MESSAGE value="Klasa specjalna programisty" />
-    <MESSAGE value="Przesłonięcie metody piszKod" />
     <MESSAGE value="Utworzenie klasy specjalniej MenadzerImpl" />
     <MESSAGE value="Przesłonięcie metody zarzadzajZespolem" />
     <MESSAGE value="Utworzenie klasy specjalnej TesterImpl" />
@@ -595,6 +591,10 @@
     <MESSAGE value="Przesłonięcie metody jedz" />
     <MESSAGE value="Przesłonięcie metody wyswietlInformacje" />
     <MESSAGE value="Implementacja klasy Łódź" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementacja klasy Łódź" />
+    <MESSAGE value="Przeciążanie metody pływaj" />
+    <MESSAGE value="Przeciążanie metody wyswietlInformacje" />
+    <MESSAGE value="Utworzenie klasy testującej" />
+    <MESSAGE value="Utworzenie paramtrów testowych" />
+    <option name="LAST_COMMIT_MESSAGE" value="Utworzenie paramtrów testowych" />
   </component>
 </project>

@@ -85,8 +85,14 @@ public class Main{
         Pojazd3 lodz = new Lodz("Motorówka", 321, 2);
         
         samochod.wyswietlInformacje();
+        ((Ladowe)samochod).jedz();
         System.out.println();
+
         lodz.wyswietlInformacje();
+        ((Wodne)lodz).plywaj();
+        System.out.println();
+
+        System.out.println("Łączna suma rezerwacji: " + Pojazd3.sumaRezerwacji() + " zł");
         
     }
 }
