@@ -54,4 +54,10 @@ class Samochod extends Pojazd3 implements Ladowe, Wodne{
     public void jedz() {
         System.out.println("Samochód porusza się po drodze");
     }
+
+    @Override
+    public void wyswietlInformacje() {
+        super.wyswietlInformacje();
+        System.out.println("Typ: Samochód");
+    }
 }
