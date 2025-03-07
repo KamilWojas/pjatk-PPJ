@@ -4,4 +4,8 @@ import java.util.UUID;
 
 abstract class Pojazd3{
     
+    private String nazwa;
+    private double cenaNetto;
+    private double cenaBruttto;
+    
 }
