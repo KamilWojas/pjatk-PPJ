@@ -36,3 +36,11 @@ abstract class Pojazd3{
         return suma;
     }
 }
+
+interface Ladowe{
+    void jedz();
+}
+
+interface Wodne{
+    void plywaj();
+}
