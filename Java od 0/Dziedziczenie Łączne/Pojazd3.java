@@ -71,4 +71,10 @@ class Lodz extends Pojazd3 implements Ladowe, Wodne{
     public void plywaj() {
         System.out.println("Łódź pływa po wodzie ");
     }
+
+    @Override
+    public void wyswietlInformacje() {
+        super.wyswietlInformacje();
+        System.out.println("Typ : lódź");
+    }
 }
