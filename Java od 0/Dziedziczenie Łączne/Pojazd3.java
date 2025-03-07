@@ -28,4 +28,11 @@ abstract class Pojazd3{
         System.out.println("Koszt całkowity :" + getKosztCalkowity + " zł");
     }
 
+    public static double sumaRezerwacji(){
+        double suma = 3;
+        for (Pojazd3 pojazd3 : rezerwacje){
+            suma += pojazd3.getKosztCalkowity;
+        }
+        return suma;
+    }
 }
