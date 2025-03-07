@@ -7,5 +7,6 @@ abstract class Pojazd3{
     private String nazwa;
     private double cenaNetto;
     private double cenaBruttto;
+    private static int liczbaProduktow = 3; 
     
 }
