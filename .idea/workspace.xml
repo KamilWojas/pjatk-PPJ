@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Utworzenie klasy testowej main">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlenie informacji">
       <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Pracownik.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Pracownik.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,23 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="29937000" />
-    </task>
-    <task id="LOCAL-01081" summary="Dziedziczenie łączne + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741128209730</created>
-      <option name="number" value="01081" />
-      <option name="presentableId" value="LOCAL-01081" />
-      <option name="project" value="LOCAL" />
-      <updated>1741128209730</updated>
-    </task>
-    <task id="LOCAL-01082" summary="Dziedziczenie łączne + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741128284119</created>
-      <option name="number" value="01082" />
-      <option name="presentableId" value="LOCAL-01082" />
-      <option name="project" value="LOCAL" />
-      <updated>1741128284119</updated>
+      <workItem from="1740068933537" duration="30409000" />
     </task>
     <task id="LOCAL-01083" summary="Dziedziczenie łączne + Kompozycja">
       <option name="closed" value="true" />
@@ -552,7 +536,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741296792055</updated>
     </task>
-    <option name="localTasksCounter" value="1130" />
+    <task id="LOCAL-01130" summary="Utworzenie parametrów testowych">
+      <option name="closed" value="true" />
+      <created>1741296989313</created>
+      <option name="number" value="01130" />
+      <option name="presentableId" value="LOCAL-01130" />
+      <option name="project" value="LOCAL" />
+      <updated>1741296989313</updated>
+    </task>
+    <task id="LOCAL-01131" summary="Wyświetlenie informacji">
+      <option name="closed" value="true" />
+      <created>1741297181977</created>
+      <option name="number" value="01131" />
+      <option name="presentableId" value="LOCAL-01131" />
+      <option name="project" value="LOCAL" />
+      <updated>1741297181977</updated>
+    </task>
+    <option name="localTasksCounter" value="1132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,8 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Disjoint" />
-    <MESSAGE value="Overlapping" />
     <MESSAGE value="Spłaszczenie hierarchii dziedziczenia" />
     <MESSAGE value="Kompozycja" />
     <MESSAGE value="Amfibia" />
@@ -595,6 +593,8 @@
     <MESSAGE value="Utworzenie pracownika wielozadaniowego" />
     <MESSAGE value="Przesłonięcie metod piszKod, testujOprogramowanie i wyswietlInformacje" />
     <MESSAGE value="Utworzenie klasy testowej main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Utworzenie klasy testowej main" />
+    <MESSAGE value="Utworzenie parametrów testowych" />
+    <MESSAGE value="Wyświetlenie informacji" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wyświetlenie informacji" />
   </component>
 </project>
