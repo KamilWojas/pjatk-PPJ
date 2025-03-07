@@ -66,4 +66,9 @@ class Lodz extends Pojazd3 implements Ladowe, Wodne{
     public Lodz(String marka, double cenaZaDzien, int liczbaDni){
         super(marka, cenaZaDzien, liczbaDni);
     }
+
+    @Override
+    public void plywaj() {
+        System.out.println("Łódź pływa po wodzie ");
+    }
 }
