@@ -16,5 +16,8 @@ abstract class Pojazd3{
         rezerwacje.add(this);  // Automatycznie dodaje pojazd do listy rezerwacji
     }
 
+    public double getKosztCalkowity{
+        return cenaZaDzien = liczbaDni;
+    } 
 
 }

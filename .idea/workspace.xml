@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klasa bazowa z atrybutem pochodnym">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klasa bazowa z atrybutem klasowym">
       <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Pojazd3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Pojazd3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,23 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="31998000" />
-    </task>
-    <task id="LOCAL-01090" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741215134404</created>
-      <option name="number" value="01090" />
-      <option name="presentableId" value="LOCAL-01090" />
-      <option name="project" value="LOCAL" />
-      <updated>1741215134404</updated>
-    </task>
-    <task id="LOCAL-01091" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741215217283</created>
-      <option name="number" value="01091" />
-      <option name="presentableId" value="LOCAL-01091" />
-      <option name="project" value="LOCAL" />
-      <updated>1741215217283</updated>
+      <workItem from="1740068933537" duration="32307000" />
     </task>
     <task id="LOCAL-01092" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
       <option name="closed" value="true" />
@@ -552,7 +536,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741383143290</updated>
     </task>
-    <option name="localTasksCounter" value="1139" />
+    <task id="LOCAL-01139" summary="Klasa bazowa z atrybutem klasowym">
+      <option name="closed" value="true" />
+      <created>1741383207838</created>
+      <option name="number" value="01139" />
+      <option name="presentableId" value="LOCAL-01139" />
+      <option name="project" value="LOCAL" />
+      <updated>1741383207838</updated>
+    </task>
+    <task id="LOCAL-01140" summary="Klasa bazowa z atrybutem klasowym">
+      <option name="closed" value="true" />
+      <created>1741383470547</created>
+      <option name="number" value="01140" />
+      <option name="presentableId" value="LOCAL-01140" />
+      <option name="project" value="LOCAL" />
+      <updated>1741383470547</updated>
+    </task>
+    <option name="localTasksCounter" value="1141" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Wielodziedziczenie - spłaszczenie" />
     <MESSAGE value="Dziedziczenie niekompletne" />
     <MESSAGE value="dziedziczenie lączne kompozycji?" />
     <MESSAGE value="Dziedziczenie łączne + Kompozycja" />
@@ -595,6 +594,7 @@
     <MESSAGE value="Opis zadania:&#10;Firma transportowa zarządza różnymi pojazdami (Samochód, Samolot, Statek).&#10;&#10;Każdy pojazd ma podstawowe atrybuty: marka, maksymalna prędkość, czasPodróży (czas w godzinach).&#10;Atrybut pochodny → dystansPodróży jest wyliczany na podstawie maksymalnej prędkości i czasu podróży (prędkość × czas).&#10;Metoda klasowa → obliczSredniaPredkosc() zwraca średnią prędkość wszystkich pojazdów.&#10;Wielodziedziczenie → Pojazd może być zarówno Lądowy, Latający, jak i Wodny.&#10;Każdy pojazd ma unikalny numer rejestracyjny." />
     <MESSAGE value="Klasa abstrakcyjna" />
     <MESSAGE value="Klasa bazowa z atrybutem pochodnym" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klasa bazowa z atrybutem pochodnym" />
+    <MESSAGE value="Klasa bazowa z atrybutem klasowym" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klasa bazowa z atrybutem klasowym" />
   </component>
 </project>
