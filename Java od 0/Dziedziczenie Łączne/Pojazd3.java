@@ -49,4 +49,9 @@ class Samochod extends Pojazd3 implements Ladowe, Wodne{
     public Samochod(String marka, double cenaZaDzien, int liczbaDni){
         super(marka, cenaZaDzien, liczbaDni);
     }
+
+    @Override
+    public void jedz() {
+        System.out.println("Samochód porusza się po drodze");
+    }
 }
