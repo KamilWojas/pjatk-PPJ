@@ -44,3 +44,9 @@ interface Ladowe{
 interface Wodne{
     void plywaj();
 }
+
+class Samochod extends Pojazd3 implements Ladowe, Wodne{
+    public Samochod(String marka, double cenaZaDzien, int liczbaDni){
+        super(marka, cenaZaDzien, liczbaDni);
+    }
+}

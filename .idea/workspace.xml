@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klasa bazowa z atrybutem klasowym">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Pojazd3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Dziedziczenie Łączne/Pojazd3.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Implementacja interfejsów" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,39 +156,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="32307000" />
-    </task>
-    <task id="LOCAL-01092" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741215362293</created>
-      <option name="number" value="01092" />
-      <option name="presentableId" value="LOCAL-01092" />
-      <option name="project" value="LOCAL" />
-      <updated>1741215362293</updated>
-    </task>
-    <task id="LOCAL-01093" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741215383022</created>
-      <option name="number" value="01093" />
-      <option name="presentableId" value="LOCAL-01093" />
-      <option name="project" value="LOCAL" />
-      <updated>1741215383022</updated>
-    </task>
-    <task id="LOCAL-01094" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741215403724</created>
-      <option name="number" value="01094" />
-      <option name="presentableId" value="LOCAL-01094" />
-      <option name="project" value="LOCAL" />
-      <updated>1741215403724</updated>
-    </task>
-    <task id="LOCAL-01095" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
-      <option name="closed" value="true" />
-      <created>1741215439623</created>
-      <option name="number" value="01095" />
-      <option name="presentableId" value="LOCAL-01095" />
-      <option name="project" value="LOCAL" />
-      <updated>1741215439623</updated>
+      <workItem from="1740068933537" duration="32674000" />
     </task>
     <task id="LOCAL-01096" summary="Dziedziczenie łączne ({overlapping}) + Kompozycja">
       <option name="closed" value="true" />
@@ -552,7 +518,39 @@
       <option name="project" value="LOCAL" />
       <updated>1741383470547</updated>
     </task>
-    <option name="localTasksCounter" value="1141" />
+    <task id="LOCAL-01141" summary="Metoda getKosztCalkowity">
+      <option name="closed" value="true" />
+      <created>1741383536875</created>
+      <option name="number" value="01141" />
+      <option name="presentableId" value="LOCAL-01141" />
+      <option name="project" value="LOCAL" />
+      <updated>1741383536875</updated>
+    </task>
+    <task id="LOCAL-01142" summary="Metoda wyswietlInformacje">
+      <option name="closed" value="true" />
+      <created>1741383690254</created>
+      <option name="number" value="01142" />
+      <option name="presentableId" value="LOCAL-01142" />
+      <option name="project" value="LOCAL" />
+      <updated>1741383690254</updated>
+    </task>
+    <task id="LOCAL-01143" summary="Metoda klasowa - sumuje wszystkie rezerwacje">
+      <option name="closed" value="true" />
+      <created>1741383789873</created>
+      <option name="number" value="01143" />
+      <option name="presentableId" value="LOCAL-01143" />
+      <option name="project" value="LOCAL" />
+      <updated>1741383789873</updated>
+    </task>
+    <task id="LOCAL-01144" summary="Implementacja interfejsów">
+      <option name="closed" value="true" />
+      <created>1741383851037</created>
+      <option name="number" value="01144" />
+      <option name="presentableId" value="LOCAL-01144" />
+      <option name="project" value="LOCAL" />
+      <updated>1741383851037</updated>
+    </task>
+    <option name="localTasksCounter" value="1145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,15 +568,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dziedziczenie niekompletne" />
-    <MESSAGE value="dziedziczenie lączne kompozycji?" />
-    <MESSAGE value="Dziedziczenie łączne + Kompozycja" />
     <MESSAGE value="Dziedziczenie łączne ({overlapping}) + Kompozycja" />
     <MESSAGE value="Zadanie:&#10;Firma zatrudnia pracowników, którzy mogą pełnić różne role (Programista, Menedżer, Tester).&#10;&#10;Każdy pracownik ma podstawowe atrybuty, takie jak: imię, wiek, pensja (atrybuty proste).&#10;Niektóre atrybuty są pochodne (roczna pensja wyliczana na podstawie pensji miesięcznej).&#10;Każdy pracownik może mieć unikalne umiejętności, ale pewne role mogą się pokrywać (dziedziczenie łączne {overlapping}).&#10;Niektóre atrybuty są unikalne (ID pracownika jest unikalne)." />
     <MESSAGE value="Dziedziczenie łączne + Atrybuty" />
     <MESSAGE value="Metoda wyliczająca roczną pensję" />
     <MESSAGE value="Metoda wyświtlająca informacje" />
-    <MESSAGE value="Implementacja interfejsów" />
     <MESSAGE value="Klasa specjalna programisty" />
     <MESSAGE value="Przesłonięcie metody piszKod" />
     <MESSAGE value="Utworzenie klasy specjalniej MenadzerImpl" />
@@ -595,6 +589,10 @@
     <MESSAGE value="Klasa abstrakcyjna" />
     <MESSAGE value="Klasa bazowa z atrybutem pochodnym" />
     <MESSAGE value="Klasa bazowa z atrybutem klasowym" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klasa bazowa z atrybutem klasowym" />
+    <MESSAGE value="Metoda getKosztCalkowity" />
+    <MESSAGE value="Metoda wyswietlInformacje" />
+    <MESSAGE value="Metoda klasowa - sumuje wszystkie rezerwacje" />
+    <MESSAGE value="Implementacja interfejsów" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementacja interfejsów" />
   </component>
 </project>
