@@ -78,3 +78,9 @@ class Lodz extends Pojazd3 implements Ladowe, Wodne{
         System.out.println("Typ : lódź");
     }
 }
+
+public class Main{
+    public static void main(String[] args) {
+        
+    }
+}
