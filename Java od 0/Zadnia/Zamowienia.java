@@ -20,3 +20,9 @@ class Zamowienia{
         return nazwaProduktu + " - ilość: " + ilosc + ", cena jednostkowa " + cena + ", Wartość: " + obliczanieWartosci();
     }
 }
+
+public class Main{
+    public static void main(String[] args) {
+        
+    }
+}
