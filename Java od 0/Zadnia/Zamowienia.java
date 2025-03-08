@@ -50,4 +50,9 @@ public class Main{
         System.out.println("\nLista zamówień:");
         double suma = 0;
         for (int i = 0; i < zamowienia.size(); i++) {
+            System.out.println((i + 1) + ". " + zamowienia.get(i));
+            suma += zamowienia.get(i).obliczWartosc();
+        }
+
+    }
 }
