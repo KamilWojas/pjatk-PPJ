@@ -12,4 +12,8 @@ class Zamowienia{
     public double obliczanieWartosci(){
         return ilosc * cena;
     }
+    
+    public String toString(){
+        return nazwaProduktu + " - ilość: " + ilosc + ", cena jednostkowa " + cena + ", Wartość: " + obliczanieWartosci();
+    }
 }
