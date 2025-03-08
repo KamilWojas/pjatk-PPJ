@@ -29,6 +29,9 @@ public class Main{
         while (true){
             System.out.println("Podaj nazwę produktu");
             String nazwaProduktu = scanner.nextLine();
+
+            System.out.print("Podaj ilość: ");
+            int ilosc = scanner.nextInt();
         }
     }
 }
