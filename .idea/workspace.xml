@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Inicjowanie konstruktora">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda do obsługi zamówień">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Zamowienia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Zamowienia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,47 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="34357000" />
-    </task>
-    <task id="LOCAL-01110" summary="Dziedziczenie łączne + Atrybuty">
-      <option name="closed" value="true" />
-      <created>1741295322814</created>
-      <option name="number" value="01110" />
-      <option name="presentableId" value="LOCAL-01110" />
-      <option name="project" value="LOCAL" />
-      <updated>1741295322814</updated>
-    </task>
-    <task id="LOCAL-01111" summary="Dziedziczenie łączne + Atrybuty">
-      <option name="closed" value="true" />
-      <created>1741295402180</created>
-      <option name="number" value="01111" />
-      <option name="presentableId" value="LOCAL-01111" />
-      <option name="project" value="LOCAL" />
-      <updated>1741295402180</updated>
-    </task>
-    <task id="LOCAL-01112" summary="Dziedziczenie łączne + Atrybuty">
-      <option name="closed" value="true" />
-      <created>1741295416008</created>
-      <option name="number" value="01112" />
-      <option name="presentableId" value="LOCAL-01112" />
-      <option name="project" value="LOCAL" />
-      <updated>1741295416008</updated>
-    </task>
-    <task id="LOCAL-01113" summary="Metoda wyliczająca roczną pensję">
-      <option name="closed" value="true" />
-      <created>1741295489380</created>
-      <option name="number" value="01113" />
-      <option name="presentableId" value="LOCAL-01113" />
-      <option name="project" value="LOCAL" />
-      <updated>1741295489380</updated>
-    </task>
-    <task id="LOCAL-01114" summary="Metoda wyświtlająca informacje">
-      <option name="closed" value="true" />
-      <created>1741295607019</created>
-      <option name="number" value="01114" />
-      <option name="presentableId" value="LOCAL-01114" />
-      <option name="project" value="LOCAL" />
-      <updated>1741295607019</updated>
+      <workItem from="1740068933537" duration="34665000" />
     </task>
     <task id="LOCAL-01115" summary="Implementacja interfejsów">
       <option name="closed" value="true" />
@@ -552,7 +512,47 @@
       <option name="project" value="LOCAL" />
       <updated>1741474154234</updated>
     </task>
-    <option name="localTasksCounter" value="1159" />
+    <task id="LOCAL-01159" summary="Inicjowanie konstruktora">
+      <option name="closed" value="true" />
+      <created>1741474218278</created>
+      <option name="number" value="01159" />
+      <option name="presentableId" value="LOCAL-01159" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474218278</updated>
+    </task>
+    <task id="LOCAL-01160" summary="Metoda obliczająca wartość zamówienia">
+      <option name="closed" value="true" />
+      <created>1741474305360</created>
+      <option name="number" value="01160" />
+      <option name="presentableId" value="LOCAL-01160" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474305360</updated>
+    </task>
+    <task id="LOCAL-01161" summary="Metoda do wyświetlania zamówienia">
+      <option name="closed" value="true" />
+      <created>1741474417629</created>
+      <option name="number" value="01161" />
+      <option name="presentableId" value="LOCAL-01161" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474417629</updated>
+    </task>
+    <task id="LOCAL-01162" summary="Metoda do wyświetlania zamówienia">
+      <option name="closed" value="true" />
+      <created>1741474445813</created>
+      <option name="number" value="01162" />
+      <option name="presentableId" value="LOCAL-01162" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474445813</updated>
+    </task>
+    <task id="LOCAL-01163" summary="Metoda do obsługi zamówień">
+      <option name="closed" value="true" />
+      <created>1741474478066</created>
+      <option name="number" value="01163" />
+      <option name="presentableId" value="LOCAL-01163" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474478066</updated>
+    </task>
+    <option name="localTasksCounter" value="1164" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,9 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Utworzenie pracownika wielozadaniowego" />
-    <MESSAGE value="Przesłonięcie metod piszKod, testujOprogramowanie i wyswietlInformacje" />
-    <MESSAGE value="Utworzenie klasy testowej main" />
     <MESSAGE value="Utworzenie parametrów testowych" />
     <MESSAGE value="Wyświetlenie informacji" />
     <MESSAGE value="Opis zadania:&#10;Firma transportowa zarządza różnymi pojazdami (Samochód, Samolot, Statek).&#10;&#10;Każdy pojazd ma podstawowe atrybuty: marka, maksymalna prędkość, czasPodróży (czas w godzinach).&#10;Atrybut pochodny → dystansPodróży jest wyliczany na podstawie maksymalnej prędkości i czasu podróży (prędkość × czas).&#10;Metoda klasowa → obliczSredniaPredkosc() zwraca średnią prędkość wszystkich pojazdów.&#10;Wielodziedziczenie → Pojazd może być zarówno Lądowy, Latający, jak i Wodny.&#10;Każdy pojazd ma unikalny numer rejestracyjny." />
@@ -595,6 +592,9 @@
     <MESSAGE value="Klasa bazowa" />
     <MESSAGE value="Zmienne" />
     <MESSAGE value="Inicjowanie konstruktora" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicjowanie konstruktora" />
+    <MESSAGE value="Metoda obliczająca wartość zamówienia" />
+    <MESSAGE value="Metoda do wyświetlania zamówienia" />
+    <MESSAGE value="Metoda do obsługi zamówień" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metoda do obsługi zamówień" />
   </component>
 </project>
