@@ -32,6 +32,10 @@ public class Main{
 
             System.out.print("Podaj ilość: ");
             int ilosc = scanner.nextInt();
+            
+            System.out.print("Podaj cenę jednostkową: ");
+            double cenaJednostkowa = scanner.nextDouble();
+            scanner.nextLine();
         }
     }
 }
