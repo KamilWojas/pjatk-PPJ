@@ -25,5 +25,10 @@ public class Main{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Zamowienia> zamowienia = new ArrayList<>();
+
+        while (true){
+            System.out.println("Podaj nazwę produktu");
+            String nazwaProduktu = scanner.nextLine();
+        }
     }
 }
