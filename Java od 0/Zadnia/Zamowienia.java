@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
 class Zamowienia{
     private String nazwaProduktu;
     private int ilosc;
