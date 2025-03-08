@@ -40,6 +40,11 @@ public class Main{
             Zamowienie zamowienie = new Zamowienie(nazwaProduktu, ilosc, cenaJednostkowa);
             zamowienia.add(zamowienie);
 
+            System.out.print("Czy chcesz dodać kolejne zamówienie? (tak/nie): ");
+            String odpowiedz = scanner.nextLine().trim().toLowerCase();
+            if (odpowiedz.equals("nie")) {
+                break;
+
         }
     }
 }
