@@ -53,6 +53,8 @@ public class Main{
             System.out.println((i + 1) + ". " + zamowienia.get(i));
             suma += zamowienia.get(i).obliczWartosc();
         }
-
+        System.out.println("\nŁączna wartość zamówień: " + suma);
+    }
+}
     }
 }
