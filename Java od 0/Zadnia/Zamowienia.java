@@ -8,4 +8,8 @@ class Zamowienia{
         this.ilosc = ilosc;
         this.cena = cena;
     }
+    
+    public double obliczanieWartosci(){
+        return ilosc * cena;
+    }
 }
