@@ -3,6 +3,8 @@ class Zamowienia{
     private int ilosc;
     private double cena;
 
-    
+    public Zamowienia(String nazwaProduktu, int ilosc, double cena){
+        
+    }
     
 }
