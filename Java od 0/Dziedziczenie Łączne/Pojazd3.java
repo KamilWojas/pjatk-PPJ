@@ -79,7 +79,7 @@ class Lodz extends Pojazd3 implements Ladowe, Wodne{
     }
 }
 
-public class Main{
+public class Main{ 
     public static void main(String[] args) {
         Pojazd3 samochod = new Samochod("Toyota", 234, 2);
         Pojazd3 lodz = new Lodz("Motorówka", 321, 2);
