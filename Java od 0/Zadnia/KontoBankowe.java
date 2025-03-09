@@ -55,7 +55,9 @@ public class Main{
             scanner.nextLine();
             
             switch (opcja){
-                case 1: 
+                case 1:
+                    System.out.println("Podaj nr konta");
+                    String numerKonta = scanner.nextLine();
             }
         }
     }
