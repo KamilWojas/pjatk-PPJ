@@ -50,6 +50,9 @@ public class Main{
             System.out.println("2. Zarządzaj kontem");
             System.out.println("3. Wyświetl wszystie konta");
             System.out.println("4. Zakończ program");
+
+            int opcja = scanner.nextInt();
+            scanner.nextLine();
         }
     }
 }
