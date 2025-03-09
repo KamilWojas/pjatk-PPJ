@@ -1,11 +1,11 @@
 class KontoBankowe{
     private String numerKonta;
-    private String nazwiskoWlasciciela;
-    private double saldoPoczatkowe;
+    private String wlasciciel;
+    private double saldo;
     
-    public KontoBankowe(String numerKonta, String nazwiskoWlasciciela, double saldoPoczatkowe){
+    public KontoBankowe(String numerKonta, String wlasciciel, double saldo){
      this.numerKonta = numerKonta;
-     this.nazwiskoWlasciciela = nazwiskoWlasciciela;
-     this.saldoPoczatkowe = saldoPoczatkowe;
+     this.wlasciciel = wlasciciel;
+     this.saldo = saldo;
     }
 }
