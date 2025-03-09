@@ -65,6 +65,14 @@ public class Main{
                     System.out.print("Podaj saldo początkowe: ");
                     double saldo = scanner.nextDouble();
                     scanner.nextLine();
+
+                    konta.add(new KontoBankowe(numerKonta, wlasciciel, saldo));
+                    System.out.println("Konto zostało utworzone!");
+                    break;
+
+                case 2: 
+                    System.out.print("Podaj numer konta: ");
+                    String szukaneKonto = scanner.nextLine();
             }
         }
     }
