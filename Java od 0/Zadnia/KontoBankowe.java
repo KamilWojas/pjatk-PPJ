@@ -22,6 +22,8 @@ class KontoBankowe{
         if (kwota > 0 && kwota <= saldo){
             saldo -= kwota;
             System.out.println("Wyplacono " + kwota + ". Nowe saldo: " + saldo);
+        } else {
+            System.out.println("Brak wystarczajacych środków lub niepoprawna kwota!");
         }
     }
 }
