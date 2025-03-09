@@ -58,6 +58,13 @@ public class Main{
                 case 1:
                     System.out.println("Podaj nr konta");
                     String numerKonta = scanner.nextLine();
+
+                    System.out.println("Podaj nazwisko właściciela");
+                    String wlasciciel = scanner.nextLine();
+
+                    System.out.print("Podaj saldo początkowe: ");
+                    double saldo = scanner.nextDouble();
+                    scanner.nextLine();
             }
         }
     }
