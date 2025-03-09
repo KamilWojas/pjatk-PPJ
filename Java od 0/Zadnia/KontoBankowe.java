@@ -19,6 +19,9 @@ class KontoBankowe{
     }
     
     public void wyplac(double kwota){
-        
+        if (kwota > 0 && kwota <= saldo){
+            saldo -= kwota;
+            System.out.println("Wyplacono " + kwota + ". Nowe saldo: " + saldo);
+        }
     }
 }
