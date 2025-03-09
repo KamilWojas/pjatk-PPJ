@@ -70,9 +70,17 @@ public class Main{
                     System.out.println("Konto zostało utworzone!");
                     break;
 
-                case 2: 
+                case 2:
                     System.out.print("Podaj numer konta: ");
                     String szukaneKonto = scanner.nextLine();
+
+                    KontoBankowe konto = null;
+                    for (KontoBankowe k : konta) {
+                        if (k.getNumerKonta().equals(szukaneKonto)) {
+                            konto = k;
+                            break;
+                        }
+                    }
             }
         }
     }
