@@ -81,7 +81,12 @@ public class Main{
                             break;
                         }
                     }
-                    
+
+                    if (konto == null) {
+                        System.out.println("Nie znaleziono konta!");
+                        break;
+                    }
+
                     if (konto == null) {
                         System.out.println("Nie znaleziono konta!");
                         break;
