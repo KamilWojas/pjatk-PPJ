@@ -105,6 +105,13 @@ public class Main{
                         System.out.println("Niepoprawna operacja!");
                     }
                     break;
+
+                case 3: 
+                    System.out.println("\nLista kont:");
+                    for (KontoBankowe k : konta) {
+                        System.out.println(k);
+                    }
+                    break;
             }
         }
     }
