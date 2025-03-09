@@ -43,6 +43,13 @@ public class Main{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<KontoBankowe> konta = new ArrayList<>();
-        
+
+        while (true){
+            System.out.println("\n Wybierz opcję: ");
+            System.out.println("1. Stwórz nowe konto");
+            System.out.println("2. Zarządzaj kontem");
+            System.out.println("3. Wyświetl wszystie konta");
+            System.out.println("4. Zakończ program");
+        }
     }
 }
