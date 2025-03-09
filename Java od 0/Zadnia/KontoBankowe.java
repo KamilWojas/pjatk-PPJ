@@ -30,4 +30,8 @@ class KontoBankowe{
     public String getNumerKonta(){
         return numerKonta + " - " + wlasciciel + "- Saldp " + saldo
     }
+
+    public String getNumerKonta(){
+        return numerKonta;
+    }
 }
