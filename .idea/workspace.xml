@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Deklaracja konstruktora">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda do wypłaty środków">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/KontoBankowe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/KontoBankowe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,47 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="37020000" />
-    </task>
-    <task id="LOCAL-01131" summary="Wyświetlenie informacji">
-      <option name="closed" value="true" />
-      <created>1741297181977</created>
-      <option name="number" value="01131" />
-      <option name="presentableId" value="LOCAL-01131" />
-      <option name="project" value="LOCAL" />
-      <updated>1741297181977</updated>
-    </task>
-    <task id="LOCAL-01132" summary="Wyświetlenie informacji">
-      <option name="closed" value="true" />
-      <created>1741297462930</created>
-      <option name="number" value="01132" />
-      <option name="presentableId" value="LOCAL-01132" />
-      <option name="project" value="LOCAL" />
-      <updated>1741297462930</updated>
-    </task>
-    <task id="LOCAL-01133" summary="Wyświetlenie informacji">
-      <option name="closed" value="true" />
-      <created>1741378543445</created>
-      <option name="number" value="01133" />
-      <option name="presentableId" value="LOCAL-01133" />
-      <option name="project" value="LOCAL" />
-      <updated>1741378543445</updated>
-    </task>
-    <task id="LOCAL-01134" summary="Wyświetlenie informacji">
-      <option name="closed" value="true" />
-      <created>1741378564967</created>
-      <option name="number" value="01134" />
-      <option name="presentableId" value="LOCAL-01134" />
-      <option name="project" value="LOCAL" />
-      <updated>1741378564967</updated>
-    </task>
-    <task id="LOCAL-01135" summary="Opis zadania:&#10;Firma transportowa zarządza różnymi pojazdami (Samochód, Samolot, Statek).&#10;&#10;Każdy pojazd ma podstawowe atrybuty: marka, maksymalna prędkość, czasPodróży (czas w godzinach).&#10;Atrybut pochodny → dystansPodróży jest wyliczany na podstawie maksymalnej prędkości i czasu podróży (prędkość × czas).&#10;Metoda klasowa → obliczSredniaPredkosc() zwraca średnią prędkość wszystkich pojazdów.&#10;Wielodziedziczenie → Pojazd może być zarówno Lądowy, Latający, jak i Wodny.&#10;Każdy pojazd ma unikalny numer rejestracyjny.">
-      <option name="closed" value="true" />
-      <created>1741382913234</created>
-      <option name="number" value="01135" />
-      <option name="presentableId" value="LOCAL-01135" />
-      <option name="project" value="LOCAL" />
-      <updated>1741382913234</updated>
+      <workItem from="1740068933537" duration="37325000" />
     </task>
     <task id="LOCAL-01136" summary="Klasa abstrakcyjna">
       <option name="closed" value="true" />
@@ -552,7 +512,47 @@
       <option name="project" value="LOCAL" />
       <updated>1741556581416</updated>
     </task>
-    <option name="localTasksCounter" value="1180" />
+    <task id="LOCAL-01180" summary="Metoda do wpłwaty środków">
+      <option name="closed" value="true" />
+      <created>1741557481298</created>
+      <option name="number" value="01180" />
+      <option name="presentableId" value="LOCAL-01180" />
+      <option name="project" value="LOCAL" />
+      <updated>1741557481298</updated>
+    </task>
+    <task id="LOCAL-01181" summary="Metoda do wpłwaty środków">
+      <option name="closed" value="true" />
+      <created>1741557601837</created>
+      <option name="number" value="01181" />
+      <option name="presentableId" value="LOCAL-01181" />
+      <option name="project" value="LOCAL" />
+      <updated>1741557601837</updated>
+    </task>
+    <task id="LOCAL-01182" summary="Metoda do wypłaty środków">
+      <option name="closed" value="true" />
+      <created>1741557634360</created>
+      <option name="number" value="01182" />
+      <option name="presentableId" value="LOCAL-01182" />
+      <option name="project" value="LOCAL" />
+      <updated>1741557634360</updated>
+    </task>
+    <task id="LOCAL-01183" summary="Metoda do wypłaty środków">
+      <option name="closed" value="true" />
+      <created>1741557695892</created>
+      <option name="number" value="01183" />
+      <option name="presentableId" value="LOCAL-01183" />
+      <option name="project" value="LOCAL" />
+      <updated>1741557695892</updated>
+    </task>
+    <task id="LOCAL-01184" summary="Metoda do wypłaty środków">
+      <option name="closed" value="true" />
+      <created>1741557724487</created>
+      <option name="number" value="01184" />
+      <option name="presentableId" value="LOCAL-01184" />
+      <option name="project" value="LOCAL" />
+      <updated>1741557724487</updated>
+    </task>
+    <option name="localTasksCounter" value="1185" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,8 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Przesłonięcie metody jedz" />
-    <MESSAGE value="Przesłonięcie metody wyswietlInformacje" />
     <MESSAGE value="Implementacja klasy Łódź" />
     <MESSAGE value="Przeciążanie metody pływaj" />
     <MESSAGE value="Przeciążanie metody wyswietlInformacje" />
@@ -595,6 +593,8 @@
     <MESSAGE value="Napisz program w języku Java, który symuluje prosty system kont bankowych. Program powinien umożliwiać:&#10;&#10;Tworzenie nowego konta bankowego, gdzie użytkownik podaje:&#10;&#10;numer konta (String),&#10;nazwisko właściciela (String),&#10;saldo początkowe (double).&#10;Wykonywanie operacji na koncie:&#10;&#10;wpłacenie pieniędzy,&#10;wypłacenie pieniędzy (jeśli saldo na to pozwala).&#10;Wyświetlanie informacji o koncie (numer konta, właściciel, saldo).&#10;&#10;Obsługę wielu kont – program powinien przechowywać konta w liście i pozwalać użytkownikowi wybierać, na którym koncie chce wykonać operację." />
     <MESSAGE value="Deklaracja zmiennych" />
     <MESSAGE value="Deklaracja konstruktora" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deklaracja konstruktora" />
+    <MESSAGE value="Metoda do wpłwaty środków" />
+    <MESSAGE value="Metoda do wypłaty środków" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metoda do wypłaty środków" />
   </component>
 </project>

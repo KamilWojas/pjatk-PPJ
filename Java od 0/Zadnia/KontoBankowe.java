@@ -26,4 +26,8 @@ class KontoBankowe{
             System.out.println("Brak wystarczajacych środków lub niepoprawna kwota!");
         }
     }
+
+    public String getNumerKonta(){
+        return numerKonta + " - " + wlasciciel + "- Saldp " + saldo
+    }
 }
