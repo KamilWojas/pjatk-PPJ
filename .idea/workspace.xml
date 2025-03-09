@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda do obsługi zamówień">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Zamowienia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Zamowienia.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlenie sumy wartości zamówień" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,95 +156,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="34665000" />
-    </task>
-    <task id="LOCAL-01115" summary="Implementacja interfejsów">
-      <option name="closed" value="true" />
-      <created>1741295761214</created>
-      <option name="number" value="01115" />
-      <option name="presentableId" value="LOCAL-01115" />
-      <option name="project" value="LOCAL" />
-      <updated>1741295761214</updated>
-    </task>
-    <task id="LOCAL-01116" summary="Klasa specjalna programisty">
-      <option name="closed" value="true" />
-      <created>1741295911269</created>
-      <option name="number" value="01116" />
-      <option name="presentableId" value="LOCAL-01116" />
-      <option name="project" value="LOCAL" />
-      <updated>1741295911269</updated>
-    </task>
-    <task id="LOCAL-01117" summary="Przesłonięcie metody piszKod">
-      <option name="closed" value="true" />
-      <created>1741296011589</created>
-      <option name="number" value="01117" />
-      <option name="presentableId" value="LOCAL-01117" />
-      <option name="project" value="LOCAL" />
-      <updated>1741296011589</updated>
-    </task>
-    <task id="LOCAL-01118" summary="Przesłonięcie metody wyswietlInformacje">
-      <option name="closed" value="true" />
-      <created>1741296054307</created>
-      <option name="number" value="01118" />
-      <option name="presentableId" value="LOCAL-01118" />
-      <option name="project" value="LOCAL" />
-      <updated>1741296054307</updated>
-    </task>
-    <task id="LOCAL-01119" summary="Utworzenie klasy specjalniej MenadzerImpl">
-      <option name="closed" value="true" />
-      <created>1741296149911</created>
-      <option name="number" value="01119" />
-      <option name="presentableId" value="LOCAL-01119" />
-      <option name="project" value="LOCAL" />
-      <updated>1741296149911</updated>
-    </task>
-    <task id="LOCAL-01120" summary="Przesłonięcie metody zarzadzajZespolem">
-      <option name="closed" value="true" />
-      <created>1741296213233</created>
-      <option name="number" value="01120" />
-      <option name="presentableId" value="LOCAL-01120" />
-      <option name="project" value="LOCAL" />
-      <updated>1741296213233</updated>
-    </task>
-    <task id="LOCAL-01121" summary="Przesłonięcie metody wyswietlInformacje">
-      <option name="closed" value="true" />
-      <created>1741296259968</created>
-      <option name="number" value="01121" />
-      <option name="presentableId" value="LOCAL-01121" />
-      <option name="project" value="LOCAL" />
-      <updated>1741296259968</updated>
-    </task>
-    <task id="LOCAL-01122" summary="Utworzenie klasy specjalnej TesterImpl">
-      <option name="closed" value="true" />
-      <created>1741296339383</created>
-      <option name="number" value="01122" />
-      <option name="presentableId" value="LOCAL-01122" />
-      <option name="project" value="LOCAL" />
-      <updated>1741296339383</updated>
-    </task>
-    <task id="LOCAL-01123" summary="Przesłonięcie metody testojOprogramowanie">
-      <option name="closed" value="true" />
-      <created>1741296390033</created>
-      <option name="number" value="01123" />
-      <option name="presentableId" value="LOCAL-01123" />
-      <option name="project" value="LOCAL" />
-      <updated>1741296390033</updated>
-    </task>
-    <task id="LOCAL-01124" summary="Przesłonięcie metody testojOprogramowanie">
-      <option name="closed" value="true" />
-      <created>1741296414057</created>
-      <option name="number" value="01124" />
-      <option name="presentableId" value="LOCAL-01124" />
-      <option name="project" value="LOCAL" />
-      <updated>1741296414057</updated>
-    </task>
-    <task id="LOCAL-01125" summary="Przesłonięcie metody testojOprogramowanie">
-      <option name="closed" value="true" />
-      <created>1741296430227</created>
-      <option name="number" value="01125" />
-      <option name="presentableId" value="LOCAL-01125" />
-      <option name="project" value="LOCAL" />
-      <updated>1741296430227</updated>
+      <workItem from="1740068933537" duration="34969000" />
     </task>
     <task id="LOCAL-01126" summary="Przesłonięcie metody wyswietlInformacje">
       <option name="closed" value="true" />
@@ -552,7 +462,95 @@
       <option name="project" value="LOCAL" />
       <updated>1741474478066</updated>
     </task>
-    <option name="localTasksCounter" value="1164" />
+    <task id="LOCAL-01164" summary="Dodanie scannera">
+      <option name="closed" value="true" />
+      <created>1741474526363</created>
+      <option name="number" value="01164" />
+      <option name="presentableId" value="LOCAL-01164" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474526363</updated>
+    </task>
+    <task id="LOCAL-01165" summary="Lista do przechowywania zamówień">
+      <option name="closed" value="true" />
+      <created>1741474585601</created>
+      <option name="number" value="01165" />
+      <option name="presentableId" value="LOCAL-01165" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474585601</updated>
+    </task>
+    <task id="LOCAL-01166" summary="Lista do przechowywania zamówień">
+      <option name="closed" value="true" />
+      <created>1741474653109</created>
+      <option name="number" value="01166" />
+      <option name="presentableId" value="LOCAL-01166" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474653110</updated>
+    </task>
+    <task id="LOCAL-01167" summary="Ilość produktów">
+      <option name="closed" value="true" />
+      <created>1741474675755</created>
+      <option name="number" value="01167" />
+      <option name="presentableId" value="LOCAL-01167" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474675755</updated>
+    </task>
+    <task id="LOCAL-01168" summary="Oczyszczanie bufora po nextInt()/nextDouble()">
+      <option name="closed" value="true" />
+      <created>1741474697517</created>
+      <option name="number" value="01168" />
+      <option name="presentableId" value="LOCAL-01168" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474697517</updated>
+    </task>
+    <task id="LOCAL-01169" summary="Tworzenie zamówienia i dodanie do listy">
+      <option name="closed" value="true" />
+      <created>1741474719801</created>
+      <option name="number" value="01169" />
+      <option name="presentableId" value="LOCAL-01169" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474719801</updated>
+    </task>
+    <task id="LOCAL-01170" summary="Zapytanie, czy dodać kolejne zamówienie">
+      <option name="closed" value="true" />
+      <created>1741474740516</created>
+      <option name="number" value="01170" />
+      <option name="presentableId" value="LOCAL-01170" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474740516</updated>
+    </task>
+    <task id="LOCAL-01171" summary="Wyświetlanie zamówień">
+      <option name="closed" value="true" />
+      <created>1741474765401</created>
+      <option name="number" value="01171" />
+      <option name="presentableId" value="LOCAL-01171" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474765401</updated>
+    </task>
+    <task id="LOCAL-01172" summary="Wyświetlanie zamówień">
+      <option name="closed" value="true" />
+      <created>1741474778503</created>
+      <option name="number" value="01172" />
+      <option name="presentableId" value="LOCAL-01172" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474778503</updated>
+    </task>
+    <task id="LOCAL-01173" summary="Wyświetlenie sumy wartości zamówień">
+      <option name="closed" value="true" />
+      <created>1741474801845</created>
+      <option name="number" value="01173" />
+      <option name="presentableId" value="LOCAL-01173" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474801845</updated>
+    </task>
+    <task id="LOCAL-01174" summary="Wyświetlenie sumy wartości zamówień">
+      <option name="closed" value="true" />
+      <created>1741474821751</created>
+      <option name="number" value="01174" />
+      <option name="presentableId" value="LOCAL-01174" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474821751</updated>
+    </task>
+    <option name="localTasksCounter" value="1175" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,14 +568,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Utworzenie parametrów testowych" />
-    <MESSAGE value="Wyświetlenie informacji" />
-    <MESSAGE value="Opis zadania:&#10;Firma transportowa zarządza różnymi pojazdami (Samochód, Samolot, Statek).&#10;&#10;Każdy pojazd ma podstawowe atrybuty: marka, maksymalna prędkość, czasPodróży (czas w godzinach).&#10;Atrybut pochodny → dystansPodróży jest wyliczany na podstawie maksymalnej prędkości i czasu podróży (prędkość × czas).&#10;Metoda klasowa → obliczSredniaPredkosc() zwraca średnią prędkość wszystkich pojazdów.&#10;Wielodziedziczenie → Pojazd może być zarówno Lądowy, Latający, jak i Wodny.&#10;Każdy pojazd ma unikalny numer rejestracyjny." />
-    <MESSAGE value="Klasa abstrakcyjna" />
-    <MESSAGE value="Klasa bazowa z atrybutem pochodnym" />
-    <MESSAGE value="Klasa bazowa z atrybutem klasowym" />
-    <MESSAGE value="Metoda getKosztCalkowity" />
-    <MESSAGE value="Metoda wyswietlInformacje" />
     <MESSAGE value="Metoda klasowa - sumuje wszystkie rezerwacje" />
     <MESSAGE value="Implementacja interfejsów" />
     <MESSAGE value="Implementacja klasy specjalnej" />
@@ -595,6 +585,14 @@
     <MESSAGE value="Metoda obliczająca wartość zamówienia" />
     <MESSAGE value="Metoda do wyświetlania zamówienia" />
     <MESSAGE value="Metoda do obsługi zamówień" />
-    <option name="LAST_COMMIT_MESSAGE" value="Metoda do obsługi zamówień" />
+    <MESSAGE value="Dodanie scannera" />
+    <MESSAGE value="Lista do przechowywania zamówień" />
+    <MESSAGE value="Ilość produktów" />
+    <MESSAGE value="Oczyszczanie bufora po nextInt()/nextDouble()" />
+    <MESSAGE value="Tworzenie zamówienia i dodanie do listy" />
+    <MESSAGE value="Zapytanie, czy dodać kolejne zamówienie" />
+    <MESSAGE value="Wyświetlanie zamówień" />
+    <MESSAGE value="Wyświetlenie sumy wartości zamówień" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wyświetlenie sumy wartości zamówień" />
   </component>
 </project>
