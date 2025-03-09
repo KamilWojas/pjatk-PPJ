@@ -38,3 +38,9 @@ class KontoBankowe{
         return numerKonta;
     }
 }
+
+public class Main{
+    public static void main(String[] args) {
+        
+    }
+}
