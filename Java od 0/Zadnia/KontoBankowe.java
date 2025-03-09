@@ -8,4 +8,10 @@ class KontoBankowe{
      this.wlasciciel = wlasciciel;
      this.saldo = saldo;
     }
+
+    public void wplac(double kwota){
+        if (kwota > 0){
+            saldo += kwota;
+        }
+    }
 }
