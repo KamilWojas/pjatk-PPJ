@@ -17,4 +17,8 @@ class KontoBankowe{
             System.out.println("Niepoprawna kwota!");
         }
     }
+    
+    public void wyplac(double kwota){
+        
+    }
 }
