@@ -87,10 +87,24 @@ public class Main{
                         break;
                     }
 
-                    if (konto == null) {
-                        System.out.println("Nie znaleziono konta!");
-                        break;
+                    System.out.println("\nWybierz operację:");
+                    System.out.println("1. Wpłata");
+                    System.out.println("2. Wypłata");
+                    int operacja = scanner.nextInt();
+                    scanner.nextLine();
+
+                    if (operacja == 1) {
+                        System.out.print("Podaj kwotę do wpłaty: ");
+                        double kwota = scanner.nextDouble();
+                        konto.wplac(kwota);
+                    } else if (operacja == 2) {
+                        System.out.print("Podaj kwotę do wypłaty: ");
+                        double kwota = scanner.nextDouble();
+                        konto.wyplac(kwota);
+                    } else {
+                        System.out.println("Niepoprawna operacja!");
                     }
+                    break;
             }
         }
     }
