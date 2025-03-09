@@ -12,6 +12,9 @@ class KontoBankowe{
     public void wplac(double kwota){
         if (kwota > 0){
             saldo += kwota;
+            System.out.println("Wpłacono " + kwota + ". Nowe saldo: " + saldo);
+        } else {
+            System.out.println("Niepoprawna kwota!");
         }
     }
 }
