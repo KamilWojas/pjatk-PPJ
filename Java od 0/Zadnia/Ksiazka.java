@@ -50,6 +50,14 @@ public class Main{
 
             int opcja = scanner.nextInt();
             scanner.nextLine();
+
+            switch (opcja) {
+                case 1: 
+                    System.out.print("Podaj tytuł: ");
+                    String tytul = scanner.nextLine();
+
+                    System.out.print("Podaj autora: ");
+                    String autor = scanner.nextLine();
         }
     }
 }
