@@ -26,4 +26,8 @@ class Ksiazka{
     public String toString(){
         return tytul + " - " + autor + " (" + rokWydania + ") - " + (dostepne ? "Dostępna" : "Wypożyczona");
     }
+    
+    public String getTytul(){
+        return tytul;
+    }
 }
