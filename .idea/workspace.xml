@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Deklaracja konstruktora">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klasa testowa main">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Ksiazka.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Ksiazka.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,55 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="39489000" />
-    </task>
-    <task id="LOCAL-01158" summary="Inicjowanie konstruktora">
-      <option name="closed" value="true" />
-      <created>1741474154234</created>
-      <option name="number" value="01158" />
-      <option name="presentableId" value="LOCAL-01158" />
-      <option name="project" value="LOCAL" />
-      <updated>1741474154234</updated>
-    </task>
-    <task id="LOCAL-01159" summary="Inicjowanie konstruktora">
-      <option name="closed" value="true" />
-      <created>1741474218278</created>
-      <option name="number" value="01159" />
-      <option name="presentableId" value="LOCAL-01159" />
-      <option name="project" value="LOCAL" />
-      <updated>1741474218278</updated>
-    </task>
-    <task id="LOCAL-01160" summary="Metoda obliczająca wartość zamówienia">
-      <option name="closed" value="true" />
-      <created>1741474305360</created>
-      <option name="number" value="01160" />
-      <option name="presentableId" value="LOCAL-01160" />
-      <option name="project" value="LOCAL" />
-      <updated>1741474305360</updated>
-    </task>
-    <task id="LOCAL-01161" summary="Metoda do wyświetlania zamówienia">
-      <option name="closed" value="true" />
-      <created>1741474417629</created>
-      <option name="number" value="01161" />
-      <option name="presentableId" value="LOCAL-01161" />
-      <option name="project" value="LOCAL" />
-      <updated>1741474417629</updated>
-    </task>
-    <task id="LOCAL-01162" summary="Metoda do wyświetlania zamówienia">
-      <option name="closed" value="true" />
-      <created>1741474445813</created>
-      <option name="number" value="01162" />
-      <option name="presentableId" value="LOCAL-01162" />
-      <option name="project" value="LOCAL" />
-      <updated>1741474445813</updated>
-    </task>
-    <task id="LOCAL-01163" summary="Metoda do obsługi zamówień">
-      <option name="closed" value="true" />
-      <created>1741474478066</created>
-      <option name="number" value="01163" />
-      <option name="presentableId" value="LOCAL-01163" />
-      <option name="project" value="LOCAL" />
-      <updated>1741474478066</updated>
+      <workItem from="1740068933537" duration="39796000" />
     </task>
     <task id="LOCAL-01164" summary="Dodanie scannera">
       <option name="closed" value="true" />
@@ -552,7 +504,55 @@
       <option name="project" value="LOCAL" />
       <updated>1741642826321</updated>
     </task>
-    <option name="localTasksCounter" value="1207" />
+    <task id="LOCAL-01207" summary="Metoda do wypożyczenia książki">
+      <option name="closed" value="true" />
+      <created>1741642894338</created>
+      <option name="number" value="01207" />
+      <option name="presentableId" value="LOCAL-01207" />
+      <option name="project" value="LOCAL" />
+      <updated>1741642894338</updated>
+    </task>
+    <task id="LOCAL-01208" summary="Metoda do zwrócenia książki">
+      <option name="closed" value="true" />
+      <created>1741642950359</created>
+      <option name="number" value="01208" />
+      <option name="presentableId" value="LOCAL-01208" />
+      <option name="project" value="LOCAL" />
+      <updated>1741642950359</updated>
+    </task>
+    <task id="LOCAL-01209" summary="Metoda do wyświetlania informacji o książce">
+      <option name="closed" value="true" />
+      <created>1741643041143</created>
+      <option name="number" value="01209" />
+      <option name="presentableId" value="LOCAL-01209" />
+      <option name="project" value="LOCAL" />
+      <updated>1741643041143</updated>
+    </task>
+    <task id="LOCAL-01210" summary="Getter">
+      <option name="closed" value="true" />
+      <created>1741643074974</created>
+      <option name="number" value="01210" />
+      <option name="presentableId" value="LOCAL-01210" />
+      <option name="project" value="LOCAL" />
+      <updated>1741643074974</updated>
+    </task>
+    <task id="LOCAL-01211" summary="Getter">
+      <option name="closed" value="true" />
+      <created>1741643095505</created>
+      <option name="number" value="01211" />
+      <option name="presentableId" value="LOCAL-01211" />
+      <option name="project" value="LOCAL" />
+      <updated>1741643095505</updated>
+    </task>
+    <task id="LOCAL-01212" summary="Klasa testowa main">
+      <option name="closed" value="true" />
+      <created>1741643118363</created>
+      <option name="number" value="01212" />
+      <option name="presentableId" value="LOCAL-01212" />
+      <option name="project" value="LOCAL" />
+      <updated>1741643118363</updated>
+    </task>
+    <option name="localTasksCounter" value="1213" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,11 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Oczyszczanie bufora po nextInt()/nextDouble()" />
-    <MESSAGE value="Tworzenie zamówienia i dodanie do listy" />
-    <MESSAGE value="Zapytanie, czy dodać kolejne zamówienie" />
-    <MESSAGE value="Wyświetlanie zamówień" />
-    <MESSAGE value="Wyświetlenie sumy wartości zamówień" />
     <MESSAGE value="Napisz program w języku Java, który symuluje prosty system kont bankowych. Program powinien umożliwiać:&#10;&#10;Tworzenie nowego konta bankowego, gdzie użytkownik podaje:&#10;&#10;numer konta (String),&#10;nazwisko właściciela (String),&#10;saldo początkowe (double).&#10;Wykonywanie operacji na koncie:&#10;&#10;wpłacenie pieniędzy,&#10;wypłacenie pieniędzy (jeśli saldo na to pozwala).&#10;Wyświetlanie informacji o koncie (numer konta, właściciel, saldo).&#10;&#10;Obsługę wielu kont – program powinien przechowywać konta w liście i pozwalać użytkownikowi wybierać, na którym koncie chce wykonać operację." />
     <MESSAGE value="Deklaracja zmiennych" />
     <MESSAGE value="Metoda do wpłwaty środków" />
@@ -595,6 +590,11 @@
     <MESSAGE value="Napisz program w języku Java, który symuluje prosty system biblioteczny. Program powinien umożliwiać:&#10;&#10;Dodawanie nowej książki, gdzie użytkownik podaje:&#10;&#10;tytuł (String),&#10;autora (String),&#10;rok wydania (int).&#10;Wypożyczanie książki (książka może być wypożyczona tylko wtedy, gdy jest dostępna).&#10;&#10;Zwracanie książki.&#10;&#10;Wyświetlanie wszystkich książek, wraz z informacją, czy są dostępne do wypożyczenia." />
     <MESSAGE value="Deklaracja modyfikatorów dostępu" />
     <MESSAGE value="Deklaracja konstruktora" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deklaracja konstruktora" />
+    <MESSAGE value="Metoda do wypożyczenia książki" />
+    <MESSAGE value="Metoda do zwrócenia książki" />
+    <MESSAGE value="Metoda do wyświetlania informacji o książce" />
+    <MESSAGE value="Getter" />
+    <MESSAGE value="Klasa testowa main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klasa testowa main" />
   </component>
 </project>

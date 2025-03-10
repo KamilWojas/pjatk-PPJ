@@ -39,5 +39,14 @@ public class Main{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Ksiazka> biblioteka = new ArrayList<>();
+
+        while (true){
+            System.out.println("\nWybierz opcję:");
+            System.out.println("1. Dodaj książkę");
+            System.out.println("2. Wypożycz książkę");
+            System.out.println("3. Zwróć książkę");
+            System.out.println("4. Wyświetl wszystkie książki");
+            System.out.println("5. Zakończ program");
+        }
     }
 }
