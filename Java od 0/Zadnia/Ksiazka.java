@@ -62,6 +62,22 @@ public class Main{
                     System.out.print("Podaj rok wydania: ");
                     int rok = scanner.nextInt();
                     scanner.nextLine();
+
+                    biblioteka.add(new Ksiazka(tytul, autor, rok));
+                    System.out.println("Książka dodana!");
+                    break;
+
+                case 2: 
+                    System.out.print("Podaj tytuł książki: ");
+                    String szukanyTytul = scanner.nextLine();
+
+                    Ksiazka ksiazkaDoWypozyczenia = znajdzKsiazke(biblioteka, szukanyTytul);
+                    if (ksiazkaDoWypozyczenia != null && ksiazkaDoWypozyczenia.wypozycz()) {
+                        System.out.println("Książka została wypożyczona.");
+                    } else {
+                        System.out.println("Książka jest niedostępna lub nie istnieje.");
+                    }
+                    break;
         }
     }
 }
