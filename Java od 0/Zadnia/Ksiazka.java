@@ -109,3 +109,8 @@ public class Main{
             }
         }
     }
+
+    private static Ksiazka znajdzKsiazke(ArrayList<Ksiazka> biblioteka, String tytul) {
+        for (Ksiazka ksiazka : biblioteka) {
+            if (ksiazka.getTytul().equalsIgnoreCase(tytul)) {
+                return ksiazka;
