@@ -22,4 +22,8 @@ class Ksiazka{
     public void zwroc(){
         dostepne = true;
     }
+
+    public String toString(){
+        return tytul + " - " + autor + " (" + rokWydania + ") - " + (dostepne ? "Dostępna" : "Wypożyczona");
+    }
 }
