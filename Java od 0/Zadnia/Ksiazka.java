@@ -78,6 +78,18 @@ public class Main{
                         System.out.println("Książka jest niedostępna lub nie istnieje.");
                     }
                     break;
-        }
+
+                case 3: 
+                    System.out.print("Podaj tytuł książki: ");
+                    String tytulZwrotu = scanner.nextLine();
+
+                    Ksiazka ksiazkaDoZwrotu = znajdzKsiazke(biblioteka, tytulZwrotu);
+                    if (ksiazkaDoZwrotu != null) {
+                        ksiazkaDoZwrotu.zwroc();
+                        System.out.println("Książka została zwrócona.");
+                    } else {
+                        System.out.println("Nie znaleziono takiej książki.");
+                    }
+                    break;
     }
 }
