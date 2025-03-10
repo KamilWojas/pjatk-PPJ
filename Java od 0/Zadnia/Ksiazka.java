@@ -11,5 +11,11 @@ class Ksiazka{
         this.dostepne = true;
     }
 
-    private void
+    public boolean wypozycz(){
+        if (dostepne){
+            dostepne = true;
+            return true;
+        }
+        return false;
+    }
 }
