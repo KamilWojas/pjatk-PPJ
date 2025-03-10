@@ -37,6 +37,7 @@ class Ksiazka{
 
 public class Main{
     public static void main(String[] args) {
-        
+        Scanner scanner = new Scanner(System.in);
+        ArrayList<Ksiazka> biblioteka = new ArrayList<>();
     }
 }
