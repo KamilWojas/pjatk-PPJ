@@ -1,5 +1,11 @@
 class Zadanie{
     private String opis;
     private String priorytet;
-    private boolean ukonczone
+    private boolean ukonczone;
+
+    public Zadanie(String opis, String priorytet){
+        this.opis = opis;
+        this.priorytet = priorytet;
+        this.ukonczone = false;
+    }
 }
