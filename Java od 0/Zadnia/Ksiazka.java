@@ -91,5 +91,12 @@ public class Main{
                         System.out.println("Nie znaleziono takiej książki.");
                     }
                     break;
+
+                case 4: 
+                    System.out.println("\nLista książek:");
+                    for (Ksiazka ksiazka : biblioteka) {
+                        System.out.println(ksiazka);
+                    }
+                    break;
     }
 }
