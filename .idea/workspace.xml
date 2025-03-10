@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Tworzenie konta">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/KontoBankowe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/KontoBankowe.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zakończenie programu">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Ksiazka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,71 +159,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="37976000" />
-    </task>
-    <task id="LOCAL-01146" summary="Przesłonięcie metody jedz">
-      <option name="closed" value="true" />
-      <created>1741384017497</created>
-      <option name="number" value="01146" />
-      <option name="presentableId" value="LOCAL-01146" />
-      <option name="project" value="LOCAL" />
-      <updated>1741384017497</updated>
-    </task>
-    <task id="LOCAL-01147" summary="Przesłonięcie metody wyswietlInformacje">
-      <option name="closed" value="true" />
-      <created>1741384055033</created>
-      <option name="number" value="01147" />
-      <option name="presentableId" value="LOCAL-01147" />
-      <option name="project" value="LOCAL" />
-      <updated>1741384055033</updated>
-    </task>
-    <task id="LOCAL-01148" summary="Implementacja klasy Łódź">
-      <option name="closed" value="true" />
-      <created>1741384165602</created>
-      <option name="number" value="01148" />
-      <option name="presentableId" value="LOCAL-01148" />
-      <option name="project" value="LOCAL" />
-      <updated>1741384165602</updated>
-    </task>
-    <task id="LOCAL-01149" summary="Przeciążanie metody pływaj">
-      <option name="closed" value="true" />
-      <created>1741384218388</created>
-      <option name="number" value="01149" />
-      <option name="presentableId" value="LOCAL-01149" />
-      <option name="project" value="LOCAL" />
-      <updated>1741384218388</updated>
-    </task>
-    <task id="LOCAL-01150" summary="Przeciążanie metody wyswietlInformacje">
-      <option name="closed" value="true" />
-      <created>1741384268475</created>
-      <option name="number" value="01150" />
-      <option name="presentableId" value="LOCAL-01150" />
-      <option name="project" value="LOCAL" />
-      <updated>1741384268475</updated>
-    </task>
-    <task id="LOCAL-01151" summary="Utworzenie klasy testującej">
-      <option name="closed" value="true" />
-      <created>1741384331237</created>
-      <option name="number" value="01151" />
-      <option name="presentableId" value="LOCAL-01151" />
-      <option name="project" value="LOCAL" />
-      <updated>1741384331238</updated>
-    </task>
-    <task id="LOCAL-01152" summary="Utworzenie paramtrów testowych">
-      <option name="closed" value="true" />
-      <created>1741384488926</created>
-      <option name="number" value="01152" />
-      <option name="presentableId" value="LOCAL-01152" />
-      <option name="project" value="LOCAL" />
-      <updated>1741384488926</updated>
-    </task>
-    <task id="LOCAL-01153" summary="Utworzenie paramtrów testowych">
-      <option name="closed" value="true" />
-      <created>1741384595047</created>
-      <option name="number" value="01153" />
-      <option name="presentableId" value="LOCAL-01153" />
-      <option name="project" value="LOCAL" />
-      <updated>1741384595047</updated>
+      <workItem from="1740068933537" duration="39186000" />
     </task>
     <task id="LOCAL-01154" summary="Utworzenie paramtrów testowych">
       <option name="closed" value="true" />
@@ -552,7 +489,71 @@
       <option name="project" value="LOCAL" />
       <updated>1741558357705</updated>
     </task>
-    <option name="localTasksCounter" value="1195" />
+    <task id="LOCAL-01195" summary=" Oczyszczanie bufora">
+      <option name="closed" value="true" />
+      <created>1741558450815</created>
+      <option name="number" value="01195" />
+      <option name="presentableId" value="LOCAL-01195" />
+      <option name="project" value="LOCAL" />
+      <updated>1741558450815</updated>
+    </task>
+    <task id="LOCAL-01196" summary="Zarządzanie kontem">
+      <option name="closed" value="true" />
+      <created>1741558488927</created>
+      <option name="number" value="01196" />
+      <option name="presentableId" value="LOCAL-01196" />
+      <option name="project" value="LOCAL" />
+      <updated>1741558488927</updated>
+    </task>
+    <task id="LOCAL-01197" summary="Zarządzanie kontem">
+      <option name="closed" value="true" />
+      <created>1741558504968</created>
+      <option name="number" value="01197" />
+      <option name="presentableId" value="LOCAL-01197" />
+      <option name="project" value="LOCAL" />
+      <updated>1741558504968</updated>
+    </task>
+    <task id="LOCAL-01198" summary="Zarządzanie kontem">
+      <option name="closed" value="true" />
+      <created>1741558522361</created>
+      <option name="number" value="01198" />
+      <option name="presentableId" value="LOCAL-01198" />
+      <option name="project" value="LOCAL" />
+      <updated>1741558522361</updated>
+    </task>
+    <task id="LOCAL-01199" summary="Zarządzanie kontem">
+      <option name="closed" value="true" />
+      <created>1741558542678</created>
+      <option name="number" value="01199" />
+      <option name="presentableId" value="LOCAL-01199" />
+      <option name="project" value="LOCAL" />
+      <updated>1741558542679</updated>
+    </task>
+    <task id="LOCAL-01200" summary="Zarządzanie kontem">
+      <option name="closed" value="true" />
+      <created>1741558578635</created>
+      <option name="number" value="01200" />
+      <option name="presentableId" value="LOCAL-01200" />
+      <option name="project" value="LOCAL" />
+      <updated>1741558578635</updated>
+    </task>
+    <task id="LOCAL-01201" summary="Wyświetlenie wszystkich kont">
+      <option name="closed" value="true" />
+      <created>1741558625534</created>
+      <option name="number" value="01201" />
+      <option name="presentableId" value="LOCAL-01201" />
+      <option name="project" value="LOCAL" />
+      <updated>1741558625534</updated>
+    </task>
+    <task id="LOCAL-01202" summary="Zakończenie programu">
+      <option name="closed" value="true" />
+      <created>1741558650762</created>
+      <option name="number" value="01202" />
+      <option name="presentableId" value="LOCAL-01202" />
+      <option name="project" value="LOCAL" />
+      <updated>1741558650762</updated>
+    </task>
+    <option name="localTasksCounter" value="1203" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,10 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Metoda obliczająca wartość zamówienia" />
-    <MESSAGE value="Metoda do wyświetlania zamówienia" />
-    <MESSAGE value="Metoda do obsługi zamówień" />
-    <MESSAGE value="Dodanie scannera" />
     <MESSAGE value="Lista do przechowywania zamówień" />
     <MESSAGE value="Ilość produktów" />
     <MESSAGE value="Oczyszczanie bufora po nextInt()/nextDouble()" />
@@ -595,6 +592,10 @@
     <MESSAGE value="Pętla while" />
     <MESSAGE value="Oczyszczanie bufora" />
     <MESSAGE value="Tworzenie konta" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tworzenie konta" />
+    <MESSAGE value=" Oczyszczanie bufora" />
+    <MESSAGE value="Zarządzanie kontem" />
+    <MESSAGE value="Wyświetlenie wszystkich kont" />
+    <MESSAGE value="Zakończenie programu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zakończenie programu" />
   </component>
 </project>
