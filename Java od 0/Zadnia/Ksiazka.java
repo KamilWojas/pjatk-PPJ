@@ -18,4 +18,8 @@ class Ksiazka{
         }
         return false;
     }
+
+    public void zwroc(){
+        dostepne = true;
+    }
 }
