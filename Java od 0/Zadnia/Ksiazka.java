@@ -98,5 +98,14 @@ public class Main{
                         System.out.println(ksiazka);
                     }
                     break;
+
+                case 5: 
+                    System.out.println("Zamykanie programu...");
+                    scanner.close();
+                    return;
+
+                default:
+                    System.out.println("Niepoprawna opcja!");
+            }
+        }
     }
-}
