@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
 class Ksiazka{
     private String tytul;
     private String autor;
