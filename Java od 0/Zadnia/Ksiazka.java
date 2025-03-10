@@ -114,3 +114,8 @@ public class Main{
         for (Ksiazka ksiazka : biblioteka) {
             if (ksiazka.getTytul().equalsIgnoreCase(tytul)) {
                 return ksiazka;
+            }
+        }
+        return null;
+    }
+}
