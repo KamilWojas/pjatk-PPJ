@@ -47,6 +47,9 @@ public class Main{
             System.out.println("3. Zwróć książkę");
             System.out.println("4. Wyświetl wszystkie książki");
             System.out.println("5. Zakończ program");
+
+            int opcja = scanner.nextInt();
+            scanner.nextLine();
         }
     }
 }
