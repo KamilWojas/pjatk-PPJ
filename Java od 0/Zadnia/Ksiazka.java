@@ -58,6 +58,10 @@ public class Main{
 
                     System.out.print("Podaj autora: ");
                     String autor = scanner.nextLine();
+
+                    System.out.print("Podaj rok wydania: ");
+                    int rok = scanner.nextInt();
+                    scanner.nextLine();
         }
     }
 }
