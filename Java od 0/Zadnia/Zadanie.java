@@ -55,6 +55,10 @@ public class Main {
                         System.out.println("Brak zadań na liście.");
                         break;
                     }
+                    
+                    System.out.print("Podaj numer zadania do oznaczenia jako ukończone: ");
+                    int numerUkonczenia = scanner.nextInt();
+                    scanner.nextLine();
 
 
             }
