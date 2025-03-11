@@ -34,4 +34,7 @@ public class Main {
             System.out.println("3. Usuń zadanie");
             System.out.println("4. Wyświetl wszystkie zadania");
             System.out.println("5. Zakończ program");
-    }
+
+            int opcja = scanner.nextInt();
+            scanner.nextLine();
+        }
