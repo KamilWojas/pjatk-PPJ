@@ -31,3 +31,8 @@ public class Kalkulator {
                 System.out.print("Podaj drugą liczbę: ");
                 liczba2 = scanner.nextDouble();
             } else if (opcja == 6) {
+                System.out.print("Podaj liczbę: ");
+                liczba1 = scanner.nextDouble();
+                liczba2 = 0; 
+            } else {
+            }
