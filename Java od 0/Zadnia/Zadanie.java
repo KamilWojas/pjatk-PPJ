@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
 class Zadanie{
     private String opis;
     private String priorytet;
