@@ -21,3 +21,6 @@ class Zadanie{
         return opis + " (" + priorytet + ") - " + (ukonczone ? " Ukończone" : " Nieukończone");
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
