@@ -50,4 +50,11 @@ public class Main {
                     System.out.println("Zadanie dodane!");
                     break;
 
+                case 2: 
+                    if (listaZadan.isEmpty()) {
+                        System.out.println("Brak zadań na liście.");
+                        break;
+                    }
+
+
             }
