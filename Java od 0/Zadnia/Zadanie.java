@@ -37,4 +37,9 @@ public class Main {
 
             int opcja = scanner.nextInt();
             scanner.nextLine();
+
+            switch (opcja) {
+                case 1: 
+                    System.out.print("Podaj opis zadania: ");
+                    String opis = scanner.nextLine();
         }
