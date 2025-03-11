@@ -86,5 +86,16 @@ public class Main {
                     }
                     break;
 
+                case 4: 
+                    if (listaZadan.isEmpty()) {
+                        System.out.println("Brak zadań na liście.");
+                    } else {
+                        System.out.println("\nLista zadań:");
+                        for (int i = 0; i < listaZadan.size(); i++) {
+                            System.out.println((i + 1) + ". " + listaZadan.get(i));
+                        }
+                    }
+                    break;
+
 
             }
