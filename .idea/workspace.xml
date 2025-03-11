@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda pomocnicza do wyszukiwania książek">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Zadanie.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Konstruktor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,31 +156,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="40143000" />
-    </task>
-    <task id="LOCAL-01175" summary="Wyświetlenie sumy wartości zamówień">
-      <option name="closed" value="true" />
-      <created>1741541694509</created>
-      <option name="number" value="01175" />
-      <option name="presentableId" value="LOCAL-01175" />
-      <option name="project" value="LOCAL" />
-      <updated>1741541694509</updated>
-    </task>
-    <task id="LOCAL-01176" summary="Napisz program w języku Java, który symuluje prosty system kont bankowych. Program powinien umożliwiać:&#10;&#10;Tworzenie nowego konta bankowego, gdzie użytkownik podaje:&#10;&#10;numer konta (String),&#10;nazwisko właściciela (String),&#10;saldo początkowe (double).&#10;Wykonywanie operacji na koncie:&#10;&#10;wpłacenie pieniędzy,&#10;wypłacenie pieniędzy (jeśli saldo na to pozwala).&#10;Wyświetlanie informacji o koncie (numer konta, właściciel, saldo).&#10;&#10;Obsługę wielu kont – program powinien przechowywać konta w liście i pozwalać użytkownikowi wybierać, na którym koncie chce wykonać operację.">
-      <option name="closed" value="true" />
-      <created>1741556386143</created>
-      <option name="number" value="01176" />
-      <option name="presentableId" value="LOCAL-01176" />
-      <option name="project" value="LOCAL" />
-      <updated>1741556386143</updated>
-    </task>
-    <task id="LOCAL-01177" summary="Deklaracja zmiennych">
-      <option name="closed" value="true" />
-      <created>1741556471436</created>
-      <option name="number" value="01177" />
-      <option name="presentableId" value="LOCAL-01177" />
-      <option name="project" value="LOCAL" />
-      <updated>1741556471436</updated>
+      <workItem from="1740068933537" duration="40969000" />
     </task>
     <task id="LOCAL-01178" summary="Deklaracja konstruktora">
       <option name="closed" value="true" />
@@ -552,7 +526,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741643459149</updated>
     </task>
-    <option name="localTasksCounter" value="1224" />
+    <task id="LOCAL-01224" summary="Napisz program w języku Java, który symuluje prosty system zarządzania zadaniami (To-Do List). Program powinien umożliwiać:&#10;&#10;Dodawanie nowego zadania, gdzie użytkownik podaje:&#10;&#10;opis zadania (String)&#10;priorytet (np. niski, średni, wysoki - reprezentowane jako String)&#10;Oznaczanie zadania jako ukończone (po numerze zadania).&#10;&#10;Usuwanie zadania z listy.&#10;&#10;Wyświetlanie wszystkich zadań (z informacją o statusie: ukończone/nieukończone).&#10;&#10;Zakończenie programu.">
+      <option name="closed" value="true" />
+      <created>1741643551520</created>
+      <option name="number" value="01224" />
+      <option name="presentableId" value="LOCAL-01224" />
+      <option name="project" value="LOCAL" />
+      <updated>1741643551520</updated>
+    </task>
+    <task id="LOCAL-01225" summary="Modyfikator dostępu">
+      <option name="closed" value="true" />
+      <created>1741643688952</created>
+      <option name="number" value="01225" />
+      <option name="presentableId" value="LOCAL-01225" />
+      <option name="project" value="LOCAL" />
+      <updated>1741643688952</updated>
+    </task>
+    <task id="LOCAL-01226" summary="Konstruktor">
+      <option name="closed" value="true" />
+      <created>1741643765563</created>
+      <option name="number" value="01226" />
+      <option name="presentableId" value="LOCAL-01226" />
+      <option name="project" value="LOCAL" />
+      <updated>1741643765563</updated>
+    </task>
+    <option name="localTasksCounter" value="1227" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,9 +568,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Biblioteki" />
-    <MESSAGE value="Klasa testowa" />
-    <MESSAGE value="Scanner" />
     <MESSAGE value="Lista przechowująca nr kont bankowych" />
     <MESSAGE value="Tworzenie konta" />
     <MESSAGE value=" Oczyszczanie bufora" />
@@ -595,6 +590,9 @@
     <MESSAGE value="Wyświetlanie wszystkich książek" />
     <MESSAGE value="Zakończenie programu" />
     <MESSAGE value="Metoda pomocnicza do wyszukiwania książek" />
-    <option name="LAST_COMMIT_MESSAGE" value="Metoda pomocnicza do wyszukiwania książek" />
+    <MESSAGE value="Napisz program w języku Java, który symuluje prosty system zarządzania zadaniami (To-Do List). Program powinien umożliwiać:&#10;&#10;Dodawanie nowego zadania, gdzie użytkownik podaje:&#10;&#10;opis zadania (String)&#10;priorytet (np. niski, średni, wysoki - reprezentowane jako String)&#10;Oznaczanie zadania jako ukończone (po numerze zadania).&#10;&#10;Usuwanie zadania z listy.&#10;&#10;Wyświetlanie wszystkich zadań (z informacją o statusie: ukończone/nieukończone).&#10;&#10;Zakończenie programu." />
+    <MESSAGE value="Modyfikator dostępu" />
+    <MESSAGE value="Konstruktor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Konstruktor" />
   </component>
 </project>

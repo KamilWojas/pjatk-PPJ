@@ -8,4 +8,8 @@ class Zadanie{
         this.priorytet = priorytet;
         this.ukonczone = false;
     }
+
+    public void oznaczJakoUkonczone() {
+        this.ukonczone = true;
+    }
 }
