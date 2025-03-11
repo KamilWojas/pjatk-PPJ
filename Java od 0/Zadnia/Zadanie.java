@@ -60,5 +60,13 @@ public class Main {
                     int numerUkonczenia = scanner.nextInt();
                     scanner.nextLine();
 
+                    if (numerUkonczenia > 0 && numerUkonczenia <= listaZadan.size()) {
+                        listaZadan.get(numerUkonczenia - 1).oznaczJakoUkonczone();
+                        System.out.println("Zadanie oznaczone jako ukończone.");
+                    } else {
+                        System.out.println("Niepoprawny numer zadania.");
+                    }
+                    break;
+
 
             }
