@@ -17,3 +17,4 @@ public class Kalkulator {
             System.out.println("7. Zakończ program");
 
             int opcja = scanner.nextInt();
+            
