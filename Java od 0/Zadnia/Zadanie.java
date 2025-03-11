@@ -68,5 +68,10 @@ public class Main {
                     }
                     break;
 
+                case 3: 
+                    if (listaZadan.isEmpty()) {
+                        System.out.println("Brak zadań na liście.");
+                        break;
+                    }
 
             }
