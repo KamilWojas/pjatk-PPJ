@@ -17,4 +17,8 @@ public class Kalkulator {
             System.out.println("7. Zakończ program");
 
             int opcja = scanner.nextInt();
-            
+
+            if (opcja == 7) {
+                System.out.println("Zamykanie programu...");
+                break;
+            }
