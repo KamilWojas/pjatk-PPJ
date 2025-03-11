@@ -22,3 +22,12 @@ public class Kalkulator {
                 System.out.println("Zamykanie programu...");
                 break;
             }
+
+            double liczba1, liczba2, wynik = 0;
+
+            if (opcja >= 1 && opcja <= 5) {
+                System.out.print("Podaj pierwszą liczbę: ");
+                liczba1 = scanner.nextDouble();
+                System.out.print("Podaj drugą liczbę: ");
+                liczba2 = scanner.nextDouble();
+            } else if (opcja == 6) {
