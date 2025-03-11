@@ -78,4 +78,13 @@ public class Main {
                     int numerUsuniecia = scanner.nextInt();
                     scanner.nextLine();
 
+                    if (numerUsuniecia > 0 && numerUsuniecia <= listaZadan.size()) {
+                        listaZadan.remove(numerUsuniecia - 1);
+                        System.out.println("Zadanie zostało usunięte.");
+                    } else {
+                        System.out.println("Niepoprawny numer zadania.");
+                    }
+                    break;
+
+
             }
