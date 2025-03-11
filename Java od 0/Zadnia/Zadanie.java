@@ -12,4 +12,8 @@ class Zadanie{
     public void oznaczJakoUkonczone() {
         this.ukonczone = true;
     }
+
+    public String toString() {
+        return opis + " (" + priorytet + ") - " + (ukonczone ? " Ukończone" : " Nieukończone");
+    }
 }
