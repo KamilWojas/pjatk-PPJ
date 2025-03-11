@@ -42,4 +42,12 @@ public class Main {
                 case 1: 
                     System.out.print("Podaj opis zadania: ");
                     String opis = scanner.nextLine();
-        }
+
+                    System.out.print("Podaj priorytet (niski/średni/wysoki): ");
+                    String priorytet = scanner.nextLine().toLowerCase();
+
+                    listaZadan.add(new Zadanie(opis, priorytet));
+                    System.out.println("Zadanie dodane!");
+                    break;
+
+            }
