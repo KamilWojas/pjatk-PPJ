@@ -74,4 +74,8 @@ public class Main {
                         break;
                     }
 
+                    System.out.print("Podaj numer zadania do usunięcia: ");
+                    int numerUsuniecia = scanner.nextInt();
+                    scanner.nextLine();
+
             }
