@@ -35,4 +35,6 @@ public class Kalkulator {
                 liczba1 = scanner.nextDouble();
                 liczba2 = 0; 
             } else {
+                System.out.println("Niepoprawna opcja! Wybierz ponownie.");
+                continue;
             }
