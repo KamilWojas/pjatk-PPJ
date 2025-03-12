@@ -14,5 +14,11 @@ public class OdwroconyTekst {
         scanner.close();
     }
 
+    
+    public static String odwrocTekst(String tekst) {
+        return new StringBuilder(tekst).reverse().toString();
+    }
+}
+
 
 
