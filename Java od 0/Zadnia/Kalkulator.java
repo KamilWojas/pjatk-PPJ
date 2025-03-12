@@ -72,5 +72,8 @@ public class Kalkulator {
                         System.out.println("Wynik: √" + liczba1 + " = " + wynik);
                     }
                     break;
-                
             }
+        }
+        scanner.close();
+    }
+}
