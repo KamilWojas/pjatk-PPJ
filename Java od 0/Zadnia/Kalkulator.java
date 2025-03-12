@@ -60,5 +60,9 @@ public class Kalkulator {
                         System.out.println("Wynik: " + liczba1 + " / " + liczba2 + " = " + wynik);
                     }
                     break;
+                case 5: 
+                    wynik = Math.pow(liczba1, liczba2);
+                    System.out.println("Wynik: " + liczba1 + " ^ " + liczba2 + " = " + wynik);
+                    break;
                 
             }
