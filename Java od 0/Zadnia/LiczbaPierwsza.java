@@ -25,3 +25,6 @@ public class LiczbaPierwsza {
                 return false;
             }
         }
+        return true; 
+    }
+}
