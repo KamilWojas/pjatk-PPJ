@@ -19,3 +19,5 @@ public class LiczbaPierwsza {
     }
 
     public static boolean czyLiczbaPierwsza(int n) {
+        if (n < 2) return false;
+    }
