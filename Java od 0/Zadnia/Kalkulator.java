@@ -64,5 +64,13 @@ public class Kalkulator {
                     wynik = Math.pow(liczba1, liczba2);
                     System.out.println("Wynik: " + liczba1 + " ^ " + liczba2 + " = " + wynik);
                     break;
+                case 6: 
+                    if (liczba1 < 0) {
+                        System.out.println("Błąd: Nie można obliczyć pierwiastka kwadratowego z liczby ujemnej!");
+                    } else {
+                        wynik = Math.sqrt(liczba1);
+                        System.out.println("Wynik: √" + liczba1 + " = " + wynik);
+                    }
+                    break;
                 
             }
