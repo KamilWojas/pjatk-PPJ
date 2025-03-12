@@ -17,3 +17,5 @@ public class LiczbaPierwsza {
 
         scanner.close();
     }
+
+    public static boolean czyLiczbaPierwsza(int n) {
