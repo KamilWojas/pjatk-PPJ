@@ -11,4 +11,8 @@ public class OdwroconyTekst {
 
         System.out.println("Odwrócony tekst: " + odwrocony);
 
+        scanner.close();
+    }
+
+
 
