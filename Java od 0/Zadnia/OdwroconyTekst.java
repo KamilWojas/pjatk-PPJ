@@ -9,3 +9,6 @@ public class OdwroconyTekst {
 
         String odwrocony = odwrocTekst(tekst);
 
+        System.out.println("Odwrócony tekst: " + odwrocony);
+
+
