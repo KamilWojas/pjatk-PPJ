@@ -6,3 +6,6 @@ public class OdwroconyTekst {
 
         System.out.print("Podaj tekst: ");
         String tekst = scanner.nextLine();
+
+        String odwrocony = odwrocTekst(tekst);
+
