@@ -44,10 +44,12 @@ public class Kalkulator {
                     wynik = liczba1 + liczba2;
                     System.out.println("Wynik: " + liczba1 + " + " + liczba2 + " = " + wynik);
                     break;
-
                 case 2: 
                     wynik = liczba1 - liczba2;
                     System.out.println("Wynik: " + liczba1 + " - " + liczba2 + " = " + wynik);
                     break;
-                case 3:
+                case 3: 
+                wynik = liczba1 * liczba2;
+                System.out.println("Wynik: " + liczba1 + " * " + liczba2 + " = " + wynik);
+                break;
             }
