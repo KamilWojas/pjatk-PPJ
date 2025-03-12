@@ -38,3 +38,5 @@ public class Kalkulator {
                 System.out.println("Niepoprawna opcja! Wybierz ponownie.");
                 continue;
             }
+
+            switch (opcja) {
