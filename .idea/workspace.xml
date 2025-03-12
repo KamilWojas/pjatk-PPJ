@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pierwiastek kwadratowy">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/LiczbaPierwsza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Jeśli nie znaleziono dzielnika, liczba jest pierwsza" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,79 +156,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="43370000" />
-    </task>
-    <task id="LOCAL-01211" summary="Getter">
-      <option name="closed" value="true" />
-      <created>1741643095505</created>
-      <option name="number" value="01211" />
-      <option name="presentableId" value="LOCAL-01211" />
-      <option name="project" value="LOCAL" />
-      <updated>1741643095505</updated>
-    </task>
-    <task id="LOCAL-01212" summary="Klasa testowa main">
-      <option name="closed" value="true" />
-      <created>1741643118363</created>
-      <option name="number" value="01212" />
-      <option name="presentableId" value="LOCAL-01212" />
-      <option name="project" value="LOCAL" />
-      <updated>1741643118363</updated>
-    </task>
-    <task id="LOCAL-01213" summary="Scanner + lista do przechowywania książek">
-      <option name="closed" value="true" />
-      <created>1741643194250</created>
-      <option name="number" value="01213" />
-      <option name="presentableId" value="LOCAL-01213" />
-      <option name="project" value="LOCAL" />
-      <updated>1741643194250</updated>
-    </task>
-    <task id="LOCAL-01214" summary="Pętla while">
-      <option name="closed" value="true" />
-      <created>1741643226040</created>
-      <option name="number" value="01214" />
-      <option name="presentableId" value="LOCAL-01214" />
-      <option name="project" value="LOCAL" />
-      <updated>1741643226040</updated>
-    </task>
-    <task id="LOCAL-01215" summary="Oczyszczanie bufora">
-      <option name="closed" value="true" />
-      <created>1741643247262</created>
-      <option name="number" value="01215" />
-      <option name="presentableId" value="LOCAL-01215" />
-      <option name="project" value="LOCAL" />
-      <updated>1741643247262</updated>
-    </task>
-    <task id="LOCAL-01216" summary="Dodawanie książki">
-      <option name="closed" value="true" />
-      <created>1741643281392</created>
-      <option name="number" value="01216" />
-      <option name="presentableId" value="LOCAL-01216" />
-      <option name="project" value="LOCAL" />
-      <updated>1741643281392</updated>
-    </task>
-    <task id="LOCAL-01217" summary="Oczyszczanie bufora">
-      <option name="closed" value="true" />
-      <created>1741643305346</created>
-      <option name="number" value="01217" />
-      <option name="presentableId" value="LOCAL-01217" />
-      <option name="project" value="LOCAL" />
-      <updated>1741643305346</updated>
-    </task>
-    <task id="LOCAL-01218" summary="Wypożyczanie książki">
-      <option name="closed" value="true" />
-      <created>1741643338846</created>
-      <option name="number" value="01218" />
-      <option name="presentableId" value="LOCAL-01218" />
-      <option name="project" value="LOCAL" />
-      <updated>1741643338846</updated>
-    </task>
-    <task id="LOCAL-01219" summary="Zwrot książki">
-      <option name="closed" value="true" />
-      <created>1741643365323</created>
-      <option name="number" value="01219" />
-      <option name="presentableId" value="LOCAL-01219" />
-      <option name="project" value="LOCAL" />
-      <updated>1741643365323</updated>
+      <workItem from="1740068933537" duration="43690000" />
     </task>
     <task id="LOCAL-01220" summary="Wyświetlanie wszystkich książek">
       <option name="closed" value="true" />
@@ -553,7 +478,79 @@
       <option name="project" value="LOCAL" />
       <updated>1741815949647</updated>
     </task>
-    <option name="localTasksCounter" value="1260" />
+    <task id="LOCAL-01260" summary="Napisz program w języku Java, który sprawdza, czy podana liczba jest liczbą pierwszą.&#10;Liczba pierwsza to liczba większa od 1, która dzieli się tylko przez 1 i samą siebie.&#10;&#10;Wymagania:&#10;Program powinien pobrać liczbę od użytkownika.&#10;Sprawdzić, czy liczba jest pierwsza.&#10;Wyświetlić odpowiedni komunikat:&#10;Jeśli liczba jest pierwsza → &quot;Liczba X jest liczbą pierwszą.&quot;&#10;Jeśli liczba nie jest pierwsza → &quot;Liczba X nie jest liczbą pierwszą.&quot;&#10;Obsłużyć sytuację, gdy użytkownik poda liczbę mniejszą niż 2.">
+      <option name="closed" value="true" />
+      <created>1741816778083</created>
+      <option name="number" value="01260" />
+      <option name="presentableId" value="LOCAL-01260" />
+      <option name="project" value="LOCAL" />
+      <updated>1741816778083</updated>
+    </task>
+    <task id="LOCAL-01261" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1741816801338</created>
+      <option name="number" value="01261" />
+      <option name="presentableId" value="LOCAL-01261" />
+      <option name="project" value="LOCAL" />
+      <updated>1741816801338</updated>
+    </task>
+    <task id="LOCAL-01262" summary="Klasa bazowa">
+      <option name="closed" value="true" />
+      <created>1741816815303</created>
+      <option name="number" value="01262" />
+      <option name="presentableId" value="LOCAL-01262" />
+      <option name="project" value="LOCAL" />
+      <updated>1741816815303</updated>
+    </task>
+    <task id="LOCAL-01263" summary="Warunek">
+      <option name="closed" value="true" />
+      <created>1741816869423</created>
+      <option name="number" value="01263" />
+      <option name="presentableId" value="LOCAL-01263" />
+      <option name="project" value="LOCAL" />
+      <updated>1741816869423</updated>
+    </task>
+    <task id="LOCAL-01264" summary="Metoda sprawdzająca, czy liczba jest pierwsza">
+      <option name="closed" value="true" />
+      <created>1741816891140</created>
+      <option name="number" value="01264" />
+      <option name="presentableId" value="LOCAL-01264" />
+      <option name="project" value="LOCAL" />
+      <updated>1741816891140</updated>
+    </task>
+    <task id="LOCAL-01265" summary="Liczby mniejsze niż 2 nie są pierwsze">
+      <option name="closed" value="true" />
+      <created>1741816914514</created>
+      <option name="number" value="01265" />
+      <option name="presentableId" value="LOCAL-01265" />
+      <option name="project" value="LOCAL" />
+      <updated>1741816914514</updated>
+    </task>
+    <task id="LOCAL-01266" summary="Sprawdzanie podzielności do pierwiastka z n">
+      <option name="closed" value="true" />
+      <created>1741816944220</created>
+      <option name="number" value="01266" />
+      <option name="presentableId" value="LOCAL-01266" />
+      <option name="project" value="LOCAL" />
+      <updated>1741816944220</updated>
+    </task>
+    <task id="LOCAL-01267" summary="Jeśli liczba dzieli się przez inne liczby, nie jest pierwsza">
+      <option name="closed" value="true" />
+      <created>1741816974388</created>
+      <option name="number" value="01267" />
+      <option name="presentableId" value="LOCAL-01267" />
+      <option name="project" value="LOCAL" />
+      <updated>1741816974388</updated>
+    </task>
+    <task id="LOCAL-01268" summary="Jeśli nie znaleziono dzielnika, liczba jest pierwsza">
+      <option name="closed" value="true" />
+      <created>1741816999981</created>
+      <option name="number" value="01268" />
+      <option name="presentableId" value="LOCAL-01268" />
+      <option name="project" value="LOCAL" />
+      <updated>1741816999981</updated>
+    </task>
+    <option name="localTasksCounter" value="1269" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,16 +568,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Metoda oznaczająca zadanie jako ukończone" />
-    <MESSAGE value="Metoda do wyświetlania zadania" />
-    <MESSAGE value="Metoda testowa main" />
-    <MESSAGE value="Scanner + lista" />
-    <MESSAGE value="Pętla do warunków" />
-    <MESSAGE value="Dodawanie zadania" />
-    <MESSAGE value="Oznaczanie jako ukończone" />
     <MESSAGE value="Usuwanie zadania" />
     <MESSAGE value="Oczyszczanie bufora" />
-    <MESSAGE value="Warunek" />
     <MESSAGE value="Wyświetlanie zadań" />
     <MESSAGE value="Zakończenie programu" />
     <MESSAGE value="Napisz program w języku Java, który działa jako prosty kalkulator. Program powinien umożliwiać użytkownikowi:&#10;&#10;Wybór działania matematycznego:&#10;&#10;Dodawanie (+)&#10;Odejmowanie (-)&#10;Mnożenie (*)&#10;Dzielenie (/)&#10;Potęgowanie (^)&#10;Obliczenie pierwiastka kwadratowego (√)&#10;Podanie dwóch liczb (dla działań wymagających dwóch argumentów).&#10;&#10;Obliczenie i wyświetlenie wyniku.&#10;&#10;Obsługę błędów (np. dzielenie przez zero).&#10;&#10;Powtarzanie działania, dopóki użytkownik nie zdecyduje się zakończyć programu." />
@@ -596,6 +585,14 @@
     <MESSAGE value="Dzielenie" />
     <MESSAGE value="Potęgowanie" />
     <MESSAGE value="Pierwiastek kwadratowy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pierwiastek kwadratowy" />
+    <MESSAGE value="Napisz program w języku Java, który sprawdza, czy podana liczba jest liczbą pierwszą.&#10;Liczba pierwsza to liczba większa od 1, która dzieli się tylko przez 1 i samą siebie.&#10;&#10;Wymagania:&#10;Program powinien pobrać liczbę od użytkownika.&#10;Sprawdzić, czy liczba jest pierwsza.&#10;Wyświetlić odpowiedni komunikat:&#10;Jeśli liczba jest pierwsza → &quot;Liczba X jest liczbą pierwszą.&quot;&#10;Jeśli liczba nie jest pierwsza → &quot;Liczba X nie jest liczbą pierwszą.&quot;&#10;Obsłużyć sytuację, gdy użytkownik poda liczbę mniejszą niż 2." />
+    <MESSAGE value="Klasa bazowa" />
+    <MESSAGE value="Warunek" />
+    <MESSAGE value="Metoda sprawdzająca, czy liczba jest pierwsza" />
+    <MESSAGE value="Liczby mniejsze niż 2 nie są pierwsze" />
+    <MESSAGE value="Sprawdzanie podzielności do pierwiastka z n" />
+    <MESSAGE value="Jeśli liczba dzieli się przez inne liczby, nie jest pierwsza" />
+    <MESSAGE value="Jeśli nie znaleziono dzielnika, liczba jest pierwsza" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jeśli nie znaleziono dzielnika, liczba jest pierwsza" />
   </component>
 </project>
