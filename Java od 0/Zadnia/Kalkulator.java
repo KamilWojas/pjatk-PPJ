@@ -40,3 +40,8 @@ public class Kalkulator {
             }
 
             switch (opcja) {
+                case 1: 
+                    wynik = liczba1 + liczba2;
+                    System.out.println("Wynik: " + liczba1 + " + " + liczba2 + " = " + wynik);
+                    break;
+            }
