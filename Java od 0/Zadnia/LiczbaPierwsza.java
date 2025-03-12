@@ -6,3 +6,14 @@ public class LiczbaPierwsza {
 
         System.out.print("Podaj liczbę: ");
         int liczba = scanner.nextInt();
+
+        if (liczba < 2) {
+            System.out.println("Liczba " + liczba + " nie jest liczbą pierwszą.");
+        } else if (czyLiczbaPierwsza(liczba)) {
+            System.out.println("Liczba " + liczba + " jest liczbą pierwszą.");
+        } else {
+            System.out.println("Liczba " + liczba + " nie jest liczbą pierwszą.");
+        }
+
+        scanner.close();
+    }
