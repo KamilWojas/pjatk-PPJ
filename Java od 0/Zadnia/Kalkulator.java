@@ -51,5 +51,14 @@ public class Kalkulator {
                 case 3: 
                 wynik = liczba1 * liczba2;
                 System.out.println("Wynik: " + liczba1 + " * " + liczba2 + " = " + wynik);
-                break;
+                    break;
+                case 4: 
+                    if (liczba2 == 0) {
+                        System.out.println("Błąd: Nie można dzielić przez zero!");
+                    } else {
+                        wynik = liczba1 / liczba2;
+                        System.out.println("Wynik: " + liczba1 + " / " + liczba2 + " = " + wynik);
+                    }
+                    break;
+                
             }
