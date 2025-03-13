@@ -18,8 +18,8 @@ public class Palindrom {
     }
 
     public static boolean czyPalindrom(String tekst) {
-        
         String czystyTekst = tekst.replaceAll("\\s+", "").toLowerCase();
+        
         String odwrocony = new StringBuilder(czystyTekst).reverse().toString();
         return czystyTekst.equals(odwrocony);
     }
