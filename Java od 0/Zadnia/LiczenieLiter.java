@@ -14,3 +14,7 @@ public class LiczenieLiter {
 
         scanner.close();
     }
+
+    public static int[] policzSamogloskiISpolgloski(String tekst) {
+        int samogloski = 0, spolgloski = 0;
+        String samogloskiLista = "aeiouyąęó"; 
