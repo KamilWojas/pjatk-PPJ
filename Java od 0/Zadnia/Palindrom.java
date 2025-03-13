@@ -7,3 +7,13 @@ public class Palindrom {
         
         System.out.print("Podaj tekst: ");
         String tekst = scanner.nextLine();
+
+        if (czyPalindrom(tekst)) {
+            System.out.println("Tekst \"" + tekst + "\" jest palindromem.");
+        } else {
+            System.out.println("Tekst \"" + tekst + "\" nie jest palindromem.");
+        }
+
+        scanner.close();
+    }
+

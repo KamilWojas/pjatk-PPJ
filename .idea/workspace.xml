@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda odwracająca tekst">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/LiczenieLiter.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pobranie tekstu od użytkownika">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Palindrom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,111 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="44439000" />
-    </task>
-    <task id="LOCAL-01227" summary="Metoda oznaczająca zadanie jako ukończone">
-      <option name="closed" value="true" />
-      <created>1741731466119</created>
-      <option name="number" value="01227" />
-      <option name="presentableId" value="LOCAL-01227" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731466119</updated>
-    </task>
-    <task id="LOCAL-01228" summary="Metoda do wyświetlania zadania">
-      <option name="closed" value="true" />
-      <created>1741731503594</created>
-      <option name="number" value="01228" />
-      <option name="presentableId" value="LOCAL-01228" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731503594</updated>
-    </task>
-    <task id="LOCAL-01229" summary="Metoda do wyświetlania zadania">
-      <option name="closed" value="true" />
-      <created>1741731520098</created>
-      <option name="number" value="01229" />
-      <option name="presentableId" value="LOCAL-01229" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731520098</updated>
-    </task>
-    <task id="LOCAL-01230" summary="Metoda testowa main">
-      <option name="closed" value="true" />
-      <created>1741731543099</created>
-      <option name="number" value="01230" />
-      <option name="presentableId" value="LOCAL-01230" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731543099</updated>
-    </task>
-    <task id="LOCAL-01231" summary="Scanner + lista">
-      <option name="closed" value="true" />
-      <created>1741731566259</created>
-      <option name="number" value="01231" />
-      <option name="presentableId" value="LOCAL-01231" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731566259</updated>
-    </task>
-    <task id="LOCAL-01232" summary="Pętla do warunków">
-      <option name="closed" value="true" />
-      <created>1741731597755</created>
-      <option name="number" value="01232" />
-      <option name="presentableId" value="LOCAL-01232" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731597755</updated>
-    </task>
-    <task id="LOCAL-01233" summary="Oczyszczanie bufora">
-      <option name="closed" value="true" />
-      <created>1741731618099</created>
-      <option name="number" value="01233" />
-      <option name="presentableId" value="LOCAL-01233" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731618099</updated>
-    </task>
-    <task id="LOCAL-01234" summary="Dodawanie zadania">
-      <option name="closed" value="true" />
-      <created>1741731642151</created>
-      <option name="number" value="01234" />
-      <option name="presentableId" value="LOCAL-01234" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731642151</updated>
-    </task>
-    <task id="LOCAL-01235" summary="Dodawanie zadania">
-      <option name="closed" value="true" />
-      <created>1741731660887</created>
-      <option name="number" value="01235" />
-      <option name="presentableId" value="LOCAL-01235" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731660887</updated>
-    </task>
-    <task id="LOCAL-01236" summary="Oznaczanie jako ukończone">
-      <option name="closed" value="true" />
-      <created>1741731696338</created>
-      <option name="number" value="01236" />
-      <option name="presentableId" value="LOCAL-01236" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731696338</updated>
-    </task>
-    <task id="LOCAL-01237" summary="Oczyszczanie bufora">
-      <option name="closed" value="true" />
-      <created>1741731746358</created>
-      <option name="number" value="01237" />
-      <option name="presentableId" value="LOCAL-01237" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731746358</updated>
-    </task>
-    <task id="LOCAL-01238" summary="Warunek">
-      <option name="closed" value="true" />
-      <created>1741731774977</created>
-      <option name="number" value="01238" />
-      <option name="presentableId" value="LOCAL-01238" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731774977</updated>
-    </task>
-    <task id="LOCAL-01239" summary="Usuwanie zadania">
-      <option name="closed" value="true" />
-      <created>1741731834406</created>
-      <option name="number" value="01239" />
-      <option name="presentableId" value="LOCAL-01239" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731834406</updated>
+      <workItem from="1740068933537" duration="44752000" />
     </task>
     <task id="LOCAL-01240" summary="Oczyszczanie bufora">
       <option name="closed" value="true" />
@@ -552,7 +448,111 @@
       <option name="project" value="LOCAL" />
       <updated>1741817220861</updated>
     </task>
-    <option name="localTasksCounter" value="1276" />
+    <task id="LOCAL-01276" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Zlicza liczbę samogłosek i spółgłosek w podanym tekście.&#10;Wyświetla wynik na ekranie.">
+      <option name="closed" value="true" />
+      <created>1741883024570</created>
+      <option name="number" value="01276" />
+      <option name="presentableId" value="LOCAL-01276" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883024570</updated>
+    </task>
+    <task id="LOCAL-01277" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Zlicza liczbę samogłosek i spółgłosek w podanym tekście.&#10;Wyświetla wynik na ekranie.">
+      <option name="closed" value="true" />
+      <created>1741883035174</created>
+      <option name="number" value="01277" />
+      <option name="presentableId" value="LOCAL-01277" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883035174</updated>
+    </task>
+    <task id="LOCAL-01278" summary="Pobranie tekstu od użytkownika">
+      <option name="closed" value="true" />
+      <created>1741883057583</created>
+      <option name="number" value="01278" />
+      <option name="presentableId" value="LOCAL-01278" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883057583</updated>
+    </task>
+    <task id="LOCAL-01279" summary="Konwersja na małe litery">
+      <option name="closed" value="true" />
+      <created>1741883081201</created>
+      <option name="number" value="01279" />
+      <option name="presentableId" value="LOCAL-01279" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883081201</updated>
+    </task>
+    <task id="LOCAL-01280" summary="Wywołanie metody do liczenia liter">
+      <option name="closed" value="true" />
+      <created>1741883095331</created>
+      <option name="number" value="01280" />
+      <option name="presentableId" value="LOCAL-01280" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883095331</updated>
+    </task>
+    <task id="LOCAL-01281" summary="Wyświetlenie wyniku">
+      <option name="closed" value="true" />
+      <created>1741883116899</created>
+      <option name="number" value="01281" />
+      <option name="presentableId" value="LOCAL-01281" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883116899</updated>
+    </task>
+    <task id="LOCAL-01282" summary="Metoda licząca samogłoski i spółgłoski">
+      <option name="closed" value="true" />
+      <created>1741883136348</created>
+      <option name="number" value="01282" />
+      <option name="presentableId" value="LOCAL-01282" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883136348</updated>
+    </task>
+    <task id="LOCAL-01283" summary="Polskie i angielskie samogłoski">
+      <option name="closed" value="true" />
+      <created>1741883155086</created>
+      <option name="number" value="01283" />
+      <option name="presentableId" value="LOCAL-01283" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883155086</updated>
+    </task>
+    <task id="LOCAL-01284" summary="Sprawdzamy, czy znak jest literą">
+      <option name="closed" value="true" />
+      <created>1741883179724</created>
+      <option name="number" value="01284" />
+      <option name="presentableId" value="LOCAL-01284" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883179724</updated>
+    </task>
+    <task id="LOCAL-01285" summary="Zwracamy wynik jako tablicę">
+      <option name="closed" value="true" />
+      <created>1741883200250</created>
+      <option name="number" value="01285" />
+      <option name="presentableId" value="LOCAL-01285" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883200250</updated>
+    </task>
+    <task id="LOCAL-01286" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Sprawdza, czy podany tekst jest palindromem (czytany od przodu i od tyłu wygląda tak samo, ignorując wielkość liter i spacje).&#10;Wyświetla wynik na ekranie.">
+      <option name="closed" value="true" />
+      <created>1741883270678</created>
+      <option name="number" value="01286" />
+      <option name="presentableId" value="LOCAL-01286" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883270678</updated>
+    </task>
+    <task id="LOCAL-01287" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Sprawdza, czy podany tekst jest palindromem (czytany od przodu i od tyłu wygląda tak samo, ignorując wielkość liter i spacje).&#10;Wyświetla wynik na ekranie.">
+      <option name="closed" value="true" />
+      <created>1741883279500</created>
+      <option name="number" value="01287" />
+      <option name="presentableId" value="LOCAL-01287" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883279500</updated>
+    </task>
+    <task id="LOCAL-01288" summary="Pobranie tekstu od użytkownika">
+      <option name="closed" value="true" />
+      <created>1741883328851</created>
+      <option name="number" value="01288" />
+      <option name="presentableId" value="LOCAL-01288" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883328851</updated>
+    </task>
+    <option name="localTasksCounter" value="1289" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,14 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Klasa Kalkulator + scanner" />
-    <MESSAGE value="Wyświetlanie menu" />
-    <MESSAGE value="Warunek zakończenia programu" />
-    <MESSAGE value="Obsługa działań wymagających jednej lub dwóch liczb" />
-    <MESSAGE value="Nie jest używane, ale dla spójności ustawiam" />
-    <MESSAGE value="Obsługa wybranej operacji" />
-    <MESSAGE value="Dodawanie" />
-    <MESSAGE value="Odejmowanie" />
     <MESSAGE value="Mnożenie" />
     <MESSAGE value="Dzielenie" />
     <MESSAGE value="Potęgowanie" />
@@ -591,10 +583,18 @@
     <MESSAGE value="Jeśli nie znaleziono dzielnika, liczba jest pierwsza" />
     <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Odwraca kolejność znaków w tekście.&#10;Wyświetla wynik na ekranie." />
     <MESSAGE value="Klasa bazowa" />
-    <MESSAGE value="Pobranie tekstu od użytkownika" />
     <MESSAGE value=" Odwrócenie tekstu" />
-    <MESSAGE value="Wyświetlenie wyniku" />
     <MESSAGE value="Metoda odwracająca tekst" />
-    <option name="LAST_COMMIT_MESSAGE" value="Metoda odwracająca tekst" />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Zlicza liczbę samogłosek i spółgłosek w podanym tekście.&#10;Wyświetla wynik na ekranie." />
+    <MESSAGE value="Konwersja na małe litery" />
+    <MESSAGE value="Wywołanie metody do liczenia liter" />
+    <MESSAGE value="Wyświetlenie wyniku" />
+    <MESSAGE value="Metoda licząca samogłoski i spółgłoski" />
+    <MESSAGE value="Polskie i angielskie samogłoski" />
+    <MESSAGE value="Sprawdzamy, czy znak jest literą" />
+    <MESSAGE value="Zwracamy wynik jako tablicę" />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Sprawdza, czy podany tekst jest palindromem (czytany od przodu i od tyłu wygląda tak samo, ignorując wielkość liter i spacje).&#10;Wyświetla wynik na ekranie." />
+    <MESSAGE value="Pobranie tekstu od użytkownika" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pobranie tekstu od użytkownika" />
   </component>
 </project>
