@@ -8,3 +8,9 @@ public class LiczenieLiter {
         String tekst = scanner.nextLine().toLowerCase();
 
         int[] wynik = policzSamogloskiISpolgloski(tekst);
+
+        System.out.println("Liczba samogłosek: " + wynik[0]);
+        System.out.println("Liczba spółgłosek: " + wynik[1]);
+
+        scanner.close();
+    }
