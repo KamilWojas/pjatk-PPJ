@@ -28,3 +28,6 @@ public class LiczenieLiter {
                 }
             }
         }
+        return new int[]{samogloski, spolgloski}; 
+    }
+}
