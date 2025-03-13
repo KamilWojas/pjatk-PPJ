@@ -17,4 +17,4 @@ public class LiczenieLiter {
 
     public static int[] policzSamogloskiISpolgloski(String tekst) {
         int samogloski = 0, spolgloski = 0;
-        String samogloskiLista = "aeiouyąęó"; 
+        String samogloskiLista = "aeiouyąęó";  
