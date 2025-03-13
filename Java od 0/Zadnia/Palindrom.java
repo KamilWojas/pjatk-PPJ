@@ -17,3 +17,6 @@ public class Palindrom {
         scanner.close();
     }
 
+    public static boolean czyPalindrom(String tekst) {
+        
+        String czystyTekst = tekst.replaceAll("\\s+", "").toLowerCase();
