@@ -6,3 +6,5 @@ public class LiczenieLiter {
 
         System.out.print("Podaj tekst: ");
         String tekst = scanner.nextLine().toLowerCase();
+
+        int[] wynik = policzSamogloskiISpolgloski(tekst);
