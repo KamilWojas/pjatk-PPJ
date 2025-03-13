@@ -5,3 +5,4 @@ public class LiczenieLiter {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Podaj tekst: ");
+        String tekst = scanner.nextLine().toLowerCase();
