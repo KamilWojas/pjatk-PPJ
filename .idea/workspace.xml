@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pobranie tekstu od użytkownika">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Palindrom.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Odwrócenie tekstu i porównanie">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,39 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="44752000" />
-    </task>
-    <task id="LOCAL-01240" summary="Oczyszczanie bufora">
-      <option name="closed" value="true" />
-      <created>1741731859756</created>
-      <option name="number" value="01240" />
-      <option name="presentableId" value="LOCAL-01240" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731859756</updated>
-    </task>
-    <task id="LOCAL-01241" summary="Warunek">
-      <option name="closed" value="true" />
-      <created>1741731880523</created>
-      <option name="number" value="01241" />
-      <option name="presentableId" value="LOCAL-01241" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731880523</updated>
-    </task>
-    <task id="LOCAL-01242" summary="Wyświetlanie zadań">
-      <option name="closed" value="true" />
-      <created>1741731912430</created>
-      <option name="number" value="01242" />
-      <option name="presentableId" value="LOCAL-01242" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731912430</updated>
-    </task>
-    <task id="LOCAL-01243" summary="Zakończenie programu">
-      <option name="closed" value="true" />
-      <created>1741731939107</created>
-      <option name="number" value="01243" />
-      <option name="presentableId" value="LOCAL-01243" />
-      <option name="project" value="LOCAL" />
-      <updated>1741731939107</updated>
+      <workItem from="1740068933537" duration="45435000" />
     </task>
     <task id="LOCAL-01244" summary="Napisz program w języku Java, który działa jako prosty kalkulator. Program powinien umożliwiać użytkownikowi:&#10;&#10;Wybór działania matematycznego:&#10;&#10;Dodawanie (+)&#10;Odejmowanie (-)&#10;Mnożenie (*)&#10;Dzielenie (/)&#10;Potęgowanie (^)&#10;Obliczenie pierwiastka kwadratowego (√)&#10;Podanie dwóch liczb (dla działań wymagających dwóch argumentów).&#10;&#10;Obliczenie i wyświetlenie wyniku.&#10;&#10;Obsługę błędów (np. dzielenie przez zero).&#10;&#10;Powtarzanie działania, dopóki użytkownik nie zdecyduje się zakończyć programu.">
       <option name="closed" value="true" />
@@ -552,7 +520,39 @@
       <option name="project" value="LOCAL" />
       <updated>1741883328851</updated>
     </task>
-    <option name="localTasksCounter" value="1289" />
+    <task id="LOCAL-01289" summary="Sprawdzenie, czy tekst jest palindromem">
+      <option name="closed" value="true" />
+      <created>1741883351337</created>
+      <option name="number" value="01289" />
+      <option name="presentableId" value="LOCAL-01289" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883351337</updated>
+    </task>
+    <task id="LOCAL-01290" summary="Usunięcie spacji i konwersja na małe litery">
+      <option name="closed" value="true" />
+      <created>1741883401115</created>
+      <option name="number" value="01290" />
+      <option name="presentableId" value="LOCAL-01290" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883401116</updated>
+    </task>
+    <task id="LOCAL-01291" summary="Odwrócenie tekstu i porównanie">
+      <option name="closed" value="true" />
+      <created>1741883420926</created>
+      <option name="number" value="01291" />
+      <option name="presentableId" value="LOCAL-01291" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883420926</updated>
+    </task>
+    <task id="LOCAL-01292" summary="Odwrócenie tekstu i porównanie">
+      <option name="closed" value="true" />
+      <created>1741883431547</created>
+      <option name="number" value="01292" />
+      <option name="presentableId" value="LOCAL-01292" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883431547</updated>
+    </task>
+    <option name="localTasksCounter" value="1293" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,9 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mnożenie" />
-    <MESSAGE value="Dzielenie" />
-    <MESSAGE value="Potęgowanie" />
     <MESSAGE value="Pierwiastek kwadratowy" />
     <MESSAGE value="Napisz program w języku Java, który sprawdza, czy podana liczba jest liczbą pierwszą.&#10;Liczba pierwsza to liczba większa od 1, która dzieli się tylko przez 1 i samą siebie.&#10;&#10;Wymagania:&#10;Program powinien pobrać liczbę od użytkownika.&#10;Sprawdzić, czy liczba jest pierwsza.&#10;Wyświetlić odpowiedni komunikat:&#10;Jeśli liczba jest pierwsza → &quot;Liczba X jest liczbą pierwszą.&quot;&#10;Jeśli liczba nie jest pierwsza → &quot;Liczba X nie jest liczbą pierwszą.&quot;&#10;Obsłużyć sytuację, gdy użytkownik poda liczbę mniejszą niż 2." />
     <MESSAGE value="Warunek" />
@@ -595,6 +592,9 @@
     <MESSAGE value="Zwracamy wynik jako tablicę" />
     <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Sprawdza, czy podany tekst jest palindromem (czytany od przodu i od tyłu wygląda tak samo, ignorując wielkość liter i spacje).&#10;Wyświetla wynik na ekranie." />
     <MESSAGE value="Pobranie tekstu od użytkownika" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pobranie tekstu od użytkownika" />
+    <MESSAGE value="Sprawdzenie, czy tekst jest palindromem" />
+    <MESSAGE value="Usunięcie spacji i konwersja na małe litery" />
+    <MESSAGE value="Odwrócenie tekstu i porównanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Odwrócenie tekstu i porównanie" />
   </component>
 </project>
