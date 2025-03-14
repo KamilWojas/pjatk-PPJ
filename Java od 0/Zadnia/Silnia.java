@@ -15,3 +15,12 @@ public class Silnia {
 
         scanner.close();
     }
+
+    public static long obliczSilnie(int n) {
+        long wynik = 1;
+        for (int i = 2; i <= n; i++) {
+            wynik *= i;
+        }
+        return wynik;
+    }
+}
