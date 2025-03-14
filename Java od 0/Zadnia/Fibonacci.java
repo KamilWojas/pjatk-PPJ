@@ -9,3 +9,10 @@ public class Fibonacci {
 
         if (n < 0) {
             System.out.println("Błąd: Liczba musi być nieujemna!");
+        } else {
+            System.out.println("Ciąg Fibonacciego (" + n + " liczb):");
+            wypiszFibonacci(n);
+        }
+
+        scanner.close();
+    }
