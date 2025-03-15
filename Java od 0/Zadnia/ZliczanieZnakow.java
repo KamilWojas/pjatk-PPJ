@@ -15,4 +15,12 @@ public class ZliczanieZnakow {
                 char znak = (char) odczytanyBajt;
                 mapaZnakow.put(znak, mapaZnakow.getOrDefault(znak, 0) + 1);
             }
+    } catch (IOException e) {
+        System.err.println("Błąd podczas odczytu pliku: " + e.getMessage());
+        }
+
+        for (Map.Entry<Character, Integer> entry : mapaZnakow.entrySet()) {
+        System.out.println(entry.getKey() + ": " + entry.getValue());
+        }
     }
+}
