@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Odwrócenie tekstu i porównanie">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/FizzBuzz.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda obliczająca i wypisująca ciąg Fibonacciego">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,103 +158,7 @@
       <workItem from="1738782544387" duration="10344000" />
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
-      <workItem from="1740068933537" duration="45435000" />
-    </task>
-    <task id="LOCAL-01244" summary="Napisz program w języku Java, który działa jako prosty kalkulator. Program powinien umożliwiać użytkownikowi:&#10;&#10;Wybór działania matematycznego:&#10;&#10;Dodawanie (+)&#10;Odejmowanie (-)&#10;Mnożenie (*)&#10;Dzielenie (/)&#10;Potęgowanie (^)&#10;Obliczenie pierwiastka kwadratowego (√)&#10;Podanie dwóch liczb (dla działań wymagających dwóch argumentów).&#10;&#10;Obliczenie i wyświetlenie wyniku.&#10;&#10;Obsługę błędów (np. dzielenie przez zero).&#10;&#10;Powtarzanie działania, dopóki użytkownik nie zdecyduje się zakończyć programu.">
-      <option name="closed" value="true" />
-      <created>1741732202950</created>
-      <option name="number" value="01244" />
-      <option name="presentableId" value="LOCAL-01244" />
-      <option name="project" value="LOCAL" />
-      <updated>1741732202950</updated>
-    </task>
-    <task id="LOCAL-01245" summary="Klasa Kalkulator + scanner">
-      <option name="closed" value="true" />
-      <created>1741732239059</created>
-      <option name="number" value="01245" />
-      <option name="presentableId" value="LOCAL-01245" />
-      <option name="project" value="LOCAL" />
-      <updated>1741732239059</updated>
-    </task>
-    <task id="LOCAL-01246" summary="Wyświetlanie menu">
-      <option name="closed" value="true" />
-      <created>1741732265384</created>
-      <option name="number" value="01246" />
-      <option name="presentableId" value="LOCAL-01246" />
-      <option name="project" value="LOCAL" />
-      <updated>1741732265384</updated>
-    </task>
-    <task id="LOCAL-01247" summary="Wyświetlanie menu">
-      <option name="closed" value="true" />
-      <created>1741732284623</created>
-      <option name="number" value="01247" />
-      <option name="presentableId" value="LOCAL-01247" />
-      <option name="project" value="LOCAL" />
-      <updated>1741732284623</updated>
-    </task>
-    <task id="LOCAL-01248" summary="Warunek zakończenia programu">
-      <option name="closed" value="true" />
-      <created>1741732339816</created>
-      <option name="number" value="01248" />
-      <option name="presentableId" value="LOCAL-01248" />
-      <option name="project" value="LOCAL" />
-      <updated>1741732339816</updated>
-    </task>
-    <task id="LOCAL-01249" summary="Obsługa działań wymagających jednej lub dwóch liczb">
-      <option name="closed" value="true" />
-      <created>1741732372402</created>
-      <option name="number" value="01249" />
-      <option name="presentableId" value="LOCAL-01249" />
-      <option name="project" value="LOCAL" />
-      <updated>1741732372402</updated>
-    </task>
-    <task id="LOCAL-01250" summary="Nie jest używane, ale dla spójności ustawiam">
-      <option name="closed" value="true" />
-      <created>1741732410659</created>
-      <option name="number" value="01250" />
-      <option name="presentableId" value="LOCAL-01250" />
-      <option name="project" value="LOCAL" />
-      <updated>1741732410659</updated>
-    </task>
-    <task id="LOCAL-01251" summary="Nie jest używane, ale dla spójności ustawiam">
-      <option name="closed" value="true" />
-      <created>1741732430021</created>
-      <option name="number" value="01251" />
-      <option name="presentableId" value="LOCAL-01251" />
-      <option name="project" value="LOCAL" />
-      <updated>1741732430021</updated>
-    </task>
-    <task id="LOCAL-01252" summary="Obsługa wybranej operacji">
-      <option name="closed" value="true" />
-      <created>1741815749652</created>
-      <option name="number" value="01252" />
-      <option name="presentableId" value="LOCAL-01252" />
-      <option name="project" value="LOCAL" />
-      <updated>1741815749652</updated>
-    </task>
-    <task id="LOCAL-01253" summary="Dodawanie">
-      <option name="closed" value="true" />
-      <created>1741815781855</created>
-      <option name="number" value="01253" />
-      <option name="presentableId" value="LOCAL-01253" />
-      <option name="project" value="LOCAL" />
-      <updated>1741815781855</updated>
-    </task>
-    <task id="LOCAL-01254" summary="Odejmowanie">
-      <option name="closed" value="true" />
-      <created>1741815807908</created>
-      <option name="number" value="01254" />
-      <option name="presentableId" value="LOCAL-01254" />
-      <option name="project" value="LOCAL" />
-      <updated>1741815807908</updated>
-    </task>
-    <task id="LOCAL-01255" summary="Mnożenie">
-      <option name="closed" value="true" />
-      <created>1741815858403</created>
-      <option name="number" value="01255" />
-      <option name="presentableId" value="LOCAL-01255" />
-      <option name="project" value="LOCAL" />
-      <updated>1741815858403</updated>
+      <workItem from="1740068933537" duration="46334000" />
     </task>
     <task id="LOCAL-01256" summary="Dzielenie">
       <option name="closed" value="true" />
@@ -552,7 +456,103 @@
       <option name="project" value="LOCAL" />
       <updated>1741883431547</updated>
     </task>
-    <option name="localTasksCounter" value="1293" />
+    <task id="LOCAL-01293" summary="Napisz program w języku Java, który wyświetla liczby od 1 do 100, ale:&#10;&#10;Dla liczb podzielnych przez 3 wypisuje &quot;Fizz&quot;,&#10;Dla liczb podzielnych przez 5 wypisuje &quot;Buzz&quot;,&#10;Dla liczb podzielnych zarówno przez 3 i 5 wypisuje &quot;FizzBuzz&quot;,&#10;W przeciwnym razie wypisuje samą liczbę.">
+      <option name="closed" value="true" />
+      <created>1741987913657</created>
+      <option name="number" value="01293" />
+      <option name="presentableId" value="LOCAL-01293" />
+      <option name="project" value="LOCAL" />
+      <updated>1741987913657</updated>
+    </task>
+    <task id="LOCAL-01294" summary="Napisz program w języku Java, który wyświetla liczby od 1 do 100, ale:&#10;&#10;Dla liczb podzielnych przez 3 wypisuje &quot;Fizz&quot;,&#10;Dla liczb podzielnych przez 5 wypisuje &quot;Buzz&quot;,&#10;Dla liczb podzielnych zarówno przez 3 i 5 wypisuje &quot;FizzBuzz&quot;,&#10;W przeciwnym razie wypisuje samą liczbę.">
+      <option name="closed" value="true" />
+      <created>1741987931219</created>
+      <option name="number" value="01294" />
+      <option name="presentableId" value="LOCAL-01294" />
+      <option name="project" value="LOCAL" />
+      <updated>1741987931219</updated>
+    </task>
+    <task id="LOCAL-01295" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Oblicza silnię n! (n! = 1 × 2 × 3 × ... × n).&#10;Wyświetla wynik.&#10;Warunki:&#10;&#10;Jeśli użytkownik poda n &lt; 0, program powinien wyświetlić komunikat &quot;Nie można obliczyć silni z liczby ujemnej!&quot;.&#10;0! wynosi 1.">
+      <option name="closed" value="true" />
+      <created>1741987969374</created>
+      <option name="number" value="01295" />
+      <option name="presentableId" value="LOCAL-01295" />
+      <option name="project" value="LOCAL" />
+      <updated>1741987969374</updated>
+    </task>
+    <task id="LOCAL-01296" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Oblicza silnię n! (n! = 1 × 2 × 3 × ... × n).&#10;Wyświetla wynik.&#10;Warunki:&#10;&#10;Jeśli użytkownik poda n &lt; 0, program powinien wyświetlić komunikat &quot;Nie można obliczyć silni z liczby ujemnej!&quot;.&#10;0! wynosi 1.">
+      <option name="closed" value="true" />
+      <created>1741987981114</created>
+      <option name="number" value="01296" />
+      <option name="presentableId" value="LOCAL-01296" />
+      <option name="project" value="LOCAL" />
+      <updated>1741987981114</updated>
+    </task>
+    <task id="LOCAL-01297" summary="Pobranie liczby od użytkownika">
+      <option name="closed" value="true" />
+      <created>1741988008038</created>
+      <option name="number" value="01297" />
+      <option name="presentableId" value="LOCAL-01297" />
+      <option name="project" value="LOCAL" />
+      <updated>1741988008038</updated>
+    </task>
+    <task id="LOCAL-01298" summary="Metoda obliczająca silnię iteracyjnie">
+      <option name="closed" value="true" />
+      <created>1741988036107</created>
+      <option name="number" value="01298" />
+      <option name="presentableId" value="LOCAL-01298" />
+      <option name="project" value="LOCAL" />
+      <updated>1741988036107</updated>
+    </task>
+    <task id="LOCAL-01299" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę n.&#10;Wypisuje n pierwszych liczb z ciągu Fibonacciego.&#10;Obsługuje błędne dane (np. liczby ujemne).">
+      <option name="closed" value="true" />
+      <created>1741988106474</created>
+      <option name="number" value="01299" />
+      <option name="presentableId" value="LOCAL-01299" />
+      <option name="project" value="LOCAL" />
+      <updated>1741988106474</updated>
+    </task>
+    <task id="LOCAL-01300" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę n.&#10;Wypisuje n pierwszych liczb z ciągu Fibonacciego.&#10;Obsługuje błędne dane (np. liczby ujemne).">
+      <option name="closed" value="true" />
+      <created>1741988116037</created>
+      <option name="number" value="01300" />
+      <option name="presentableId" value="LOCAL-01300" />
+      <option name="project" value="LOCAL" />
+      <updated>1741988116037</updated>
+    </task>
+    <task id="LOCAL-01301" summary="Pobranie liczby od użytkownika">
+      <option name="closed" value="true" />
+      <created>1741988138961</created>
+      <option name="number" value="01301" />
+      <option name="presentableId" value="LOCAL-01301" />
+      <option name="project" value="LOCAL" />
+      <updated>1741988138961</updated>
+    </task>
+    <task id="LOCAL-01302" summary="Pobranie liczby od użytkownika">
+      <option name="closed" value="true" />
+      <created>1741988152873</created>
+      <option name="number" value="01302" />
+      <option name="presentableId" value="LOCAL-01302" />
+      <option name="project" value="LOCAL" />
+      <updated>1741988152873</updated>
+    </task>
+    <task id="LOCAL-01303" summary="Metoda obliczająca i wypisująca ciąg Fibonacciego">
+      <option name="closed" value="true" />
+      <created>1741988177487</created>
+      <option name="number" value="01303" />
+      <option name="presentableId" value="LOCAL-01303" />
+      <option name="project" value="LOCAL" />
+      <updated>1741988177487</updated>
+    </task>
+    <task id="LOCAL-01304" summary="Metoda obliczająca i wypisująca ciąg Fibonacciego">
+      <option name="closed" value="true" />
+      <created>1741988190879</created>
+      <option name="number" value="01304" />
+      <option name="presentableId" value="LOCAL-01304" />
+      <option name="project" value="LOCAL" />
+      <updated>1741988190879</updated>
+    </task>
+    <option name="localTasksCounter" value="1305" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,12 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pierwiastek kwadratowy" />
-    <MESSAGE value="Napisz program w języku Java, który sprawdza, czy podana liczba jest liczbą pierwszą.&#10;Liczba pierwsza to liczba większa od 1, która dzieli się tylko przez 1 i samą siebie.&#10;&#10;Wymagania:&#10;Program powinien pobrać liczbę od użytkownika.&#10;Sprawdzić, czy liczba jest pierwsza.&#10;Wyświetlić odpowiedni komunikat:&#10;Jeśli liczba jest pierwsza → &quot;Liczba X jest liczbą pierwszą.&quot;&#10;Jeśli liczba nie jest pierwsza → &quot;Liczba X nie jest liczbą pierwszą.&quot;&#10;Obsłużyć sytuację, gdy użytkownik poda liczbę mniejszą niż 2." />
-    <MESSAGE value="Warunek" />
-    <MESSAGE value="Metoda sprawdzająca, czy liczba jest pierwsza" />
-    <MESSAGE value="Liczby mniejsze niż 2 nie są pierwsze" />
-    <MESSAGE value="Sprawdzanie podzielności do pierwiastka z n" />
     <MESSAGE value="Jeśli liczba dzieli się przez inne liczby, nie jest pierwsza" />
     <MESSAGE value="Jeśli nie znaleziono dzielnika, liczba jest pierwsza" />
     <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Odwraca kolejność znaków w tekście.&#10;Wyświetla wynik na ekranie." />
@@ -595,6 +589,12 @@
     <MESSAGE value="Sprawdzenie, czy tekst jest palindromem" />
     <MESSAGE value="Usunięcie spacji i konwersja na małe litery" />
     <MESSAGE value="Odwrócenie tekstu i porównanie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Odwrócenie tekstu i porównanie" />
+    <MESSAGE value="Napisz program w języku Java, który wyświetla liczby od 1 do 100, ale:&#10;&#10;Dla liczb podzielnych przez 3 wypisuje &quot;Fizz&quot;,&#10;Dla liczb podzielnych przez 5 wypisuje &quot;Buzz&quot;,&#10;Dla liczb podzielnych zarówno przez 3 i 5 wypisuje &quot;FizzBuzz&quot;,&#10;W przeciwnym razie wypisuje samą liczbę." />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Oblicza silnię n! (n! = 1 × 2 × 3 × ... × n).&#10;Wyświetla wynik.&#10;Warunki:&#10;&#10;Jeśli użytkownik poda n &lt; 0, program powinien wyświetlić komunikat &quot;Nie można obliczyć silni z liczby ujemnej!&quot;.&#10;0! wynosi 1." />
+    <MESSAGE value="Metoda obliczająca silnię iteracyjnie" />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę n.&#10;Wypisuje n pierwszych liczb z ciągu Fibonacciego.&#10;Obsługuje błędne dane (np. liczby ujemne)." />
+    <MESSAGE value="Pobranie liczby od użytkownika" />
+    <MESSAGE value="Metoda obliczająca i wypisująca ciąg Fibonacciego" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metoda obliczająca i wypisująca ciąg Fibonacciego" />
   </component>
 </project>
