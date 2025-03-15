@@ -23,3 +23,20 @@ public class ZapisBitowy {
                     bitIndex++;
                 }
             }
+            fis.close();
+
+            FileOutputStream fos = new FileOutputStream(sciezkaWyjsciowa);
+            fos.write(liczba);
+            fos.close();
+
+            long wielkoscPlikuWejsciowego = Files.size(Paths.get(sciezkaWejsciowa));
+            long wielkoscPlikuWyjsciowego = Files.size(Paths.get(sciezkaWyjsciowa));
+
+            System.out.println("Wielkość pliku wejściowego: " + wielkoscPlikuWejsciowego + " bajtów");
+            System.out.println("Wielkość pliku wyjściowego: " + wielkoscPlikuWyjsciowego + " bajtów");
+
+        } catch (IOException e) {
+            System.err.println("Błąd podczas odczytu lub zapisu pliku: " + e.getMessage());
+        }
+    }
+}
