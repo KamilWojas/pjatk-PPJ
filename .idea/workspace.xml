@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda obliczająca i wypisująca ciąg Fibonacciego" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Klient">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/AtrybutKlasowy.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,39 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="649000" />
-    </task>
-    <task id="LOCAL-01257" summary="Potęgowanie">
-      <option name="closed" value="true" />
-      <created>1741815907141</created>
-      <option name="number" value="01257" />
-      <option name="presentableId" value="LOCAL-01257" />
-      <option name="project" value="LOCAL" />
-      <updated>1741815907141</updated>
-    </task>
-    <task id="LOCAL-01258" summary="Pierwiastek kwadratowy">
-      <option name="closed" value="true" />
-      <created>1741815931236</created>
-      <option name="number" value="01258" />
-      <option name="presentableId" value="LOCAL-01258" />
-      <option name="project" value="LOCAL" />
-      <updated>1741815931236</updated>
-    </task>
-    <task id="LOCAL-01259" summary="Pierwiastek kwadratowy">
-      <option name="closed" value="true" />
-      <created>1741815949647</created>
-      <option name="number" value="01259" />
-      <option name="presentableId" value="LOCAL-01259" />
-      <option name="project" value="LOCAL" />
-      <updated>1741815949647</updated>
-    </task>
-    <task id="LOCAL-01260" summary="Napisz program w języku Java, który sprawdza, czy podana liczba jest liczbą pierwszą.&#10;Liczba pierwsza to liczba większa od 1, która dzieli się tylko przez 1 i samą siebie.&#10;&#10;Wymagania:&#10;Program powinien pobrać liczbę od użytkownika.&#10;Sprawdzić, czy liczba jest pierwsza.&#10;Wyświetlić odpowiedni komunikat:&#10;Jeśli liczba jest pierwsza → &quot;Liczba X jest liczbą pierwszą.&quot;&#10;Jeśli liczba nie jest pierwsza → &quot;Liczba X nie jest liczbą pierwszą.&quot;&#10;Obsłużyć sytuację, gdy użytkownik poda liczbę mniejszą niż 2.">
-      <option name="closed" value="true" />
-      <created>1741816778083</created>
-      <option name="number" value="01260" />
-      <option name="presentableId" value="LOCAL-01260" />
-      <option name="project" value="LOCAL" />
-      <updated>1741816778083</updated>
+      <workItem from="1742046384185" duration="966000" />
     </task>
     <task id="LOCAL-01261" summary="Klasa bazowa">
       <option name="closed" value="true" />
@@ -551,7 +521,39 @@
       <option name="project" value="LOCAL" />
       <updated>1742046449314</updated>
     </task>
-    <option name="localTasksCounter" value="1306" />
+    <task id="LOCAL-01306" summary="Klient">
+      <option name="closed" value="true" />
+      <created>1742077121271</created>
+      <option name="number" value="01306" />
+      <option name="presentableId" value="LOCAL-01306" />
+      <option name="project" value="LOCAL" />
+      <updated>1742077121271</updated>
+    </task>
+    <task id="LOCAL-01307" summary="Klient">
+      <option name="closed" value="true" />
+      <created>1742077143852</created>
+      <option name="number" value="01307" />
+      <option name="presentableId" value="LOCAL-01307" />
+      <option name="project" value="LOCAL" />
+      <updated>1742077143853</updated>
+    </task>
+    <task id="LOCAL-01308" summary="Klient">
+      <option name="closed" value="true" />
+      <created>1742077164532</created>
+      <option name="number" value="01308" />
+      <option name="presentableId" value="LOCAL-01308" />
+      <option name="project" value="LOCAL" />
+      <updated>1742077164532</updated>
+    </task>
+    <task id="LOCAL-01309" summary="Klient">
+      <option name="closed" value="true" />
+      <created>1742077185604</created>
+      <option name="number" value="01309" />
+      <option name="presentableId" value="LOCAL-01309" />
+      <option name="project" value="LOCAL" />
+      <updated>1742077185604</updated>
+    </task>
+    <option name="localTasksCounter" value="1310" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Jeśli liczba dzieli się przez inne liczby, nie jest pierwsza" />
     <MESSAGE value="Jeśli nie znaleziono dzielnika, liczba jest pierwsza" />
     <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Odwraca kolejność znaków w tekście.&#10;Wyświetla wynik na ekranie." />
     <MESSAGE value="Klasa bazowa" />
@@ -594,6 +595,7 @@
     <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę n.&#10;Wypisuje n pierwszych liczb z ciągu Fibonacciego.&#10;Obsługuje błędne dane (np. liczby ujemne)." />
     <MESSAGE value="Pobranie liczby od użytkownika" />
     <MESSAGE value="Metoda obliczająca i wypisująca ciąg Fibonacciego" />
-    <option name="LAST_COMMIT_MESSAGE" value="Metoda obliczająca i wypisująca ciąg Fibonacciego" />
+    <MESSAGE value="Klient" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klient" />
   </component>
 </project>
