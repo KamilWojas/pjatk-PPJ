@@ -20,3 +20,6 @@ public class SumaCyfr {
             suma += liczba % 10;
             liczba /= 10;
         }
+        return suma;
+    }
+}
