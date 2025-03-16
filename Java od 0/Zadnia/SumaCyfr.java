@@ -10,3 +10,6 @@ public class SumaCyfr {
         int suma = obliczSumeCyfr(Math.abs(n));
 
         System.out.println("Suma cyfr liczby " + Math.abs(n) + " wynosi: " + suma);
+
+        scanner.close();
+    }
