@@ -18,4 +18,5 @@ public class SumaCyfr {
         int suma = 0;
         while (liczba > 0) {
             suma += liczba % 10;
+            liczba /= 10;
         }
