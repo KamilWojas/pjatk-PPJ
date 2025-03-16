@@ -18,3 +18,15 @@ public class MinMaxTablica {
             System.out.print("Podaj liczbę " + (i + 1) + ": ");
             liczby[i] = scanner.nextInt();
         }
+
+        int min = liczby[0];
+        int max = liczby[0];
+
+        for (int i = 1; i < n; i++) {
+            if (liczby[i] < min) {
+                min = liczby[i];
+            }
+            if (liczby[i] > max) {
+                max = liczby[i];
+            }
+        }
