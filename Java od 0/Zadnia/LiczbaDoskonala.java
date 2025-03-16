@@ -20,3 +20,9 @@ public class LiczbaDoskonala {
 
     public static boolean czyLiczbaDoskonala(int n) {
         int sumaDzielnikow = 0;
+
+        for (int i = 1; i <= n / 2; i++) {
+            if (n % i == 0) {
+                sumaDzielnikow += i;
+            }
+        }
