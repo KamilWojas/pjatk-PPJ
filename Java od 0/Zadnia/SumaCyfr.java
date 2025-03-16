@@ -17,3 +17,5 @@ public class SumaCyfr {
     public static int obliczSumeCyfr(int liczba) {
         int suma = 0;
         while (liczba > 0) {
+            suma += liczba % 10;
+        }
