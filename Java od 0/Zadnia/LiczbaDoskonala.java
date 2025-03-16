@@ -17,3 +17,6 @@ public class LiczbaDoskonala {
 
         scanner.close();
     }
+
+    public static boolean czyLiczbaDoskonala(int n) {
+        int sumaDzielnikow = 0;
