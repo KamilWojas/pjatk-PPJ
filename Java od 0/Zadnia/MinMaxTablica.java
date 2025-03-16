@@ -30,3 +30,10 @@ public class MinMaxTablica {
                 max = liczby[i];
             }
         }
+        
+        System.out.println("Największa liczba: " + max);
+        System.out.println("Najmniejsza liczba: " + min);
+
+        scanner.close();
+    }
+}
