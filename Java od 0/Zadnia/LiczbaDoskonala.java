@@ -26,3 +26,6 @@ public class LiczbaDoskonala {
                 sumaDzielnikow += i;
             }
         }
+        return sumaDzielnikow == n;
+    }
+}
