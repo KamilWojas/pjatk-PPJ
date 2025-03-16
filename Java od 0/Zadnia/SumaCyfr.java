@@ -6,3 +6,5 @@ public class SumaCyfr {
 
         System.out.print("Podaj liczbę: ");
         int n = scanner.nextInt();
+
+        int suma = obliczSumeCyfr(Math.abs(n)); 
