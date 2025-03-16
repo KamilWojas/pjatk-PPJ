@@ -13,3 +13,7 @@ public class SumaCyfr {
 
         scanner.close();
     }
+
+    public static int obliczSumeCyfr(int liczba) {
+        int suma = 0;
+        while (liczba > 0) {
