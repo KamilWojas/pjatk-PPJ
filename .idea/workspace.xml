@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pobranie liczby od użytkownika">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/LiczbaDoskonala.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/LiczbaDoskonala.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlenie wyników">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,79 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="2205000" />
-    </task>
-    <task id="LOCAL-01285" summary="Zwracamy wynik jako tablicę">
-      <option name="closed" value="true" />
-      <created>1741883200250</created>
-      <option name="number" value="01285" />
-      <option name="presentableId" value="LOCAL-01285" />
-      <option name="project" value="LOCAL" />
-      <updated>1741883200250</updated>
-    </task>
-    <task id="LOCAL-01286" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Sprawdza, czy podany tekst jest palindromem (czytany od przodu i od tyłu wygląda tak samo, ignorując wielkość liter i spacje).&#10;Wyświetla wynik na ekranie.">
-      <option name="closed" value="true" />
-      <created>1741883270678</created>
-      <option name="number" value="01286" />
-      <option name="presentableId" value="LOCAL-01286" />
-      <option name="project" value="LOCAL" />
-      <updated>1741883270678</updated>
-    </task>
-    <task id="LOCAL-01287" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Sprawdza, czy podany tekst jest palindromem (czytany od przodu i od tyłu wygląda tak samo, ignorując wielkość liter i spacje).&#10;Wyświetla wynik na ekranie.">
-      <option name="closed" value="true" />
-      <created>1741883279500</created>
-      <option name="number" value="01287" />
-      <option name="presentableId" value="LOCAL-01287" />
-      <option name="project" value="LOCAL" />
-      <updated>1741883279500</updated>
-    </task>
-    <task id="LOCAL-01288" summary="Pobranie tekstu od użytkownika">
-      <option name="closed" value="true" />
-      <created>1741883328851</created>
-      <option name="number" value="01288" />
-      <option name="presentableId" value="LOCAL-01288" />
-      <option name="project" value="LOCAL" />
-      <updated>1741883328851</updated>
-    </task>
-    <task id="LOCAL-01289" summary="Sprawdzenie, czy tekst jest palindromem">
-      <option name="closed" value="true" />
-      <created>1741883351337</created>
-      <option name="number" value="01289" />
-      <option name="presentableId" value="LOCAL-01289" />
-      <option name="project" value="LOCAL" />
-      <updated>1741883351337</updated>
-    </task>
-    <task id="LOCAL-01290" summary="Usunięcie spacji i konwersja na małe litery">
-      <option name="closed" value="true" />
-      <created>1741883401115</created>
-      <option name="number" value="01290" />
-      <option name="presentableId" value="LOCAL-01290" />
-      <option name="project" value="LOCAL" />
-      <updated>1741883401116</updated>
-    </task>
-    <task id="LOCAL-01291" summary="Odwrócenie tekstu i porównanie">
-      <option name="closed" value="true" />
-      <created>1741883420926</created>
-      <option name="number" value="01291" />
-      <option name="presentableId" value="LOCAL-01291" />
-      <option name="project" value="LOCAL" />
-      <updated>1741883420926</updated>
-    </task>
-    <task id="LOCAL-01292" summary="Odwrócenie tekstu i porównanie">
-      <option name="closed" value="true" />
-      <created>1741883431547</created>
-      <option name="number" value="01292" />
-      <option name="presentableId" value="LOCAL-01292" />
-      <option name="project" value="LOCAL" />
-      <updated>1741883431547</updated>
-    </task>
-    <task id="LOCAL-01293" summary="Napisz program w języku Java, który wyświetla liczby od 1 do 100, ale:&#10;&#10;Dla liczb podzielnych przez 3 wypisuje &quot;Fizz&quot;,&#10;Dla liczb podzielnych przez 5 wypisuje &quot;Buzz&quot;,&#10;Dla liczb podzielnych zarówno przez 3 i 5 wypisuje &quot;FizzBuzz&quot;,&#10;W przeciwnym razie wypisuje samą liczbę.">
-      <option name="closed" value="true" />
-      <created>1741987913657</created>
-      <option name="number" value="01293" />
-      <option name="presentableId" value="LOCAL-01293" />
-      <option name="project" value="LOCAL" />
-      <updated>1741987913657</updated>
+      <workItem from="1742046384185" duration="3054000" />
     </task>
     <task id="LOCAL-01294" summary="Napisz program w języku Java, który wyświetla liczby od 1 do 100, ale:&#10;&#10;Dla liczb podzielnych przez 3 wypisuje &quot;Fizz&quot;,&#10;Dla liczb podzielnych przez 5 wypisuje &quot;Buzz&quot;,&#10;Dla liczb podzielnych zarówno przez 3 i 5 wypisuje &quot;FizzBuzz&quot;,&#10;W przeciwnym razie wypisuje samą liczbę.">
       <option name="closed" value="true" />
@@ -553,7 +481,79 @@
       <option name="project" value="LOCAL" />
       <updated>1742165153904</updated>
     </task>
-    <option name="localTasksCounter" value="1334" />
+    <task id="LOCAL-01334" summary="Metoda sprawdzająca, czy liczba jest doskonała">
+      <option name="closed" value="true" />
+      <created>1742165171729</created>
+      <option name="number" value="01334" />
+      <option name="presentableId" value="LOCAL-01334" />
+      <option name="project" value="LOCAL" />
+      <updated>1742165171729</updated>
+    </task>
+    <task id="LOCAL-01335" summary="Szukamy dzielników od 1 do n/2 (optymalizacja)">
+      <option name="closed" value="true" />
+      <created>1742165195356</created>
+      <option name="number" value="01335" />
+      <option name="presentableId" value="LOCAL-01335" />
+      <option name="project" value="LOCAL" />
+      <updated>1742165195356</updated>
+    </task>
+    <task id="LOCAL-01336" summary="Szukamy dzielników od 1 do n/2 (optymalizacja)">
+      <option name="closed" value="true" />
+      <created>1742165209593</created>
+      <option name="number" value="01336" />
+      <option name="presentableId" value="LOCAL-01336" />
+      <option name="project" value="LOCAL" />
+      <updated>1742165209593</updated>
+    </task>
+    <task id="LOCAL-01337" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika ilość liczb, które chce wprowadzić.&#10;Pobiera n liczb od użytkownika i zapisuje je w tablicy.&#10;Znajduje i wyświetla największą oraz najmniejszą liczbę w tablicy.">
+      <option name="closed" value="true" />
+      <created>1742165283649</created>
+      <option name="number" value="01337" />
+      <option name="presentableId" value="LOCAL-01337" />
+      <option name="project" value="LOCAL" />
+      <updated>1742165283649</updated>
+    </task>
+    <task id="LOCAL-01338" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika ilość liczb, które chce wprowadzić.&#10;Pobiera n liczb od użytkownika i zapisuje je w tablicy.&#10;Znajduje i wyświetla największą oraz najmniejszą liczbę w tablicy.">
+      <option name="closed" value="true" />
+      <created>1742165295293</created>
+      <option name="number" value="01338" />
+      <option name="presentableId" value="LOCAL-01338" />
+      <option name="project" value="LOCAL" />
+      <updated>1742165295293</updated>
+    </task>
+    <task id="LOCAL-01339" summary="Pobranie liczby elementów">
+      <option name="closed" value="true" />
+      <created>1742165319660</created>
+      <option name="number" value="01339" />
+      <option name="presentableId" value="LOCAL-01339" />
+      <option name="project" value="LOCAL" />
+      <updated>1742165319660</updated>
+    </task>
+    <task id="LOCAL-01340" summary="Pobieranie liczb od użytkownika">
+      <option name="closed" value="true" />
+      <created>1742165363296</created>
+      <option name="number" value="01340" />
+      <option name="presentableId" value="LOCAL-01340" />
+      <option name="project" value="LOCAL" />
+      <updated>1742165363297</updated>
+    </task>
+    <task id="LOCAL-01341" summary="Znalezienie min i max">
+      <option name="closed" value="true" />
+      <created>1742165385755</created>
+      <option name="number" value="01341" />
+      <option name="presentableId" value="LOCAL-01341" />
+      <option name="project" value="LOCAL" />
+      <updated>1742165385755</updated>
+    </task>
+    <task id="LOCAL-01342" summary="Wyświetlenie wyników">
+      <option name="closed" value="true" />
+      <created>1742165411977</created>
+      <option name="number" value="01342" />
+      <option name="presentableId" value="LOCAL-01342" />
+      <option name="project" value="LOCAL" />
+      <updated>1742165411977</updated>
+    </task>
+    <option name="localTasksCounter" value="1343" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,13 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Metoda licząca samogłoski i spółgłoski" />
-    <MESSAGE value="Polskie i angielskie samogłoski" />
-    <MESSAGE value="Sprawdzamy, czy znak jest literą" />
-    <MESSAGE value="Zwracamy wynik jako tablicę" />
-    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera ciąg znaków (String) od użytkownika.&#10;Sprawdza, czy podany tekst jest palindromem (czytany od przodu i od tyłu wygląda tak samo, ignorując wielkość liter i spacje).&#10;Wyświetla wynik na ekranie." />
-    <MESSAGE value="Pobranie tekstu od użytkownika" />
-    <MESSAGE value="Sprawdzenie, czy tekst jest palindromem" />
     <MESSAGE value="Usunięcie spacji i konwersja na małe litery" />
     <MESSAGE value="Odwrócenie tekstu i porównanie" />
     <MESSAGE value="Napisz program w języku Java, który wyświetla liczby od 1 do 100, ale:&#10;&#10;Dla liczb podzielnych przez 3 wypisuje &quot;Fizz&quot;,&#10;Dla liczb podzielnych przez 5 wypisuje &quot;Buzz&quot;,&#10;Dla liczb podzielnych zarówno przez 3 i 5 wypisuje &quot;FizzBuzz&quot;,&#10;W przeciwnym razie wypisuje samą liczbę." />
@@ -596,6 +589,13 @@
     <MESSAGE value="Usunięcie ostatniej cyfry" />
     <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę całkowitą n od użytkownika.&#10;Sprawdza, czy n jest liczbą doskonałą.&#10;Wyświetla odpowiedni komunikat." />
     <MESSAGE value="Pobranie liczby od użytkownika" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pobranie liczby od użytkownika" />
+    <MESSAGE value="Metoda sprawdzająca, czy liczba jest doskonała" />
+    <MESSAGE value="Szukamy dzielników od 1 do n/2 (optymalizacja)" />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika ilość liczb, które chce wprowadzić.&#10;Pobiera n liczb od użytkownika i zapisuje je w tablicy.&#10;Znajduje i wyświetla największą oraz najmniejszą liczbę w tablicy." />
+    <MESSAGE value="Pobranie liczby elementów" />
+    <MESSAGE value="Pobieranie liczb od użytkownika" />
+    <MESSAGE value="Znalezienie min i max" />
+    <MESSAGE value="Wyświetlenie wyników" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wyświetlenie wyników" />
   </component>
 </project>
