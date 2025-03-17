@@ -16,3 +16,13 @@ public class SzyfrCezara {
 
         scanner.close();
     }
+
+    public static String zaszyfrujCezarem(String tekst, int klucz) {
+        StringBuilder wynik = new StringBuilder();
+
+        for (char znak : tekst.toCharArray()) {
+            if (Character.isLetter(znak)) {
+                char baza = Character.isUpperCase(znak) ? 'A' : 'a';
+                char zaszyfrowany = (char) ((znak - baza + klucz) % 26 + baza);
+                wynik.append(zaszyfrowany);
+            } else {
