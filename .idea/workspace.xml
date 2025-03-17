@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlenie wyników">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Anagramy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,15 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="3054000" />
-    </task>
-    <task id="LOCAL-01294" summary="Napisz program w języku Java, który wyświetla liczby od 1 do 100, ale:&#10;&#10;Dla liczb podzielnych przez 3 wypisuje &quot;Fizz&quot;,&#10;Dla liczb podzielnych przez 5 wypisuje &quot;Buzz&quot;,&#10;Dla liczb podzielnych zarówno przez 3 i 5 wypisuje &quot;FizzBuzz&quot;,&#10;W przeciwnym razie wypisuje samą liczbę.">
-      <option name="closed" value="true" />
-      <created>1741987931219</created>
-      <option name="number" value="01294" />
-      <option name="presentableId" value="LOCAL-01294" />
-      <option name="project" value="LOCAL" />
-      <updated>1741987931219</updated>
+      <workItem from="1742046384185" duration="3665000" />
     </task>
     <task id="LOCAL-01295" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Oblicza silnię n! (n! = 1 × 2 × 3 × ... × n).&#10;Wyświetla wynik.&#10;Warunki:&#10;&#10;Jeśli użytkownik poda n &lt; 0, program powinien wyświetlić komunikat &quot;Nie można obliczyć silni z liczby ujemnej!&quot;.&#10;0! wynosi 1.">
       <option name="closed" value="true" />
@@ -553,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742165411977</updated>
     </task>
-    <option name="localTasksCounter" value="1343" />
+    <task id="LOCAL-01343" summary="Wyświetlenie wyników">
+      <option name="closed" value="true" />
+      <created>1742230322841</created>
+      <option name="number" value="01343" />
+      <option name="presentableId" value="LOCAL-01343" />
+      <option name="project" value="LOCAL" />
+      <updated>1742230322842</updated>
+    </task>
+    <option name="localTasksCounter" value="1344" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
