@@ -6,3 +6,6 @@ public class SzyfrCezara {
 
         System.out.print("Podaj tekst: ");
         String tekst = scanner.nextLine();
+
+        System.out.print("Podaj klucz przesunięcia: ");
+        int klucz = scanner.nextInt();
