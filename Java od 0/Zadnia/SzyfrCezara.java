@@ -11,3 +11,8 @@ public class SzyfrCezara {
         int klucz = scanner.nextInt();
 
         String zaszyfrowanyTekst = zaszyfrujCezarem(tekst, klucz);
+
+        System.out.println("Zaszyfrowany tekst: " + zaszyfrowanyTekst);
+
+        scanner.close();
+    }
