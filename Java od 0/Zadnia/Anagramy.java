@@ -23,4 +23,10 @@ public class Anagramy {
 
     public static boolean czyAnagram(String slowo1, String slowo2) {
         if (slowo1.length() != slowo2.length()) {
-            return false; 
+            return false;
+        }
+
+        char[] tablica1 = slowo1.toCharArray();
+        char[] tablica2 = slowo2.toCharArray();
+        Arrays.sort(tablica1);
+        Arrays.sort(tablica2);
