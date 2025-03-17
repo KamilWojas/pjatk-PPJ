@@ -20,3 +20,7 @@ public class Anagramy {
 
         scanner.close();
     }
+
+    public static boolean czyAnagram(String slowo1, String slowo2) {
+        if (slowo1.length() != slowo2.length()) {
+            return false; 
