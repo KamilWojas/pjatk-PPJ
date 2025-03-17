@@ -26,3 +26,11 @@ public class SzyfrCezara {
                 char zaszyfrowany = (char) ((znak - baza + klucz) % 26 + baza);
                 wynik.append(zaszyfrowany);
             } else {
+                wynik.append(znak);
+            }
+        }
+
+        return wynik.toString();
+    }
+}
+            
