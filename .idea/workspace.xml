@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlenie wyników">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Anagramy.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Porównanie posortowanych tablic" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,79 +157,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="3665000" />
-    </task>
-    <task id="LOCAL-01295" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Oblicza silnię n! (n! = 1 × 2 × 3 × ... × n).&#10;Wyświetla wynik.&#10;Warunki:&#10;&#10;Jeśli użytkownik poda n &lt; 0, program powinien wyświetlić komunikat &quot;Nie można obliczyć silni z liczby ujemnej!&quot;.&#10;0! wynosi 1.">
-      <option name="closed" value="true" />
-      <created>1741987969374</created>
-      <option name="number" value="01295" />
-      <option name="presentableId" value="LOCAL-01295" />
-      <option name="project" value="LOCAL" />
-      <updated>1741987969374</updated>
-    </task>
-    <task id="LOCAL-01296" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Oblicza silnię n! (n! = 1 × 2 × 3 × ... × n).&#10;Wyświetla wynik.&#10;Warunki:&#10;&#10;Jeśli użytkownik poda n &lt; 0, program powinien wyświetlić komunikat &quot;Nie można obliczyć silni z liczby ujemnej!&quot;.&#10;0! wynosi 1.">
-      <option name="closed" value="true" />
-      <created>1741987981114</created>
-      <option name="number" value="01296" />
-      <option name="presentableId" value="LOCAL-01296" />
-      <option name="project" value="LOCAL" />
-      <updated>1741987981114</updated>
-    </task>
-    <task id="LOCAL-01297" summary="Pobranie liczby od użytkownika">
-      <option name="closed" value="true" />
-      <created>1741988008038</created>
-      <option name="number" value="01297" />
-      <option name="presentableId" value="LOCAL-01297" />
-      <option name="project" value="LOCAL" />
-      <updated>1741988008038</updated>
-    </task>
-    <task id="LOCAL-01298" summary="Metoda obliczająca silnię iteracyjnie">
-      <option name="closed" value="true" />
-      <created>1741988036107</created>
-      <option name="number" value="01298" />
-      <option name="presentableId" value="LOCAL-01298" />
-      <option name="project" value="LOCAL" />
-      <updated>1741988036107</updated>
-    </task>
-    <task id="LOCAL-01299" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę n.&#10;Wypisuje n pierwszych liczb z ciągu Fibonacciego.&#10;Obsługuje błędne dane (np. liczby ujemne).">
-      <option name="closed" value="true" />
-      <created>1741988106474</created>
-      <option name="number" value="01299" />
-      <option name="presentableId" value="LOCAL-01299" />
-      <option name="project" value="LOCAL" />
-      <updated>1741988106474</updated>
-    </task>
-    <task id="LOCAL-01300" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę n.&#10;Wypisuje n pierwszych liczb z ciągu Fibonacciego.&#10;Obsługuje błędne dane (np. liczby ujemne).">
-      <option name="closed" value="true" />
-      <created>1741988116037</created>
-      <option name="number" value="01300" />
-      <option name="presentableId" value="LOCAL-01300" />
-      <option name="project" value="LOCAL" />
-      <updated>1741988116037</updated>
-    </task>
-    <task id="LOCAL-01301" summary="Pobranie liczby od użytkownika">
-      <option name="closed" value="true" />
-      <created>1741988138961</created>
-      <option name="number" value="01301" />
-      <option name="presentableId" value="LOCAL-01301" />
-      <option name="project" value="LOCAL" />
-      <updated>1741988138961</updated>
-    </task>
-    <task id="LOCAL-01302" summary="Pobranie liczby od użytkownika">
-      <option name="closed" value="true" />
-      <created>1741988152873</created>
-      <option name="number" value="01302" />
-      <option name="presentableId" value="LOCAL-01302" />
-      <option name="project" value="LOCAL" />
-      <updated>1741988152873</updated>
-    </task>
-    <task id="LOCAL-01303" summary="Metoda obliczająca i wypisująca ciąg Fibonacciego">
-      <option name="closed" value="true" />
-      <created>1741988177487</created>
-      <option name="number" value="01303" />
-      <option name="presentableId" value="LOCAL-01303" />
-      <option name="project" value="LOCAL" />
-      <updated>1741988177487</updated>
+      <workItem from="1742046384185" duration="4489000" />
     </task>
     <task id="LOCAL-01304" summary="Metoda obliczająca i wypisująca ciąg Fibonacciego">
       <option name="closed" value="true" />
@@ -553,7 +479,79 @@
       <option name="project" value="LOCAL" />
       <updated>1742230322842</updated>
     </task>
-    <option name="localTasksCounter" value="1344" />
+    <task id="LOCAL-01344" summary="Anagramy">
+      <option name="closed" value="true" />
+      <created>1742234334483</created>
+      <option name="number" value="01344" />
+      <option name="presentableId" value="LOCAL-01344" />
+      <option name="project" value="LOCAL" />
+      <updated>1742234334483</updated>
+    </task>
+    <task id="LOCAL-01345" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika dwa słowa.&#10;Sprawdza, czy są anagramami – czyli czy można ułożyć jedno słowo z liter drugiego.&#10;Wyświetla odpowiedni komunikat.">
+      <option name="closed" value="true" />
+      <created>1742234356799</created>
+      <option name="number" value="01345" />
+      <option name="presentableId" value="LOCAL-01345" />
+      <option name="project" value="LOCAL" />
+      <updated>1742234356799</updated>
+    </task>
+    <task id="LOCAL-01346" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika dwa słowa.&#10;Sprawdza, czy są anagramami – czyli czy można ułożyć jedno słowo z liter drugiego.&#10;Wyświetla odpowiedni komunikat.">
+      <option name="closed" value="true" />
+      <created>1742234370601</created>
+      <option name="number" value="01346" />
+      <option name="presentableId" value="LOCAL-01346" />
+      <option name="project" value="LOCAL" />
+      <updated>1742234370601</updated>
+    </task>
+    <task id="LOCAL-01347" summary="Scanner">
+      <option name="closed" value="true" />
+      <created>1742234387453</created>
+      <option name="number" value="01347" />
+      <option name="presentableId" value="LOCAL-01347" />
+      <option name="project" value="LOCAL" />
+      <updated>1742234387453</updated>
+    </task>
+    <task id="LOCAL-01348" summary="Pobranie dwóch słów od użytkownika">
+      <option name="closed" value="true" />
+      <created>1742234408794</created>
+      <option name="number" value="01348" />
+      <option name="presentableId" value="LOCAL-01348" />
+      <option name="project" value="LOCAL" />
+      <updated>1742234408794</updated>
+    </task>
+    <task id="LOCAL-01349" summary="Sprawdzenie, czy są anagramami">
+      <option name="closed" value="true" />
+      <created>1742234460559</created>
+      <option name="number" value="01349" />
+      <option name="presentableId" value="LOCAL-01349" />
+      <option name="project" value="LOCAL" />
+      <updated>1742234460559</updated>
+    </task>
+    <task id="LOCAL-01350" summary="Metoda sprawdzająca, czy dwa słowa są anagramami">
+      <option name="closed" value="true" />
+      <created>1742234483324</created>
+      <option name="number" value="01350" />
+      <option name="presentableId" value="LOCAL-01350" />
+      <option name="project" value="LOCAL" />
+      <updated>1742234483324</updated>
+    </task>
+    <task id="LOCAL-01351" summary="Konwersja na tablicę znaków i sortowanie">
+      <option name="closed" value="true" />
+      <created>1742234515113</created>
+      <option name="number" value="01351" />
+      <option name="presentableId" value="LOCAL-01351" />
+      <option name="project" value="LOCAL" />
+      <updated>1742234515113</updated>
+    </task>
+    <task id="LOCAL-01352" summary="Porównanie posortowanych tablic">
+      <option name="closed" value="true" />
+      <created>1742234545109</created>
+      <option name="number" value="01352" />
+      <option name="presentableId" value="LOCAL-01352" />
+      <option name="project" value="LOCAL" />
+      <updated>1742234545109</updated>
+    </task>
+    <option name="localTasksCounter" value="1353" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,14 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Usunięcie spacji i konwersja na małe litery" />
-    <MESSAGE value="Odwrócenie tekstu i porównanie" />
-    <MESSAGE value="Napisz program w języku Java, który wyświetla liczby od 1 do 100, ale:&#10;&#10;Dla liczb podzielnych przez 3 wypisuje &quot;Fizz&quot;,&#10;Dla liczb podzielnych przez 5 wypisuje &quot;Buzz&quot;,&#10;Dla liczb podzielnych zarówno przez 3 i 5 wypisuje &quot;FizzBuzz&quot;,&#10;W przeciwnym razie wypisuje samą liczbę." />
-    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Oblicza silnię n! (n! = 1 × 2 × 3 × ... × n).&#10;Wyświetla wynik.&#10;Warunki:&#10;&#10;Jeśli użytkownik poda n &lt; 0, program powinien wyświetlić komunikat &quot;Nie można obliczyć silni z liczby ujemnej!&quot;.&#10;0! wynosi 1." />
-    <MESSAGE value="Metoda obliczająca silnię iteracyjnie" />
-    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę n.&#10;Wypisuje n pierwszych liczb z ciągu Fibonacciego.&#10;Obsługuje błędne dane (np. liczby ujemne)." />
-    <MESSAGE value="Metoda obliczająca i wypisująca ciąg Fibonacciego" />
-    <MESSAGE value="Klient" />
     <MESSAGE value="ZapisBitowy" />
     <MESSAGE value="ZliczanieZnakow" />
     <MESSAGE value="SumaCyfr" />
@@ -596,6 +586,14 @@
     <MESSAGE value="Pobieranie liczb od użytkownika" />
     <MESSAGE value="Znalezienie min i max" />
     <MESSAGE value="Wyświetlenie wyników" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wyświetlenie wyników" />
+    <MESSAGE value="Anagramy" />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika dwa słowa.&#10;Sprawdza, czy są anagramami – czyli czy można ułożyć jedno słowo z liter drugiego.&#10;Wyświetla odpowiedni komunikat." />
+    <MESSAGE value="Scanner" />
+    <MESSAGE value="Pobranie dwóch słów od użytkownika" />
+    <MESSAGE value="Sprawdzenie, czy są anagramami" />
+    <MESSAGE value="Metoda sprawdzająca, czy dwa słowa są anagramami" />
+    <MESSAGE value="Konwersja na tablicę znaków i sortowanie" />
+    <MESSAGE value="Porównanie posortowanych tablic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Porównanie posortowanych tablic" />
   </component>
 </project>
