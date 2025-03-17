@@ -30,3 +30,7 @@ public class Anagramy {
         char[] tablica2 = slowo2.toCharArray();
         Arrays.sort(tablica1);
         Arrays.sort(tablica2);
+
+        return Arrays.equals(tablica1, tablica2);
+    }
+}
