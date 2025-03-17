@@ -9,3 +9,5 @@ public class SzyfrCezara {
 
         System.out.print("Podaj klucz przesunięcia: ");
         int klucz = scanner.nextInt();
+
+        String zaszyfrowanyTekst = zaszyfrujCezarem(tekst, klucz);
