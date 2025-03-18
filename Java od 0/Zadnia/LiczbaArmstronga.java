@@ -15,3 +15,7 @@ public class LiczbaArmstronga {
 
         scanner.close();
     }
+
+    public static boolean czyLiczbaArmstronga(int liczba) {
+        int suma = 0;
+        int temp = liczba;
