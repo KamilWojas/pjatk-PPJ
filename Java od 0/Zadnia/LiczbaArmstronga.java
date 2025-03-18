@@ -20,3 +20,7 @@ public class LiczbaArmstronga {
         int suma = 0;
         int temp = liczba;
         int liczbaCyfr = String.valueOf(liczba).length();
+
+        while (temp > 0) {
+            int cyfra = temp % 10;
+        }
