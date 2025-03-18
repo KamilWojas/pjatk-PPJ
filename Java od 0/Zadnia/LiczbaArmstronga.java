@@ -26,3 +26,7 @@ public class LiczbaArmstronga {
             suma += Math.pow(cyfra, liczbaCyfr);
             temp /= 10;
         }
+
+        return suma == liczba;
+    }
+}
