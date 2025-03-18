@@ -33,4 +33,4 @@ public class SzyfrCezara {
         return wynik.toString();
     }
 }
-            
+
