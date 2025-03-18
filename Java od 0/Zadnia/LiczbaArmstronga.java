@@ -24,4 +24,5 @@ public class LiczbaArmstronga {
         while (temp > 0) {
             int cyfra = temp % 10;
             suma += Math.pow(cyfra, liczbaCyfr);
+            temp /= 10;
         }
