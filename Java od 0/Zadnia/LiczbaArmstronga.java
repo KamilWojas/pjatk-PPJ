@@ -19,3 +19,4 @@ public class LiczbaArmstronga {
     public static boolean czyLiczbaArmstronga(int liczba) {
         int suma = 0;
         int temp = liczba;
+        int liczbaCyfr = String.valueOf(liczba).length();
