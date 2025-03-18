@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Porównanie posortowanych tablic" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Jeśli to nie litera, pozostaje bez zmian">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/SzyfrCezara.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/SzyfrCezara.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,71 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="4489000" />
-    </task>
-    <task id="LOCAL-01304" summary="Metoda obliczająca i wypisująca ciąg Fibonacciego">
-      <option name="closed" value="true" />
-      <created>1741988190879</created>
-      <option name="number" value="01304" />
-      <option name="presentableId" value="LOCAL-01304" />
-      <option name="project" value="LOCAL" />
-      <updated>1741988190879</updated>
-    </task>
-    <task id="LOCAL-01305" summary="Metoda obliczająca i wypisująca ciąg Fibonacciego">
-      <option name="closed" value="true" />
-      <created>1742046449313</created>
-      <option name="number" value="01305" />
-      <option name="presentableId" value="LOCAL-01305" />
-      <option name="project" value="LOCAL" />
-      <updated>1742046449314</updated>
-    </task>
-    <task id="LOCAL-01306" summary="Klient">
-      <option name="closed" value="true" />
-      <created>1742077121271</created>
-      <option name="number" value="01306" />
-      <option name="presentableId" value="LOCAL-01306" />
-      <option name="project" value="LOCAL" />
-      <updated>1742077121271</updated>
-    </task>
-    <task id="LOCAL-01307" summary="Klient">
-      <option name="closed" value="true" />
-      <created>1742077143852</created>
-      <option name="number" value="01307" />
-      <option name="presentableId" value="LOCAL-01307" />
-      <option name="project" value="LOCAL" />
-      <updated>1742077143853</updated>
-    </task>
-    <task id="LOCAL-01308" summary="Klient">
-      <option name="closed" value="true" />
-      <created>1742077164532</created>
-      <option name="number" value="01308" />
-      <option name="presentableId" value="LOCAL-01308" />
-      <option name="project" value="LOCAL" />
-      <updated>1742077164532</updated>
-    </task>
-    <task id="LOCAL-01309" summary="Klient">
-      <option name="closed" value="true" />
-      <created>1742077185604</created>
-      <option name="number" value="01309" />
-      <option name="presentableId" value="LOCAL-01309" />
-      <option name="project" value="LOCAL" />
-      <updated>1742077185604</updated>
-    </task>
-    <task id="LOCAL-01310" summary="Klient">
-      <option name="closed" value="true" />
-      <created>1742077391480</created>
-      <option name="number" value="01310" />
-      <option name="presentableId" value="LOCAL-01310" />
-      <option name="project" value="LOCAL" />
-      <updated>1742077391480</updated>
-    </task>
-    <task id="LOCAL-01311" summary="Klient">
-      <option name="closed" value="true" />
-      <created>1742077420520</created>
-      <option name="number" value="01311" />
-      <option name="presentableId" value="LOCAL-01311" />
-      <option name="project" value="LOCAL" />
-      <updated>1742077420520</updated>
+      <workItem from="1742046384185" duration="5264000" />
     </task>
     <task id="LOCAL-01312" summary="ZapisBitowy">
       <option name="closed" value="true" />
@@ -551,7 +489,71 @@
       <option name="project" value="LOCAL" />
       <updated>1742234545109</updated>
     </task>
-    <option name="localTasksCounter" value="1353" />
+    <task id="LOCAL-01353" summary="SzyfrCezara">
+      <option name="closed" value="true" />
+      <created>1742251684114</created>
+      <option name="number" value="01353" />
+      <option name="presentableId" value="LOCAL-01353" />
+      <option name="project" value="LOCAL" />
+      <updated>1742251684114</updated>
+    </task>
+    <task id="LOCAL-01354" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika tekst do zaszyfrowania.&#10;Pobiera klucz przesunięcia (n) – liczbę oznaczającą, o ile miejsc każda litera w alfabecie ma być przesunięta.&#10;Zaszyfrowuje tekst przy użyciu szyfru Cezara.&#10;Wyświetla zaszyfrowany tekst.">
+      <option name="closed" value="true" />
+      <created>1742251707251</created>
+      <option name="number" value="01354" />
+      <option name="presentableId" value="LOCAL-01354" />
+      <option name="project" value="LOCAL" />
+      <updated>1742251707251</updated>
+    </task>
+    <task id="LOCAL-01355" summary="Pobranie tekstu od użytkownika">
+      <option name="closed" value="true" />
+      <created>1742251728649</created>
+      <option name="number" value="01355" />
+      <option name="presentableId" value="LOCAL-01355" />
+      <option name="project" value="LOCAL" />
+      <updated>1742251728649</updated>
+    </task>
+    <task id="LOCAL-01356" summary="Pobranie klucza przesunięcia">
+      <option name="closed" value="true" />
+      <created>1742251745751</created>
+      <option name="number" value="01356" />
+      <option name="presentableId" value="LOCAL-01356" />
+      <option name="project" value="LOCAL" />
+      <updated>1742251745751</updated>
+    </task>
+    <task id="LOCAL-01357" summary="Szyfrowanie tekstu">
+      <option name="closed" value="true" />
+      <created>1742251762517</created>
+      <option name="number" value="01357" />
+      <option name="presentableId" value="LOCAL-01357" />
+      <option name="project" value="LOCAL" />
+      <updated>1742251762517</updated>
+    </task>
+    <task id="LOCAL-01358" summary="Wyświetlenie wyniku">
+      <option name="closed" value="true" />
+      <created>1742251780284</created>
+      <option name="number" value="01358" />
+      <option name="presentableId" value="LOCAL-01358" />
+      <option name="project" value="LOCAL" />
+      <updated>1742251780284</updated>
+    </task>
+    <task id="LOCAL-01359" summary="Metoda szyfrująca tekst szyfrem Cezara">
+      <option name="closed" value="true" />
+      <created>1742251806662</created>
+      <option name="number" value="01359" />
+      <option name="presentableId" value="LOCAL-01359" />
+      <option name="project" value="LOCAL" />
+      <updated>1742251806662</updated>
+    </task>
+    <task id="LOCAL-01360" summary="Jeśli to nie litera, pozostaje bez zmian">
+      <option name="closed" value="true" />
+      <created>1742251831591</created>
+      <option name="number" value="01360" />
+      <option name="presentableId" value="LOCAL-01360" />
+      <option name="project" value="LOCAL" />
+      <updated>1742251831591</updated>
+    </task>
+    <option name="localTasksCounter" value="1361" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,14 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ZapisBitowy" />
-    <MESSAGE value="ZliczanieZnakow" />
-    <MESSAGE value="SumaCyfr" />
-    <MESSAGE value="Obliczenie sumy cyfr" />
-    <MESSAGE value="Wyświetlenie wyniku" />
-    <MESSAGE value="Metoda obliczająca sumę cyfr liczby" />
-    <MESSAGE value="Pobranie ostatniej cyfry" />
-    <MESSAGE value="Usunięcie ostatniej cyfry" />
     <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę całkowitą n od użytkownika.&#10;Sprawdza, czy n jest liczbą doskonałą.&#10;Wyświetla odpowiedni komunikat." />
     <MESSAGE value="Pobranie liczby od użytkownika" />
     <MESSAGE value="Metoda sprawdzająca, czy liczba jest doskonała" />
@@ -594,6 +588,14 @@
     <MESSAGE value="Metoda sprawdzająca, czy dwa słowa są anagramami" />
     <MESSAGE value="Konwersja na tablicę znaków i sortowanie" />
     <MESSAGE value="Porównanie posortowanych tablic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Porównanie posortowanych tablic" />
+    <MESSAGE value="SzyfrCezara" />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika tekst do zaszyfrowania.&#10;Pobiera klucz przesunięcia (n) – liczbę oznaczającą, o ile miejsc każda litera w alfabecie ma być przesunięta.&#10;Zaszyfrowuje tekst przy użyciu szyfru Cezara.&#10;Wyświetla zaszyfrowany tekst." />
+    <MESSAGE value="Pobranie tekstu od użytkownika" />
+    <MESSAGE value="Pobranie klucza przesunięcia" />
+    <MESSAGE value="Szyfrowanie tekstu" />
+    <MESSAGE value="Wyświetlenie wyniku" />
+    <MESSAGE value="Metoda szyfrująca tekst szyfrem Cezara" />
+    <MESSAGE value="Jeśli to nie litera, pozostaje bez zmian" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jeśli to nie litera, pozostaje bez zmian" />
   </component>
 </project>
