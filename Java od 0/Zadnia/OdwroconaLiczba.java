@@ -13,3 +13,6 @@ public class OdwroconaLiczba {
 
         scanner.close();
     }
+
+    public static int odwrocLiczbe(int liczba) {
+        int odwrocona = 0;
