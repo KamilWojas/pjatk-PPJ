@@ -17,3 +17,4 @@ public class OdwroconaLiczba {
     public static int odwrocLiczbe(int liczba) {
         int odwrocona = 0;
         int znak = liczba < 0 ? -1 : 1;
+        liczba = Math.abs(liczba);
