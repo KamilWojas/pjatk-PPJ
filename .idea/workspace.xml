@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Usunięcie ostatniej cyfry" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przywrócenie znaku">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/SumaParzystychNieparzystych.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,103 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="6153000" />
-    </task>
-    <task id="LOCAL-01325" summary="Wyświetlenie wyniku">
-      <option name="closed" value="true" />
-      <created>1742164958301</created>
-      <option name="number" value="01325" />
-      <option name="presentableId" value="LOCAL-01325" />
-      <option name="project" value="LOCAL" />
-      <updated>1742164958302</updated>
-    </task>
-    <task id="LOCAL-01326" summary="Wyświetlenie wyniku">
-      <option name="closed" value="true" />
-      <created>1742164968895</created>
-      <option name="number" value="01326" />
-      <option name="presentableId" value="LOCAL-01326" />
-      <option name="project" value="LOCAL" />
-      <updated>1742164968895</updated>
-    </task>
-    <task id="LOCAL-01327" summary="Metoda obliczająca sumę cyfr liczby">
-      <option name="closed" value="true" />
-      <created>1742164984799</created>
-      <option name="number" value="01327" />
-      <option name="presentableId" value="LOCAL-01327" />
-      <option name="project" value="LOCAL" />
-      <updated>1742164984799</updated>
-    </task>
-    <task id="LOCAL-01328" summary="Pobranie ostatniej cyfry">
-      <option name="closed" value="true" />
-      <created>1742165005223</created>
-      <option name="number" value="01328" />
-      <option name="presentableId" value="LOCAL-01328" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165005223</updated>
-    </task>
-    <task id="LOCAL-01329" summary="Usunięcie ostatniej cyfry">
-      <option name="closed" value="true" />
-      <created>1742165025283</created>
-      <option name="number" value="01329" />
-      <option name="presentableId" value="LOCAL-01329" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165025283</updated>
-    </task>
-    <task id="LOCAL-01330" summary="Usunięcie ostatniej cyfry">
-      <option name="closed" value="true" />
-      <created>1742165042882</created>
-      <option name="number" value="01330" />
-      <option name="presentableId" value="LOCAL-01330" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165042882</updated>
-    </task>
-    <task id="LOCAL-01331" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę całkowitą n od użytkownika.&#10;Sprawdza, czy n jest liczbą doskonałą.&#10;Wyświetla odpowiedni komunikat.">
-      <option name="closed" value="true" />
-      <created>1742165121322</created>
-      <option name="number" value="01331" />
-      <option name="presentableId" value="LOCAL-01331" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165121322</updated>
-    </task>
-    <task id="LOCAL-01332" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę całkowitą n od użytkownika.&#10;Sprawdza, czy n jest liczbą doskonałą.&#10;Wyświetla odpowiedni komunikat.">
-      <option name="closed" value="true" />
-      <created>1742165133573</created>
-      <option name="number" value="01332" />
-      <option name="presentableId" value="LOCAL-01332" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165133573</updated>
-    </task>
-    <task id="LOCAL-01333" summary="Pobranie liczby od użytkownika">
-      <option name="closed" value="true" />
-      <created>1742165153904</created>
-      <option name="number" value="01333" />
-      <option name="presentableId" value="LOCAL-01333" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165153904</updated>
-    </task>
-    <task id="LOCAL-01334" summary="Metoda sprawdzająca, czy liczba jest doskonała">
-      <option name="closed" value="true" />
-      <created>1742165171729</created>
-      <option name="number" value="01334" />
-      <option name="presentableId" value="LOCAL-01334" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165171729</updated>
-    </task>
-    <task id="LOCAL-01335" summary="Szukamy dzielników od 1 do n/2 (optymalizacja)">
-      <option name="closed" value="true" />
-      <created>1742165195356</created>
-      <option name="number" value="01335" />
-      <option name="presentableId" value="LOCAL-01335" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165195356</updated>
-    </task>
-    <task id="LOCAL-01336" summary="Szukamy dzielników od 1 do n/2 (optymalizacja)">
-      <option name="closed" value="true" />
-      <created>1742165209593</created>
-      <option name="number" value="01336" />
-      <option name="presentableId" value="LOCAL-01336" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165209593</updated>
+      <workItem from="1742046384185" duration="6706000" />
     </task>
     <task id="LOCAL-01337" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika ilość liczb, które chce wprowadzić.&#10;Pobiera n liczb od użytkownika i zapisuje je w tablicy.&#10;Znajduje i wyświetla największą oraz najmniejszą liczbę w tablicy.">
       <option name="closed" value="true" />
@@ -551,7 +457,103 @@
       <option name="project" value="LOCAL" />
       <updated>1742331561565</updated>
     </task>
-    <option name="localTasksCounter" value="1374" />
+    <task id="LOCAL-01374" summary="OdwroconaLiczba">
+      <option name="closed" value="true" />
+      <created>1742419710857</created>
+      <option name="number" value="01374" />
+      <option name="presentableId" value="LOCAL-01374" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419710857</updated>
+    </task>
+    <task id="LOCAL-01375" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Odwraca cyfry tej liczby (np. 1234 → 4321).&#10;Wyświetla wynik.">
+      <option name="closed" value="true" />
+      <created>1742419736746</created>
+      <option name="number" value="01375" />
+      <option name="presentableId" value="LOCAL-01375" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419736746</updated>
+    </task>
+    <task id="LOCAL-01376" summary="Pobranie liczby od użytkownika">
+      <option name="closed" value="true" />
+      <created>1742419758105</created>
+      <option name="number" value="01376" />
+      <option name="presentableId" value="LOCAL-01376" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419758105</updated>
+    </task>
+    <task id="LOCAL-01377" summary="Odwrócenie liczby">
+      <option name="closed" value="true" />
+      <created>1742419788776</created>
+      <option name="number" value="01377" />
+      <option name="presentableId" value="LOCAL-01377" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419788776</updated>
+    </task>
+    <task id="LOCAL-01378" summary="Wyświetlenie wyniku">
+      <option name="closed" value="true" />
+      <created>1742419806535</created>
+      <option name="number" value="01378" />
+      <option name="presentableId" value="LOCAL-01378" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419806535</updated>
+    </task>
+    <task id="LOCAL-01379" summary="Metoda odwracająca cyfry liczby">
+      <option name="closed" value="true" />
+      <created>1742419827337</created>
+      <option name="number" value="01379" />
+      <option name="presentableId" value="LOCAL-01379" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419827337</updated>
+    </task>
+    <task id="LOCAL-01380" summary="Zapamiętujemy znak liczby">
+      <option name="closed" value="true" />
+      <created>1742419843116</created>
+      <option name="number" value="01380" />
+      <option name="presentableId" value="LOCAL-01380" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419843116</updated>
+    </task>
+    <task id="LOCAL-01381" summary="Operujemy na wartości bezwzględnej">
+      <option name="closed" value="true" />
+      <created>1742419858931</created>
+      <option name="number" value="01381" />
+      <option name="presentableId" value="LOCAL-01381" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419858931</updated>
+    </task>
+    <task id="LOCAL-01382" summary="Pobranie ostatniej cyfry">
+      <option name="closed" value="true" />
+      <created>1742419879186</created>
+      <option name="number" value="01382" />
+      <option name="presentableId" value="LOCAL-01382" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419879186</updated>
+    </task>
+    <task id="LOCAL-01383" summary="Dodanie cyfry do wyniku">
+      <option name="closed" value="true" />
+      <created>1742419897444</created>
+      <option name="number" value="01383" />
+      <option name="presentableId" value="LOCAL-01383" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419897444</updated>
+    </task>
+    <task id="LOCAL-01384" summary="Usunięcie ostatniej cyfry">
+      <option name="closed" value="true" />
+      <created>1742419916965</created>
+      <option name="number" value="01384" />
+      <option name="presentableId" value="LOCAL-01384" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419916965</updated>
+    </task>
+    <task id="LOCAL-01385" summary="Przywrócenie znaku">
+      <option name="closed" value="true" />
+      <created>1742419936393</created>
+      <option name="number" value="01385" />
+      <option name="presentableId" value="LOCAL-01385" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419936393</updated>
+    </task>
+    <option name="localTasksCounter" value="1386" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,31 +571,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Anagramy" />
-    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika dwa słowa.&#10;Sprawdza, czy są anagramami – czyli czy można ułożyć jedno słowo z liter drugiego.&#10;Wyświetla odpowiedni komunikat." />
-    <MESSAGE value="Scanner" />
-    <MESSAGE value="Pobranie dwóch słów od użytkownika" />
-    <MESSAGE value="Sprawdzenie, czy są anagramami" />
-    <MESSAGE value="Metoda sprawdzająca, czy dwa słowa są anagramami" />
-    <MESSAGE value="Konwersja na tablicę znaków i sortowanie" />
-    <MESSAGE value="Porównanie posortowanych tablic" />
     <MESSAGE value="SzyfrCezara" />
     <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika tekst do zaszyfrowania.&#10;Pobiera klucz przesunięcia (n) – liczbę oznaczającą, o ile miejsc każda litera w alfabecie ma być przesunięta.&#10;Zaszyfrowuje tekst przy użyciu szyfru Cezara.&#10;Wyświetla zaszyfrowany tekst." />
     <MESSAGE value="Pobranie tekstu od użytkownika" />
     <MESSAGE value="Pobranie klucza przesunięcia" />
     <MESSAGE value="Szyfrowanie tekstu" />
-    <MESSAGE value="Wyświetlenie wyniku" />
     <MESSAGE value="Metoda szyfrująca tekst szyfrem Cezara" />
     <MESSAGE value="Jeśli to nie litera, pozostaje bez zmian" />
     <MESSAGE value="LiczbaArmstronga" />
     <MESSAGE value="Treść zadania:&#10;Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę całkowitą n od użytkownika.&#10;Sprawdza, czy n jest liczbą Armstronga.&#10;Wyświetla odpowiedni komunikat." />
-    <MESSAGE value="Pobranie liczby od użytkownika" />
     <MESSAGE value="Sprawdzenie, czy liczba jest Armstronga" />
     <MESSAGE value="Metoda sprawdzająca, czy liczba jest Armstronga" />
     <MESSAGE value="Liczba cyfr w liczbie" />
-    <MESSAGE value="Pobranie ostatniej cyfry" />
     <MESSAGE value="Podniesienie do potęgi liczby cyfr i dodanie do sumy" />
+    <MESSAGE value="OdwroconaLiczba" />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Odwraca cyfry tej liczby (np. 1234 → 4321).&#10;Wyświetla wynik." />
+    <MESSAGE value="Pobranie liczby od użytkownika" />
+    <MESSAGE value="Odwrócenie liczby" />
+    <MESSAGE value="Wyświetlenie wyniku" />
+    <MESSAGE value="Metoda odwracająca cyfry liczby" />
+    <MESSAGE value="Zapamiętujemy znak liczby" />
+    <MESSAGE value="Operujemy na wartości bezwzględnej" />
+    <MESSAGE value="Pobranie ostatniej cyfry" />
+    <MESSAGE value="Dodanie cyfry do wyniku" />
     <MESSAGE value="Usunięcie ostatniej cyfry" />
-    <option name="LAST_COMMIT_MESSAGE" value="Usunięcie ostatniej cyfry" />
+    <MESSAGE value="Przywrócenie znaku" />
+    <option name="LAST_COMMIT_MESSAGE" value="Przywrócenie znaku" />
   </component>
 </project>
