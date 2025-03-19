@@ -21,3 +21,4 @@ public class OdwroconaLiczba {
 
         while (liczba > 0) {
             int cyfra = liczba % 10;
+            odwrocona = odwrocona * 10 + cyfra; 
