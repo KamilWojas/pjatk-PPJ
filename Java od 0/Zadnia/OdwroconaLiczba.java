@@ -8,3 +8,8 @@ public class OdwroconaLiczba {
         int n = scanner.nextInt();
 
         int odwrocona = odwrocLiczbe(n);
+
+        System.out.println("Odwrócona liczba: " + odwrocona);
+
+        scanner.close();
+    }
