@@ -18,3 +18,6 @@ public class OdwroconaLiczba {
         int odwrocona = 0;
         int znak = liczba < 0 ? -1 : 1;
         liczba = Math.abs(liczba);
+
+        while (liczba > 0) {
+            int cyfra = liczba % 10;
