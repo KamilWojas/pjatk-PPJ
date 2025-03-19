@@ -15,3 +15,14 @@ public class SumaParzystychNieparzystych {
 
         int sumaParzystych = 0;
         int sumaNieparzystych = 0;
+
+        for (int i = 1; i <= n; i++) {
+            System.out.print("Podaj liczbę " + i + ": ");
+            int liczba = scanner.nextInt();
+
+            if (liczba % 2 == 0) {
+                sumaParzystych += liczba;
+            } else {
+                sumaNieparzystych += liczba;
+            }
+        }
