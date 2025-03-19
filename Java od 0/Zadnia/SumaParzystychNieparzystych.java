@@ -26,3 +26,10 @@ public class SumaParzystychNieparzystych {
                 sumaNieparzystych += liczba;
             }
         }
+
+        System.out.println("Suma liczb parzystych: " + sumaParzystych);
+        System.out.println("Suma liczb nieparzystych: " + sumaNieparzystych);
+
+        scanner.close();
+    }
+}
