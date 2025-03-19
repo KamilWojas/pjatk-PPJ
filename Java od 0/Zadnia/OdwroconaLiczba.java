@@ -6,3 +6,5 @@ public class OdwroconaLiczba {
 
         System.out.print("Podaj liczbę: ");
         int n = scanner.nextInt();
+
+        int odwrocona = odwrocLiczbe(n);
