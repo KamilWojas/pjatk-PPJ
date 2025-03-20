@@ -9,3 +9,5 @@ public class SumaPrzedzial {
 
         System.out.print("Podaj drugą liczbę: ");
         int b = scanner.nextInt();
+
+        int suma = obliczSumePrzedzialu(a, b);
