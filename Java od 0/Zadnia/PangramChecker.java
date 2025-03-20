@@ -20,3 +20,9 @@ public class PangramChecker {
     public static boolean czyPangram(String tekst) {
         tekst = tekst.toLowerCase(); 
         HashSet<Character> litery = new HashSet<>();
+
+        for (char znak : tekst.toCharArray()) {
+            if (Character.isLetter(znak)) { 
+                litery.add(znak);
+            }
+        }
