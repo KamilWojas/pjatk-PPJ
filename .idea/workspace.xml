@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlenie wyników" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda sprawdzająca, czy liczba jest pierwsza">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/SumaPrzedzial.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,47 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="7619000" />
-    </task>
-    <task id="LOCAL-01344" summary="Anagramy">
-      <option name="closed" value="true" />
-      <created>1742234334483</created>
-      <option name="number" value="01344" />
-      <option name="presentableId" value="LOCAL-01344" />
-      <option name="project" value="LOCAL" />
-      <updated>1742234334483</updated>
-    </task>
-    <task id="LOCAL-01345" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika dwa słowa.&#10;Sprawdza, czy są anagramami – czyli czy można ułożyć jedno słowo z liter drugiego.&#10;Wyświetla odpowiedni komunikat.">
-      <option name="closed" value="true" />
-      <created>1742234356799</created>
-      <option name="number" value="01345" />
-      <option name="presentableId" value="LOCAL-01345" />
-      <option name="project" value="LOCAL" />
-      <updated>1742234356799</updated>
-    </task>
-    <task id="LOCAL-01346" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika dwa słowa.&#10;Sprawdza, czy są anagramami – czyli czy można ułożyć jedno słowo z liter drugiego.&#10;Wyświetla odpowiedni komunikat.">
-      <option name="closed" value="true" />
-      <created>1742234370601</created>
-      <option name="number" value="01346" />
-      <option name="presentableId" value="LOCAL-01346" />
-      <option name="project" value="LOCAL" />
-      <updated>1742234370601</updated>
-    </task>
-    <task id="LOCAL-01347" summary="Scanner">
-      <option name="closed" value="true" />
-      <created>1742234387453</created>
-      <option name="number" value="01347" />
-      <option name="presentableId" value="LOCAL-01347" />
-      <option name="project" value="LOCAL" />
-      <updated>1742234387453</updated>
-    </task>
-    <task id="LOCAL-01348" summary="Pobranie dwóch słów od użytkownika">
-      <option name="closed" value="true" />
-      <created>1742234408794</created>
-      <option name="number" value="01348" />
-      <option name="presentableId" value="LOCAL-01348" />
-      <option name="project" value="LOCAL" />
-      <updated>1742234408794</updated>
+      <workItem from="1742046384185" duration="7938000" />
     </task>
     <task id="LOCAL-01349" summary="Sprawdzenie, czy są anagramami">
       <option name="closed" value="true" />
@@ -551,7 +513,47 @@
       <option name="project" value="LOCAL" />
       <updated>1742503669504</updated>
     </task>
-    <option name="localTasksCounter" value="1393" />
+    <task id="LOCAL-01393" summary="LiczbyPierwsze">
+      <option name="closed" value="true" />
+      <created>1742503698051</created>
+      <option name="number" value="01393" />
+      <option name="presentableId" value="LOCAL-01393" />
+      <option name="project" value="LOCAL" />
+      <updated>1742503698051</updated>
+    </task>
+    <task id="LOCAL-01394" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę n od użytkownika.&#10;Wypisuje wszystkie liczby pierwsze od 1 do n.">
+      <option name="closed" value="true" />
+      <created>1742503724864</created>
+      <option name="number" value="01394" />
+      <option name="presentableId" value="LOCAL-01394" />
+      <option name="project" value="LOCAL" />
+      <updated>1742503724864</updated>
+    </task>
+    <task id="LOCAL-01395" summary="Pobranie liczby od użytkownika">
+      <option name="closed" value="true" />
+      <created>1742503752838</created>
+      <option name="number" value="01395" />
+      <option name="presentableId" value="LOCAL-01395" />
+      <option name="project" value="LOCAL" />
+      <updated>1742503752838</updated>
+    </task>
+    <task id="LOCAL-01396" summary="Metoda wypisująca liczby pierwsze od 1 do n">
+      <option name="closed" value="true" />
+      <created>1742503777834</created>
+      <option name="number" value="01396" />
+      <option name="presentableId" value="LOCAL-01396" />
+      <option name="project" value="LOCAL" />
+      <updated>1742503777834</updated>
+    </task>
+    <task id="LOCAL-01397" summary="Metoda sprawdzająca, czy liczba jest pierwsza">
+      <option name="closed" value="true" />
+      <created>1742503801307</created>
+      <option name="number" value="01397" />
+      <option name="presentableId" value="LOCAL-01397" />
+      <option name="project" value="LOCAL" />
+      <updated>1742503801307</updated>
+    </task>
+    <option name="localTasksCounter" value="1398" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,17 +571,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Metoda szyfrująca tekst szyfrem Cezara" />
-    <MESSAGE value="Jeśli to nie litera, pozostaje bez zmian" />
-    <MESSAGE value="LiczbaArmstronga" />
-    <MESSAGE value="Treść zadania:&#10;Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę całkowitą n od użytkownika.&#10;Sprawdza, czy n jest liczbą Armstronga.&#10;Wyświetla odpowiedni komunikat." />
     <MESSAGE value="Sprawdzenie, czy liczba jest Armstronga" />
     <MESSAGE value="Metoda sprawdzająca, czy liczba jest Armstronga" />
     <MESSAGE value="Liczba cyfr w liczbie" />
     <MESSAGE value="Podniesienie do potęgi liczby cyfr i dodanie do sumy" />
     <MESSAGE value="OdwroconaLiczba" />
     <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Odwraca cyfry tej liczby (np. 1234 → 4321).&#10;Wyświetla wynik." />
-    <MESSAGE value="Pobranie liczby od użytkownika" />
     <MESSAGE value="Odwrócenie liczby" />
     <MESSAGE value="Wyświetlenie wyniku" />
     <MESSAGE value="Metoda odwracająca cyfry liczby" />
@@ -594,6 +591,11 @@
     <MESSAGE value="Pobranie liczby elementów" />
     <MESSAGE value="Pobieranie liczb od użytkownika" />
     <MESSAGE value="Wyświetlenie wyników" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wyświetlenie wyników" />
+    <MESSAGE value="LiczbyPierwsze" />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę n od użytkownika.&#10;Wypisuje wszystkie liczby pierwsze od 1 do n." />
+    <MESSAGE value="Pobranie liczby od użytkownika" />
+    <MESSAGE value="Metoda wypisująca liczby pierwsze od 1 do n" />
+    <MESSAGE value="Metoda sprawdzająca, czy liczba jest pierwsza" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metoda sprawdzająca, czy liczba jest pierwsza" />
   </component>
 </project>
