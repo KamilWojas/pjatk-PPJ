@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przywrócenie znaku">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/SumaParzystychNieparzystych.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlenie wyników" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,55 +157,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="6706000" />
-    </task>
-    <task id="LOCAL-01337" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika ilość liczb, które chce wprowadzić.&#10;Pobiera n liczb od użytkownika i zapisuje je w tablicy.&#10;Znajduje i wyświetla największą oraz najmniejszą liczbę w tablicy.">
-      <option name="closed" value="true" />
-      <created>1742165283649</created>
-      <option name="number" value="01337" />
-      <option name="presentableId" value="LOCAL-01337" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165283649</updated>
-    </task>
-    <task id="LOCAL-01338" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika ilość liczb, które chce wprowadzić.&#10;Pobiera n liczb od użytkownika i zapisuje je w tablicy.&#10;Znajduje i wyświetla największą oraz najmniejszą liczbę w tablicy.">
-      <option name="closed" value="true" />
-      <created>1742165295293</created>
-      <option name="number" value="01338" />
-      <option name="presentableId" value="LOCAL-01338" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165295293</updated>
-    </task>
-    <task id="LOCAL-01339" summary="Pobranie liczby elementów">
-      <option name="closed" value="true" />
-      <created>1742165319660</created>
-      <option name="number" value="01339" />
-      <option name="presentableId" value="LOCAL-01339" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165319660</updated>
-    </task>
-    <task id="LOCAL-01340" summary="Pobieranie liczb od użytkownika">
-      <option name="closed" value="true" />
-      <created>1742165363296</created>
-      <option name="number" value="01340" />
-      <option name="presentableId" value="LOCAL-01340" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165363297</updated>
-    </task>
-    <task id="LOCAL-01341" summary="Znalezienie min i max">
-      <option name="closed" value="true" />
-      <created>1742165385755</created>
-      <option name="number" value="01341" />
-      <option name="presentableId" value="LOCAL-01341" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165385755</updated>
-    </task>
-    <task id="LOCAL-01342" summary="Wyświetlenie wyników">
-      <option name="closed" value="true" />
-      <created>1742165411977</created>
-      <option name="number" value="01342" />
-      <option name="presentableId" value="LOCAL-01342" />
-      <option name="project" value="LOCAL" />
-      <updated>1742165411977</updated>
+      <workItem from="1742046384185" duration="7603000" />
     </task>
     <task id="LOCAL-01343" summary="Wyświetlenie wyników">
       <option name="closed" value="true" />
@@ -553,7 +503,55 @@
       <option name="project" value="LOCAL" />
       <updated>1742419936393</updated>
     </task>
-    <option name="localTasksCounter" value="1386" />
+    <task id="LOCAL-01386" summary="SumaParzystychNieparzystych">
+      <option name="closed" value="true" />
+      <created>1742420248058</created>
+      <option name="number" value="01386" />
+      <option name="presentableId" value="LOCAL-01386" />
+      <option name="project" value="LOCAL" />
+      <updated>1742420248058</updated>
+    </task>
+    <task id="LOCAL-01387" summary="SumaParzystychNieparzystych">
+      <option name="closed" value="true" />
+      <created>1742420254852</created>
+      <option name="number" value="01387" />
+      <option name="presentableId" value="LOCAL-01387" />
+      <option name="project" value="LOCAL" />
+      <updated>1742420254852</updated>
+    </task>
+    <task id="LOCAL-01388" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę n od użytkownika (liczbę elementów).&#10;Pobiera n liczb od użytkownika.&#10;Oblicza sumę liczb parzystych i sumę liczb nieparzystych.&#10;Wyświetla wyniki.">
+      <option name="closed" value="true" />
+      <created>1742420272959</created>
+      <option name="number" value="01388" />
+      <option name="presentableId" value="LOCAL-01388" />
+      <option name="project" value="LOCAL" />
+      <updated>1742420272959</updated>
+    </task>
+    <task id="LOCAL-01389" summary="Pobranie liczby elementów">
+      <option name="closed" value="true" />
+      <created>1742420294031</created>
+      <option name="number" value="01389" />
+      <option name="presentableId" value="LOCAL-01389" />
+      <option name="project" value="LOCAL" />
+      <updated>1742420294031</updated>
+    </task>
+    <task id="LOCAL-01390" summary="Pobieranie liczb od użytkownika">
+      <option name="closed" value="true" />
+      <created>1742420319731</created>
+      <option name="number" value="01390" />
+      <option name="presentableId" value="LOCAL-01390" />
+      <option name="project" value="LOCAL" />
+      <updated>1742420319731</updated>
+    </task>
+    <task id="LOCAL-01391" summary="Wyświetlenie wyników">
+      <option name="closed" value="true" />
+      <created>1742420348816</created>
+      <option name="number" value="01391" />
+      <option name="presentableId" value="LOCAL-01391" />
+      <option name="project" value="LOCAL" />
+      <updated>1742420348816</updated>
+    </task>
+    <option name="localTasksCounter" value="1392" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,11 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SzyfrCezara" />
-    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika tekst do zaszyfrowania.&#10;Pobiera klucz przesunięcia (n) – liczbę oznaczającą, o ile miejsc każda litera w alfabecie ma być przesunięta.&#10;Zaszyfrowuje tekst przy użyciu szyfru Cezara.&#10;Wyświetla zaszyfrowany tekst." />
-    <MESSAGE value="Pobranie tekstu od użytkownika" />
-    <MESSAGE value="Pobranie klucza przesunięcia" />
-    <MESSAGE value="Szyfrowanie tekstu" />
     <MESSAGE value="Metoda szyfrująca tekst szyfrem Cezara" />
     <MESSAGE value="Jeśli to nie litera, pozostaje bez zmian" />
     <MESSAGE value="LiczbaArmstronga" />
@@ -596,6 +589,11 @@
     <MESSAGE value="Dodanie cyfry do wyniku" />
     <MESSAGE value="Usunięcie ostatniej cyfry" />
     <MESSAGE value="Przywrócenie znaku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Przywrócenie znaku" />
+    <MESSAGE value="SumaParzystychNieparzystych" />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę n od użytkownika (liczbę elementów).&#10;Pobiera n liczb od użytkownika.&#10;Oblicza sumę liczb parzystych i sumę liczb nieparzystych.&#10;Wyświetla wyniki." />
+    <MESSAGE value="Pobranie liczby elementów" />
+    <MESSAGE value="Pobieranie liczb od użytkownika" />
+    <MESSAGE value="Wyświetlenie wyników" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wyświetlenie wyników" />
   </component>
 </project>
