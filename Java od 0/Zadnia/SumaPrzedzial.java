@@ -11,3 +11,8 @@ public class SumaPrzedzial {
         int b = scanner.nextInt();
 
         int suma = obliczSumePrzedzialu(a, b);
+
+        System.out.println("Suma liczb od " + Math.min(a, b) + " do " + Math.max(a, b) + " wynosi: " + suma);
+
+        scanner.close();
+    }
