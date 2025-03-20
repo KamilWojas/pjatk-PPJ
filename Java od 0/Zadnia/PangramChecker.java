@@ -16,3 +16,7 @@ public class PangramChecker {
 
         scanner.close();
     }
+
+    public static boolean czyPangram(String tekst) {
+        tekst = tekst.toLowerCase(); 
+        HashSet<Character> litery = new HashSet<>();
