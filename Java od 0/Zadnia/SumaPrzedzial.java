@@ -16,3 +16,16 @@ public class SumaPrzedzial {
 
         scanner.close();
     }
+
+    public static int obliczSumePrzedzialu(int a, int b) {
+        int suma = 0;
+        int start = Math.min(a, b);
+        int koniec = Math.max(a, b);
+
+        for (int i = start; i <= koniec; i++) {
+            suma += i;
+        }
+
+        return suma;
+    }
+}
