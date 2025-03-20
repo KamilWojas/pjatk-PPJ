@@ -26,7 +26,6 @@ public class PangramChecker {
                 litery.add(znak);
             }
         }
-
         return litery.size() == 26; 
     }
 }
