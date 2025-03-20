@@ -25,3 +25,12 @@ public class LiczbyPierwsze {
         }
         System.out.println();
     }
+
+    public static boolean czyLiczbaPierwsza(int liczba) {
+        if (liczba < 2) return false;
+        for (int i = 2; i <= Math.sqrt(liczba); i++) {
+            if (liczba % i == 0) return false;
+        }
+        return true;
+    }
+}
