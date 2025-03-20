@@ -7,3 +7,12 @@ public class PangramChecker {
 
         System.out.print("Podaj tekst: ");
         String tekst = scanner.nextLine();
+
+        if (czyPangram(tekst)) {
+            System.out.println("Tekst jest pangramem.");
+        } else {
+            System.out.println("Tekst nie jest pangramem.");
+        }
+
+        scanner.close();
+    }
