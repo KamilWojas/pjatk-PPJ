@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda sprawdzająca, czy liczba jest pierwsza">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/SumaPrzedzial.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pangram zawiera wszystkie 26 liter alfabetu" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,103 +157,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="7938000" />
-    </task>
-    <task id="LOCAL-01349" summary="Sprawdzenie, czy są anagramami">
-      <option name="closed" value="true" />
-      <created>1742234460559</created>
-      <option name="number" value="01349" />
-      <option name="presentableId" value="LOCAL-01349" />
-      <option name="project" value="LOCAL" />
-      <updated>1742234460559</updated>
-    </task>
-    <task id="LOCAL-01350" summary="Metoda sprawdzająca, czy dwa słowa są anagramami">
-      <option name="closed" value="true" />
-      <created>1742234483324</created>
-      <option name="number" value="01350" />
-      <option name="presentableId" value="LOCAL-01350" />
-      <option name="project" value="LOCAL" />
-      <updated>1742234483324</updated>
-    </task>
-    <task id="LOCAL-01351" summary="Konwersja na tablicę znaków i sortowanie">
-      <option name="closed" value="true" />
-      <created>1742234515113</created>
-      <option name="number" value="01351" />
-      <option name="presentableId" value="LOCAL-01351" />
-      <option name="project" value="LOCAL" />
-      <updated>1742234515113</updated>
-    </task>
-    <task id="LOCAL-01352" summary="Porównanie posortowanych tablic">
-      <option name="closed" value="true" />
-      <created>1742234545109</created>
-      <option name="number" value="01352" />
-      <option name="presentableId" value="LOCAL-01352" />
-      <option name="project" value="LOCAL" />
-      <updated>1742234545109</updated>
-    </task>
-    <task id="LOCAL-01353" summary="SzyfrCezara">
-      <option name="closed" value="true" />
-      <created>1742251684114</created>
-      <option name="number" value="01353" />
-      <option name="presentableId" value="LOCAL-01353" />
-      <option name="project" value="LOCAL" />
-      <updated>1742251684114</updated>
-    </task>
-    <task id="LOCAL-01354" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika tekst do zaszyfrowania.&#10;Pobiera klucz przesunięcia (n) – liczbę oznaczającą, o ile miejsc każda litera w alfabecie ma być przesunięta.&#10;Zaszyfrowuje tekst przy użyciu szyfru Cezara.&#10;Wyświetla zaszyfrowany tekst.">
-      <option name="closed" value="true" />
-      <created>1742251707251</created>
-      <option name="number" value="01354" />
-      <option name="presentableId" value="LOCAL-01354" />
-      <option name="project" value="LOCAL" />
-      <updated>1742251707251</updated>
-    </task>
-    <task id="LOCAL-01355" summary="Pobranie tekstu od użytkownika">
-      <option name="closed" value="true" />
-      <created>1742251728649</created>
-      <option name="number" value="01355" />
-      <option name="presentableId" value="LOCAL-01355" />
-      <option name="project" value="LOCAL" />
-      <updated>1742251728649</updated>
-    </task>
-    <task id="LOCAL-01356" summary="Pobranie klucza przesunięcia">
-      <option name="closed" value="true" />
-      <created>1742251745751</created>
-      <option name="number" value="01356" />
-      <option name="presentableId" value="LOCAL-01356" />
-      <option name="project" value="LOCAL" />
-      <updated>1742251745751</updated>
-    </task>
-    <task id="LOCAL-01357" summary="Szyfrowanie tekstu">
-      <option name="closed" value="true" />
-      <created>1742251762517</created>
-      <option name="number" value="01357" />
-      <option name="presentableId" value="LOCAL-01357" />
-      <option name="project" value="LOCAL" />
-      <updated>1742251762517</updated>
-    </task>
-    <task id="LOCAL-01358" summary="Wyświetlenie wyniku">
-      <option name="closed" value="true" />
-      <created>1742251780284</created>
-      <option name="number" value="01358" />
-      <option name="presentableId" value="LOCAL-01358" />
-      <option name="project" value="LOCAL" />
-      <updated>1742251780284</updated>
-    </task>
-    <task id="LOCAL-01359" summary="Metoda szyfrująca tekst szyfrem Cezara">
-      <option name="closed" value="true" />
-      <created>1742251806662</created>
-      <option name="number" value="01359" />
-      <option name="presentableId" value="LOCAL-01359" />
-      <option name="project" value="LOCAL" />
-      <updated>1742251806662</updated>
-    </task>
-    <task id="LOCAL-01360" summary="Jeśli to nie litera, pozostaje bez zmian">
-      <option name="closed" value="true" />
-      <created>1742251831591</created>
-      <option name="number" value="01360" />
-      <option name="presentableId" value="LOCAL-01360" />
-      <option name="project" value="LOCAL" />
-      <updated>1742251831591</updated>
+      <workItem from="1742046384185" duration="8246000" />
     </task>
     <task id="LOCAL-01361" summary="Jeśli to nie litera, pozostaje bez zmian">
       <option name="closed" value="true" />
@@ -553,7 +455,103 @@
       <option name="project" value="LOCAL" />
       <updated>1742503801307</updated>
     </task>
-    <option name="localTasksCounter" value="1398" />
+    <task id="LOCAL-01398" summary="SumaPrzedzial">
+      <option name="closed" value="true" />
+      <created>1742504006819</created>
+      <option name="number" value="01398" />
+      <option name="presentableId" value="LOCAL-01398" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504006819</updated>
+    </task>
+    <task id="LOCAL-01399" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera dwie liczby całkowite a i b od użytkownika.&#10;Oblicza sumę wszystkich liczb w przedziale od a do b (włącznie).&#10;Obsługuje sytuację, gdy a &gt; b – program powinien działać niezależnie od kolejności.">
+      <option name="closed" value="true" />
+      <created>1742504024621</created>
+      <option name="number" value="01399" />
+      <option name="presentableId" value="LOCAL-01399" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504024621</updated>
+    </task>
+    <task id="LOCAL-01400" summary="Pobranie dwóch liczb od użytkownika">
+      <option name="closed" value="true" />
+      <created>1742504044468</created>
+      <option name="number" value="01400" />
+      <option name="presentableId" value="LOCAL-01400" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504044469</updated>
+    </task>
+    <task id="LOCAL-01401" summary="Obliczenie sumy liczb w przedziale">
+      <option name="closed" value="true" />
+      <created>1742504058662</created>
+      <option name="number" value="01401" />
+      <option name="presentableId" value="LOCAL-01401" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504058662</updated>
+    </task>
+    <task id="LOCAL-01402" summary="Wyświetlenie wyniku">
+      <option name="closed" value="true" />
+      <created>1742504079875</created>
+      <option name="number" value="01402" />
+      <option name="presentableId" value="LOCAL-01402" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504079875</updated>
+    </task>
+    <task id="LOCAL-01403" summary="Metoda obliczająca sumę liczb w przedziale">
+      <option name="closed" value="true" />
+      <created>1742504096848</created>
+      <option name="number" value="01403" />
+      <option name="presentableId" value="LOCAL-01403" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504096848</updated>
+    </task>
+    <task id="LOCAL-01404" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera tekst od użytkownika.&#10;Sprawdza, czy tekst jest pangramem – czyli czy zawiera wszystkie litery alfabetu przynajmniej raz.&#10;Wyświetla odpowiedni komunikat.">
+      <option name="closed" value="true" />
+      <created>1742504191657</created>
+      <option name="number" value="01404" />
+      <option name="presentableId" value="LOCAL-01404" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504191657</updated>
+    </task>
+    <task id="LOCAL-01405" summary="Pobranie tekstu od użytkownika">
+      <option name="closed" value="true" />
+      <created>1742504208444</created>
+      <option name="number" value="01405" />
+      <option name="presentableId" value="LOCAL-01405" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504208444</updated>
+    </task>
+    <task id="LOCAL-01406" summary="Sprawdzenie, czy tekst jest pangramem">
+      <option name="closed" value="true" />
+      <created>1742504226165</created>
+      <option name="number" value="01406" />
+      <option name="presentableId" value="LOCAL-01406" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504226165</updated>
+    </task>
+    <task id="LOCAL-01407" summary="Metoda sprawdzająca, czy tekst jest pangramem">
+      <option name="closed" value="true" />
+      <created>1742504251018</created>
+      <option name="number" value="01407" />
+      <option name="presentableId" value="LOCAL-01407" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504251018</updated>
+    </task>
+    <task id="LOCAL-01408" summary="Dodajemy tylko litery">
+      <option name="closed" value="true" />
+      <created>1742504270018</created>
+      <option name="number" value="01408" />
+      <option name="presentableId" value="LOCAL-01408" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504270018</updated>
+    </task>
+    <task id="LOCAL-01409" summary="Pangram zawiera wszystkie 26 liter alfabetu">
+      <option name="closed" value="true" />
+      <created>1742504292201</created>
+      <option name="number" value="01409" />
+      <option name="presentableId" value="LOCAL-01409" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504292201</updated>
+    </task>
+    <option name="localTasksCounter" value="1410" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,18 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sprawdzenie, czy liczba jest Armstronga" />
-    <MESSAGE value="Metoda sprawdzająca, czy liczba jest Armstronga" />
-    <MESSAGE value="Liczba cyfr w liczbie" />
-    <MESSAGE value="Podniesienie do potęgi liczby cyfr i dodanie do sumy" />
-    <MESSAGE value="OdwroconaLiczba" />
-    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Odwraca cyfry tej liczby (np. 1234 → 4321).&#10;Wyświetla wynik." />
-    <MESSAGE value="Odwrócenie liczby" />
-    <MESSAGE value="Wyświetlenie wyniku" />
-    <MESSAGE value="Metoda odwracająca cyfry liczby" />
-    <MESSAGE value="Zapamiętujemy znak liczby" />
-    <MESSAGE value="Operujemy na wartości bezwzględnej" />
-    <MESSAGE value="Pobranie ostatniej cyfry" />
     <MESSAGE value="Dodanie cyfry do wyniku" />
     <MESSAGE value="Usunięcie ostatniej cyfry" />
     <MESSAGE value="Przywrócenie znaku" />
@@ -596,6 +582,18 @@
     <MESSAGE value="Pobranie liczby od użytkownika" />
     <MESSAGE value="Metoda wypisująca liczby pierwsze od 1 do n" />
     <MESSAGE value="Metoda sprawdzająca, czy liczba jest pierwsza" />
-    <option name="LAST_COMMIT_MESSAGE" value="Metoda sprawdzająca, czy liczba jest pierwsza" />
+    <MESSAGE value="SumaPrzedzial" />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera dwie liczby całkowite a i b od użytkownika.&#10;Oblicza sumę wszystkich liczb w przedziale od a do b (włącznie).&#10;Obsługuje sytuację, gdy a &gt; b – program powinien działać niezależnie od kolejności." />
+    <MESSAGE value="Pobranie dwóch liczb od użytkownika" />
+    <MESSAGE value="Obliczenie sumy liczb w przedziale" />
+    <MESSAGE value="Wyświetlenie wyniku" />
+    <MESSAGE value="Metoda obliczająca sumę liczb w przedziale" />
+    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera tekst od użytkownika.&#10;Sprawdza, czy tekst jest pangramem – czyli czy zawiera wszystkie litery alfabetu przynajmniej raz.&#10;Wyświetla odpowiedni komunikat." />
+    <MESSAGE value="Pobranie tekstu od użytkownika" />
+    <MESSAGE value="Sprawdzenie, czy tekst jest pangramem" />
+    <MESSAGE value="Metoda sprawdzająca, czy tekst jest pangramem" />
+    <MESSAGE value="Dodajemy tylko litery" />
+    <MESSAGE value="Pangram zawiera wszystkie 26 liter alfabetu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pangram zawiera wszystkie 26 liter alfabetu" />
   </component>
 </project>
