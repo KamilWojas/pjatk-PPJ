@@ -16,3 +16,12 @@ public class LiczbyPierwsze {
 
         scanner.close();
     }
+
+    public static void wypiszLiczbyPierwsze(int n) {
+        for (int i = 2; i <= n; i++) {
+            if (czyLiczbaPierwsza(i)) {
+                System.out.print(i + (i < n ? ", " : ""));
+            }
+        }
+        System.out.println();
+    }
