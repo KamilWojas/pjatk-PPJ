@@ -20,4 +20,6 @@ public class ParzystoscDodatnia {
         } else {
             System.out.println("Liczba jest równa zero.");
         }
-        
+        scanner.close(); 
+    }
+}
