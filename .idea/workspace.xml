@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Sprawdzenie znaku liczby">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/ParzystoscDodatnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/ParzystoscDodatnia.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pętla przeszukująca wszystkie słowa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,135 +157,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="9396000" />
-    </task>
-    <task id="LOCAL-01373" summary="Usunięcie ostatniej cyfry">
-      <option name="closed" value="true" />
-      <created>1742331561565</created>
-      <option name="number" value="01373" />
-      <option name="presentableId" value="LOCAL-01373" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331561565</updated>
-    </task>
-    <task id="LOCAL-01374" summary="OdwroconaLiczba">
-      <option name="closed" value="true" />
-      <created>1742419710857</created>
-      <option name="number" value="01374" />
-      <option name="presentableId" value="LOCAL-01374" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419710857</updated>
-    </task>
-    <task id="LOCAL-01375" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera od użytkownika liczbę całkowitą n.&#10;Odwraca cyfry tej liczby (np. 1234 → 4321).&#10;Wyświetla wynik.">
-      <option name="closed" value="true" />
-      <created>1742419736746</created>
-      <option name="number" value="01375" />
-      <option name="presentableId" value="LOCAL-01375" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419736746</updated>
-    </task>
-    <task id="LOCAL-01376" summary="Pobranie liczby od użytkownika">
-      <option name="closed" value="true" />
-      <created>1742419758105</created>
-      <option name="number" value="01376" />
-      <option name="presentableId" value="LOCAL-01376" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419758105</updated>
-    </task>
-    <task id="LOCAL-01377" summary="Odwrócenie liczby">
-      <option name="closed" value="true" />
-      <created>1742419788776</created>
-      <option name="number" value="01377" />
-      <option name="presentableId" value="LOCAL-01377" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419788776</updated>
-    </task>
-    <task id="LOCAL-01378" summary="Wyświetlenie wyniku">
-      <option name="closed" value="true" />
-      <created>1742419806535</created>
-      <option name="number" value="01378" />
-      <option name="presentableId" value="LOCAL-01378" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419806535</updated>
-    </task>
-    <task id="LOCAL-01379" summary="Metoda odwracająca cyfry liczby">
-      <option name="closed" value="true" />
-      <created>1742419827337</created>
-      <option name="number" value="01379" />
-      <option name="presentableId" value="LOCAL-01379" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419827337</updated>
-    </task>
-    <task id="LOCAL-01380" summary="Zapamiętujemy znak liczby">
-      <option name="closed" value="true" />
-      <created>1742419843116</created>
-      <option name="number" value="01380" />
-      <option name="presentableId" value="LOCAL-01380" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419843116</updated>
-    </task>
-    <task id="LOCAL-01381" summary="Operujemy na wartości bezwzględnej">
-      <option name="closed" value="true" />
-      <created>1742419858931</created>
-      <option name="number" value="01381" />
-      <option name="presentableId" value="LOCAL-01381" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419858931</updated>
-    </task>
-    <task id="LOCAL-01382" summary="Pobranie ostatniej cyfry">
-      <option name="closed" value="true" />
-      <created>1742419879186</created>
-      <option name="number" value="01382" />
-      <option name="presentableId" value="LOCAL-01382" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419879186</updated>
-    </task>
-    <task id="LOCAL-01383" summary="Dodanie cyfry do wyniku">
-      <option name="closed" value="true" />
-      <created>1742419897444</created>
-      <option name="number" value="01383" />
-      <option name="presentableId" value="LOCAL-01383" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419897444</updated>
-    </task>
-    <task id="LOCAL-01384" summary="Usunięcie ostatniej cyfry">
-      <option name="closed" value="true" />
-      <created>1742419916965</created>
-      <option name="number" value="01384" />
-      <option name="presentableId" value="LOCAL-01384" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419916965</updated>
-    </task>
-    <task id="LOCAL-01385" summary="Przywrócenie znaku">
-      <option name="closed" value="true" />
-      <created>1742419936393</created>
-      <option name="number" value="01385" />
-      <option name="presentableId" value="LOCAL-01385" />
-      <option name="project" value="LOCAL" />
-      <updated>1742419936393</updated>
-    </task>
-    <task id="LOCAL-01386" summary="SumaParzystychNieparzystych">
-      <option name="closed" value="true" />
-      <created>1742420248058</created>
-      <option name="number" value="01386" />
-      <option name="presentableId" value="LOCAL-01386" />
-      <option name="project" value="LOCAL" />
-      <updated>1742420248058</updated>
-    </task>
-    <task id="LOCAL-01387" summary="SumaParzystychNieparzystych">
-      <option name="closed" value="true" />
-      <created>1742420254852</created>
-      <option name="number" value="01387" />
-      <option name="presentableId" value="LOCAL-01387" />
-      <option name="project" value="LOCAL" />
-      <updated>1742420254852</updated>
-    </task>
-    <task id="LOCAL-01388" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę n od użytkownika (liczbę elementów).&#10;Pobiera n liczb od użytkownika.&#10;Oblicza sumę liczb parzystych i sumę liczb nieparzystych.&#10;Wyświetla wyniki.">
-      <option name="closed" value="true" />
-      <created>1742420272959</created>
-      <option name="number" value="01388" />
-      <option name="presentableId" value="LOCAL-01388" />
-      <option name="project" value="LOCAL" />
-      <updated>1742420272959</updated>
+      <workItem from="1742046384185" duration="9713000" />
     </task>
     <task id="LOCAL-01389" summary="Pobranie liczby elementów">
       <option name="closed" value="true" />
@@ -553,7 +423,135 @@
       <option name="project" value="LOCAL" />
       <updated>1742595736872</updated>
     </task>
-    <option name="localTasksCounter" value="1422" />
+    <task id="LOCAL-01422" summary="Zamyka Scanner (dobry nawyk)">
+      <option name="closed" value="true" />
+      <created>1742595755478</created>
+      <option name="number" value="01422" />
+      <option name="presentableId" value="LOCAL-01422" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595755478</updated>
+    </task>
+    <task id="LOCAL-01423" summary="Zamyka Scanner (dobry nawyk)">
+      <option name="closed" value="true" />
+      <created>1742595763292</created>
+      <option name="number" value="01423" />
+      <option name="presentableId" value="LOCAL-01423" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595763292</updated>
+    </task>
+    <task id="LOCAL-01424" summary="Pobierz od użytkownika liczbę n,&#10;Wczytaj n liczb,&#10;Oblicz i wypisz ich średnią.">
+      <option name="closed" value="true" />
+      <created>1742595788387</created>
+      <option name="number" value="01424" />
+      <option name="presentableId" value="LOCAL-01424" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595788387</updated>
+    </task>
+    <task id="LOCAL-01425" summary="Pobierz od użytkownika liczbę n,&#10;Wczytaj n liczb,&#10;Oblicz i wypisz ich średnią.">
+      <option name="closed" value="true" />
+      <created>1742595800714</created>
+      <option name="number" value="01425" />
+      <option name="presentableId" value="LOCAL-01425" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595800714</updated>
+    </task>
+    <task id="LOCAL-01426" summary="Liczba elementów">
+      <option name="closed" value="true" />
+      <created>1742595816872</created>
+      <option name="number" value="01426" />
+      <option name="presentableId" value="LOCAL-01426" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595816872</updated>
+    </task>
+    <task id="LOCAL-01427" summary="Przechowuje sumę wszystkich liczb">
+      <option name="closed" value="true" />
+      <created>1742595832581</created>
+      <option name="number" value="01427" />
+      <option name="presentableId" value="LOCAL-01427" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595832581</updated>
+    </task>
+    <task id="LOCAL-01428" summary="Pętla wczytująca n liczb i dodająca je do sumy">
+      <option name="closed" value="true" />
+      <created>1742595858555</created>
+      <option name="number" value="01428" />
+      <option name="presentableId" value="LOCAL-01428" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595858555</updated>
+    </task>
+    <task id="LOCAL-01429" summary="Dodajemy ją do sumy">
+      <option name="closed" value="true" />
+      <created>1742595884133</created>
+      <option name="number" value="01429" />
+      <option name="presentableId" value="LOCAL-01429" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595884133</updated>
+    </task>
+    <task id="LOCAL-01430" summary="Obliczamy średnią">
+      <option name="closed" value="true" />
+      <created>1742595907065</created>
+      <option name="number" value="01430" />
+      <option name="presentableId" value="LOCAL-01430" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595907065</updated>
+    </task>
+    <task id="LOCAL-01431" summary="Wczytaj od użytkownika jedno zdanie,&#10;Znajdź najdłuższe słowo w tym zdaniu,&#10;Wypisz słowo i jego długość.">
+      <option name="closed" value="true" />
+      <created>1742595942722</created>
+      <option name="number" value="01431" />
+      <option name="presentableId" value="LOCAL-01431" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595942722</updated>
+    </task>
+    <task id="LOCAL-01432" summary="Wczytaj od użytkownika jedno zdanie,&#10;Znajdź najdłuższe słowo w tym zdaniu,&#10;Wypisz słowo i jego długość.">
+      <option name="closed" value="true" />
+      <created>1742595950811</created>
+      <option name="number" value="01432" />
+      <option name="presentableId" value="LOCAL-01432" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595950811</updated>
+    </task>
+    <task id="LOCAL-01433" summary="Odczytujemy całe zdanie">
+      <option name="closed" value="true" />
+      <created>1742595969468</created>
+      <option name="number" value="01433" />
+      <option name="presentableId" value="LOCAL-01433" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595969468</updated>
+    </task>
+    <task id="LOCAL-01434" summary="Dzielimy zdanie na słowa (spacja jako separator)">
+      <option name="closed" value="true" />
+      <created>1742595987254</created>
+      <option name="number" value="01434" />
+      <option name="presentableId" value="LOCAL-01434" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595987254</updated>
+    </task>
+    <task id="LOCAL-01435" summary="Zmienna przechowująca najdłuższe znalezione słowo">
+      <option name="closed" value="true" />
+      <created>1742596010174</created>
+      <option name="number" value="01435" />
+      <option name="presentableId" value="LOCAL-01435" />
+      <option name="project" value="LOCAL" />
+      <updated>1742596010174</updated>
+    </task>
+    <task id="LOCAL-01436" summary="Pętla przeszukująca wszystkie słowa">
+      <option name="closed" value="true" />
+      <created>1742596037185</created>
+      <option name="number" value="01436" />
+      <option name="presentableId" value="LOCAL-01436" />
+      <option name="project" value="LOCAL" />
+      <updated>1742596037185</updated>
+    </task>
+    <task id="LOCAL-01437" summary="Pętla przeszukująca wszystkie słowa">
+      <option name="closed" value="true" />
+      <created>1742596055038</created>
+      <option name="number" value="01437" />
+      <option name="presentableId" value="LOCAL-01437" />
+      <option name="project" value="LOCAL" />
+      <updated>1742596055038</updated>
+    </task>
+    <option name="localTasksCounter" value="1438" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,18 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Wyświetlenie wyników" />
-    <MESSAGE value="LiczbyPierwsze" />
-    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę n od użytkownika.&#10;Wypisuje wszystkie liczby pierwsze od 1 do n." />
-    <MESSAGE value="Pobranie liczby od użytkownika" />
-    <MESSAGE value="Metoda wypisująca liczby pierwsze od 1 do n" />
-    <MESSAGE value="Metoda sprawdzająca, czy liczba jest pierwsza" />
-    <MESSAGE value="SumaPrzedzial" />
-    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera dwie liczby całkowite a i b od użytkownika.&#10;Oblicza sumę wszystkich liczb w przedziale od a do b (włącznie).&#10;Obsługuje sytuację, gdy a &gt; b – program powinien działać niezależnie od kolejności." />
-    <MESSAGE value="Pobranie dwóch liczb od użytkownika" />
-    <MESSAGE value="Obliczenie sumy liczb w przedziale" />
-    <MESSAGE value="Wyświetlenie wyniku" />
-    <MESSAGE value="Metoda obliczająca sumę liczb w przedziale" />
     <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera tekst od użytkownika.&#10;Sprawdza, czy tekst jest pangramem – czyli czy zawiera wszystkie litery alfabetu przynajmniej raz.&#10;Wyświetla odpowiedni komunikat." />
     <MESSAGE value="Pobranie tekstu od użytkownika" />
     <MESSAGE value="Sprawdzenie, czy tekst jest pangramem" />
@@ -596,6 +582,18 @@
     <MESSAGE value="Odczytujemy liczbę typu int" />
     <MESSAGE value="Sprawdzenie parzystości" />
     <MESSAGE value="Sprawdzenie znaku liczby" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprawdzenie znaku liczby" />
+    <MESSAGE value="Zamyka Scanner (dobry nawyk)" />
+    <MESSAGE value="Pobierz od użytkownika liczbę n,&#10;Wczytaj n liczb,&#10;Oblicz i wypisz ich średnią." />
+    <MESSAGE value="Liczba elementów" />
+    <MESSAGE value="Przechowuje sumę wszystkich liczb" />
+    <MESSAGE value="Pętla wczytująca n liczb i dodająca je do sumy" />
+    <MESSAGE value="Dodajemy ją do sumy" />
+    <MESSAGE value="Obliczamy średnią" />
+    <MESSAGE value="Wczytaj od użytkownika jedno zdanie,&#10;Znajdź najdłuższe słowo w tym zdaniu,&#10;Wypisz słowo i jego długość." />
+    <MESSAGE value="Odczytujemy całe zdanie" />
+    <MESSAGE value="Dzielimy zdanie na słowa (spacja jako separator)" />
+    <MESSAGE value="Zmienna przechowująca najdłuższe znalezione słowo" />
+    <MESSAGE value="Pętla przeszukująca wszystkie słowa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pętla przeszukująca wszystkie słowa" />
   </component>
 </project>
