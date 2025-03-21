@@ -7,4 +7,8 @@ public class SredniaLiczb {
         System.out.print("Ile liczb chcesz podać? ");
         int n = scanner.nextInt();
 
-        double suma = 0; 
+        double suma = 0;
+        
+        for (int i = 1; i <= n; i++) {
+            System.out.print("Podaj liczbę " + i + ": ");
+            double liczba = scanner.nextDouble();
