@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pangram zawiera wszystkie 26 liter alfabetu" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Sprawdzenie znaku liczby">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/ParzystoscDodatnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/ParzystoscDodatnia.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,87 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="9084000" />
-    </task>
-    <task id="LOCAL-01363" summary="LiczbaArmstronga">
-      <option name="closed" value="true" />
-      <created>1742331308887</created>
-      <option name="number" value="01363" />
-      <option name="presentableId" value="LOCAL-01363" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331308887</updated>
-    </task>
-    <task id="LOCAL-01364" summary="LiczbaArmstronga">
-      <option name="closed" value="true" />
-      <created>1742331339113</created>
-      <option name="number" value="01364" />
-      <option name="presentableId" value="LOCAL-01364" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331339113</updated>
-    </task>
-    <task id="LOCAL-01365" summary="Treść zadania:&#10;Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę całkowitą n od użytkownika.&#10;Sprawdza, czy n jest liczbą Armstronga.&#10;Wyświetla odpowiedni komunikat.">
-      <option name="closed" value="true" />
-      <created>1742331362531</created>
-      <option name="number" value="01365" />
-      <option name="presentableId" value="LOCAL-01365" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331362531</updated>
-    </task>
-    <task id="LOCAL-01366" summary="Pobranie liczby od użytkownika">
-      <option name="closed" value="true" />
-      <created>1742331383973</created>
-      <option name="number" value="01366" />
-      <option name="presentableId" value="LOCAL-01366" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331383973</updated>
-    </task>
-    <task id="LOCAL-01367" summary="Sprawdzenie, czy liczba jest Armstronga">
-      <option name="closed" value="true" />
-      <created>1742331420735</created>
-      <option name="number" value="01367" />
-      <option name="presentableId" value="LOCAL-01367" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331420735</updated>
-    </task>
-    <task id="LOCAL-01368" summary="Metoda sprawdzająca, czy liczba jest Armstronga">
-      <option name="closed" value="true" />
-      <created>1742331447231</created>
-      <option name="number" value="01368" />
-      <option name="presentableId" value="LOCAL-01368" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331447231</updated>
-    </task>
-    <task id="LOCAL-01369" summary="Liczba cyfr w liczbie">
-      <option name="closed" value="true" />
-      <created>1742331468291</created>
-      <option name="number" value="01369" />
-      <option name="presentableId" value="LOCAL-01369" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331468291</updated>
-    </task>
-    <task id="LOCAL-01370" summary="Pobranie ostatniej cyfry">
-      <option name="closed" value="true" />
-      <created>1742331496373</created>
-      <option name="number" value="01370" />
-      <option name="presentableId" value="LOCAL-01370" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331496373</updated>
-    </task>
-    <task id="LOCAL-01371" summary="Podniesienie do potęgi liczby cyfr i dodanie do sumy">
-      <option name="closed" value="true" />
-      <created>1742331516209</created>
-      <option name="number" value="01371" />
-      <option name="presentableId" value="LOCAL-01371" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331516209</updated>
-    </task>
-    <task id="LOCAL-01372" summary="Usunięcie ostatniej cyfry">
-      <option name="closed" value="true" />
-      <created>1742331539547</created>
-      <option name="number" value="01372" />
-      <option name="presentableId" value="LOCAL-01372" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331539547</updated>
+      <workItem from="1742046384185" duration="9396000" />
     </task>
     <task id="LOCAL-01373" summary="Usunięcie ostatniej cyfry">
       <option name="closed" value="true" />
@@ -551,7 +473,87 @@
       <option name="project" value="LOCAL" />
       <updated>1742504544387</updated>
     </task>
-    <option name="localTasksCounter" value="1412" />
+    <task id="LOCAL-01412" summary="Napisz program, który:&#10;&#10;Pobiera tekst od użytkownika,&#10;Pobiera znak/literę,&#10;Zlicza, ile razy ten znak występuje w tekście (bez względu na wielkość liter),&#10;Wyświetla wynik.">
+      <option name="closed" value="true" />
+      <created>1742595463091</created>
+      <option name="number" value="01412" />
+      <option name="presentableId" value="LOCAL-01412" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595463091</updated>
+    </task>
+    <task id="LOCAL-01413" summary="Napisz program, który:&#10;&#10;Pobiera tekst od użytkownika,&#10;Pobiera znak/literę,&#10;Zlicza, ile razy ten znak występuje w tekście (bez względu na wielkość liter),&#10;Wyświetla wynik.">
+      <option name="closed" value="true" />
+      <created>1742595483211</created>
+      <option name="number" value="01413" />
+      <option name="presentableId" value="LOCAL-01413" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595483211</updated>
+    </task>
+    <task id="LOCAL-01414" summary="Napisz program, który:&#10;&#10;Pobiera dwie liczby całkowite a i b,&#10;Wypisuje wszystkie liczby nieparzyste w zakresie od a do b (niezależnie od kolejności).">
+      <option name="closed" value="true" />
+      <created>1742595523188</created>
+      <option name="number" value="01414" />
+      <option name="presentableId" value="LOCAL-01414" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595523188</updated>
+    </task>
+    <task id="LOCAL-01415" summary="Napisz program, który:&#10;&#10;Pobiera ciąg znaków od użytkownika,&#10;Sprawdza, czy tekst zawiera wyłącznie cyfry (0–9),&#10;Wyświetla odpowiedni komunikat.">
+      <option name="closed" value="true" />
+      <created>1742595549389</created>
+      <option name="number" value="01415" />
+      <option name="presentableId" value="LOCAL-01415" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595549389</updated>
+    </task>
+    <task id="LOCAL-01416" summary="Napisz program, który:&#10;&#10;Pobiera ciąg znaków od użytkownika,&#10;Sprawdza, czy tekst zawiera wyłącznie cyfry (0–9),&#10;Wyświetla odpowiedni komunikat.">
+      <option name="closed" value="true" />
+      <created>1742595559472</created>
+      <option name="number" value="01416" />
+      <option name="presentableId" value="LOCAL-01416" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595559472</updated>
+    </task>
+    <task id="LOCAL-01417" summary="Napisz program, który:&#10;&#10;Pobiera liczbę całkowitą od użytkownika,&#10;Sprawdza, czy liczba jest parzysta czy nieparzysta,&#10;Sprawdza, czy jest dodatnia, ujemna, czy równa zero.">
+      <option name="closed" value="true" />
+      <created>1742595643423</created>
+      <option name="number" value="01417" />
+      <option name="presentableId" value="LOCAL-01417" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595643423</updated>
+    </task>
+    <task id="LOCAL-01418" summary="Napisz program, który:&#10;&#10;Pobiera liczbę całkowitą od użytkownika,&#10;Sprawdza, czy liczba jest parzysta czy nieparzysta,&#10;Sprawdza, czy jest dodatnia, ujemna, czy równa zero.">
+      <option name="closed" value="true" />
+      <created>1742595655518</created>
+      <option name="number" value="01418" />
+      <option name="presentableId" value="LOCAL-01418" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595655518</updated>
+    </task>
+    <task id="LOCAL-01419" summary="Odczytujemy liczbę typu int">
+      <option name="closed" value="true" />
+      <created>1742595682790</created>
+      <option name="number" value="01419" />
+      <option name="presentableId" value="LOCAL-01419" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595682790</updated>
+    </task>
+    <task id="LOCAL-01420" summary="Sprawdzenie parzystości">
+      <option name="closed" value="true" />
+      <created>1742595705034</created>
+      <option name="number" value="01420" />
+      <option name="presentableId" value="LOCAL-01420" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595705034</updated>
+    </task>
+    <task id="LOCAL-01421" summary="Sprawdzenie znaku liczby">
+      <option name="closed" value="true" />
+      <created>1742595736872</created>
+      <option name="number" value="01421" />
+      <option name="presentableId" value="LOCAL-01421" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595736872</updated>
+    </task>
+    <option name="localTasksCounter" value="1422" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,13 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dodanie cyfry do wyniku" />
-    <MESSAGE value="Usunięcie ostatniej cyfry" />
-    <MESSAGE value="Przywrócenie znaku" />
-    <MESSAGE value="SumaParzystychNieparzystych" />
-    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę n od użytkownika (liczbę elementów).&#10;Pobiera n liczb od użytkownika.&#10;Oblicza sumę liczb parzystych i sumę liczb nieparzystych.&#10;Wyświetla wyniki." />
-    <MESSAGE value="Pobranie liczby elementów" />
-    <MESSAGE value="Pobieranie liczb od użytkownika" />
     <MESSAGE value="Wyświetlenie wyników" />
     <MESSAGE value="LiczbyPierwsze" />
     <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę n od użytkownika.&#10;Wypisuje wszystkie liczby pierwsze od 1 do n." />
@@ -594,6 +589,13 @@
     <MESSAGE value="Metoda sprawdzająca, czy tekst jest pangramem" />
     <MESSAGE value="Dodajemy tylko litery" />
     <MESSAGE value="Pangram zawiera wszystkie 26 liter alfabetu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pangram zawiera wszystkie 26 liter alfabetu" />
+    <MESSAGE value="Napisz program, który:&#10;&#10;Pobiera tekst od użytkownika,&#10;Pobiera znak/literę,&#10;Zlicza, ile razy ten znak występuje w tekście (bez względu na wielkość liter),&#10;Wyświetla wynik." />
+    <MESSAGE value="Napisz program, który:&#10;&#10;Pobiera dwie liczby całkowite a i b,&#10;Wypisuje wszystkie liczby nieparzyste w zakresie od a do b (niezależnie od kolejności)." />
+    <MESSAGE value="Napisz program, który:&#10;&#10;Pobiera ciąg znaków od użytkownika,&#10;Sprawdza, czy tekst zawiera wyłącznie cyfry (0–9),&#10;Wyświetla odpowiedni komunikat." />
+    <MESSAGE value="Napisz program, który:&#10;&#10;Pobiera liczbę całkowitą od użytkownika,&#10;Sprawdza, czy liczba jest parzysta czy nieparzysta,&#10;Sprawdza, czy jest dodatnia, ujemna, czy równa zero." />
+    <MESSAGE value="Odczytujemy liczbę typu int" />
+    <MESSAGE value="Sprawdzenie parzystości" />
+    <MESSAGE value="Sprawdzenie znaku liczby" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprawdzenie znaku liczby" />
   </component>
 </project>
