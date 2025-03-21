@@ -5,4 +5,6 @@ public class NajdluzszeSlowo {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Podaj zdanie: ");
-        String zdanie = scanner.nextLine(); 
+        String zdanie = scanner.nextLine();
+
+        String[] slowa = zdanie.split(" "); 
