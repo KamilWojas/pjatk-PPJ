@@ -12,3 +12,5 @@ public class SredniaLiczb {
         for (int i = 1; i <= n; i++) {
             System.out.print("Podaj liczbę " + i + ": ");
             double liczba = scanner.nextDouble();
+            suma += liczba; 
+        }
