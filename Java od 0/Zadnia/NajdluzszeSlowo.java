@@ -16,3 +16,10 @@ public class NajdluzszeSlowo {
                 najdluzsze = slowo; 
             }
         }
+
+        System.out.println("Najdłuższe słowo: " + najdluzsze);
+        System.out.println("Długość: " + najdluzsze.length());
+
+        scanner.close();
+    }
+}
