@@ -12,3 +12,12 @@ public class ParzystoscDodatnia {
         } else {
             System.out.println("Liczba jest nieparzysta.");
         }
+
+        if (liczba > 0) {
+            System.out.println("Liczba jest dodatnia.");
+        } else if (liczba < 0) {
+            System.out.println("Liczba jest ujemna.");
+        } else {
+            System.out.println("Liczba jest równa zero.");
+        }
+        
