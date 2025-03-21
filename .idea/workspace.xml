@@ -157,23 +157,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="8246000" />
-    </task>
-    <task id="LOCAL-01361" summary="Jeśli to nie litera, pozostaje bez zmian">
-      <option name="closed" value="true" />
-      <created>1742331277747</created>
-      <option name="number" value="01361" />
-      <option name="presentableId" value="LOCAL-01361" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331277747</updated>
-    </task>
-    <task id="LOCAL-01362" summary="Jeśli to nie litera, pozostaje bez zmian">
-      <option name="closed" value="true" />
-      <created>1742331284743</created>
-      <option name="number" value="01362" />
-      <option name="presentableId" value="LOCAL-01362" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331284743</updated>
+      <workItem from="1742046384185" duration="9084000" />
     </task>
     <task id="LOCAL-01363" summary="LiczbaArmstronga">
       <option name="closed" value="true" />
@@ -551,7 +535,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742504292201</updated>
     </task>
-    <option name="localTasksCounter" value="1410" />
+    <task id="LOCAL-01410" summary="Pangram zawiera wszystkie 26 liter alfabetu">
+      <option name="closed" value="true" />
+      <created>1742504321428</created>
+      <option name="number" value="01410" />
+      <option name="presentableId" value="LOCAL-01410" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504321428</updated>
+    </task>
+    <task id="LOCAL-01411" summary="Pangram zawiera wszystkie 26 liter alfabetu">
+      <option name="closed" value="true" />
+      <created>1742504544387</created>
+      <option name="number" value="01411" />
+      <option name="presentableId" value="LOCAL-01411" />
+      <option name="project" value="LOCAL" />
+      <updated>1742504544387</updated>
+    </task>
+    <option name="localTasksCounter" value="1412" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
