@@ -14,3 +14,10 @@ public class SredniaLiczb {
             double liczba = scanner.nextDouble();
             suma += liczba; 
         }
+
+        double srednia = suma / n; 
+        System.out.println("Średnia arytmetyczna: " + srednia);
+
+        scanner.close();
+    }
+}
