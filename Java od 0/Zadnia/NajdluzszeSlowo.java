@@ -9,4 +9,10 @@ public class NajdluzszeSlowo {
 
         String[] slowa = zdanie.split(" ");
 
-        String najdluzsze = ""; 
+        String najdluzsze = "";
+
+        for (String slowo : slowa) {
+            if (slowo.length() > najdluzsze.length()) {
+                najdluzsze = slowo; 
+            }
+        }
