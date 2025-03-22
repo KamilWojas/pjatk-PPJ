@@ -51,4 +51,12 @@ public class SystemZamowien {
             }
         }
 
+        if (znaleziono) {
+            System.out.println("Łączna wartość zamówień: " + suma);
+        } else {
+            System.out.println("Nie znaleziono zamówień dla podanego klienta.");
+        }
+
+        scanner.close();
     }
+}
