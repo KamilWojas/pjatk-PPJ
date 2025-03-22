@@ -17,3 +17,6 @@ class Order {
         return "Order{id=" + id + ", customerName='" + customerName + "', amount=" + amount + "}";
     }
 }
+
+public class SystemZamowien {
+    public static void main(String[] args) {
