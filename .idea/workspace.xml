@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pętla przeszukująca wszystkie słowa" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Warunek" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,79 +157,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="10323000" />
-    </task>
-    <task id="LOCAL-01390" summary="Pobieranie liczb od użytkownika">
-      <option name="closed" value="true" />
-      <created>1742420319731</created>
-      <option name="number" value="01390" />
-      <option name="presentableId" value="LOCAL-01390" />
-      <option name="project" value="LOCAL" />
-      <updated>1742420319731</updated>
-    </task>
-    <task id="LOCAL-01391" summary="Wyświetlenie wyników">
-      <option name="closed" value="true" />
-      <created>1742420348816</created>
-      <option name="number" value="01391" />
-      <option name="presentableId" value="LOCAL-01391" />
-      <option name="project" value="LOCAL" />
-      <updated>1742420348816</updated>
-    </task>
-    <task id="LOCAL-01392" summary="Wyświetlenie wyników">
-      <option name="closed" value="true" />
-      <created>1742503669504</created>
-      <option name="number" value="01392" />
-      <option name="presentableId" value="LOCAL-01392" />
-      <option name="project" value="LOCAL" />
-      <updated>1742503669504</updated>
-    </task>
-    <task id="LOCAL-01393" summary="LiczbyPierwsze">
-      <option name="closed" value="true" />
-      <created>1742503698051</created>
-      <option name="number" value="01393" />
-      <option name="presentableId" value="LOCAL-01393" />
-      <option name="project" value="LOCAL" />
-      <updated>1742503698051</updated>
-    </task>
-    <task id="LOCAL-01394" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera liczbę n od użytkownika.&#10;Wypisuje wszystkie liczby pierwsze od 1 do n.">
-      <option name="closed" value="true" />
-      <created>1742503724864</created>
-      <option name="number" value="01394" />
-      <option name="presentableId" value="LOCAL-01394" />
-      <option name="project" value="LOCAL" />
-      <updated>1742503724864</updated>
-    </task>
-    <task id="LOCAL-01395" summary="Pobranie liczby od użytkownika">
-      <option name="closed" value="true" />
-      <created>1742503752838</created>
-      <option name="number" value="01395" />
-      <option name="presentableId" value="LOCAL-01395" />
-      <option name="project" value="LOCAL" />
-      <updated>1742503752838</updated>
-    </task>
-    <task id="LOCAL-01396" summary="Metoda wypisująca liczby pierwsze od 1 do n">
-      <option name="closed" value="true" />
-      <created>1742503777834</created>
-      <option name="number" value="01396" />
-      <option name="presentableId" value="LOCAL-01396" />
-      <option name="project" value="LOCAL" />
-      <updated>1742503777834</updated>
-    </task>
-    <task id="LOCAL-01397" summary="Metoda sprawdzająca, czy liczba jest pierwsza">
-      <option name="closed" value="true" />
-      <created>1742503801307</created>
-      <option name="number" value="01397" />
-      <option name="presentableId" value="LOCAL-01397" />
-      <option name="project" value="LOCAL" />
-      <updated>1742503801307</updated>
-    </task>
-    <task id="LOCAL-01398" summary="SumaPrzedzial">
-      <option name="closed" value="true" />
-      <created>1742504006819</created>
-      <option name="number" value="01398" />
-      <option name="presentableId" value="LOCAL-01398" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504006819</updated>
+      <workItem from="1742046384185" duration="11140000" />
     </task>
     <task id="LOCAL-01399" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera dwie liczby całkowite a i b od użytkownika.&#10;Oblicza sumę wszystkich liczb w przedziale od a do b (włącznie).&#10;Obsługuje sytuację, gdy a &gt; b – program powinien działać niezależnie od kolejności.">
       <option name="closed" value="true" />
@@ -551,7 +479,79 @@
       <option name="project" value="LOCAL" />
       <updated>1742596079618</updated>
     </task>
-    <option name="localTasksCounter" value="1439" />
+    <task id="LOCAL-01439" summary="Order">
+      <option name="closed" value="true" />
+      <created>1742651113750</created>
+      <option name="number" value="01439" />
+      <option name="presentableId" value="LOCAL-01439" />
+      <option name="project" value="LOCAL" />
+      <updated>1742651113750</updated>
+    </task>
+    <task id="LOCAL-01440" summary="Order">
+      <option name="closed" value="true" />
+      <created>1742651124792</created>
+      <option name="number" value="01440" />
+      <option name="presentableId" value="LOCAL-01440" />
+      <option name="project" value="LOCAL" />
+      <updated>1742651124792</updated>
+    </task>
+    <task id="LOCAL-01441" summary="Metoda toString() umożliwia wypisywanie obiektów w ładnej formie">
+      <option name="closed" value="true" />
+      <created>1742651146126</created>
+      <option name="number" value="01441" />
+      <option name="presentableId" value="LOCAL-01441" />
+      <option name="project" value="LOCAL" />
+      <updated>1742651146126</updated>
+    </task>
+    <task id="LOCAL-01442" summary="Metoda toString() umożliwia wypisywanie obiektów w ładnej formie">
+      <option name="closed" value="true" />
+      <created>1742651184216</created>
+      <option name="number" value="01442" />
+      <option name="presentableId" value="LOCAL-01442" />
+      <option name="project" value="LOCAL" />
+      <updated>1742651184216</updated>
+    </task>
+    <task id="LOCAL-01443" summary="Tworzymy listę przykładowych zamówień">
+      <option name="closed" value="true" />
+      <created>1742651207195</created>
+      <option name="number" value="01443" />
+      <option name="presentableId" value="LOCAL-01443" />
+      <option name="project" value="LOCAL" />
+      <updated>1742651207196</updated>
+    </task>
+    <task id="LOCAL-01444" summary="Tworzymy listę przykładowych zamówień">
+      <option name="closed" value="true" />
+      <created>1742651222355</created>
+      <option name="number" value="01444" />
+      <option name="presentableId" value="LOCAL-01444" />
+      <option name="project" value="LOCAL" />
+      <updated>1742651222355</updated>
+    </task>
+    <task id="LOCAL-01445" summary="Porównujemy wpisaną nazwę klienta z nazwą w zamówieniu&#10;wypisujemy dane zamówienia &#10;sumujemy wartość">
+      <option name="closed" value="true" />
+      <created>1742651282688</created>
+      <option name="number" value="01445" />
+      <option name="presentableId" value="LOCAL-01445" />
+      <option name="project" value="LOCAL" />
+      <updated>1742651282688</updated>
+    </task>
+    <task id="LOCAL-01446" summary="Warunek">
+      <option name="closed" value="true" />
+      <created>1742651302000</created>
+      <option name="number" value="01446" />
+      <option name="presentableId" value="LOCAL-01446" />
+      <option name="project" value="LOCAL" />
+      <updated>1742651302000</updated>
+    </task>
+    <task id="LOCAL-01447" summary="Warunek">
+      <option name="closed" value="true" />
+      <created>1742683547407</created>
+      <option name="number" value="01447" />
+      <option name="presentableId" value="LOCAL-01447" />
+      <option name="project" value="LOCAL" />
+      <updated>1742683547407</updated>
+    </task>
+    <option name="localTasksCounter" value="1448" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,11 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Napisz program w języku Java, który:&#10;&#10;Pobiera tekst od użytkownika.&#10;Sprawdza, czy tekst jest pangramem – czyli czy zawiera wszystkie litery alfabetu przynajmniej raz.&#10;Wyświetla odpowiedni komunikat." />
-    <MESSAGE value="Pobranie tekstu od użytkownika" />
-    <MESSAGE value="Sprawdzenie, czy tekst jest pangramem" />
-    <MESSAGE value="Metoda sprawdzająca, czy tekst jest pangramem" />
-    <MESSAGE value="Dodajemy tylko litery" />
     <MESSAGE value="Pangram zawiera wszystkie 26 liter alfabetu" />
     <MESSAGE value="Napisz program, który:&#10;&#10;Pobiera tekst od użytkownika,&#10;Pobiera znak/literę,&#10;Zlicza, ile razy ten znak występuje w tekście (bez względu na wielkość liter),&#10;Wyświetla wynik." />
     <MESSAGE value="Napisz program, który:&#10;&#10;Pobiera dwie liczby całkowite a i b,&#10;Wypisuje wszystkie liczby nieparzyste w zakresie od a do b (niezależnie od kolejności)." />
@@ -594,6 +589,11 @@
     <MESSAGE value="Dzielimy zdanie na słowa (spacja jako separator)" />
     <MESSAGE value="Zmienna przechowująca najdłuższe znalezione słowo" />
     <MESSAGE value="Pętla przeszukująca wszystkie słowa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pętla przeszukująca wszystkie słowa" />
+    <MESSAGE value="Order" />
+    <MESSAGE value="Metoda toString() umożliwia wypisywanie obiektów w ładnej formie" />
+    <MESSAGE value="Tworzymy listę przykładowych zamówień" />
+    <MESSAGE value="Porównujemy wpisaną nazwę klienta z nazwą w zamówieniu&#10;wypisujemy dane zamówienia &#10;sumujemy wartość" />
+    <MESSAGE value="Warunek" />
+    <option name="LAST_COMMIT_MESSAGE" value="Warunek" />
   </component>
 </project>
