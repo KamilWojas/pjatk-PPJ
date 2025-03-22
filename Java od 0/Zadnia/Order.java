@@ -42,3 +42,13 @@ public class SystemZamowien {
 
         double suma = 0;
         boolean znaleziono = false;
+
+        for (Order zamowienie : zamowienia) {
+            if (zamowienie.customerName.equalsIgnoreCase(klient)) {
+                System.out.println(zamowienie); 
+                suma += zamowienie.amount;
+                znaleziono = true;
+            }
+        }
+
+    }
