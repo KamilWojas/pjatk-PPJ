@@ -34,4 +34,11 @@ public class SystemZamowien {
 
         double suma = 0;
         boolean znaleziono = false;
-    }
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Podaj nazwę klienta: ");
+        String klient = scanner.nextLine();
+
+        double suma = 0;
+        boolean znaleziono = false;
