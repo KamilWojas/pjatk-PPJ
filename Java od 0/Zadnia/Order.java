@@ -12,3 +12,8 @@ class Order {
         this.customerName = customerName;
         this.amount = amount;
     }
+
+    public String toString() {
+        return "Order{id=" + id + ", customerName='" + customerName + "', amount=" + amount + "}";
+    }
+}
