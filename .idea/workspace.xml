@@ -157,15 +157,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="12423000" />
-    </task>
-    <task id="LOCAL-01402" summary="Wyświetlenie wyniku">
-      <option name="closed" value="true" />
-      <created>1742504079875</created>
-      <option name="number" value="01402" />
-      <option name="presentableId" value="LOCAL-01402" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504079875</updated>
+      <workItem from="1742046384185" duration="13028000" />
     </task>
     <task id="LOCAL-01403" summary="Metoda obliczająca sumę liczb w przedziale">
       <option name="closed" value="true" />
@@ -551,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742732531180</updated>
     </task>
-    <option name="localTasksCounter" value="1451" />
+    <task id="LOCAL-01451" summary="Warunek">
+      <option name="closed" value="true" />
+      <created>1742753057030</created>
+      <option name="number" value="01451" />
+      <option name="presentableId" value="LOCAL-01451" />
+      <option name="project" value="LOCAL" />
+      <updated>1742753057030</updated>
+    </task>
+    <option name="localTasksCounter" value="1452" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
