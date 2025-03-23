@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Warunek">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Order.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Warunek" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,23 +157,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="11738000" />
-    </task>
-    <task id="LOCAL-01400" summary="Pobranie dwóch liczb od użytkownika">
-      <option name="closed" value="true" />
-      <created>1742504044468</created>
-      <option name="number" value="01400" />
-      <option name="presentableId" value="LOCAL-01400" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504044469</updated>
-    </task>
-    <task id="LOCAL-01401" summary="Obliczenie sumy liczb w przedziale">
-      <option name="closed" value="true" />
-      <created>1742504058662</created>
-      <option name="number" value="01401" />
-      <option name="presentableId" value="LOCAL-01401" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504058662</updated>
+      <workItem from="1742046384185" duration="12423000" />
     </task>
     <task id="LOCAL-01402" summary="Wyświetlenie wyniku">
       <option name="closed" value="true" />
@@ -554,7 +535,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742686297360</updated>
     </task>
-    <option name="localTasksCounter" value="1449" />
+    <task id="LOCAL-01449" summary="Warunek">
+      <option name="closed" value="true" />
+      <created>1742686371632</created>
+      <option name="number" value="01449" />
+      <option name="presentableId" value="LOCAL-01449" />
+      <option name="project" value="LOCAL" />
+      <updated>1742686371632</updated>
+    </task>
+    <task id="LOCAL-01450" summary="Warunek">
+      <option name="closed" value="true" />
+      <created>1742732531180</created>
+      <option name="number" value="01450" />
+      <option name="presentableId" value="LOCAL-01450" />
+      <option name="project" value="LOCAL" />
+      <updated>1742732531180</updated>
+    </task>
+    <option name="localTasksCounter" value="1451" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
