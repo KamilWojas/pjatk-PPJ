@@ -159,15 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="14223000" />
-    </task>
-    <task id="LOCAL-01404" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera tekst od użytkownika.&#10;Sprawdza, czy tekst jest pangramem – czyli czy zawiera wszystkie litery alfabetu przynajmniej raz.&#10;Wyświetla odpowiedni komunikat.">
-      <option name="closed" value="true" />
-      <created>1742504191657</created>
-      <option name="number" value="01404" />
-      <option name="presentableId" value="LOCAL-01404" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504191657</updated>
+      <workItem from="1742046384185" duration="14832000" />
     </task>
     <task id="LOCAL-01405" summary="Pobranie tekstu od użytkownika">
       <option name="closed" value="true" />
@@ -553,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742762864339</updated>
     </task>
-    <option name="localTasksCounter" value="1453" />
+    <task id="LOCAL-01453" summary="Warunek">
+      <option name="closed" value="true" />
+      <created>1742854101316</created>
+      <option name="number" value="01453" />
+      <option name="presentableId" value="LOCAL-01453" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854101316</updated>
+    </task>
+    <option name="localTasksCounter" value="1454" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
