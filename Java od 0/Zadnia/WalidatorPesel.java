@@ -27,3 +27,12 @@ public class WalidatorPesel {
     public static boolean czyTylkoCyfry(String pesel) {
         return pesel.matches("\\d+");
     }
+
+    public static boolean czyPoprawnaSumaKontrolna(String pesel) {
+        int[] wagi = {9, 7, 3, 1, 9, 7, 3, 1, 9, 7}; ]
+        int suma = 0;
+
+        for (int i = 0; i < 10; i++) {
+            int cyfra = Character.getNumericValue(pesel.charAt(i));
+            suma += cyfra * wagi[i];
+        }
