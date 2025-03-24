@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Warunek">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Tworzenie klasy Employee z polami: id, name, department, salary.">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,79 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="14832000" />
-    </task>
-    <task id="LOCAL-01405" summary="Pobranie tekstu od użytkownika">
-      <option name="closed" value="true" />
-      <created>1742504208444</created>
-      <option name="number" value="01405" />
-      <option name="presentableId" value="LOCAL-01405" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504208444</updated>
-    </task>
-    <task id="LOCAL-01406" summary="Sprawdzenie, czy tekst jest pangramem">
-      <option name="closed" value="true" />
-      <created>1742504226165</created>
-      <option name="number" value="01406" />
-      <option name="presentableId" value="LOCAL-01406" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504226165</updated>
-    </task>
-    <task id="LOCAL-01407" summary="Metoda sprawdzająca, czy tekst jest pangramem">
-      <option name="closed" value="true" />
-      <created>1742504251018</created>
-      <option name="number" value="01407" />
-      <option name="presentableId" value="LOCAL-01407" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504251018</updated>
-    </task>
-    <task id="LOCAL-01408" summary="Dodajemy tylko litery">
-      <option name="closed" value="true" />
-      <created>1742504270018</created>
-      <option name="number" value="01408" />
-      <option name="presentableId" value="LOCAL-01408" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504270018</updated>
-    </task>
-    <task id="LOCAL-01409" summary="Pangram zawiera wszystkie 26 liter alfabetu">
-      <option name="closed" value="true" />
-      <created>1742504292201</created>
-      <option name="number" value="01409" />
-      <option name="presentableId" value="LOCAL-01409" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504292201</updated>
-    </task>
-    <task id="LOCAL-01410" summary="Pangram zawiera wszystkie 26 liter alfabetu">
-      <option name="closed" value="true" />
-      <created>1742504321428</created>
-      <option name="number" value="01410" />
-      <option name="presentableId" value="LOCAL-01410" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504321428</updated>
-    </task>
-    <task id="LOCAL-01411" summary="Pangram zawiera wszystkie 26 liter alfabetu">
-      <option name="closed" value="true" />
-      <created>1742504544387</created>
-      <option name="number" value="01411" />
-      <option name="presentableId" value="LOCAL-01411" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504544387</updated>
-    </task>
-    <task id="LOCAL-01412" summary="Napisz program, który:&#10;&#10;Pobiera tekst od użytkownika,&#10;Pobiera znak/literę,&#10;Zlicza, ile razy ten znak występuje w tekście (bez względu na wielkość liter),&#10;Wyświetla wynik.">
-      <option name="closed" value="true" />
-      <created>1742595463091</created>
-      <option name="number" value="01412" />
-      <option name="presentableId" value="LOCAL-01412" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595463091</updated>
-    </task>
-    <task id="LOCAL-01413" summary="Napisz program, który:&#10;&#10;Pobiera tekst od użytkownika,&#10;Pobiera znak/literę,&#10;Zlicza, ile razy ten znak występuje w tekście (bez względu na wielkość liter),&#10;Wyświetla wynik.">
-      <option name="closed" value="true" />
-      <created>1742595483211</created>
-      <option name="number" value="01413" />
-      <option name="presentableId" value="LOCAL-01413" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595483211</updated>
+      <workItem from="1742046384185" duration="15142000" />
     </task>
     <task id="LOCAL-01414" summary="Napisz program, który:&#10;&#10;Pobiera dwie liczby całkowite a i b,&#10;Wypisuje wszystkie liczby nieparzyste w zakresie od a do b (niezależnie od kolejności).">
       <option name="closed" value="true" />
@@ -553,7 +481,79 @@
       <option name="project" value="LOCAL" />
       <updated>1742854101316</updated>
     </task>
-    <option name="localTasksCounter" value="1454" />
+    <task id="LOCAL-01454" summary="WalidatorPesel">
+      <option name="closed" value="true" />
+      <created>1742854743660</created>
+      <option name="number" value="01454" />
+      <option name="presentableId" value="LOCAL-01454" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854743660</updated>
+    </task>
+    <task id="LOCAL-01455" summary="WalidatorPesel">
+      <option name="closed" value="true" />
+      <created>1742854753330</created>
+      <option name="number" value="01455" />
+      <option name="presentableId" value="LOCAL-01455" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854753330</updated>
+    </task>
+    <task id="LOCAL-01456" summary="Sprawdzenie długości">
+      <option name="closed" value="true" />
+      <created>1742854772691</created>
+      <option name="number" value="01456" />
+      <option name="presentableId" value="LOCAL-01456" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854772691</updated>
+    </task>
+    <task id="LOCAL-01457" summary="Sprawdzenie, czy PESEL zawiera tylko cyfry">
+      <option name="closed" value="true" />
+      <created>1742854791995</created>
+      <option name="number" value="01457" />
+      <option name="presentableId" value="LOCAL-01457" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854791995</updated>
+    </task>
+    <task id="LOCAL-01458" summary="Sprawdzenie sumy kontrolnej (algorytm PESEL)">
+      <option name="closed" value="true" />
+      <created>1742854818450</created>
+      <option name="number" value="01458" />
+      <option name="presentableId" value="LOCAL-01458" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854818450</updated>
+    </task>
+    <task id="LOCAL-01459" summary="Wagi dla 10 pierwszych cyfr">
+      <option name="closed" value="true" />
+      <created>1742854838427</created>
+      <option name="number" value="01459" />
+      <option name="presentableId" value="LOCAL-01459" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854838427</updated>
+    </task>
+    <task id="LOCAL-01460" summary="Sprawdzenie sumy kontrolnej (algorytm PESEL)">
+      <option name="closed" value="true" />
+      <created>1742854863024</created>
+      <option name="number" value="01460" />
+      <option name="presentableId" value="LOCAL-01460" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854863024</updated>
+    </task>
+    <task id="LOCAL-01461" summary="Zadanie: System pracowników – przefiltruj po dziale">
+      <option name="closed" value="true" />
+      <created>1742854970720</created>
+      <option name="number" value="01461" />
+      <option name="presentableId" value="LOCAL-01461" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854970720</updated>
+    </task>
+    <task id="LOCAL-01462" summary="Tworzenie klasy Employee z polami: id, name, department, salary.">
+      <option name="closed" value="true" />
+      <created>1742855015469</created>
+      <option name="number" value="01462" />
+      <option name="presentableId" value="LOCAL-01462" />
+      <option name="project" value="LOCAL" />
+      <updated>1742855015469</updated>
+    </task>
+    <option name="localTasksCounter" value="1463" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,13 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pangram zawiera wszystkie 26 liter alfabetu" />
-    <MESSAGE value="Napisz program, który:&#10;&#10;Pobiera tekst od użytkownika,&#10;Pobiera znak/literę,&#10;Zlicza, ile razy ten znak występuje w tekście (bez względu na wielkość liter),&#10;Wyświetla wynik." />
-    <MESSAGE value="Napisz program, który:&#10;&#10;Pobiera dwie liczby całkowite a i b,&#10;Wypisuje wszystkie liczby nieparzyste w zakresie od a do b (niezależnie od kolejności)." />
-    <MESSAGE value="Napisz program, który:&#10;&#10;Pobiera ciąg znaków od użytkownika,&#10;Sprawdza, czy tekst zawiera wyłącznie cyfry (0–9),&#10;Wyświetla odpowiedni komunikat." />
-    <MESSAGE value="Napisz program, który:&#10;&#10;Pobiera liczbę całkowitą od użytkownika,&#10;Sprawdza, czy liczba jest parzysta czy nieparzysta,&#10;Sprawdza, czy jest dodatnia, ujemna, czy równa zero." />
-    <MESSAGE value="Odczytujemy liczbę typu int" />
-    <MESSAGE value="Sprawdzenie parzystości" />
     <MESSAGE value="Sprawdzenie znaku liczby" />
     <MESSAGE value="Zamyka Scanner (dobry nawyk)" />
     <MESSAGE value="Pobierz od użytkownika liczbę n,&#10;Wczytaj n liczb,&#10;Oblicz i wypisz ich średnią." />
@@ -596,6 +589,13 @@
     <MESSAGE value="Tworzymy listę przykładowych zamówień" />
     <MESSAGE value="Porównujemy wpisaną nazwę klienta z nazwą w zamówieniu&#10;wypisujemy dane zamówienia &#10;sumujemy wartość" />
     <MESSAGE value="Warunek" />
-    <option name="LAST_COMMIT_MESSAGE" value="Warunek" />
+    <MESSAGE value="WalidatorPesel" />
+    <MESSAGE value="Sprawdzenie długości" />
+    <MESSAGE value="Sprawdzenie, czy PESEL zawiera tylko cyfry" />
+    <MESSAGE value="Wagi dla 10 pierwszych cyfr" />
+    <MESSAGE value="Sprawdzenie sumy kontrolnej (algorytm PESEL)" />
+    <MESSAGE value="Zadanie: System pracowników – przefiltruj po dziale" />
+    <MESSAGE value="Tworzenie klasy Employee z polami: id, name, department, salary." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tworzenie klasy Employee z polami: id, name, department, salary." />
   </component>
 </project>
