@@ -23,3 +23,7 @@ public class WalidatorPesel {
     public static boolean czyPoprawnaDlugosc(String pesel) {
         return pesel.length() == 11;
     }
+
+    public static boolean czyTylkoCyfry(String pesel) {
+        return pesel.matches("\\d+");
+    }
