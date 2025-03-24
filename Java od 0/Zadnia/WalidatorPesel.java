@@ -29,7 +29,7 @@ public class WalidatorPesel {
     }
 
     public static boolean czyPoprawnaSumaKontrolna(String pesel) {
-        int[] wagi = {9, 7, 3, 1, 9, 7, 3, 1, 9, 7}; ]
+        int[] wagi = {9, 7, 3, 1, 9, 7, 3, 1, 9, 7};
         int suma = 0;
 
         for (int i = 0; i < 10; i++) {
