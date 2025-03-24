@@ -31,3 +31,20 @@ public class SystemPracownikow {
         pracownicy.add(new Employee(5, "Piotr Maj", "Marketing", 4300));
 
         Scanner scanner = new Scanner(System.in);
+
+
+        System.out.print("Podaj nazwę działu: ");
+        String dzial = scanner.nextLine();
+
+        double suma = 0;
+        int licznik = 0;
+
+        System.out.println("Pracownicy działu " + dzial + ":");
+
+        for (Employee emp : pracownicy) {
+            if (emp.department.equalsIgnoreCase(dzial)) {
+                System.out.println(emp);
+                suma += emp.salary;
+                licznik++;
+            }
+        }
