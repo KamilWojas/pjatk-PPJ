@@ -58,4 +58,4 @@ public class SystemPracownikow {
 
         scanner.close();
     }
-}
+} 
