@@ -48,3 +48,14 @@ public class SystemPracownikow {
                 licznik++;
             }
         }
+
+        if (licznik > 0) {
+            double srednia = suma / licznik;
+            System.out.printf("Średnia pensja: %.2f\n", srednia);
+        } else {
+            System.out.println("Brak pracowników w tym dziale.");
+        }
+
+        scanner.close();
+    }
+}
