@@ -19,3 +19,7 @@ public class WalidatorPesel {
 
         scanner.close();
     }
+
+    public static boolean czyPoprawnaDlugosc(String pesel) {
+        return pesel.length() == 11;
+    }
