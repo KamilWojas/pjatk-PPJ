@@ -36,3 +36,8 @@ public class WalidatorPesel {
             int cyfra = Character.getNumericValue(pesel.charAt(i));
             suma += cyfra * wagi[i];
         }
+
+        int ostatniaCyfra = Character.getNumericValue(pesel.charAt(10));
+        return (suma % 10) == ostatniaCyfra;
+    }
+}
