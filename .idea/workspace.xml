@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Warunek" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Warunek">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,15 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="13028000" />
-    </task>
-    <task id="LOCAL-01403" summary="Metoda obliczająca sumę liczb w przedziale">
-      <option name="closed" value="true" />
-      <created>1742504096848</created>
-      <option name="number" value="01403" />
-      <option name="presentableId" value="LOCAL-01403" />
-      <option name="project" value="LOCAL" />
-      <updated>1742504096848</updated>
+      <workItem from="1742046384185" duration="14223000" />
     </task>
     <task id="LOCAL-01404" summary="Napisz program w języku Java, który:&#10;&#10;Pobiera tekst od użytkownika.&#10;Sprawdza, czy tekst jest pangramem – czyli czy zawiera wszystkie litery alfabetu przynajmniej raz.&#10;Wyświetla odpowiedni komunikat.">
       <option name="closed" value="true" />
@@ -551,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742753057030</updated>
     </task>
-    <option name="localTasksCounter" value="1452" />
+    <task id="LOCAL-01452" summary="Warunek">
+      <option name="closed" value="true" />
+      <created>1742762864339</created>
+      <option name="number" value="01452" />
+      <option name="presentableId" value="LOCAL-01452" />
+      <option name="project" value="LOCAL" />
+      <updated>1742762864339</updated>
+    </task>
+    <option name="localTasksCounter" value="1453" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
