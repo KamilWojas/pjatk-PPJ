@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Tworzenie klasy Employee z polami: id, name, department, salary.">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję.">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,47 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="15142000" />
-    </task>
-    <task id="LOCAL-01414" summary="Napisz program, który:&#10;&#10;Pobiera dwie liczby całkowite a i b,&#10;Wypisuje wszystkie liczby nieparzyste w zakresie od a do b (niezależnie od kolejności).">
-      <option name="closed" value="true" />
-      <created>1742595523188</created>
-      <option name="number" value="01414" />
-      <option name="presentableId" value="LOCAL-01414" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595523188</updated>
-    </task>
-    <task id="LOCAL-01415" summary="Napisz program, który:&#10;&#10;Pobiera ciąg znaków od użytkownika,&#10;Sprawdza, czy tekst zawiera wyłącznie cyfry (0–9),&#10;Wyświetla odpowiedni komunikat.">
-      <option name="closed" value="true" />
-      <created>1742595549389</created>
-      <option name="number" value="01415" />
-      <option name="presentableId" value="LOCAL-01415" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595549389</updated>
-    </task>
-    <task id="LOCAL-01416" summary="Napisz program, który:&#10;&#10;Pobiera ciąg znaków od użytkownika,&#10;Sprawdza, czy tekst zawiera wyłącznie cyfry (0–9),&#10;Wyświetla odpowiedni komunikat.">
-      <option name="closed" value="true" />
-      <created>1742595559472</created>
-      <option name="number" value="01416" />
-      <option name="presentableId" value="LOCAL-01416" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595559472</updated>
-    </task>
-    <task id="LOCAL-01417" summary="Napisz program, który:&#10;&#10;Pobiera liczbę całkowitą od użytkownika,&#10;Sprawdza, czy liczba jest parzysta czy nieparzysta,&#10;Sprawdza, czy jest dodatnia, ujemna, czy równa zero.">
-      <option name="closed" value="true" />
-      <created>1742595643423</created>
-      <option name="number" value="01417" />
-      <option name="presentableId" value="LOCAL-01417" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595643423</updated>
-    </task>
-    <task id="LOCAL-01418" summary="Napisz program, który:&#10;&#10;Pobiera liczbę całkowitą od użytkownika,&#10;Sprawdza, czy liczba jest parzysta czy nieparzysta,&#10;Sprawdza, czy jest dodatnia, ujemna, czy równa zero.">
-      <option name="closed" value="true" />
-      <created>1742595655518</created>
-      <option name="number" value="01418" />
-      <option name="presentableId" value="LOCAL-01418" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595655518</updated>
+      <workItem from="1742046384185" duration="15859000" />
     </task>
     <task id="LOCAL-01419" summary="Odczytujemy liczbę typu int">
       <option name="closed" value="true" />
@@ -553,7 +513,47 @@
       <option name="project" value="LOCAL" />
       <updated>1742855015469</updated>
     </task>
-    <option name="localTasksCounter" value="1463" />
+    <task id="LOCAL-01463" summary="Przeciążenie metody">
+      <option name="closed" value="true" />
+      <created>1742855042075</created>
+      <option name="number" value="01463" />
+      <option name="presentableId" value="LOCAL-01463" />
+      <option name="project" value="LOCAL" />
+      <updated>1742855042075</updated>
+    </task>
+    <task id="LOCAL-01464" summary="Lista przykładowych pracowników">
+      <option name="closed" value="true" />
+      <created>1742855083582</created>
+      <option name="number" value="01464" />
+      <option name="presentableId" value="LOCAL-01464" />
+      <option name="project" value="LOCAL" />
+      <updated>1742855083582</updated>
+    </task>
+    <task id="LOCAL-01465" summary="Użytkownik podaje nazwę działu (np. &quot;IT&quot;).">
+      <option name="closed" value="true" />
+      <created>1742855123547</created>
+      <option name="number" value="01465" />
+      <option name="presentableId" value="LOCAL-01465" />
+      <option name="project" value="LOCAL" />
+      <updated>1742855123547</updated>
+    </task>
+    <task id="LOCAL-01466" summary="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję.">
+      <option name="closed" value="true" />
+      <created>1742855146050</created>
+      <option name="number" value="01466" />
+      <option name="presentableId" value="LOCAL-01466" />
+      <option name="project" value="LOCAL" />
+      <updated>1742855146050</updated>
+    </task>
+    <task id="LOCAL-01467" summary="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję.">
+      <option name="closed" value="true" />
+      <created>1742856188908</created>
+      <option name="number" value="01467" />
+      <option name="presentableId" value="LOCAL-01467" />
+      <option name="project" value="LOCAL" />
+      <updated>1742856188908</updated>
+    </task>
+    <option name="localTasksCounter" value="1468" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,10 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sprawdzenie znaku liczby" />
-    <MESSAGE value="Zamyka Scanner (dobry nawyk)" />
-    <MESSAGE value="Pobierz od użytkownika liczbę n,&#10;Wczytaj n liczb,&#10;Oblicz i wypisz ich średnią." />
-    <MESSAGE value="Liczba elementów" />
     <MESSAGE value="Przechowuje sumę wszystkich liczb" />
     <MESSAGE value="Pętla wczytująca n liczb i dodająca je do sumy" />
     <MESSAGE value="Dodajemy ją do sumy" />
@@ -596,6 +592,10 @@
     <MESSAGE value="Sprawdzenie sumy kontrolnej (algorytm PESEL)" />
     <MESSAGE value="Zadanie: System pracowników – przefiltruj po dziale" />
     <MESSAGE value="Tworzenie klasy Employee z polami: id, name, department, salary." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tworzenie klasy Employee z polami: id, name, department, salary." />
+    <MESSAGE value="Przeciążenie metody" />
+    <MESSAGE value="Lista przykładowych pracowników" />
+    <MESSAGE value="Użytkownik podaje nazwę działu (np. &quot;IT&quot;)." />
+    <MESSAGE value="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję." />
+    <option name="LAST_COMMIT_MESSAGE" value="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję." />
   </component>
 </project>
