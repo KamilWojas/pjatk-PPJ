@@ -11,3 +11,12 @@ public class KonwersjaNaBinarny {
             System.out.println("Binarnie: 0");
             return;
         }
+
+        String wynik = "";
+        int n = liczba;
+
+        while (n > 0) {
+            int reszta = n % 2;
+            wynik = reszta + wynik; 
+            n = n / 2;
+        }
