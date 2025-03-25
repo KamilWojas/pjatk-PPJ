@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przeciążenie metody">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Product.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="getOrDefault(slowo, 0) – zwraca wartość z mapy lub 0, jeśli brak.&#10;&#10;entrySet() – pozwala iterować po parach klucz–wartość.">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/KonwersjaNaBinarny.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,71 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="16762000" />
-    </task>
-    <task id="LOCAL-01424" summary="Pobierz od użytkownika liczbę n,&#10;Wczytaj n liczb,&#10;Oblicz i wypisz ich średnią.">
-      <option name="closed" value="true" />
-      <created>1742595788387</created>
-      <option name="number" value="01424" />
-      <option name="presentableId" value="LOCAL-01424" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595788387</updated>
-    </task>
-    <task id="LOCAL-01425" summary="Pobierz od użytkownika liczbę n,&#10;Wczytaj n liczb,&#10;Oblicz i wypisz ich średnią.">
-      <option name="closed" value="true" />
-      <created>1742595800714</created>
-      <option name="number" value="01425" />
-      <option name="presentableId" value="LOCAL-01425" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595800714</updated>
-    </task>
-    <task id="LOCAL-01426" summary="Liczba elementów">
-      <option name="closed" value="true" />
-      <created>1742595816872</created>
-      <option name="number" value="01426" />
-      <option name="presentableId" value="LOCAL-01426" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595816872</updated>
-    </task>
-    <task id="LOCAL-01427" summary="Przechowuje sumę wszystkich liczb">
-      <option name="closed" value="true" />
-      <created>1742595832581</created>
-      <option name="number" value="01427" />
-      <option name="presentableId" value="LOCAL-01427" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595832581</updated>
-    </task>
-    <task id="LOCAL-01428" summary="Pętla wczytująca n liczb i dodająca je do sumy">
-      <option name="closed" value="true" />
-      <created>1742595858555</created>
-      <option name="number" value="01428" />
-      <option name="presentableId" value="LOCAL-01428" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595858555</updated>
-    </task>
-    <task id="LOCAL-01429" summary="Dodajemy ją do sumy">
-      <option name="closed" value="true" />
-      <created>1742595884133</created>
-      <option name="number" value="01429" />
-      <option name="presentableId" value="LOCAL-01429" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595884133</updated>
-    </task>
-    <task id="LOCAL-01430" summary="Obliczamy średnią">
-      <option name="closed" value="true" />
-      <created>1742595907065</created>
-      <option name="number" value="01430" />
-      <option name="presentableId" value="LOCAL-01430" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595907065</updated>
-    </task>
-    <task id="LOCAL-01431" summary="Wczytaj od użytkownika jedno zdanie,&#10;Znajdź najdłuższe słowo w tym zdaniu,&#10;Wypisz słowo i jego długość.">
-      <option name="closed" value="true" />
-      <created>1742595942722</created>
-      <option name="number" value="01431" />
-      <option name="presentableId" value="LOCAL-01431" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595942722</updated>
+      <workItem from="1742046384185" duration="17065000" />
     </task>
     <task id="LOCAL-01432" summary="Wczytaj od użytkownika jedno zdanie,&#10;Znajdź najdłuższe słowo w tym zdaniu,&#10;Wypisz słowo i jego długość.">
       <option name="closed" value="true" />
@@ -553,7 +489,71 @@
       <option name="project" value="LOCAL" />
       <updated>1742940839810</updated>
     </task>
-    <option name="localTasksCounter" value="1473" />
+    <task id="LOCAL-01473" summary="lista produktów, które sortujemy i wypisujemy.">
+      <option name="closed" value="true" />
+      <created>1742940877209</created>
+      <option name="number" value="01473" />
+      <option name="presentableId" value="LOCAL-01473" />
+      <option name="project" value="LOCAL" />
+      <updated>1742940877209</updated>
+    </task>
+    <task id="LOCAL-01474" summary="Scanner">
+      <option name="closed" value="true" />
+      <created>1742940921835</created>
+      <option name="number" value="01474" />
+      <option name="presentableId" value="LOCAL-01474" />
+      <option name="project" value="LOCAL" />
+      <updated>1742940921835</updated>
+    </task>
+    <task id="LOCAL-01475" summary="Double.compare(p2.price, p1.price) – sortuje malejąco.&#10;&#10;toLowerCase() – sprawia, że użytkownik może wpisać ROSNĄCO albo rosnąco.">
+      <option name="closed" value="true" />
+      <created>1742940953269</created>
+      <option name="number" value="01475" />
+      <option name="presentableId" value="LOCAL-01475" />
+      <option name="project" value="LOCAL" />
+      <updated>1742940953269</updated>
+    </task>
+    <task id="LOCAL-01476" summary="Zadanie: Liczenie wystąpień słów w tekście">
+      <option name="closed" value="true" />
+      <created>1742941008337</created>
+      <option name="number" value="01476" />
+      <option name="presentableId" value="LOCAL-01476" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941008337</updated>
+    </task>
+    <task id="LOCAL-01477" summary="LiczenieSlow">
+      <option name="closed" value="true" />
+      <created>1742941033071</created>
+      <option name="number" value="01477" />
+      <option name="presentableId" value="LOCAL-01477" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941033072</updated>
+    </task>
+    <task id="LOCAL-01478" summary="dzielenie po spacjach">
+      <option name="closed" value="true" />
+      <created>1742941051624</created>
+      <option name="number" value="01478" />
+      <option name="presentableId" value="LOCAL-01478" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941051624</updated>
+    </task>
+    <task id="LOCAL-01479" summary="Map&lt;String, Integer&gt; – przechowuje słowo → liczba wystąpień.">
+      <option name="closed" value="true" />
+      <created>1742941086821</created>
+      <option name="number" value="01479" />
+      <option name="presentableId" value="LOCAL-01479" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941086821</updated>
+    </task>
+    <task id="LOCAL-01480" summary="getOrDefault(slowo, 0) – zwraca wartość z mapy lub 0, jeśli brak.&#10;&#10;entrySet() – pozwala iterować po parach klucz–wartość.">
+      <option name="closed" value="true" />
+      <created>1742941120489</created>
+      <option name="number" value="01480" />
+      <option name="presentableId" value="LOCAL-01480" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941120489</updated>
+    </task>
+    <option name="localTasksCounter" value="1481" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,14 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dodajemy ją do sumy" />
-    <MESSAGE value="Obliczamy średnią" />
-    <MESSAGE value="Wczytaj od użytkownika jedno zdanie,&#10;Znajdź najdłuższe słowo w tym zdaniu,&#10;Wypisz słowo i jego długość." />
-    <MESSAGE value="Odczytujemy całe zdanie" />
-    <MESSAGE value="Dzielimy zdanie na słowa (spacja jako separator)" />
-    <MESSAGE value="Zmienna przechowująca najdłuższe znalezione słowo" />
-    <MESSAGE value="Pętla przeszukująca wszystkie słowa" />
-    <MESSAGE value="Order" />
     <MESSAGE value="Metoda toString() umożliwia wypisywanie obiektów w ładnej formie" />
     <MESSAGE value="Tworzymy listę przykładowych zamówień" />
     <MESSAGE value="Porównujemy wpisaną nazwę klienta z nazwą w zamówieniu&#10;wypisujemy dane zamówienia &#10;sumujemy wartość" />
@@ -596,6 +588,14 @@
     <MESSAGE value=" Zadanie : Sortowanie produktów po cenie (rosnąco/malejąco)" />
     <MESSAGE value="Klasa produkt + konstruktor" />
     <MESSAGE value="Przeciążenie metody" />
-    <option name="LAST_COMMIT_MESSAGE" value="Przeciążenie metody" />
+    <MESSAGE value="lista produktów, które sortujemy i wypisujemy." />
+    <MESSAGE value="Scanner" />
+    <MESSAGE value="Double.compare(p2.price, p1.price) – sortuje malejąco.&#10;&#10;toLowerCase() – sprawia, że użytkownik może wpisać ROSNĄCO albo rosnąco." />
+    <MESSAGE value="Zadanie: Liczenie wystąpień słów w tekście" />
+    <MESSAGE value="LiczenieSlow" />
+    <MESSAGE value="dzielenie po spacjach" />
+    <MESSAGE value="Map&lt;String, Integer&gt; – przechowuje słowo → liczba wystąpień." />
+    <MESSAGE value="getOrDefault(slowo, 0) – zwraca wartość z mapy lub 0, jeśli brak.&#10;&#10;entrySet() – pozwala iterować po parach klucz–wartość." />
+    <option name="LAST_COMMIT_MESSAGE" value="getOrDefault(slowo, 0) – zwraca wartość z mapy lub 0, jeśli brak.&#10;&#10;entrySet() – pozwala iterować po parach klucz–wartość." />
   </component>
 </project>
