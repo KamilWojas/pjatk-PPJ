@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="getOrDefault(slowo, 0) – zwraca wartość z mapy lub 0, jeśli brak.&#10;&#10;entrySet() – pozwala iterować po parach klucz–wartość.">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/KonwersjaNaBinarny.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Inicjacja tablicy">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/ZnajdzWTablicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/ZnajdzWTablicy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,71 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="17065000" />
-    </task>
-    <task id="LOCAL-01432" summary="Wczytaj od użytkownika jedno zdanie,&#10;Znajdź najdłuższe słowo w tym zdaniu,&#10;Wypisz słowo i jego długość.">
-      <option name="closed" value="true" />
-      <created>1742595950811</created>
-      <option name="number" value="01432" />
-      <option name="presentableId" value="LOCAL-01432" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595950811</updated>
-    </task>
-    <task id="LOCAL-01433" summary="Odczytujemy całe zdanie">
-      <option name="closed" value="true" />
-      <created>1742595969468</created>
-      <option name="number" value="01433" />
-      <option name="presentableId" value="LOCAL-01433" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595969468</updated>
-    </task>
-    <task id="LOCAL-01434" summary="Dzielimy zdanie na słowa (spacja jako separator)">
-      <option name="closed" value="true" />
-      <created>1742595987254</created>
-      <option name="number" value="01434" />
-      <option name="presentableId" value="LOCAL-01434" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595987254</updated>
-    </task>
-    <task id="LOCAL-01435" summary="Zmienna przechowująca najdłuższe znalezione słowo">
-      <option name="closed" value="true" />
-      <created>1742596010174</created>
-      <option name="number" value="01435" />
-      <option name="presentableId" value="LOCAL-01435" />
-      <option name="project" value="LOCAL" />
-      <updated>1742596010174</updated>
-    </task>
-    <task id="LOCAL-01436" summary="Pętla przeszukująca wszystkie słowa">
-      <option name="closed" value="true" />
-      <created>1742596037185</created>
-      <option name="number" value="01436" />
-      <option name="presentableId" value="LOCAL-01436" />
-      <option name="project" value="LOCAL" />
-      <updated>1742596037185</updated>
-    </task>
-    <task id="LOCAL-01437" summary="Pętla przeszukująca wszystkie słowa">
-      <option name="closed" value="true" />
-      <created>1742596055038</created>
-      <option name="number" value="01437" />
-      <option name="presentableId" value="LOCAL-01437" />
-      <option name="project" value="LOCAL" />
-      <updated>1742596055038</updated>
-    </task>
-    <task id="LOCAL-01438" summary="Pętla przeszukująca wszystkie słowa">
-      <option name="closed" value="true" />
-      <created>1742596079617</created>
-      <option name="number" value="01438" />
-      <option name="presentableId" value="LOCAL-01438" />
-      <option name="project" value="LOCAL" />
-      <updated>1742596079618</updated>
-    </task>
-    <task id="LOCAL-01439" summary="Order">
-      <option name="closed" value="true" />
-      <created>1742651113750</created>
-      <option name="number" value="01439" />
-      <option name="presentableId" value="LOCAL-01439" />
-      <option name="project" value="LOCAL" />
-      <updated>1742651113750</updated>
+      <workItem from="1742046384185" duration="17382000" />
     </task>
     <task id="LOCAL-01440" summary="Order">
       <option name="closed" value="true" />
@@ -553,7 +489,71 @@
       <option name="project" value="LOCAL" />
       <updated>1742941120489</updated>
     </task>
-    <option name="localTasksCounter" value="1481" />
+    <task id="LOCAL-01481" summary="Zadanie: Konwersja liczby z dziesiętnej na binarną">
+      <option name="closed" value="true" />
+      <created>1742941164689</created>
+      <option name="number" value="01481" />
+      <option name="presentableId" value="LOCAL-01481" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941164689</updated>
+    </task>
+    <task id="LOCAL-01482" summary="KonwersjaNaBinarny">
+      <option name="closed" value="true" />
+      <created>1742941188620</created>
+      <option name="number" value="01482" />
+      <option name="presentableId" value="LOCAL-01482" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941188620</updated>
+    </task>
+    <task id="LOCAL-01483" summary="KonwersjaNaBinarny">
+      <option name="closed" value="true" />
+      <created>1742941222025</created>
+      <option name="number" value="01483" />
+      <option name="presentableId" value="LOCAL-01483" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941222025</updated>
+    </task>
+    <task id="LOCAL-01484" summary="dodajemy cyfrę od przodu">
+      <option name="closed" value="true" />
+      <created>1742941251175</created>
+      <option name="number" value="01484" />
+      <option name="presentableId" value="LOCAL-01484" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941251175</updated>
+    </task>
+    <task id="LOCAL-01485" summary="KonwersjaNaBinarny">
+      <option name="closed" value="true" />
+      <created>1742941277786</created>
+      <option name="number" value="01485" />
+      <option name="presentableId" value="LOCAL-01485" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941277786</updated>
+    </task>
+    <task id="LOCAL-01486" summary="Zadanie: Sprawdzanie, czy tablica zawiera daną wartość">
+      <option name="closed" value="true" />
+      <created>1742941401028</created>
+      <option name="number" value="01486" />
+      <option name="presentableId" value="LOCAL-01486" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941401028</updated>
+    </task>
+    <task id="LOCAL-01487" summary="ZnajdzWTablicy">
+      <option name="closed" value="true" />
+      <created>1742941415641</created>
+      <option name="number" value="01487" />
+      <option name="presentableId" value="LOCAL-01487" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941415641</updated>
+    </task>
+    <task id="LOCAL-01488" summary="Inicjacja tablicy">
+      <option name="closed" value="true" />
+      <created>1742941477074</created>
+      <option name="number" value="01488" />
+      <option name="presentableId" value="LOCAL-01488" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941477074</updated>
+    </task>
+    <option name="localTasksCounter" value="1489" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,12 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Metoda toString() umożliwia wypisywanie obiektów w ładnej formie" />
-    <MESSAGE value="Tworzymy listę przykładowych zamówień" />
-    <MESSAGE value="Porównujemy wpisaną nazwę klienta z nazwą w zamówieniu&#10;wypisujemy dane zamówienia &#10;sumujemy wartość" />
-    <MESSAGE value="Warunek" />
-    <MESSAGE value="WalidatorPesel" />
-    <MESSAGE value="Sprawdzenie długości" />
     <MESSAGE value="Sprawdzenie, czy PESEL zawiera tylko cyfry" />
     <MESSAGE value="Wagi dla 10 pierwszych cyfr" />
     <MESSAGE value="Sprawdzenie sumy kontrolnej (algorytm PESEL)" />
@@ -596,6 +590,12 @@
     <MESSAGE value="dzielenie po spacjach" />
     <MESSAGE value="Map&lt;String, Integer&gt; – przechowuje słowo → liczba wystąpień." />
     <MESSAGE value="getOrDefault(slowo, 0) – zwraca wartość z mapy lub 0, jeśli brak.&#10;&#10;entrySet() – pozwala iterować po parach klucz–wartość." />
-    <option name="LAST_COMMIT_MESSAGE" value="getOrDefault(slowo, 0) – zwraca wartość z mapy lub 0, jeśli brak.&#10;&#10;entrySet() – pozwala iterować po parach klucz–wartość." />
+    <MESSAGE value="Zadanie: Konwersja liczby z dziesiętnej na binarną" />
+    <MESSAGE value="dodajemy cyfrę od przodu" />
+    <MESSAGE value="KonwersjaNaBinarny" />
+    <MESSAGE value="Zadanie: Sprawdzanie, czy tablica zawiera daną wartość" />
+    <MESSAGE value="ZnajdzWTablicy" />
+    <MESSAGE value="Inicjacja tablicy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicjacja tablicy" />
   </component>
 </project>

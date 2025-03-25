@@ -8,3 +8,5 @@ public class ZnajdzWTablicy {
 
         System.out.print("Podaj liczbę do wyszukania: ");
         int szukana = scanner.nextInt();
+
+        boolean znaleziono = false;
