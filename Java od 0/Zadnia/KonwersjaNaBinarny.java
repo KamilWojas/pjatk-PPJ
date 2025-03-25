@@ -20,3 +20,9 @@ public class KonwersjaNaBinarny {
             wynik = reszta + wynik; 
             n = n / 2;
         }
+
+        System.out.println("Binarnie: " + wynik);
+
+        scanner.close();
+    }
+}
