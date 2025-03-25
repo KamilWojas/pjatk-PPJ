@@ -8,4 +8,4 @@ public class LiczenieSlow {
         String zdanie = scanner.nextLine().toLowerCase();
 
         String[] slowa = zdanie.split("\\s+"); 
-        Map<String, Integer> licznik = new HashMap<>();
+        Map<String, Integer> licznik = new HashMap<>(); 
