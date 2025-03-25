@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję." />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przeciążenie metody">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Product.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,39 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="16460000" />
-    </task>
-    <task id="LOCAL-01420" summary="Sprawdzenie parzystości">
-      <option name="closed" value="true" />
-      <created>1742595705034</created>
-      <option name="number" value="01420" />
-      <option name="presentableId" value="LOCAL-01420" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595705034</updated>
-    </task>
-    <task id="LOCAL-01421" summary="Sprawdzenie znaku liczby">
-      <option name="closed" value="true" />
-      <created>1742595736872</created>
-      <option name="number" value="01421" />
-      <option name="presentableId" value="LOCAL-01421" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595736872</updated>
-    </task>
-    <task id="LOCAL-01422" summary="Zamyka Scanner (dobry nawyk)">
-      <option name="closed" value="true" />
-      <created>1742595755478</created>
-      <option name="number" value="01422" />
-      <option name="presentableId" value="LOCAL-01422" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595755478</updated>
-    </task>
-    <task id="LOCAL-01423" summary="Zamyka Scanner (dobry nawyk)">
-      <option name="closed" value="true" />
-      <created>1742595763292</created>
-      <option name="number" value="01423" />
-      <option name="presentableId" value="LOCAL-01423" />
-      <option name="project" value="LOCAL" />
-      <updated>1742595763292</updated>
+      <workItem from="1742046384185" duration="16762000" />
     </task>
     <task id="LOCAL-01424" summary="Pobierz od użytkownika liczbę n,&#10;Wczytaj n liczb,&#10;Oblicz i wypisz ich średnią.">
       <option name="closed" value="true" />
@@ -551,7 +521,39 @@
       <option name="project" value="LOCAL" />
       <updated>1742856210434</updated>
     </task>
-    <option name="localTasksCounter" value="1469" />
+    <task id="LOCAL-01469" summary="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję.">
+      <option name="closed" value="true" />
+      <created>1742940562470</created>
+      <option name="number" value="01469" />
+      <option name="presentableId" value="LOCAL-01469" />
+      <option name="project" value="LOCAL" />
+      <updated>1742940562470</updated>
+    </task>
+    <task id="LOCAL-01470" summary=" Zadanie : Sortowanie produktów po cenie (rosnąco/malejąco)">
+      <option name="closed" value="true" />
+      <created>1742940602319</created>
+      <option name="number" value="01470" />
+      <option name="presentableId" value="LOCAL-01470" />
+      <option name="project" value="LOCAL" />
+      <updated>1742940602319</updated>
+    </task>
+    <task id="LOCAL-01471" summary="Klasa produkt + konstruktor">
+      <option name="closed" value="true" />
+      <created>1742940682145</created>
+      <option name="number" value="01471" />
+      <option name="presentableId" value="LOCAL-01471" />
+      <option name="project" value="LOCAL" />
+      <updated>1742940682145</updated>
+    </task>
+    <task id="LOCAL-01472" summary="Przeciążenie metody">
+      <option name="closed" value="true" />
+      <created>1742940839810</created>
+      <option name="number" value="01472" />
+      <option name="presentableId" value="LOCAL-01472" />
+      <option name="project" value="LOCAL" />
+      <updated>1742940839810</updated>
+    </task>
+    <option name="localTasksCounter" value="1473" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,8 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Przechowuje sumę wszystkich liczb" />
-    <MESSAGE value="Pętla wczytująca n liczb i dodająca je do sumy" />
     <MESSAGE value="Dodajemy ją do sumy" />
     <MESSAGE value="Obliczamy średnią" />
     <MESSAGE value="Wczytaj od użytkownika jedno zdanie,&#10;Znajdź najdłuższe słowo w tym zdaniu,&#10;Wypisz słowo i jego długość." />
@@ -590,10 +590,12 @@
     <MESSAGE value="Sprawdzenie sumy kontrolnej (algorytm PESEL)" />
     <MESSAGE value="Zadanie: System pracowników – przefiltruj po dziale" />
     <MESSAGE value="Tworzenie klasy Employee z polami: id, name, department, salary." />
-    <MESSAGE value="Przeciążenie metody" />
     <MESSAGE value="Lista przykładowych pracowników" />
     <MESSAGE value="Użytkownik podaje nazwę działu (np. &quot;IT&quot;)." />
     <MESSAGE value="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję." />
-    <option name="LAST_COMMIT_MESSAGE" value="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję." />
+    <MESSAGE value=" Zadanie : Sortowanie produktów po cenie (rosnąco/malejąco)" />
+    <MESSAGE value="Klasa produkt + konstruktor" />
+    <MESSAGE value="Przeciążenie metody" />
+    <option name="LAST_COMMIT_MESSAGE" value="Przeciążenie metody" />
   </component>
 </project>

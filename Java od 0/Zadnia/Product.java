@@ -14,3 +14,11 @@ class Product {
         return name + " – " + String.format("%.2f", price) + " zł";
     }
 }
+
+public class SortowanieProduktow {
+    public static void main(String[] args) {
+        List<Product> produkty = new ArrayList<>();
+        produkty.add(new Product("Chleb", 3.50));
+        produkty.add(new Product("Mleko", 4.20));
+        produkty.add(new Product("Masło", 7.00));
+        produkty.add(new Product("Ser", 6.50));
