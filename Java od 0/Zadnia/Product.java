@@ -22,3 +22,7 @@ public class SortowanieProduktow {
         produkty.add(new Product("Mleko", 4.20));
         produkty.add(new Product("Masło", 7.00));
         produkty.add(new Product("Ser", 6.50));
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Sortować wg ceny rosnąco/malejąco? ");
+        String kierunek = scanner.nextLine().toLowerCase();
