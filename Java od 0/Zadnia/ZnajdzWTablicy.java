@@ -10,3 +10,20 @@ public class ZnajdzWTablicy {
         int szukana = scanner.nextInt();
 
         boolean znaleziono = false;
+
+        for (int liczba : liczby) {
+            if (liczba == szukana) {
+                znaleziono = true;
+                break;
+            }
+        }
+
+        if (znaleziono) {
+            System.out.println("Liczba znajduje się w tablicy.");
+        } else {
+            System.out.println("Liczby nie ma w tablicy.");
+        }
+
+        scanner.close();
+    }
+}
