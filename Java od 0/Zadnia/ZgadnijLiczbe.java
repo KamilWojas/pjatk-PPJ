@@ -27,5 +27,5 @@ public class ZgadnijLiczbe {
         } while (proba != wylosowana);
 
         scanner.close();
-    }
+    } 
 }
