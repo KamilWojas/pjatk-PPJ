@@ -3,3 +3,7 @@ import java.util.Set;
 
 public class DetektorDuplikatow {
     public static void main(String[] args) {
+
+        boolean duplikat = czyZawieraDuplikaty(tablica);
+
+    }
