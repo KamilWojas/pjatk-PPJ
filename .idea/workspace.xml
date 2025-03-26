@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="for-each sprawdza każdą liczbę w tablicy,&#10;&#10;break przerywa pętlę, jeśli znajdziemy liczbę,">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/DetektorDuplikatow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zadanie: Gra: zgadnij liczbę (losowanie + pętla)">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/ZgadnijLiczbe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/ZgadnijLiczbe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,95 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="18650000" />
-    </task>
-    <task id="LOCAL-01443" summary="Tworzymy listę przykładowych zamówień">
-      <option name="closed" value="true" />
-      <created>1742651207195</created>
-      <option name="number" value="01443" />
-      <option name="presentableId" value="LOCAL-01443" />
-      <option name="project" value="LOCAL" />
-      <updated>1742651207196</updated>
-    </task>
-    <task id="LOCAL-01444" summary="Tworzymy listę przykładowych zamówień">
-      <option name="closed" value="true" />
-      <created>1742651222355</created>
-      <option name="number" value="01444" />
-      <option name="presentableId" value="LOCAL-01444" />
-      <option name="project" value="LOCAL" />
-      <updated>1742651222355</updated>
-    </task>
-    <task id="LOCAL-01445" summary="Porównujemy wpisaną nazwę klienta z nazwą w zamówieniu&#10;wypisujemy dane zamówienia &#10;sumujemy wartość">
-      <option name="closed" value="true" />
-      <created>1742651282688</created>
-      <option name="number" value="01445" />
-      <option name="presentableId" value="LOCAL-01445" />
-      <option name="project" value="LOCAL" />
-      <updated>1742651282688</updated>
-    </task>
-    <task id="LOCAL-01446" summary="Warunek">
-      <option name="closed" value="true" />
-      <created>1742651302000</created>
-      <option name="number" value="01446" />
-      <option name="presentableId" value="LOCAL-01446" />
-      <option name="project" value="LOCAL" />
-      <updated>1742651302000</updated>
-    </task>
-    <task id="LOCAL-01447" summary="Warunek">
-      <option name="closed" value="true" />
-      <created>1742683547407</created>
-      <option name="number" value="01447" />
-      <option name="presentableId" value="LOCAL-01447" />
-      <option name="project" value="LOCAL" />
-      <updated>1742683547407</updated>
-    </task>
-    <task id="LOCAL-01448" summary="Warunek">
-      <option name="closed" value="true" />
-      <created>1742686297360</created>
-      <option name="number" value="01448" />
-      <option name="presentableId" value="LOCAL-01448" />
-      <option name="project" value="LOCAL" />
-      <updated>1742686297360</updated>
-    </task>
-    <task id="LOCAL-01449" summary="Warunek">
-      <option name="closed" value="true" />
-      <created>1742686371632</created>
-      <option name="number" value="01449" />
-      <option name="presentableId" value="LOCAL-01449" />
-      <option name="project" value="LOCAL" />
-      <updated>1742686371632</updated>
-    </task>
-    <task id="LOCAL-01450" summary="Warunek">
-      <option name="closed" value="true" />
-      <created>1742732531180</created>
-      <option name="number" value="01450" />
-      <option name="presentableId" value="LOCAL-01450" />
-      <option name="project" value="LOCAL" />
-      <updated>1742732531180</updated>
-    </task>
-    <task id="LOCAL-01451" summary="Warunek">
-      <option name="closed" value="true" />
-      <created>1742753057030</created>
-      <option name="number" value="01451" />
-      <option name="presentableId" value="LOCAL-01451" />
-      <option name="project" value="LOCAL" />
-      <updated>1742753057030</updated>
-    </task>
-    <task id="LOCAL-01452" summary="Warunek">
-      <option name="closed" value="true" />
-      <created>1742762864339</created>
-      <option name="number" value="01452" />
-      <option name="presentableId" value="LOCAL-01452" />
-      <option name="project" value="LOCAL" />
-      <updated>1742762864339</updated>
-    </task>
-    <task id="LOCAL-01453" summary="Warunek">
-      <option name="closed" value="true" />
-      <created>1742854101316</created>
-      <option name="number" value="01453" />
-      <option name="presentableId" value="LOCAL-01453" />
-      <option name="project" value="LOCAL" />
-      <updated>1742854101316</updated>
+      <workItem from="1742046384185" duration="18956000" />
     </task>
     <task id="LOCAL-01454" summary="WalidatorPesel">
       <option name="closed" value="true" />
@@ -554,7 +465,95 @@
       <option name="project" value="LOCAL" />
       <updated>1743026115390</updated>
     </task>
-    <option name="localTasksCounter" value="1492" />
+    <task id="LOCAL-01492" summary="DetektorDuplikatow">
+      <option name="closed" value="true" />
+      <created>1743029018922</created>
+      <option name="number" value="01492" />
+      <option name="presentableId" value="LOCAL-01492" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029018922</updated>
+    </task>
+    <task id="LOCAL-01493" summary="Zadanie: Detektor duplikatów – czy w tablicy są powtórzenia?">
+      <option name="closed" value="true" />
+      <created>1743029048333</created>
+      <option name="number" value="01493" />
+      <option name="presentableId" value="LOCAL-01493" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029048333</updated>
+    </task>
+    <task id="LOCAL-01494" summary="Warunek logiczny">
+      <option name="closed" value="true" />
+      <created>1743029067118</created>
+      <option name="number" value="01494" />
+      <option name="presentableId" value="LOCAL-01494" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029067118</updated>
+    </task>
+    <task id="LOCAL-01495" summary="Instrukcja warunkowa">
+      <option name="closed" value="true" />
+      <created>1743029121226</created>
+      <option name="number" value="01495" />
+      <option name="presentableId" value="LOCAL-01495" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029121226</updated>
+    </task>
+    <task id="LOCAL-01496" summary="return - jeśli nie udało się dodać – liczba już była">
+      <option name="closed" value="true" />
+      <created>1743029160399</created>
+      <option name="number" value="01496" />
+      <option name="presentableId" value="LOCAL-01496" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029160399</updated>
+    </task>
+    <task id="LOCAL-01497" summary="Set przechowuje tylko unikalne wartości – jeśli coś już tam było, add() zwróci false.">
+      <option name="closed" value="true" />
+      <created>1743029173595</created>
+      <option name="number" value="01497" />
+      <option name="presentableId" value="LOCAL-01497" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029173595</updated>
+    </task>
+    <task id="LOCAL-01498" summary="SzyfrLustrzany">
+      <option name="closed" value="true" />
+      <created>1743029191609</created>
+      <option name="number" value="01498" />
+      <option name="presentableId" value="LOCAL-01498" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029191609</updated>
+    </task>
+    <task id="LOCAL-01499" summary=" Zadanie: Szyfr lustrzany – odwróć alfabet">
+      <option name="closed" value="true" />
+      <created>1743029212304</created>
+      <option name="number" value="01499" />
+      <option name="presentableId" value="LOCAL-01499" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029212304</updated>
+    </task>
+    <task id="LOCAL-01500" summary="Różnica między a a z w kodzie ASCII wynosi 25.&#10;&#10;Dla a (97): 'z' - ('a' - 'a') = 'z'&#10;&#10;Dla b: 'z' - ('b' - 'a') = 'y' itd.&#10;&#10;To tzw. Atbash cipher – bardzo stare szyfrowanie.">
+      <option name="closed" value="true" />
+      <created>1743029261102</created>
+      <option name="number" value="01500" />
+      <option name="presentableId" value="LOCAL-01500" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029261102</updated>
+    </task>
+    <task id="LOCAL-01501" summary="ZgadnijLiczbe">
+      <option name="closed" value="true" />
+      <created>1743029275966</created>
+      <option name="number" value="01501" />
+      <option name="presentableId" value="LOCAL-01501" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029275966</updated>
+    </task>
+    <task id="LOCAL-01502" summary="Zadanie: Gra: zgadnij liczbę (losowanie + pętla)">
+      <option name="closed" value="true" />
+      <created>1743029295841</created>
+      <option name="number" value="01502" />
+      <option name="presentableId" value="LOCAL-01502" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029295841</updated>
+    </task>
+    <option name="localTasksCounter" value="1503" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,17 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sprawdzenie sumy kontrolnej (algorytm PESEL)" />
-    <MESSAGE value="Zadanie: System pracowników – przefiltruj po dziale" />
-    <MESSAGE value="Tworzenie klasy Employee z polami: id, name, department, salary." />
-    <MESSAGE value="Lista przykładowych pracowników" />
-    <MESSAGE value="Użytkownik podaje nazwę działu (np. &quot;IT&quot;)." />
-    <MESSAGE value="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję." />
-    <MESSAGE value=" Zadanie : Sortowanie produktów po cenie (rosnąco/malejąco)" />
-    <MESSAGE value="Klasa produkt + konstruktor" />
-    <MESSAGE value="Przeciążenie metody" />
-    <MESSAGE value="lista produktów, które sortujemy i wypisujemy." />
-    <MESSAGE value="Scanner" />
     <MESSAGE value="Double.compare(p2.price, p1.price) – sortuje malejąco.&#10;&#10;toLowerCase() – sprawia, że użytkownik może wpisać ROSNĄCO albo rosnąco." />
     <MESSAGE value="Zadanie: Liczenie wystąpień słów w tekście" />
     <MESSAGE value="LiczenieSlow" />
@@ -597,6 +585,17 @@
     <MESSAGE value="Inicjacja tablicy" />
     <MESSAGE value="boolean znaleziono steruje komunikatem." />
     <MESSAGE value="for-each sprawdza każdą liczbę w tablicy,&#10;&#10;break przerywa pętlę, jeśli znajdziemy liczbę," />
-    <option name="LAST_COMMIT_MESSAGE" value="for-each sprawdza każdą liczbę w tablicy,&#10;&#10;break przerywa pętlę, jeśli znajdziemy liczbę," />
+    <MESSAGE value="DetektorDuplikatow" />
+    <MESSAGE value="Zadanie: Detektor duplikatów – czy w tablicy są powtórzenia?" />
+    <MESSAGE value="Warunek logiczny" />
+    <MESSAGE value="Instrukcja warunkowa" />
+    <MESSAGE value="return - jeśli nie udało się dodać – liczba już była" />
+    <MESSAGE value="Set przechowuje tylko unikalne wartości – jeśli coś już tam było, add() zwróci false." />
+    <MESSAGE value="SzyfrLustrzany" />
+    <MESSAGE value=" Zadanie: Szyfr lustrzany – odwróć alfabet" />
+    <MESSAGE value="Różnica między a a z w kodzie ASCII wynosi 25.&#10;&#10;Dla a (97): 'z' - ('a' - 'a') = 'z'&#10;&#10;Dla b: 'z' - ('b' - 'a') = 'y' itd.&#10;&#10;To tzw. Atbash cipher – bardzo stare szyfrowanie." />
+    <MESSAGE value="ZgadnijLiczbe" />
+    <MESSAGE value="Zadanie: Gra: zgadnij liczbę (losowanie + pętla)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie: Gra: zgadnij liczbę (losowanie + pętla)" />
   </component>
 </project>
