@@ -6,4 +6,9 @@ public class DetektorDuplikatow {
 
         boolean duplikat = czyZawieraDuplikaty(tablica);
 
+        if (duplikat) {
+            System.out.println("Tablica zawiera duplikaty.");
+        } else {
+            System.out.println("Tablica nie zawiera duplikatów.");
+        }
     }
