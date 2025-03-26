@@ -12,3 +12,14 @@ public class DetektorDuplikatow {
             System.out.println("Tablica nie zawiera duplikatów.");
         }
     }
+
+    public static boolean czyZawieraDuplikaty(int[] tablica) {
+        Set<Integer> unikalne = new HashSet<>();
+        for (int liczba : tablica) {
+            if (!unikalne.add(liczba)) {
+                return true;
+            }
+        }
+        return false;
+    }
+}
