@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Inicjacja tablicy">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/ZnajdzWTablicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/ZnajdzWTablicy.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="for-each sprawdza każdą liczbę w tablicy,&#10;&#10;break przerywa pętlę, jeśli znajdziemy liczbę,">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/DetektorDuplikatow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,31 +160,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="17382000" />
-    </task>
-    <task id="LOCAL-01440" summary="Order">
-      <option name="closed" value="true" />
-      <created>1742651124792</created>
-      <option name="number" value="01440" />
-      <option name="presentableId" value="LOCAL-01440" />
-      <option name="project" value="LOCAL" />
-      <updated>1742651124792</updated>
-    </task>
-    <task id="LOCAL-01441" summary="Metoda toString() umożliwia wypisywanie obiektów w ładnej formie">
-      <option name="closed" value="true" />
-      <created>1742651146126</created>
-      <option name="number" value="01441" />
-      <option name="presentableId" value="LOCAL-01441" />
-      <option name="project" value="LOCAL" />
-      <updated>1742651146126</updated>
-    </task>
-    <task id="LOCAL-01442" summary="Metoda toString() umożliwia wypisywanie obiektów w ładnej formie">
-      <option name="closed" value="true" />
-      <created>1742651184216</created>
-      <option name="number" value="01442" />
-      <option name="presentableId" value="LOCAL-01442" />
-      <option name="project" value="LOCAL" />
-      <updated>1742651184216</updated>
+      <workItem from="1742046384185" duration="18650000" />
     </task>
     <task id="LOCAL-01443" summary="Tworzymy listę przykładowych zamówień">
       <option name="closed" value="true" />
@@ -553,7 +530,31 @@
       <option name="project" value="LOCAL" />
       <updated>1742941477074</updated>
     </task>
-    <option name="localTasksCounter" value="1489" />
+    <task id="LOCAL-01489" summary="boolean znaleziono steruje komunikatem.">
+      <option name="closed" value="true" />
+      <created>1742941513464</created>
+      <option name="number" value="01489" />
+      <option name="presentableId" value="LOCAL-01489" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941513464</updated>
+    </task>
+    <task id="LOCAL-01490" summary="for-each sprawdza każdą liczbę w tablicy,&#10;&#10;break przerywa pętlę, jeśli znajdziemy liczbę,">
+      <option name="closed" value="true" />
+      <created>1742941536045</created>
+      <option name="number" value="01490" />
+      <option name="presentableId" value="LOCAL-01490" />
+      <option name="project" value="LOCAL" />
+      <updated>1742941536045</updated>
+    </task>
+    <task id="LOCAL-01491" summary="for-each sprawdza każdą liczbę w tablicy,&#10;&#10;break przerywa pętlę, jeśli znajdziemy liczbę,">
+      <option name="closed" value="true" />
+      <created>1743026115390</created>
+      <option name="number" value="01491" />
+      <option name="presentableId" value="LOCAL-01491" />
+      <option name="project" value="LOCAL" />
+      <updated>1743026115390</updated>
+    </task>
+    <option name="localTasksCounter" value="1492" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,8 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sprawdzenie, czy PESEL zawiera tylko cyfry" />
-    <MESSAGE value="Wagi dla 10 pierwszych cyfr" />
     <MESSAGE value="Sprawdzenie sumy kontrolnej (algorytm PESEL)" />
     <MESSAGE value="Zadanie: System pracowników – przefiltruj po dziale" />
     <MESSAGE value="Tworzenie klasy Employee z polami: id, name, department, salary." />
@@ -596,6 +595,8 @@
     <MESSAGE value="Zadanie: Sprawdzanie, czy tablica zawiera daną wartość" />
     <MESSAGE value="ZnajdzWTablicy" />
     <MESSAGE value="Inicjacja tablicy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicjacja tablicy" />
+    <MESSAGE value="boolean znaleziono steruje komunikatem." />
+    <MESSAGE value="for-each sprawdza każdą liczbę w tablicy,&#10;&#10;break przerywa pętlę, jeśli znajdziemy liczbę," />
+    <option name="LAST_COMMIT_MESSAGE" value="for-each sprawdza każdą liczbę w tablicy,&#10;&#10;break przerywa pętlę, jeśli znajdziemy liczbę," />
   </component>
 </project>
