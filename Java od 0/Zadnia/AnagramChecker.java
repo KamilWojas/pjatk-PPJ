@@ -21,4 +21,16 @@ public class AnagramChecker {
 
         scanner.close();
     }
+
+    public static boolean czyAnagram(String a, String b) {
+        if (a.length() != b.length()) return false;
+
+        char[] znakiA = a.toCharArray();
+        char[] znakiB = b.toCharArray();
+
+        Arrays.sort(znakiA);
+        Arrays.sort(znakiB);
+
+        return Arrays.equals(znakiA, znakiB);
     }
+}
