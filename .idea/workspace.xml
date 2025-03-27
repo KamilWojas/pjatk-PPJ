@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zadanie: Gra: zgadnij liczbę (losowanie + pętla)">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć.">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/ZgadnijLiczbe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/ZgadnijLiczbe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,39 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="18956000" />
-    </task>
-    <task id="LOCAL-01454" summary="WalidatorPesel">
-      <option name="closed" value="true" />
-      <created>1742854743660</created>
-      <option name="number" value="01454" />
-      <option name="presentableId" value="LOCAL-01454" />
-      <option name="project" value="LOCAL" />
-      <updated>1742854743660</updated>
-    </task>
-    <task id="LOCAL-01455" summary="WalidatorPesel">
-      <option name="closed" value="true" />
-      <created>1742854753330</created>
-      <option name="number" value="01455" />
-      <option name="presentableId" value="LOCAL-01455" />
-      <option name="project" value="LOCAL" />
-      <updated>1742854753330</updated>
-    </task>
-    <task id="LOCAL-01456" summary="Sprawdzenie długości">
-      <option name="closed" value="true" />
-      <created>1742854772691</created>
-      <option name="number" value="01456" />
-      <option name="presentableId" value="LOCAL-01456" />
-      <option name="project" value="LOCAL" />
-      <updated>1742854772691</updated>
-    </task>
-    <task id="LOCAL-01457" summary="Sprawdzenie, czy PESEL zawiera tylko cyfry">
-      <option name="closed" value="true" />
-      <created>1742854791995</created>
-      <option name="number" value="01457" />
-      <option name="presentableId" value="LOCAL-01457" />
-      <option name="project" value="LOCAL" />
-      <updated>1742854791995</updated>
+      <workItem from="1742046384185" duration="19697000" />
     </task>
     <task id="LOCAL-01458" summary="Sprawdzenie sumy kontrolnej (algorytm PESEL)">
       <option name="closed" value="true" />
@@ -553,7 +521,39 @@
       <option name="project" value="LOCAL" />
       <updated>1743029295841</updated>
     </task>
-    <option name="localTasksCounter" value="1503" />
+    <task id="LOCAL-01503" summary="liczba od 1 do 100">
+      <option name="closed" value="true" />
+      <created>1743029330295</created>
+      <option name="number" value="01503" />
+      <option name="presentableId" value="LOCAL-01503" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029330295</updated>
+    </task>
+    <task id="LOCAL-01504" summary="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć.">
+      <option name="closed" value="true" />
+      <created>1743029365776</created>
+      <option name="number" value="01504" />
+      <option name="presentableId" value="LOCAL-01504" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029365776</updated>
+    </task>
+    <task id="LOCAL-01505" summary="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć.">
+      <option name="closed" value="true" />
+      <created>1743029463046</created>
+      <option name="number" value="01505" />
+      <option name="presentableId" value="LOCAL-01505" />
+      <option name="project" value="LOCAL" />
+      <updated>1743029463046</updated>
+    </task>
+    <task id="LOCAL-01506" summary="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć.">
+      <option name="closed" value="true" />
+      <created>1743114611907</created>
+      <option name="number" value="01506" />
+      <option name="presentableId" value="LOCAL-01506" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114611907</updated>
+    </task>
+    <option name="localTasksCounter" value="1507" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,8 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Double.compare(p2.price, p1.price) – sortuje malejąco.&#10;&#10;toLowerCase() – sprawia, że użytkownik może wpisać ROSNĄCO albo rosnąco." />
-    <MESSAGE value="Zadanie: Liczenie wystąpień słów w tekście" />
     <MESSAGE value="LiczenieSlow" />
     <MESSAGE value="dzielenie po spacjach" />
     <MESSAGE value="Map&lt;String, Integer&gt; – przechowuje słowo → liczba wystąpień." />
@@ -596,6 +594,8 @@
     <MESSAGE value="Różnica między a a z w kodzie ASCII wynosi 25.&#10;&#10;Dla a (97): 'z' - ('a' - 'a') = 'z'&#10;&#10;Dla b: 'z' - ('b' - 'a') = 'y' itd.&#10;&#10;To tzw. Atbash cipher – bardzo stare szyfrowanie." />
     <MESSAGE value="ZgadnijLiczbe" />
     <MESSAGE value="Zadanie: Gra: zgadnij liczbę (losowanie + pętla)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie: Gra: zgadnij liczbę (losowanie + pętla)" />
+    <MESSAGE value="liczba od 1 do 100" />
+    <MESSAGE value="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć." />
+    <option name="LAST_COMMIT_MESSAGE" value="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć." />
   </component>
 </project>
