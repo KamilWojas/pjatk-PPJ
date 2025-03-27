@@ -17,4 +17,18 @@ public class NajczestszaLitera {
             }
         }
 
+        char najczestszy = ' ';
+        int max = 0;
+
+        for (Map.Entry<Character, Integer> entry : licznik.entrySet()) {
+            if (entry.getValue() > max) {
+                najczestszy = entry.getKey();
+                max = entry.getValue();
+            }
+        }
+
+        System.out.println("Najczęściej występująca litera: '" + najczestszy + "' (" + max + " razy)");
+
+        scanner.close();
     }
+}

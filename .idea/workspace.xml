@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć.">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/ZgadnijLiczbe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/ZgadnijLiczbe.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zadanie: Najczęściej występująca litera w tekście">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/NajczestszaLitera.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/NajczestszaLitera.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,119 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="19697000" />
-    </task>
-    <task id="LOCAL-01458" summary="Sprawdzenie sumy kontrolnej (algorytm PESEL)">
-      <option name="closed" value="true" />
-      <created>1742854818450</created>
-      <option name="number" value="01458" />
-      <option name="presentableId" value="LOCAL-01458" />
-      <option name="project" value="LOCAL" />
-      <updated>1742854818450</updated>
-    </task>
-    <task id="LOCAL-01459" summary="Wagi dla 10 pierwszych cyfr">
-      <option name="closed" value="true" />
-      <created>1742854838427</created>
-      <option name="number" value="01459" />
-      <option name="presentableId" value="LOCAL-01459" />
-      <option name="project" value="LOCAL" />
-      <updated>1742854838427</updated>
-    </task>
-    <task id="LOCAL-01460" summary="Sprawdzenie sumy kontrolnej (algorytm PESEL)">
-      <option name="closed" value="true" />
-      <created>1742854863024</created>
-      <option name="number" value="01460" />
-      <option name="presentableId" value="LOCAL-01460" />
-      <option name="project" value="LOCAL" />
-      <updated>1742854863024</updated>
-    </task>
-    <task id="LOCAL-01461" summary="Zadanie: System pracowników – przefiltruj po dziale">
-      <option name="closed" value="true" />
-      <created>1742854970720</created>
-      <option name="number" value="01461" />
-      <option name="presentableId" value="LOCAL-01461" />
-      <option name="project" value="LOCAL" />
-      <updated>1742854970720</updated>
-    </task>
-    <task id="LOCAL-01462" summary="Tworzenie klasy Employee z polami: id, name, department, salary.">
-      <option name="closed" value="true" />
-      <created>1742855015469</created>
-      <option name="number" value="01462" />
-      <option name="presentableId" value="LOCAL-01462" />
-      <option name="project" value="LOCAL" />
-      <updated>1742855015469</updated>
-    </task>
-    <task id="LOCAL-01463" summary="Przeciążenie metody">
-      <option name="closed" value="true" />
-      <created>1742855042075</created>
-      <option name="number" value="01463" />
-      <option name="presentableId" value="LOCAL-01463" />
-      <option name="project" value="LOCAL" />
-      <updated>1742855042075</updated>
-    </task>
-    <task id="LOCAL-01464" summary="Lista przykładowych pracowników">
-      <option name="closed" value="true" />
-      <created>1742855083582</created>
-      <option name="number" value="01464" />
-      <option name="presentableId" value="LOCAL-01464" />
-      <option name="project" value="LOCAL" />
-      <updated>1742855083582</updated>
-    </task>
-    <task id="LOCAL-01465" summary="Użytkownik podaje nazwę działu (np. &quot;IT&quot;).">
-      <option name="closed" value="true" />
-      <created>1742855123547</created>
-      <option name="number" value="01465" />
-      <option name="presentableId" value="LOCAL-01465" />
-      <option name="project" value="LOCAL" />
-      <updated>1742855123547</updated>
-    </task>
-    <task id="LOCAL-01466" summary="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję.">
-      <option name="closed" value="true" />
-      <created>1742855146050</created>
-      <option name="number" value="01466" />
-      <option name="presentableId" value="LOCAL-01466" />
-      <option name="project" value="LOCAL" />
-      <updated>1742855146050</updated>
-    </task>
-    <task id="LOCAL-01467" summary="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję.">
-      <option name="closed" value="true" />
-      <created>1742856188908</created>
-      <option name="number" value="01467" />
-      <option name="presentableId" value="LOCAL-01467" />
-      <option name="project" value="LOCAL" />
-      <updated>1742856188908</updated>
-    </task>
-    <task id="LOCAL-01468" summary="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję.">
-      <option name="closed" value="true" />
-      <created>1742856210434</created>
-      <option name="number" value="01468" />
-      <option name="presentableId" value="LOCAL-01468" />
-      <option name="project" value="LOCAL" />
-      <updated>1742856210434</updated>
-    </task>
-    <task id="LOCAL-01469" summary="Wypisujemy tylko pracowników z tego działu oraz obliczamy średnią pensję.">
-      <option name="closed" value="true" />
-      <created>1742940562470</created>
-      <option name="number" value="01469" />
-      <option name="presentableId" value="LOCAL-01469" />
-      <option name="project" value="LOCAL" />
-      <updated>1742940562470</updated>
-    </task>
-    <task id="LOCAL-01470" summary=" Zadanie : Sortowanie produktów po cenie (rosnąco/malejąco)">
-      <option name="closed" value="true" />
-      <created>1742940602319</created>
-      <option name="number" value="01470" />
-      <option name="presentableId" value="LOCAL-01470" />
-      <option name="project" value="LOCAL" />
-      <updated>1742940602319</updated>
-    </task>
-    <task id="LOCAL-01471" summary="Klasa produkt + konstruktor">
-      <option name="closed" value="true" />
-      <created>1742940682145</created>
-      <option name="number" value="01471" />
-      <option name="presentableId" value="LOCAL-01471" />
-      <option name="project" value="LOCAL" />
-      <updated>1742940682145</updated>
+      <workItem from="1742046384185" duration="20001000" />
     </task>
     <task id="LOCAL-01472" summary="Przeciążenie metody">
       <option name="closed" value="true" />
@@ -553,7 +441,119 @@
       <option name="project" value="LOCAL" />
       <updated>1743114611907</updated>
     </task>
-    <option name="localTasksCounter" value="1507" />
+    <task id="LOCAL-01507" summary="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć.">
+      <option name="closed" value="true" />
+      <created>1743114656377</created>
+      <option name="number" value="01507" />
+      <option name="presentableId" value="LOCAL-01507" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114656377</updated>
+    </task>
+    <task id="LOCAL-01508" summary="AnagramChecker">
+      <option name="closed" value="true" />
+      <created>1743114676897</created>
+      <option name="number" value="01508" />
+      <option name="presentableId" value="LOCAL-01508" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114676897</updated>
+    </task>
+    <task id="LOCAL-01509" summary="Zadanie: Detektor anagramów">
+      <option name="closed" value="true" />
+      <created>1743114703858</created>
+      <option name="number" value="01509" />
+      <option name="presentableId" value="LOCAL-01509" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114703858</updated>
+    </task>
+    <task id="LOCAL-01510" summary="Zadanie: Detektor anagramów">
+      <option name="closed" value="true" />
+      <created>1743114730151</created>
+      <option name="number" value="01510" />
+      <option name="presentableId" value="LOCAL-01510" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114730151</updated>
+    </task>
+    <task id="LOCAL-01511" summary="Zadanie: Detektor anagramów">
+      <option name="closed" value="true" />
+      <created>1743114746090</created>
+      <option name="number" value="01511" />
+      <option name="presentableId" value="LOCAL-01511" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114746090</updated>
+    </task>
+    <task id="LOCAL-01512" summary="FormatTelefonu">
+      <option name="closed" value="true" />
+      <created>1743114766173</created>
+      <option name="number" value="01512" />
+      <option name="presentableId" value="LOCAL-01512" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114766174</updated>
+    </task>
+    <task id="LOCAL-01513" summary="Zadanie: Formatowanie numeru telefonu">
+      <option name="closed" value="true" />
+      <created>1743114786849</created>
+      <option name="number" value="01513" />
+      <option name="presentableId" value="LOCAL-01513" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114786849</updated>
+    </task>
+    <task id="LOCAL-01514" summary="Zadanie: Formatowanie numeru telefonu">
+      <option name="closed" value="true" />
+      <created>1743114806330</created>
+      <option name="number" value="01514" />
+      <option name="presentableId" value="LOCAL-01514" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114806330</updated>
+    </task>
+    <task id="LOCAL-01515" summary="substring(0, 3) – wyciąga pierwsze 3 znaki.&#10;&#10;numer.matches(&quot;\\d{9}&quot;) – sprawdza, czy numer zawiera dokładnie 9 cyfr.&#10;&#10;replaceAll(&quot;\\s+&quot;, &quot;&quot;) – usuwa ewentualne spacje.">
+      <option name="closed" value="true" />
+      <created>1743114832051</created>
+      <option name="number" value="01515" />
+      <option name="presentableId" value="LOCAL-01515" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114832051</updated>
+    </task>
+    <task id="LOCAL-01516" summary="substring(0, 3) – wyciąga pierwsze 3 znaki.&#10;&#10;numer.matches(&quot;\\d{9}&quot;) – sprawdza, czy numer zawiera dokładnie 9 cyfr.&#10;&#10;replaceAll(&quot;\\s+&quot;, &quot;&quot;) – usuwa ewentualne spacje.">
+      <option name="closed" value="true" />
+      <created>1743114842482</created>
+      <option name="number" value="01516" />
+      <option name="presentableId" value="LOCAL-01516" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114842482</updated>
+    </task>
+    <task id="LOCAL-01517" summary="NajczestszaLitera">
+      <option name="closed" value="true" />
+      <created>1743114863765</created>
+      <option name="number" value="01517" />
+      <option name="presentableId" value="LOCAL-01517" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114863765</updated>
+    </task>
+    <task id="LOCAL-01518" summary="Zadanie: Najczęściej występująca litera w tekście">
+      <option name="closed" value="true" />
+      <created>1743114882512</created>
+      <option name="number" value="01518" />
+      <option name="presentableId" value="LOCAL-01518" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114882512</updated>
+    </task>
+    <task id="LOCAL-01519" summary="Zadanie: Najczęściej występująca litera w tekście">
+      <option name="closed" value="true" />
+      <created>1743114892781</created>
+      <option name="number" value="01519" />
+      <option name="presentableId" value="LOCAL-01519" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114892781</updated>
+    </task>
+    <task id="LOCAL-01520" summary="Zadanie: Najczęściej występująca litera w tekście">
+      <option name="closed" value="true" />
+      <created>1743114905940</created>
+      <option name="number" value="01520" />
+      <option name="presentableId" value="LOCAL-01520" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114905940</updated>
+    </task>
+    <option name="localTasksCounter" value="1521" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,13 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LiczenieSlow" />
-    <MESSAGE value="dzielenie po spacjach" />
-    <MESSAGE value="Map&lt;String, Integer&gt; – przechowuje słowo → liczba wystąpień." />
-    <MESSAGE value="getOrDefault(slowo, 0) – zwraca wartość z mapy lub 0, jeśli brak.&#10;&#10;entrySet() – pozwala iterować po parach klucz–wartość." />
-    <MESSAGE value="Zadanie: Konwersja liczby z dziesiętnej na binarną" />
-    <MESSAGE value="dodajemy cyfrę od przodu" />
-    <MESSAGE value="KonwersjaNaBinarny" />
     <MESSAGE value="Zadanie: Sprawdzanie, czy tablica zawiera daną wartość" />
     <MESSAGE value="ZnajdzWTablicy" />
     <MESSAGE value="Inicjacja tablicy" />
@@ -596,6 +589,13 @@
     <MESSAGE value="Zadanie: Gra: zgadnij liczbę (losowanie + pętla)" />
     <MESSAGE value="liczba od 1 do 100" />
     <MESSAGE value="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć." />
-    <option name="LAST_COMMIT_MESSAGE" value="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć." />
+    <MESSAGE value="AnagramChecker" />
+    <MESSAGE value="Zadanie: Detektor anagramów" />
+    <MESSAGE value="FormatTelefonu" />
+    <MESSAGE value="Zadanie: Formatowanie numeru telefonu" />
+    <MESSAGE value="substring(0, 3) – wyciąga pierwsze 3 znaki.&#10;&#10;numer.matches(&quot;\\d{9}&quot;) – sprawdza, czy numer zawiera dokładnie 9 cyfr.&#10;&#10;replaceAll(&quot;\\s+&quot;, &quot;&quot;) – usuwa ewentualne spacje." />
+    <MESSAGE value="NajczestszaLitera" />
+    <MESSAGE value="Zadanie: Najczęściej występująca litera w tekście" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie: Najczęściej występująca litera w tekście" />
   </component>
 </project>
