@@ -20,3 +20,17 @@ public class KalkulatorGodzin {
                 System.out.println("Błąd: Nie możesz kończyć pracy przed jej rozpoczęciem!");
                 return;
             }
+
+            Duration czas = Duration.between(godzinaStart, godzinaKoniec);
+            long godziny = czas.toHours();
+            long minuty = czas.toMinutes() % 60;
+
+            System.out.println("Przepracowany czas: " + godziny + " godz. i " + minuty + " min.");
+
+        } catch (Exception e) {
+            System.out.println("Błąd: Nieprawidłowy format godziny.");
+        }
+
+        scanner.close();
+    }
+}
