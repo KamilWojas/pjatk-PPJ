@@ -17,3 +17,14 @@ public class ObliczWiek {
                 System.out.println("Błąd: Urodziłeś się w przyszłości? 😲");
                 return;
             }
+
+            Period wiek = Period.between(dataUrodzenia, dzis);
+            System.out.println("Masz " + wiek.getYears() + " lat.");
+
+        } catch (Exception e) {
+            System.out.println("Błąd: Nieprawidłowy format daty.");
+        }
+
+        scanner.close();
+    }
+}
