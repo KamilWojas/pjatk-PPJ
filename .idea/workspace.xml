@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zadanie: Najczęściej występująca litera w tekście">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Używamy HashMap, by zliczyć litery (np. 'a' → 3, 'b' → 1 itd.).&#10;&#10;Character.isLetter() pomija spacje i znaki specjalne.&#10;&#10;getOrDefault(x, 0) + 1 inkrementuje liczbę wystąpień litery.&#10;&#10;Iterujemy po mapie, aby znaleźć literę z największą liczbą wystąpień.">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/NajczestszaLitera.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/NajczestszaLitera.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,31 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="20001000" />
-    </task>
-    <task id="LOCAL-01472" summary="Przeciążenie metody">
-      <option name="closed" value="true" />
-      <created>1742940839810</created>
-      <option name="number" value="01472" />
-      <option name="presentableId" value="LOCAL-01472" />
-      <option name="project" value="LOCAL" />
-      <updated>1742940839810</updated>
-    </task>
-    <task id="LOCAL-01473" summary="lista produktów, które sortujemy i wypisujemy.">
-      <option name="closed" value="true" />
-      <created>1742940877209</created>
-      <option name="number" value="01473" />
-      <option name="presentableId" value="LOCAL-01473" />
-      <option name="project" value="LOCAL" />
-      <updated>1742940877209</updated>
-    </task>
-    <task id="LOCAL-01474" summary="Scanner">
-      <option name="closed" value="true" />
-      <created>1742940921835</created>
-      <option name="number" value="01474" />
-      <option name="presentableId" value="LOCAL-01474" />
-      <option name="project" value="LOCAL" />
-      <updated>1742940921835</updated>
+      <workItem from="1742046384185" duration="20627000" />
     </task>
     <task id="LOCAL-01475" summary="Double.compare(p2.price, p1.price) – sortuje malejąco.&#10;&#10;toLowerCase() – sprawia, że użytkownik może wpisać ROSNĄCO albo rosnąco.">
       <option name="closed" value="true" />
@@ -553,7 +529,31 @@
       <option name="project" value="LOCAL" />
       <updated>1743114905940</updated>
     </task>
-    <option name="localTasksCounter" value="1521" />
+    <task id="LOCAL-01521" summary="Używamy HashMap, by zliczyć litery (np. 'a' → 3, 'b' → 1 itd.).&#10;&#10;Character.isLetter() pomija spacje i znaki specjalne.&#10;&#10;getOrDefault(x, 0) + 1 inkrementuje liczbę wystąpień litery.&#10;&#10;Iterujemy po mapie, aby znaleźć literę z największą liczbą wystąpień.">
+      <option name="closed" value="true" />
+      <created>1743114931534</created>
+      <option name="number" value="01521" />
+      <option name="presentableId" value="LOCAL-01521" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114931534</updated>
+    </task>
+    <task id="LOCAL-01522" summary="Używamy HashMap, by zliczyć litery (np. 'a' → 3, 'b' → 1 itd.).&#10;&#10;Character.isLetter() pomija spacje i znaki specjalne.&#10;&#10;getOrDefault(x, 0) + 1 inkrementuje liczbę wystąpień litery.&#10;&#10;Iterujemy po mapie, aby znaleźć literę z największą liczbą wystąpień.">
+      <option name="closed" value="true" />
+      <created>1743114945309</created>
+      <option name="number" value="01522" />
+      <option name="presentableId" value="LOCAL-01522" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114945309</updated>
+    </task>
+    <task id="LOCAL-01523" summary="Używamy HashMap, by zliczyć litery (np. 'a' → 3, 'b' → 1 itd.).&#10;&#10;Character.isLetter() pomija spacje i znaki specjalne.&#10;&#10;getOrDefault(x, 0) + 1 inkrementuje liczbę wystąpień litery.&#10;&#10;Iterujemy po mapie, aby znaleźć literę z największą liczbą wystąpień.">
+      <option name="closed" value="true" />
+      <created>1743198415251</created>
+      <option name="number" value="01523" />
+      <option name="presentableId" value="LOCAL-01523" />
+      <option name="project" value="LOCAL" />
+      <updated>1743198415251</updated>
+    </task>
+    <option name="localTasksCounter" value="1524" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,7 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie: Sprawdzanie, czy tablica zawiera daną wartość" />
     <MESSAGE value="ZnajdzWTablicy" />
     <MESSAGE value="Inicjacja tablicy" />
     <MESSAGE value="boolean znaleziono steruje komunikatem." />
@@ -596,6 +595,7 @@
     <MESSAGE value="substring(0, 3) – wyciąga pierwsze 3 znaki.&#10;&#10;numer.matches(&quot;\\d{9}&quot;) – sprawdza, czy numer zawiera dokładnie 9 cyfr.&#10;&#10;replaceAll(&quot;\\s+&quot;, &quot;&quot;) – usuwa ewentualne spacje." />
     <MESSAGE value="NajczestszaLitera" />
     <MESSAGE value="Zadanie: Najczęściej występująca litera w tekście" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie: Najczęściej występująca litera w tekście" />
+    <MESSAGE value="Używamy HashMap, by zliczyć litery (np. 'a' → 3, 'b' → 1 itd.).&#10;&#10;Character.isLetter() pomija spacje i znaki specjalne.&#10;&#10;getOrDefault(x, 0) + 1 inkrementuje liczbę wystąpień litery.&#10;&#10;Iterujemy po mapie, aby znaleźć literę z największą liczbą wystąpień." />
+    <option name="LAST_COMMIT_MESSAGE" value="Używamy HashMap, by zliczyć litery (np. 'a' → 3, 'b' → 1 itd.).&#10;&#10;Character.isLetter() pomija spacje i znaki specjalne.&#10;&#10;getOrDefault(x, 0) + 1 inkrementuje liczbę wystąpień litery.&#10;&#10;Iterujemy po mapie, aby znaleźć literę z największą liczbą wystąpień." />
   </component>
 </project>
