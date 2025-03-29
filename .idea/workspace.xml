@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Używamy HashMap, by zliczyć litery (np. 'a' → 3, 'b' → 1 itd.).&#10;&#10;Character.isLetter() pomija spacje i znaki specjalne.&#10;&#10;getOrDefault(x, 0) + 1 inkrementuje liczbę wystąpień litery.&#10;&#10;Iterujemy po mapie, aby znaleźć literę z największą liczbą wystąpień.">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/NajczestszaLitera.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/NajczestszaLitera.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,79 +157,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="20627000" />
-    </task>
-    <task id="LOCAL-01475" summary="Double.compare(p2.price, p1.price) – sortuje malejąco.&#10;&#10;toLowerCase() – sprawia, że użytkownik może wpisać ROSNĄCO albo rosnąco.">
-      <option name="closed" value="true" />
-      <created>1742940953269</created>
-      <option name="number" value="01475" />
-      <option name="presentableId" value="LOCAL-01475" />
-      <option name="project" value="LOCAL" />
-      <updated>1742940953269</updated>
-    </task>
-    <task id="LOCAL-01476" summary="Zadanie: Liczenie wystąpień słów w tekście">
-      <option name="closed" value="true" />
-      <created>1742941008337</created>
-      <option name="number" value="01476" />
-      <option name="presentableId" value="LOCAL-01476" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941008337</updated>
-    </task>
-    <task id="LOCAL-01477" summary="LiczenieSlow">
-      <option name="closed" value="true" />
-      <created>1742941033071</created>
-      <option name="number" value="01477" />
-      <option name="presentableId" value="LOCAL-01477" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941033072</updated>
-    </task>
-    <task id="LOCAL-01478" summary="dzielenie po spacjach">
-      <option name="closed" value="true" />
-      <created>1742941051624</created>
-      <option name="number" value="01478" />
-      <option name="presentableId" value="LOCAL-01478" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941051624</updated>
-    </task>
-    <task id="LOCAL-01479" summary="Map&lt;String, Integer&gt; – przechowuje słowo → liczba wystąpień.">
-      <option name="closed" value="true" />
-      <created>1742941086821</created>
-      <option name="number" value="01479" />
-      <option name="presentableId" value="LOCAL-01479" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941086821</updated>
-    </task>
-    <task id="LOCAL-01480" summary="getOrDefault(slowo, 0) – zwraca wartość z mapy lub 0, jeśli brak.&#10;&#10;entrySet() – pozwala iterować po parach klucz–wartość.">
-      <option name="closed" value="true" />
-      <created>1742941120489</created>
-      <option name="number" value="01480" />
-      <option name="presentableId" value="LOCAL-01480" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941120489</updated>
-    </task>
-    <task id="LOCAL-01481" summary="Zadanie: Konwersja liczby z dziesiętnej na binarną">
-      <option name="closed" value="true" />
-      <created>1742941164689</created>
-      <option name="number" value="01481" />
-      <option name="presentableId" value="LOCAL-01481" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941164689</updated>
-    </task>
-    <task id="LOCAL-01482" summary="KonwersjaNaBinarny">
-      <option name="closed" value="true" />
-      <created>1742941188620</created>
-      <option name="number" value="01482" />
-      <option name="presentableId" value="LOCAL-01482" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941188620</updated>
-    </task>
-    <task id="LOCAL-01483" summary="KonwersjaNaBinarny">
-      <option name="closed" value="true" />
-      <created>1742941222025</created>
-      <option name="number" value="01483" />
-      <option name="presentableId" value="LOCAL-01483" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941222025</updated>
+      <workItem from="1742046384185" duration="21485000" />
     </task>
     <task id="LOCAL-01484" summary="dodajemy cyfrę od przodu">
       <option name="closed" value="true" />
@@ -553,7 +479,79 @@
       <option name="project" value="LOCAL" />
       <updated>1743198415251</updated>
     </task>
-    <option name="localTasksCounter" value="1524" />
+    <task id="LOCAL-01524" summary="Zadanie: Oblicz wiek na podstawie daty urodzenia">
+      <option name="closed" value="true" />
+      <created>1743198499041</created>
+      <option name="number" value="01524" />
+      <option name="presentableId" value="LOCAL-01524" />
+      <option name="project" value="LOCAL" />
+      <updated>1743198499041</updated>
+    </task>
+    <task id="LOCAL-01525" summary="v">
+      <option name="closed" value="true" />
+      <created>1743198512975</created>
+      <option name="number" value="01525" />
+      <option name="presentableId" value="LOCAL-01525" />
+      <option name="project" value="LOCAL" />
+      <updated>1743198512975</updated>
+    </task>
+    <task id="LOCAL-01526" summary="v">
+      <option name="closed" value="true" />
+      <created>1743198528137</created>
+      <option name="number" value="01526" />
+      <option name="presentableId" value="LOCAL-01526" />
+      <option name="project" value="LOCAL" />
+      <updated>1743198528137</updated>
+    </task>
+    <task id="LOCAL-01527" summary="LocalDate.parse() zamienia string na datę (2020-01-05 → LocalDate).&#10;&#10;LocalDate.now() to aktualna data.&#10;&#10;Period.between(...) liczy różnicę w latach, miesiącach i dniach.&#10;&#10;try-catch chroni program przed błędami formatowania (np. literówki w dacie).">
+      <option name="closed" value="true" />
+      <created>1743198549304</created>
+      <option name="number" value="01527" />
+      <option name="presentableId" value="LOCAL-01527" />
+      <option name="project" value="LOCAL" />
+      <updated>1743198549304</updated>
+    </task>
+    <task id="LOCAL-01528" summary="Zadanie: Kalkulator godzin pracy">
+      <option name="closed" value="true" />
+      <created>1743198581017</created>
+      <option name="number" value="01528" />
+      <option name="presentableId" value="LOCAL-01528" />
+      <option name="project" value="LOCAL" />
+      <updated>1743198581017</updated>
+    </task>
+    <task id="LOCAL-01529" summary="KalkulatorGodzin">
+      <option name="closed" value="true" />
+      <created>1743198597459</created>
+      <option name="number" value="01529" />
+      <option name="presentableId" value="LOCAL-01529" />
+      <option name="project" value="LOCAL" />
+      <updated>1743198597459</updated>
+    </task>
+    <task id="LOCAL-01530" summary="KalkulatorGodzin">
+      <option name="closed" value="true" />
+      <created>1743198611249</created>
+      <option name="number" value="01530" />
+      <option name="presentableId" value="LOCAL-01530" />
+      <option name="project" value="LOCAL" />
+      <updated>1743198611249</updated>
+    </task>
+    <task id="LOCAL-01531" summary="KalkulatorGodzin">
+      <option name="closed" value="true" />
+      <created>1743198623453</created>
+      <option name="number" value="01531" />
+      <option name="presentableId" value="LOCAL-01531" />
+      <option name="project" value="LOCAL" />
+      <updated>1743198623453</updated>
+    </task>
+    <task id="LOCAL-01532" summary="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji.">
+      <option name="closed" value="true" />
+      <created>1743198642223</created>
+      <option name="number" value="01532" />
+      <option name="presentableId" value="LOCAL-01532" />
+      <option name="project" value="LOCAL" />
+      <updated>1743198642223</updated>
+    </task>
+    <option name="localTasksCounter" value="1533" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,12 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ZnajdzWTablicy" />
-    <MESSAGE value="Inicjacja tablicy" />
-    <MESSAGE value="boolean znaleziono steruje komunikatem." />
-    <MESSAGE value="for-each sprawdza każdą liczbę w tablicy,&#10;&#10;break przerywa pętlę, jeśli znajdziemy liczbę," />
-    <MESSAGE value="DetektorDuplikatow" />
-    <MESSAGE value="Zadanie: Detektor duplikatów – czy w tablicy są powtórzenia?" />
     <MESSAGE value="Warunek logiczny" />
     <MESSAGE value="Instrukcja warunkowa" />
     <MESSAGE value="return - jeśli nie udało się dodać – liczba już była" />
@@ -596,6 +588,12 @@
     <MESSAGE value="NajczestszaLitera" />
     <MESSAGE value="Zadanie: Najczęściej występująca litera w tekście" />
     <MESSAGE value="Używamy HashMap, by zliczyć litery (np. 'a' → 3, 'b' → 1 itd.).&#10;&#10;Character.isLetter() pomija spacje i znaki specjalne.&#10;&#10;getOrDefault(x, 0) + 1 inkrementuje liczbę wystąpień litery.&#10;&#10;Iterujemy po mapie, aby znaleźć literę z największą liczbą wystąpień." />
-    <option name="LAST_COMMIT_MESSAGE" value="Używamy HashMap, by zliczyć litery (np. 'a' → 3, 'b' → 1 itd.).&#10;&#10;Character.isLetter() pomija spacje i znaki specjalne.&#10;&#10;getOrDefault(x, 0) + 1 inkrementuje liczbę wystąpień litery.&#10;&#10;Iterujemy po mapie, aby znaleźć literę z największą liczbą wystąpień." />
+    <MESSAGE value="Zadanie: Oblicz wiek na podstawie daty urodzenia" />
+    <MESSAGE value="v" />
+    <MESSAGE value="LocalDate.parse() zamienia string na datę (2020-01-05 → LocalDate).&#10;&#10;LocalDate.now() to aktualna data.&#10;&#10;Period.between(...) liczy różnicę w latach, miesiącach i dniach.&#10;&#10;try-catch chroni program przed błędami formatowania (np. literówki w dacie)." />
+    <MESSAGE value="Zadanie: Kalkulator godzin pracy" />
+    <MESSAGE value="KalkulatorGodzin" />
+    <MESSAGE value="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji." />
+    <option name="LAST_COMMIT_MESSAGE" value="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji." />
   </component>
 </project>
