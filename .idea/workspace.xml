@@ -159,15 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="22619000" />
-    </task>
-    <task id="LOCAL-01485" summary="KonwersjaNaBinarny">
-      <option name="closed" value="true" />
-      <created>1742941277786</created>
-      <option name="number" value="01485" />
-      <option name="presentableId" value="LOCAL-01485" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941277786</updated>
+      <workItem from="1742046384185" duration="22625000" />
     </task>
     <task id="LOCAL-01486" summary="Zadanie: Sprawdzanie, czy tablica zawiera daną wartość">
       <option name="closed" value="true" />
@@ -553,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743267349547</updated>
     </task>
-    <option name="localTasksCounter" value="1534" />
+    <task id="LOCAL-01534" summary="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji.">
+      <option name="closed" value="true" />
+      <created>1743353414005</created>
+      <option name="number" value="01534" />
+      <option name="presentableId" value="LOCAL-01534" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353414005</updated>
+    </task>
+    <option name="localTasksCounter" value="1535" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
