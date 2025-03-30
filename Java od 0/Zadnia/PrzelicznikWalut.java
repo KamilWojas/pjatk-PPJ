@@ -20,3 +20,10 @@ public class PrzelicznikWalut {
         } else if (kierunek == 2) {
             wynik = kwota * KURS_EUR;
             System.out.printf("%.2f EUR = %.2f PLN\n", kwota, wynik);
+        } else {
+            System.out.println("Nieznana opcja konwersji.");
+        }
+
+        scanner.close();
+    }
+}
