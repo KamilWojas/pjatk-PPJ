@@ -25,5 +25,5 @@ public class PrzelicznikWalut {
         }
 
         scanner.close();
-    }
+    } 
 }
