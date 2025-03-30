@@ -25,3 +25,14 @@ public class ListaZadan {
                     zadania.add(zadanie);
                     System.out.println("Dodano!");
                     break;
+
+                case 2:
+                    System.out.println("Twoje zadania:");
+                    if (zadania.isEmpty()) {
+                        System.out.println("(Brak zadań)");
+                    } else {
+                        for (int i = 0; i < zadania.size(); i++) {
+                            System.out.println((i + 1) + ". " + zadania.get(i));
+                        }
+                    }
+                    break;
