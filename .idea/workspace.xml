@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji." />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,15 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="21485000" />
-    </task>
-    <task id="LOCAL-01484" summary="dodajemy cyfrę od przodu">
-      <option name="closed" value="true" />
-      <created>1742941251175</created>
-      <option name="number" value="01484" />
-      <option name="presentableId" value="LOCAL-01484" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941251175</updated>
+      <workItem from="1742046384185" duration="22619000" />
     </task>
     <task id="LOCAL-01485" summary="KonwersjaNaBinarny">
       <option name="closed" value="true" />
@@ -551,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743198642223</updated>
     </task>
-    <option name="localTasksCounter" value="1533" />
+    <task id="LOCAL-01533" summary="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji.">
+      <option name="closed" value="true" />
+      <created>1743267349547</created>
+      <option name="number" value="01533" />
+      <option name="presentableId" value="LOCAL-01533" />
+      <option name="project" value="LOCAL" />
+      <updated>1743267349547</updated>
+    </task>
+    <option name="localTasksCounter" value="1534" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
