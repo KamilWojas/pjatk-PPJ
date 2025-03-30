@@ -46,5 +46,5 @@ public class ListaZadan {
         } while (opcja != 3);
 
         scanner.close();
-    }
+    } 
 }
