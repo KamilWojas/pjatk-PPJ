@@ -13,4 +13,7 @@ public class PrzelicznikWalut {
         int kierunek = scanner.nextInt();
 
         double wynik;
-    }
+
+        if (kierunek == 1) {
+            wynik = kwota / KURS_EUR;
+            System.out.printf("%.2f PLN = %.2f EUR\n", kwota, wynik);
