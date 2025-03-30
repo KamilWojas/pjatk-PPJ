@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="ListaZadan">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/ListaZadan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/ListaZadan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,31 +159,7 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="22625000" />
-    </task>
-    <task id="LOCAL-01486" summary="Zadanie: Sprawdzanie, czy tablica zawiera daną wartość">
-      <option name="closed" value="true" />
-      <created>1742941401028</created>
-      <option name="number" value="01486" />
-      <option name="presentableId" value="LOCAL-01486" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941401028</updated>
-    </task>
-    <task id="LOCAL-01487" summary="ZnajdzWTablicy">
-      <option name="closed" value="true" />
-      <created>1742941415641</created>
-      <option name="number" value="01487" />
-      <option name="presentableId" value="LOCAL-01487" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941415641</updated>
-    </task>
-    <task id="LOCAL-01488" summary="Inicjacja tablicy">
-      <option name="closed" value="true" />
-      <created>1742941477074</created>
-      <option name="number" value="01488" />
-      <option name="presentableId" value="LOCAL-01488" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941477074</updated>
+      <workItem from="1742046384185" duration="22927000" />
     </task>
     <task id="LOCAL-01489" summary="boolean znaleziono steruje komunikatem.">
       <option name="closed" value="true" />
@@ -553,7 +529,31 @@
       <option name="project" value="LOCAL" />
       <updated>1743353414005</updated>
     </task>
-    <option name="localTasksCounter" value="1535" />
+    <task id="LOCAL-01535" summary="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji.">
+      <option name="closed" value="true" />
+      <created>1743353440727</created>
+      <option name="number" value="01535" />
+      <option name="presentableId" value="LOCAL-01535" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353440727</updated>
+    </task>
+    <task id="LOCAL-01536" summary="Zadanie 18: Proste menu tekstowe – lista zadań do zrobienia">
+      <option name="closed" value="true" />
+      <created>1743353484685</created>
+      <option name="number" value="01536" />
+      <option name="presentableId" value="LOCAL-01536" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353484686</updated>
+    </task>
+    <task id="LOCAL-01537" summary="ListaZadan">
+      <option name="closed" value="true" />
+      <created>1743353498697</created>
+      <option name="number" value="01537" />
+      <option name="presentableId" value="LOCAL-01537" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353498697</updated>
+    </task>
+    <option name="localTasksCounter" value="1538" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,8 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Warunek logiczny" />
-    <MESSAGE value="Instrukcja warunkowa" />
     <MESSAGE value="return - jeśli nie udało się dodać – liczba już była" />
     <MESSAGE value="Set przechowuje tylko unikalne wartości – jeśli coś już tam było, add() zwróci false." />
     <MESSAGE value="SzyfrLustrzany" />
@@ -596,6 +594,8 @@
     <MESSAGE value="Zadanie: Kalkulator godzin pracy" />
     <MESSAGE value="KalkulatorGodzin" />
     <MESSAGE value="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji." />
-    <option name="LAST_COMMIT_MESSAGE" value="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji." />
+    <MESSAGE value="Zadanie 18: Proste menu tekstowe – lista zadań do zrobienia" />
+    <MESSAGE value="ListaZadan" />
+    <option name="LAST_COMMIT_MESSAGE" value="ListaZadan" />
   </component>
 </project>
