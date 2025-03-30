@@ -17,3 +17,11 @@ public class ListaZadan {
 
             opcja = scanner.nextInt();
             scanner.nextLine();
+
+            switch (opcja) {
+                case 1:
+                    System.out.print("Wpisz treść zadania: ");
+                    String zadanie = scanner.nextLine();
+                    zadania.add(zadanie);
+                    System.out.println("Dodano!");
+                    break;
