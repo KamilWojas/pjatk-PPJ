@@ -36,3 +36,15 @@ public class ListaZadan {
                         }
                     }
                     break;
+
+                case 3:
+                    System.out.println("Zakończono program.");
+                    break;
+                default:
+                    System.out.println("Nieprawidłowa opcja!");
+            }
+        } while (opcja != 3);
+
+        scanner.close();
+    }
+}
