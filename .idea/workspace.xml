@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="ListaZadan">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/ListaZadan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/ListaZadan.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="KURS_EUR – ustalam stały kurs wymiany,&#10;&#10;W zależności od wyboru (1 lub 2) wykonuje odpowiednie działanie,&#10;&#10;printf(&quot;%.2f&quot;) – wypisuje wynik z 2 miejscami po przecinku.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,103 +159,8 @@
       <workItem from="1739466231631" duration="9820000" />
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
-      <workItem from="1742046384185" duration="22927000" />
-    </task>
-    <task id="LOCAL-01489" summary="boolean znaleziono steruje komunikatem.">
-      <option name="closed" value="true" />
-      <created>1742941513464</created>
-      <option name="number" value="01489" />
-      <option name="presentableId" value="LOCAL-01489" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941513464</updated>
-    </task>
-    <task id="LOCAL-01490" summary="for-each sprawdza każdą liczbę w tablicy,&#10;&#10;break przerywa pętlę, jeśli znajdziemy liczbę,">
-      <option name="closed" value="true" />
-      <created>1742941536045</created>
-      <option name="number" value="01490" />
-      <option name="presentableId" value="LOCAL-01490" />
-      <option name="project" value="LOCAL" />
-      <updated>1742941536045</updated>
-    </task>
-    <task id="LOCAL-01491" summary="for-each sprawdza każdą liczbę w tablicy,&#10;&#10;break przerywa pętlę, jeśli znajdziemy liczbę,">
-      <option name="closed" value="true" />
-      <created>1743026115390</created>
-      <option name="number" value="01491" />
-      <option name="presentableId" value="LOCAL-01491" />
-      <option name="project" value="LOCAL" />
-      <updated>1743026115390</updated>
-    </task>
-    <task id="LOCAL-01492" summary="DetektorDuplikatow">
-      <option name="closed" value="true" />
-      <created>1743029018922</created>
-      <option name="number" value="01492" />
-      <option name="presentableId" value="LOCAL-01492" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029018922</updated>
-    </task>
-    <task id="LOCAL-01493" summary="Zadanie: Detektor duplikatów – czy w tablicy są powtórzenia?">
-      <option name="closed" value="true" />
-      <created>1743029048333</created>
-      <option name="number" value="01493" />
-      <option name="presentableId" value="LOCAL-01493" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029048333</updated>
-    </task>
-    <task id="LOCAL-01494" summary="Warunek logiczny">
-      <option name="closed" value="true" />
-      <created>1743029067118</created>
-      <option name="number" value="01494" />
-      <option name="presentableId" value="LOCAL-01494" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029067118</updated>
-    </task>
-    <task id="LOCAL-01495" summary="Instrukcja warunkowa">
-      <option name="closed" value="true" />
-      <created>1743029121226</created>
-      <option name="number" value="01495" />
-      <option name="presentableId" value="LOCAL-01495" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029121226</updated>
-    </task>
-    <task id="LOCAL-01496" summary="return - jeśli nie udało się dodać – liczba już była">
-      <option name="closed" value="true" />
-      <created>1743029160399</created>
-      <option name="number" value="01496" />
-      <option name="presentableId" value="LOCAL-01496" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029160399</updated>
-    </task>
-    <task id="LOCAL-01497" summary="Set przechowuje tylko unikalne wartości – jeśli coś już tam było, add() zwróci false.">
-      <option name="closed" value="true" />
-      <created>1743029173595</created>
-      <option name="number" value="01497" />
-      <option name="presentableId" value="LOCAL-01497" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029173595</updated>
-    </task>
-    <task id="LOCAL-01498" summary="SzyfrLustrzany">
-      <option name="closed" value="true" />
-      <created>1743029191609</created>
-      <option name="number" value="01498" />
-      <option name="presentableId" value="LOCAL-01498" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029191609</updated>
-    </task>
-    <task id="LOCAL-01499" summary=" Zadanie: Szyfr lustrzany – odwróć alfabet">
-      <option name="closed" value="true" />
-      <created>1743029212304</created>
-      <option name="number" value="01499" />
-      <option name="presentableId" value="LOCAL-01499" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029212304</updated>
-    </task>
-    <task id="LOCAL-01500" summary="Różnica między a a z w kodzie ASCII wynosi 25.&#10;&#10;Dla a (97): 'z' - ('a' - 'a') = 'z'&#10;&#10;Dla b: 'z' - ('b' - 'a') = 'y' itd.&#10;&#10;To tzw. Atbash cipher – bardzo stare szyfrowanie.">
-      <option name="closed" value="true" />
-      <created>1743029261102</created>
-      <option name="number" value="01500" />
-      <option name="presentableId" value="LOCAL-01500" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029261102</updated>
+      <workItem from="1742046384185" duration="23765000" />
+      <workItem from="1743443121163" duration="581000" />
     </task>
     <task id="LOCAL-01501" summary="ZgadnijLiczbe">
       <option name="closed" value="true" />
@@ -553,7 +458,103 @@
       <option name="project" value="LOCAL" />
       <updated>1743353498697</updated>
     </task>
-    <option name="localTasksCounter" value="1538" />
+    <task id="LOCAL-01538" summary="ListaZadan">
+      <option name="closed" value="true" />
+      <created>1743353742164</created>
+      <option name="number" value="01538" />
+      <option name="presentableId" value="LOCAL-01538" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353742164</updated>
+    </task>
+    <task id="LOCAL-01539" summary="ListaZadan">
+      <option name="closed" value="true" />
+      <created>1743353754346</created>
+      <option name="number" value="01539" />
+      <option name="presentableId" value="LOCAL-01539" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353754346</updated>
+    </task>
+    <task id="LOCAL-01540" summary="ListaZadan">
+      <option name="closed" value="true" />
+      <created>1743353769409</created>
+      <option name="number" value="01540" />
+      <option name="presentableId" value="LOCAL-01540" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353769409</updated>
+    </task>
+    <task id="LOCAL-01541" summary="ListaZadan">
+      <option name="closed" value="true" />
+      <created>1743353783306</created>
+      <option name="number" value="01541" />
+      <option name="presentableId" value="LOCAL-01541" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353783306</updated>
+    </task>
+    <task id="LOCAL-01542" summary="List&lt;String&gt; zadania – przechowuje listę zadań,&#10;&#10;switch obsługuje opcje menu,&#10;&#10;do...while umożliwia ponawianie menu aż do wyboru opcji 3,&#10;&#10;scanner.nextLine() po nextInt() – zapobiega problemom z wczytywaniem tekstu.">
+      <option name="closed" value="true" />
+      <created>1743353800281</created>
+      <option name="number" value="01542" />
+      <option name="presentableId" value="LOCAL-01542" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353800281</updated>
+    </task>
+    <task id="LOCAL-01543" summary="Zadanie: Prosty przelicznik walut (PLN ↔ EUR)">
+      <option name="closed" value="true" />
+      <created>1743353852712</created>
+      <option name="number" value="01543" />
+      <option name="presentableId" value="LOCAL-01543" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353852712</updated>
+    </task>
+    <task id="LOCAL-01544" summary="PrzelicznikWalut">
+      <option name="closed" value="true" />
+      <created>1743353864902</created>
+      <option name="number" value="01544" />
+      <option name="presentableId" value="LOCAL-01544" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353864902</updated>
+    </task>
+    <task id="LOCAL-01545" summary="PrzelicznikWalut">
+      <option name="closed" value="true" />
+      <created>1743353880245</created>
+      <option name="number" value="01545" />
+      <option name="presentableId" value="LOCAL-01545" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353880245</updated>
+    </task>
+    <task id="LOCAL-01546" summary="PrzelicznikWalut">
+      <option name="closed" value="true" />
+      <created>1743353900927</created>
+      <option name="number" value="01546" />
+      <option name="presentableId" value="LOCAL-01546" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353900927</updated>
+    </task>
+    <task id="LOCAL-01547" summary="PrzelicznikWalut">
+      <option name="closed" value="true" />
+      <created>1743353912483</created>
+      <option name="number" value="01547" />
+      <option name="presentableId" value="LOCAL-01547" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353912483</updated>
+    </task>
+    <task id="LOCAL-01548" summary="PrzelicznikWalut">
+      <option name="closed" value="true" />
+      <created>1743353924229</created>
+      <option name="number" value="01548" />
+      <option name="presentableId" value="LOCAL-01548" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353924229</updated>
+    </task>
+    <task id="LOCAL-01549" summary="KURS_EUR – ustalam stały kurs wymiany,&#10;&#10;W zależności od wyboru (1 lub 2) wykonuje odpowiednie działanie,&#10;&#10;printf(&quot;%.2f&quot;) – wypisuje wynik z 2 miejscami po przecinku.">
+      <option name="closed" value="true" />
+      <created>1743353946377</created>
+      <option name="number" value="01549" />
+      <option name="presentableId" value="LOCAL-01549" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353946377</updated>
+    </task>
+    <option name="localTasksCounter" value="1550" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,10 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="return - jeśli nie udało się dodać – liczba już była" />
-    <MESSAGE value="Set przechowuje tylko unikalne wartości – jeśli coś już tam było, add() zwróci false." />
-    <MESSAGE value="SzyfrLustrzany" />
-    <MESSAGE value=" Zadanie: Szyfr lustrzany – odwróć alfabet" />
     <MESSAGE value="Różnica między a a z w kodzie ASCII wynosi 25.&#10;&#10;Dla a (97): 'z' - ('a' - 'a') = 'z'&#10;&#10;Dla b: 'z' - ('b' - 'a') = 'y' itd.&#10;&#10;To tzw. Atbash cipher – bardzo stare szyfrowanie." />
     <MESSAGE value="ZgadnijLiczbe" />
     <MESSAGE value="Zadanie: Gra: zgadnij liczbę (losowanie + pętla)" />
@@ -596,6 +593,10 @@
     <MESSAGE value="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji." />
     <MESSAGE value="Zadanie 18: Proste menu tekstowe – lista zadań do zrobienia" />
     <MESSAGE value="ListaZadan" />
-    <option name="LAST_COMMIT_MESSAGE" value="ListaZadan" />
+    <MESSAGE value="List&lt;String&gt; zadania – przechowuje listę zadań,&#10;&#10;switch obsługuje opcje menu,&#10;&#10;do...while umożliwia ponawianie menu aż do wyboru opcji 3,&#10;&#10;scanner.nextLine() po nextInt() – zapobiega problemom z wczytywaniem tekstu." />
+    <MESSAGE value="Zadanie: Prosty przelicznik walut (PLN ↔ EUR)" />
+    <MESSAGE value="PrzelicznikWalut" />
+    <MESSAGE value="KURS_EUR – ustalam stały kurs wymiany,&#10;&#10;W zależności od wyboru (1 lub 2) wykonuje odpowiednie działanie,&#10;&#10;printf(&quot;%.2f&quot;) – wypisuje wynik z 2 miejscami po przecinku." />
+    <option name="LAST_COMMIT_MESSAGE" value="KURS_EUR – ustalam stały kurs wymiany,&#10;&#10;W zależności od wyboru (1 lub 2) wykonuje odpowiednie działanie,&#10;&#10;printf(&quot;%.2f&quot;) – wypisuje wynik z 2 miejscami po przecinku." />
   </component>
 </project>
