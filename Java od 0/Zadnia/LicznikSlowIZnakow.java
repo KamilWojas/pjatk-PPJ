@@ -9,3 +9,11 @@ public class LicznikSlowIZnakow {
 
         int liczbaSlow = tekst.trim().isEmpty() ? 0 : tekst.trim().split("\\s+").length;
         int liczbaZnakow = tekst.replaceAll("\\s+", "").length();
+
+
+        System.out.println("Liczba słów: " + liczbaSlow);
+        System.out.println("Liczba znaków (bez spacji): " + liczbaZnakow);
+
+        scanner.close();
+    }
+}
