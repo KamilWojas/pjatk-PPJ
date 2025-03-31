@@ -26,4 +26,4 @@ public class KalkulatorBMI {
 
         scanner.close();
     }
-}
+} 
