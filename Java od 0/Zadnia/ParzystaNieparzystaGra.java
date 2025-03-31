@@ -8,3 +8,9 @@ public class ParzystaNieparzystaGra {
 
         System.out.print("Podaj liczbę od 1 do 10: ");
         int gracz = scanner.nextInt();
+
+        if (gracz < 1 || gracz > 10) {
+            System.out.println("Błędna liczba!");
+            scanner.close();
+            return;
+        }
