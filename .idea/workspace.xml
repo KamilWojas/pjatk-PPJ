@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="KURS_EUR – ustalam stały kurs wymiany,&#10;&#10;W zależności od wyboru (1 lub 2) wykonuje odpowiednie działanie,&#10;&#10;printf(&quot;%.2f&quot;) – wypisuje wynik z 2 miejscami po przecinku.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="ParzystaNieparzystaGra">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/ParzystaNieparzystaGra.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/ParzystaNieparzystaGra.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,79 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="581000" />
-    </task>
-    <task id="LOCAL-01501" summary="ZgadnijLiczbe">
-      <option name="closed" value="true" />
-      <created>1743029275966</created>
-      <option name="number" value="01501" />
-      <option name="presentableId" value="LOCAL-01501" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029275966</updated>
-    </task>
-    <task id="LOCAL-01502" summary="Zadanie: Gra: zgadnij liczbę (losowanie + pętla)">
-      <option name="closed" value="true" />
-      <created>1743029295841</created>
-      <option name="number" value="01502" />
-      <option name="presentableId" value="LOCAL-01502" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029295841</updated>
-    </task>
-    <task id="LOCAL-01503" summary="liczba od 1 do 100">
-      <option name="closed" value="true" />
-      <created>1743029330295</created>
-      <option name="number" value="01503" />
-      <option name="presentableId" value="LOCAL-01503" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029330295</updated>
-    </task>
-    <task id="LOCAL-01504" summary="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć.">
-      <option name="closed" value="true" />
-      <created>1743029365776</created>
-      <option name="number" value="01504" />
-      <option name="presentableId" value="LOCAL-01504" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029365776</updated>
-    </task>
-    <task id="LOCAL-01505" summary="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć.">
-      <option name="closed" value="true" />
-      <created>1743029463046</created>
-      <option name="number" value="01505" />
-      <option name="presentableId" value="LOCAL-01505" />
-      <option name="project" value="LOCAL" />
-      <updated>1743029463046</updated>
-    </task>
-    <task id="LOCAL-01506" summary="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć.">
-      <option name="closed" value="true" />
-      <created>1743114611907</created>
-      <option name="number" value="01506" />
-      <option name="presentableId" value="LOCAL-01506" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114611907</updated>
-    </task>
-    <task id="LOCAL-01507" summary="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć.">
-      <option name="closed" value="true" />
-      <created>1743114656377</created>
-      <option name="number" value="01507" />
-      <option name="presentableId" value="LOCAL-01507" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114656377</updated>
-    </task>
-    <task id="LOCAL-01508" summary="AnagramChecker">
-      <option name="closed" value="true" />
-      <created>1743114676897</created>
-      <option name="number" value="01508" />
-      <option name="presentableId" value="LOCAL-01508" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114676897</updated>
-    </task>
-    <task id="LOCAL-01509" summary="Zadanie: Detektor anagramów">
-      <option name="closed" value="true" />
-      <created>1743114703858</created>
-      <option name="number" value="01509" />
-      <option name="presentableId" value="LOCAL-01509" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114703858</updated>
+      <workItem from="1743443121163" duration="887000" />
     </task>
     <task id="LOCAL-01510" summary="Zadanie: Detektor anagramów">
       <option name="closed" value="true" />
@@ -554,7 +482,79 @@
       <option name="project" value="LOCAL" />
       <updated>1743353946377</updated>
     </task>
-    <option name="localTasksCounter" value="1550" />
+    <task id="LOCAL-01550" summary="KURS_EUR – ustalam stały kurs wymiany,&#10;&#10;W zależności od wyboru (1 lub 2) wykonuje odpowiednie działanie,&#10;&#10;printf(&quot;%.2f&quot;) – wypisuje wynik z 2 miejscami po przecinku.">
+      <option name="closed" value="true" />
+      <created>1743456341395</created>
+      <option name="number" value="01550" />
+      <option name="presentableId" value="LOCAL-01550" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456341396</updated>
+    </task>
+    <task id="LOCAL-01551" summary="Zadanie: Kalkulator BMI (Body Mass Index)">
+      <option name="closed" value="true" />
+      <created>1743456394051</created>
+      <option name="number" value="01551" />
+      <option name="presentableId" value="LOCAL-01551" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456394051</updated>
+    </task>
+    <task id="LOCAL-01552" summary="Zadanie: Kalkulator BMI (Body Mass Index)">
+      <option name="closed" value="true" />
+      <created>1743456414051</created>
+      <option name="number" value="01552" />
+      <option name="presentableId" value="LOCAL-01552" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456414051</updated>
+    </task>
+    <task id="LOCAL-01553" summary="KalkulatorBMI">
+      <option name="closed" value="true" />
+      <created>1743456487810</created>
+      <option name="number" value="01553" />
+      <option name="presentableId" value="LOCAL-01553" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456487810</updated>
+    </task>
+    <task id="LOCAL-01554" summary="KalkulatorBMI">
+      <option name="closed" value="true" />
+      <created>1743456500356</created>
+      <option name="number" value="01554" />
+      <option name="presentableId" value="LOCAL-01554" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456500356</updated>
+    </task>
+    <task id="LOCAL-01555" summary="BMI = masa / (wzrost²),&#10;&#10;printf(&quot;%.2f&quot;) ogranicza wynik do 2 miejsc po przecinku,&#10;&#10;warunki klasyfikują wartość BMI do odpowiedniej kategorii.">
+      <option name="closed" value="true" />
+      <created>1743456523184</created>
+      <option name="number" value="01555" />
+      <option name="presentableId" value="LOCAL-01555" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456523184</updated>
+    </task>
+    <task id="LOCAL-01556" summary=" Zadanie: Gra „parzysta czy nieparzysta” z komputerem">
+      <option name="closed" value="true" />
+      <created>1743456556390</created>
+      <option name="number" value="01556" />
+      <option name="presentableId" value="LOCAL-01556" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456556390</updated>
+    </task>
+    <task id="LOCAL-01557" summary="ParzystaNieparzystaGra">
+      <option name="closed" value="true" />
+      <created>1743456569761</created>
+      <option name="number" value="01557" />
+      <option name="presentableId" value="LOCAL-01557" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456569761</updated>
+    </task>
+    <task id="LOCAL-01558" summary="ParzystaNieparzystaGra">
+      <option name="closed" value="true" />
+      <created>1743456586812</created>
+      <option name="number" value="01558" />
+      <option name="presentableId" value="LOCAL-01558" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456586812</updated>
+    </task>
+    <option name="localTasksCounter" value="1559" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,11 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Różnica między a a z w kodzie ASCII wynosi 25.&#10;&#10;Dla a (97): 'z' - ('a' - 'a') = 'z'&#10;&#10;Dla b: 'z' - ('b' - 'a') = 'y' itd.&#10;&#10;To tzw. Atbash cipher – bardzo stare szyfrowanie." />
-    <MESSAGE value="ZgadnijLiczbe" />
-    <MESSAGE value="Zadanie: Gra: zgadnij liczbę (losowanie + pętla)" />
-    <MESSAGE value="liczba od 1 do 100" />
-    <MESSAGE value="random.nextInt(100) + 1 → losuje liczbę w zakresie 1–100.&#10;&#10;Pętla do while działa co najmniej raz – idealna do gier.&#10;&#10;Po każdej próbie użytkownik dostaje wskazówkę, jak zgadnąć." />
     <MESSAGE value="AnagramChecker" />
     <MESSAGE value="Zadanie: Detektor anagramów" />
     <MESSAGE value="FormatTelefonu" />
@@ -597,6 +592,11 @@
     <MESSAGE value="Zadanie: Prosty przelicznik walut (PLN ↔ EUR)" />
     <MESSAGE value="PrzelicznikWalut" />
     <MESSAGE value="KURS_EUR – ustalam stały kurs wymiany,&#10;&#10;W zależności od wyboru (1 lub 2) wykonuje odpowiednie działanie,&#10;&#10;printf(&quot;%.2f&quot;) – wypisuje wynik z 2 miejscami po przecinku." />
-    <option name="LAST_COMMIT_MESSAGE" value="KURS_EUR – ustalam stały kurs wymiany,&#10;&#10;W zależności od wyboru (1 lub 2) wykonuje odpowiednie działanie,&#10;&#10;printf(&quot;%.2f&quot;) – wypisuje wynik z 2 miejscami po przecinku." />
+    <MESSAGE value="Zadanie: Kalkulator BMI (Body Mass Index)" />
+    <MESSAGE value="KalkulatorBMI" />
+    <MESSAGE value="BMI = masa / (wzrost²),&#10;&#10;printf(&quot;%.2f&quot;) ogranicza wynik do 2 miejsc po przecinku,&#10;&#10;warunki klasyfikują wartość BMI do odpowiedniej kategorii." />
+    <MESSAGE value=" Zadanie: Gra „parzysta czy nieparzysta” z komputerem" />
+    <MESSAGE value="ParzystaNieparzystaGra" />
+    <option name="LAST_COMMIT_MESSAGE" value="ParzystaNieparzystaGra" />
   </component>
 </project>

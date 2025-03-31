@@ -14,3 +14,18 @@ public class ParzystaNieparzystaGra {
             scanner.close();
             return;
         }
+        
+        int komputer = random.nextInt(10) + 1;
+        System.out.println("Komputer wylosował: " + komputer);
+
+        int suma = gracz + komputer;
+
+        if (suma % 2 == 0) {
+            System.out.println("Suma: " + suma + " – parzysta! Wygrałeś! 🎉");
+        } else {
+            System.out.println("Suma: " + suma + " – nieparzysta! Komputer wygrał. 😅");
+        }
+
+        scanner.close();
+    }
+}
