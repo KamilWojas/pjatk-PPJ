@@ -10,4 +10,7 @@ public class TekstowyStoper {
         scanner.nextLine();
         Instant poczatek = Instant.now();
 
+        System.out.println("Pomiar trwa... Wpisz 'stop', aby zakończyć:");
+        scanner.nextLine();
+        Instant koniec = Instant.now();
     }
