@@ -16,4 +16,9 @@ public class TekstowyStoper {
 
         Duration czas = Duration.between(poczatek, koniec);
         long sekundy = czas.getSeconds();
+
+        System.out.println("Czas trwania: " + sekundy + " sekund");
+
+        scanner.close();
     }
+}
