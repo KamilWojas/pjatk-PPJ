@@ -13,4 +13,7 @@ public class TekstowyStoper {
         System.out.println("Pomiar trwa... Wpisz 'stop', aby zakończyć:");
         scanner.nextLine();
         Instant koniec = Instant.now();
+
+        Duration czas = Duration.between(poczatek, koniec);
+        long sekundy = czas.getSeconds();
     }
