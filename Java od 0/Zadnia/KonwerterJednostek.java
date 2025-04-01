@@ -16,3 +16,12 @@ public class KonwerterJednostek {
         String na = scanner.nextLine().toLowerCase();
 
         double wynik = convert(wartosc, z, na);
+
+        if (Double.isNaN(wynik)) {
+            System.out.println("Nieprawidłowa konwersja.");
+        } else {
+            System.out.printf("%.2f %s = %.2f %s\n", wartosc, z, wynik, na);
+        }
+
+        scanner.close();
+    }
