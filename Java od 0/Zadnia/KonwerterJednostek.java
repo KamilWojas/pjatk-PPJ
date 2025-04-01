@@ -7,4 +7,7 @@ public class KonwerterJednostek {
         System.out.println("--- KONWERTER JEDNOSTEK ---");
         System.out.print("Podaj wartość (liczba): ");
         double wartosc = scanner.nextDouble();
-        scanner.nextLine(); 
+        scanner.nextLine();
+
+        System.out.print("Z jakiej jednostki? (m, km, mile): ");
+        String z = scanner.nextLine().toLowerCase();
