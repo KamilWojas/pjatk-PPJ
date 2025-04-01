@@ -11,3 +11,6 @@ public class KonwerterJednostek {
 
         System.out.print("Z jakiej jednostki? (m, km, mile): ");
         String z = scanner.nextLine().toLowerCase();
+
+        System.out.print("Na jaką jednostkę? (m, km, mile): ");
+        String na = scanner.nextLine().toLowerCase();
