@@ -14,3 +14,7 @@ public class MiniQuiz {
         System.out.println("\n2. Ile to jest 2 + 2?");
         System.out.println("a) 4\nb) 5\nc) 6");
         if (scanner.nextLine().equalsIgnoreCase("a")) punkty++;
+
+        System.out.println("\n3. Co oznacza skrót JVM?");
+        System.out.println("a) Java Virtual Machine\nb) Java Very Much\nc) Java Value Model");
+        if (scanner.nextLine().equalsIgnoreCase("a")) punkty++;
