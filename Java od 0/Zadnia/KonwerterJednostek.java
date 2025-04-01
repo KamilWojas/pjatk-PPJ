@@ -25,3 +25,6 @@ public class KonwerterJednostek {
 
         scanner.close();
     }
+
+    public static double convert(double val, String from, String to) {
+        if (from.equals(to)) return val;
