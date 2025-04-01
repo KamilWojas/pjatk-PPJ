@@ -28,3 +28,10 @@ public class KonwerterJednostek {
 
     public static double convert(double val, String from, String to) {
         if (from.equals(to)) return val;
+
+        switch (from) {
+            case "km": val *= 1000; break;
+            case "mile": val *= 1609.34; break;
+            case "m": break;
+            default: return Double.NaN;
+        }
