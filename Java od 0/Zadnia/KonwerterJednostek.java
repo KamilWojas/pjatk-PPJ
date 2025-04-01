@@ -14,3 +14,5 @@ public class KonwerterJednostek {
 
         System.out.print("Na jaką jednostkę? (m, km, mile): ");
         String na = scanner.nextLine().toLowerCase();
+
+        double wynik = convert(wartosc, z, na);
