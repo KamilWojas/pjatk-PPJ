@@ -35,3 +35,12 @@ public class KonwerterJednostek {
             case "m": break;
             default: return Double.NaN;
         }
+
+        switch (to) {
+            case "km": return val / 1000;
+            case "mile": return val / 1609.34;
+            case "m": return val;
+            default: return Double.NaN;
+        }
+    }
+}
