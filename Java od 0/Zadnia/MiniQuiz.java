@@ -18,3 +18,17 @@ public class MiniQuiz {
         System.out.println("\n3. Co oznacza skrót JVM?");
         System.out.println("a) Java Virtual Machine\nb) Java Very Much\nc) Java Value Model");
         if (scanner.nextLine().equalsIgnoreCase("a")) punkty++;
+
+        System.out.println("\nTwój wynik: " + punkty + "/3");
+
+        if (punkty == 3) {
+            System.out.println("Świetnie! 💪");
+        } else if (punkty == 2) {
+            System.out.println("Dobrze! 👍");
+        } else {
+            System.out.println("Spróbuj jeszcze raz! 😉");
+        }
+
+        scanner.close();
+    }
+}
