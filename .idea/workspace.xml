@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="ParzystaNieparzystaGra">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/ParzystaNieparzystaGra.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/ParzystaNieparzystaGra.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="LicznikSlowIZnakow" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,71 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="887000" />
-    </task>
-    <task id="LOCAL-01510" summary="Zadanie: Detektor anagramów">
-      <option name="closed" value="true" />
-      <created>1743114730151</created>
-      <option name="number" value="01510" />
-      <option name="presentableId" value="LOCAL-01510" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114730151</updated>
-    </task>
-    <task id="LOCAL-01511" summary="Zadanie: Detektor anagramów">
-      <option name="closed" value="true" />
-      <created>1743114746090</created>
-      <option name="number" value="01511" />
-      <option name="presentableId" value="LOCAL-01511" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114746090</updated>
-    </task>
-    <task id="LOCAL-01512" summary="FormatTelefonu">
-      <option name="closed" value="true" />
-      <created>1743114766173</created>
-      <option name="number" value="01512" />
-      <option name="presentableId" value="LOCAL-01512" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114766174</updated>
-    </task>
-    <task id="LOCAL-01513" summary="Zadanie: Formatowanie numeru telefonu">
-      <option name="closed" value="true" />
-      <created>1743114786849</created>
-      <option name="number" value="01513" />
-      <option name="presentableId" value="LOCAL-01513" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114786849</updated>
-    </task>
-    <task id="LOCAL-01514" summary="Zadanie: Formatowanie numeru telefonu">
-      <option name="closed" value="true" />
-      <created>1743114806330</created>
-      <option name="number" value="01514" />
-      <option name="presentableId" value="LOCAL-01514" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114806330</updated>
-    </task>
-    <task id="LOCAL-01515" summary="substring(0, 3) – wyciąga pierwsze 3 znaki.&#10;&#10;numer.matches(&quot;\\d{9}&quot;) – sprawdza, czy numer zawiera dokładnie 9 cyfr.&#10;&#10;replaceAll(&quot;\\s+&quot;, &quot;&quot;) – usuwa ewentualne spacje.">
-      <option name="closed" value="true" />
-      <created>1743114832051</created>
-      <option name="number" value="01515" />
-      <option name="presentableId" value="LOCAL-01515" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114832051</updated>
-    </task>
-    <task id="LOCAL-01516" summary="substring(0, 3) – wyciąga pierwsze 3 znaki.&#10;&#10;numer.matches(&quot;\\d{9}&quot;) – sprawdza, czy numer zawiera dokładnie 9 cyfr.&#10;&#10;replaceAll(&quot;\\s+&quot;, &quot;&quot;) – usuwa ewentualne spacje.">
-      <option name="closed" value="true" />
-      <created>1743114842482</created>
-      <option name="number" value="01516" />
-      <option name="presentableId" value="LOCAL-01516" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114842482</updated>
-    </task>
-    <task id="LOCAL-01517" summary="NajczestszaLitera">
-      <option name="closed" value="true" />
-      <created>1743114863765</created>
-      <option name="number" value="01517" />
-      <option name="presentableId" value="LOCAL-01517" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114863765</updated>
+      <workItem from="1743443121163" duration="1634000" />
     </task>
     <task id="LOCAL-01518" summary="Zadanie: Najczęściej występująca litera w tekście">
       <option name="closed" value="true" />
@@ -554,7 +488,71 @@
       <option name="project" value="LOCAL" />
       <updated>1743456586812</updated>
     </task>
-    <option name="localTasksCounter" value="1559" />
+    <task id="LOCAL-01559" summary="ParzystaNieparzystaGra">
+      <option name="closed" value="true" />
+      <created>1743456643908</created>
+      <option name="number" value="01559" />
+      <option name="presentableId" value="LOCAL-01559" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456643908</updated>
+    </task>
+    <task id="LOCAL-01560" summary="ParzystaNieparzystaGra">
+      <option name="closed" value="true" />
+      <created>1743456662291</created>
+      <option name="number" value="01560" />
+      <option name="presentableId" value="LOCAL-01560" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456662291</updated>
+    </task>
+    <task id="LOCAL-01561" summary="random.nextInt(10) + 1 → liczba od 1 do 10,&#10;&#10;% 2 sprawdza, czy liczba jest parzysta,">
+      <option name="closed" value="true" />
+      <created>1743456822654</created>
+      <option name="number" value="01561" />
+      <option name="presentableId" value="LOCAL-01561" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456822654</updated>
+    </task>
+    <task id="LOCAL-01562" summary="LicznikSlowIZnakow">
+      <option name="closed" value="true" />
+      <created>1743456852935</created>
+      <option name="number" value="01562" />
+      <option name="presentableId" value="LOCAL-01562" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456852935</updated>
+    </task>
+    <task id="LOCAL-01563" summary="LicznikSlowIZnakow">
+      <option name="closed" value="true" />
+      <created>1743456872991</created>
+      <option name="number" value="01563" />
+      <option name="presentableId" value="LOCAL-01563" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456872991</updated>
+    </task>
+    <task id="LOCAL-01564" summary="LicznikSlowIZnakow">
+      <option name="closed" value="true" />
+      <created>1743456885458</created>
+      <option name="number" value="01564" />
+      <option name="presentableId" value="LOCAL-01564" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456885458</updated>
+    </task>
+    <task id="LOCAL-01565" summary="LicznikSlowIZnakow">
+      <option name="closed" value="true" />
+      <created>1743456895251</created>
+      <option name="number" value="01565" />
+      <option name="presentableId" value="LOCAL-01565" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456895251</updated>
+    </task>
+    <task id="LOCAL-01566" summary="LicznikSlowIZnakow">
+      <option name="closed" value="true" />
+      <created>1743456906691</created>
+      <option name="number" value="01566" />
+      <option name="presentableId" value="LOCAL-01566" />
+      <option name="project" value="LOCAL" />
+      <updated>1743456906691</updated>
+    </task>
+    <option name="localTasksCounter" value="1567" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,8 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AnagramChecker" />
-    <MESSAGE value="Zadanie: Detektor anagramów" />
     <MESSAGE value="FormatTelefonu" />
     <MESSAGE value="Zadanie: Formatowanie numeru telefonu" />
     <MESSAGE value="substring(0, 3) – wyciąga pierwsze 3 znaki.&#10;&#10;numer.matches(&quot;\\d{9}&quot;) – sprawdza, czy numer zawiera dokładnie 9 cyfr.&#10;&#10;replaceAll(&quot;\\s+&quot;, &quot;&quot;) – usuwa ewentualne spacje." />
@@ -597,6 +593,8 @@
     <MESSAGE value="BMI = masa / (wzrost²),&#10;&#10;printf(&quot;%.2f&quot;) ogranicza wynik do 2 miejsc po przecinku,&#10;&#10;warunki klasyfikują wartość BMI do odpowiedniej kategorii." />
     <MESSAGE value=" Zadanie: Gra „parzysta czy nieparzysta” z komputerem" />
     <MESSAGE value="ParzystaNieparzystaGra" />
-    <option name="LAST_COMMIT_MESSAGE" value="ParzystaNieparzystaGra" />
+    <MESSAGE value="random.nextInt(10) + 1 → liczba od 1 do 10,&#10;&#10;% 2 sprawdza, czy liczba jest parzysta," />
+    <MESSAGE value="LicznikSlowIZnakow" />
+    <option name="LAST_COMMIT_MESSAGE" value="LicznikSlowIZnakow" />
   </component>
 </project>
