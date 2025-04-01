@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="LicznikSlowIZnakow" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="LicznikSlowIZnakow">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/KonwerterJednostek.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,15 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="1761000" />
-    </task>
-    <task id="LOCAL-01519" summary="Zadanie: Najczęściej występująca litera w tekście">
-      <option name="closed" value="true" />
-      <created>1743114892781</created>
-      <option name="number" value="01519" />
-      <option name="presentableId" value="LOCAL-01519" />
-      <option name="project" value="LOCAL" />
-      <updated>1743114892781</updated>
+      <workItem from="1743443121163" duration="2386000" />
     </task>
     <task id="LOCAL-01520" summary="Zadanie: Najczęściej występująca litera w tekście">
       <option name="closed" value="true" />
@@ -552,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743530705745</updated>
     </task>
-    <option name="localTasksCounter" value="1568" />
+    <task id="LOCAL-01568" summary="LicznikSlowIZnakow">
+      <option name="closed" value="true" />
+      <created>1743541631070</created>
+      <option name="number" value="01568" />
+      <option name="presentableId" value="LOCAL-01568" />
+      <option name="project" value="LOCAL" />
+      <updated>1743541631070</updated>
+    </task>
+    <option name="localTasksCounter" value="1569" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
