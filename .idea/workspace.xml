@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Po każdej odpowiedzi porównujemy equalsIgnoreCase(...) z poprawną literą,&#10;&#10;Zmienna punkty przechowuje wynik gracza,&#10;&#10;Ostatni komunikat motywuje do lepszego wyniku.">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/AnagramChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/AnagramChecker.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="AtrybutKlasowy">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/Anagramy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,23 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="3568000" />
-    </task>
-    <task id="LOCAL-01545" summary="PrzelicznikWalut">
-      <option name="closed" value="true" />
-      <created>1743353880245</created>
-      <option name="number" value="01545" />
-      <option name="presentableId" value="LOCAL-01545" />
-      <option name="project" value="LOCAL" />
-      <updated>1743353880245</updated>
-    </task>
-    <task id="LOCAL-01546" summary="PrzelicznikWalut">
-      <option name="closed" value="true" />
-      <created>1743353900927</created>
-      <option name="number" value="01546" />
-      <option name="presentableId" value="LOCAL-01546" />
-      <option name="project" value="LOCAL" />
-      <updated>1743353900927</updated>
+      <workItem from="1743443121163" duration="4228000" />
     </task>
     <task id="LOCAL-01547" summary="PrzelicznikWalut">
       <option name="closed" value="true" />
@@ -554,7 +538,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743542235833</updated>
     </task>
-    <option name="localTasksCounter" value="1594" />
+    <task id="LOCAL-01594" summary="AnagramChecker">
+      <option name="closed" value="true" />
+      <created>1743627967725</created>
+      <option name="number" value="01594" />
+      <option name="presentableId" value="LOCAL-01594" />
+      <option name="project" value="LOCAL" />
+      <updated>1743627967725</updated>
+    </task>
+    <task id="LOCAL-01595" summary="AtrybutKlasowy">
+      <option name="closed" value="true" />
+      <created>1743628000079</created>
+      <option name="number" value="01595" />
+      <option name="presentableId" value="LOCAL-01595" />
+      <option name="project" value="LOCAL" />
+      <updated>1743628000079</updated>
+    </task>
+    <option name="localTasksCounter" value="1596" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,8 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie: Kalkulator godzin pracy" />
-    <MESSAGE value="KalkulatorGodzin" />
     <MESSAGE value="LocalTime.parse(&quot;08:30&quot;) → obiekt godziny.&#10;&#10;Duration.between(...) → różnica czasu między dwoma godzinami.&#10;&#10;toHours() i toMinutes() dają godziny i minuty osobno.&#10;&#10;Obsługa błędów (try-catch) zapewnia stabilność aplikacji." />
     <MESSAGE value="Zadanie 18: Proste menu tekstowe – lista zadań do zrobienia" />
     <MESSAGE value="ListaZadan" />
@@ -597,6 +595,8 @@
     <MESSAGE value="Zadanie: Mini-quiz z punktacją" />
     <MESSAGE value="MiniQuiz" />
     <MESSAGE value="Po każdej odpowiedzi porównujemy equalsIgnoreCase(...) z poprawną literą,&#10;&#10;Zmienna punkty przechowuje wynik gracza,&#10;&#10;Ostatni komunikat motywuje do lepszego wyniku." />
-    <option name="LAST_COMMIT_MESSAGE" value="Po każdej odpowiedzi porównujemy equalsIgnoreCase(...) z poprawną literą,&#10;&#10;Zmienna punkty przechowuje wynik gracza,&#10;&#10;Ostatni komunikat motywuje do lepszego wyniku." />
+    <MESSAGE value="AnagramChecker" />
+    <MESSAGE value="AtrybutKlasowy" />
+    <option name="LAST_COMMIT_MESSAGE" value="AtrybutKlasowy" />
   </component>
 </project>
