@@ -18,7 +18,6 @@ public class Main{
         System.out.println(AtrybutKlasowy.liczbaKol);
 
         AtrybutKlasowy.liczbaKol = 3;
-
         System.out.println(AtrybutKlasowy.liczbaKol);
     }
 }
