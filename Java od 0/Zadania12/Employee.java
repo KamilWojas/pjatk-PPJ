@@ -14,3 +14,8 @@ class Employee {
         this.department = department;
         this.salary = salary;
     }
+    @Override
+    public String toString() {
+        return name + " – " + String.format("%.2f", salary);
+    }
+}
