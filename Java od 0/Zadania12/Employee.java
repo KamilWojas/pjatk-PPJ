@@ -40,3 +40,22 @@ public class SystemPracownikow {
         int licznik = 0;
 
         System.out.println("Pracownicy działu " + dzial + ":");
+
+        for (Employee emp : pracownicy) {
+            if (emp.department.equalsIgnoreCase(dzial)) {
+                System.out.println(emp);
+                suma += emp.salary;
+                licznik++;
+            }
+        }
+
+        if (licznik > 0) {
+            double srednia = suma / licznik;
+            System.out.printf("Średnia pensja: %.2f\n", srednia);
+        } else {
+            System.out.println("Brak pracowników w tym dziale.");
+        }
+
+        scanner.close();
+    }
+} 
