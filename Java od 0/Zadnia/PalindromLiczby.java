@@ -14,3 +14,10 @@ public class PalindromLiczby {
 
         scanner.close();
     }
+
+    public static boolean czyPalindrom(String tekst) {
+        if (tekst.length() <= 1) return true;
+
+        if (tekst.charAt(0) != tekst.charAt(tekst.length() - 1)) {
+            return false;
+        }
