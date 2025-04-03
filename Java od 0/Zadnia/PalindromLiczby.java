@@ -24,4 +24,4 @@ public class PalindromLiczby {
 
         return czyPalindrom(tekst.substring(1, tekst.length() - 1));
     }
-}
+} 
