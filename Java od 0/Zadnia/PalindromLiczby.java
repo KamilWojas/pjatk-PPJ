@@ -21,3 +21,7 @@ public class PalindromLiczby {
         if (tekst.charAt(0) != tekst.charAt(tekst.length() - 1)) {
             return false;
         }
+
+        return czyPalindrom(tekst.substring(1, tekst.length() - 1));
+    }
+}
