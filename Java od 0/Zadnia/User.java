@@ -31,3 +31,8 @@ class User {
                 User user = new User(username, email);
                 System.out.println("Rejestracja udana!");
                 System.out.println(user);
+            } else {
+                System.out.println("Błąd: Nieprawidłowe dane.");
+                if (!poprawnaNazwa) System.out.println("– Nazwa użytkownika nie może być pusta.");
+                if (!poprawnyEmail) System.out.println("– Email musi zawierać '@' i '.'");
+            }
