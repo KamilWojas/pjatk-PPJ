@@ -8,3 +8,8 @@ class User {
         this.username = username;
         this.email = email;
     }
+
+    @Override
+    public String toString() {
+        return "Użytkownik: " + username + ", Email: " + email;
+    }
