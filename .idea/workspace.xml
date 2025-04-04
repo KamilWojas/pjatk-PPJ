@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Employee" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="WalidatorHasla" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,79 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="4936000" />
-    </task>
-    <task id="LOCAL-01555" summary="BMI = masa / (wzrost²),&#10;&#10;printf(&quot;%.2f&quot;) ogranicza wynik do 2 miejsc po przecinku,&#10;&#10;warunki klasyfikują wartość BMI do odpowiedniej kategorii.">
-      <option name="closed" value="true" />
-      <created>1743456523184</created>
-      <option name="number" value="01555" />
-      <option name="presentableId" value="LOCAL-01555" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456523184</updated>
-    </task>
-    <task id="LOCAL-01556" summary=" Zadanie: Gra „parzysta czy nieparzysta” z komputerem">
-      <option name="closed" value="true" />
-      <created>1743456556390</created>
-      <option name="number" value="01556" />
-      <option name="presentableId" value="LOCAL-01556" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456556390</updated>
-    </task>
-    <task id="LOCAL-01557" summary="ParzystaNieparzystaGra">
-      <option name="closed" value="true" />
-      <created>1743456569761</created>
-      <option name="number" value="01557" />
-      <option name="presentableId" value="LOCAL-01557" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456569761</updated>
-    </task>
-    <task id="LOCAL-01558" summary="ParzystaNieparzystaGra">
-      <option name="closed" value="true" />
-      <created>1743456586812</created>
-      <option name="number" value="01558" />
-      <option name="presentableId" value="LOCAL-01558" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456586812</updated>
-    </task>
-    <task id="LOCAL-01559" summary="ParzystaNieparzystaGra">
-      <option name="closed" value="true" />
-      <created>1743456643908</created>
-      <option name="number" value="01559" />
-      <option name="presentableId" value="LOCAL-01559" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456643908</updated>
-    </task>
-    <task id="LOCAL-01560" summary="ParzystaNieparzystaGra">
-      <option name="closed" value="true" />
-      <created>1743456662291</created>
-      <option name="number" value="01560" />
-      <option name="presentableId" value="LOCAL-01560" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456662291</updated>
-    </task>
-    <task id="LOCAL-01561" summary="random.nextInt(10) + 1 → liczba od 1 do 10,&#10;&#10;% 2 sprawdza, czy liczba jest parzysta,">
-      <option name="closed" value="true" />
-      <created>1743456822654</created>
-      <option name="number" value="01561" />
-      <option name="presentableId" value="LOCAL-01561" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456822654</updated>
-    </task>
-    <task id="LOCAL-01562" summary="LicznikSlowIZnakow">
-      <option name="closed" value="true" />
-      <created>1743456852935</created>
-      <option name="number" value="01562" />
-      <option name="presentableId" value="LOCAL-01562" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456852935</updated>
-    </task>
-    <task id="LOCAL-01563" summary="LicznikSlowIZnakow">
-      <option name="closed" value="true" />
-      <created>1743456872991</created>
-      <option name="number" value="01563" />
-      <option name="presentableId" value="LOCAL-01563" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456872991</updated>
+      <workItem from="1743443121163" duration="5767000" />
     </task>
     <task id="LOCAL-01564" summary="LicznikSlowIZnakow">
       <option name="closed" value="true" />
@@ -552,7 +480,79 @@
       <option name="project" value="LOCAL" />
       <updated>1743629274851</updated>
     </task>
-    <option name="localTasksCounter" value="1604" />
+    <task id="LOCAL-01604" summary="Employee">
+      <option name="closed" value="true" />
+      <created>1743715806132</created>
+      <option name="number" value="01604" />
+      <option name="presentableId" value="LOCAL-01604" />
+      <option name="project" value="LOCAL" />
+      <updated>1743715806132</updated>
+    </task>
+    <task id="LOCAL-01605" summary="PalindromLiczby">
+      <option name="closed" value="true" />
+      <created>1743715873182</created>
+      <option name="number" value="01605" />
+      <option name="presentableId" value="LOCAL-01605" />
+      <option name="project" value="LOCAL" />
+      <updated>1743715873182</updated>
+    </task>
+    <task id="LOCAL-01606" summary="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)">
+      <option name="closed" value="true" />
+      <created>1743715903784</created>
+      <option name="number" value="01606" />
+      <option name="presentableId" value="LOCAL-01606" />
+      <option name="project" value="LOCAL" />
+      <updated>1743715903784</updated>
+    </task>
+    <task id="LOCAL-01607" summary="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)">
+      <option name="closed" value="true" />
+      <created>1743715926363</created>
+      <option name="number" value="01607" />
+      <option name="presentableId" value="LOCAL-01607" />
+      <option name="project" value="LOCAL" />
+      <updated>1743715926363</updated>
+    </task>
+    <task id="LOCAL-01608" summary="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)">
+      <option name="closed" value="true" />
+      <created>1743715943935</created>
+      <option name="number" value="01608" />
+      <option name="presentableId" value="LOCAL-01608" />
+      <option name="project" value="LOCAL" />
+      <updated>1743715943935</updated>
+    </task>
+    <task id="LOCAL-01609" summary="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)">
+      <option name="closed" value="true" />
+      <created>1743715957765</created>
+      <option name="number" value="01609" />
+      <option name="presentableId" value="LOCAL-01609" />
+      <option name="project" value="LOCAL" />
+      <updated>1743715957765</updated>
+    </task>
+    <task id="LOCAL-01610" summary="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)">
+      <option name="closed" value="true" />
+      <created>1743715976991</created>
+      <option name="number" value="01610" />
+      <option name="presentableId" value="LOCAL-01610" />
+      <option name="project" value="LOCAL" />
+      <updated>1743715976991</updated>
+    </task>
+    <task id="LOCAL-01611" summary="Sprawdzamy, czy pierwszy i ostatni znak są równe,&#10;&#10;Jeśli tak – sprawdzamy „środek” tekstu (substring(...)),&#10;&#10;Jeśli tekst ma długość 1 lub 0 – to palindrom (warunek końcowy).">
+      <option name="closed" value="true" />
+      <created>1743715997117</created>
+      <option name="number" value="01611" />
+      <option name="presentableId" value="LOCAL-01611" />
+      <option name="project" value="LOCAL" />
+      <updated>1743715997117</updated>
+    </task>
+    <task id="LOCAL-01612" summary="WalidatorHasla">
+      <option name="closed" value="true" />
+      <created>1743716028082</created>
+      <option name="number" value="01612" />
+      <option name="presentableId" value="LOCAL-01612" />
+      <option name="project" value="LOCAL" />
+      <updated>1743716028082</updated>
+    </task>
+    <option name="localTasksCounter" value="1613" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,10 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ListaZadan" />
-    <MESSAGE value="List&lt;String&gt; zadania – przechowuje listę zadań,&#10;&#10;switch obsługuje opcje menu,&#10;&#10;do...while umożliwia ponawianie menu aż do wyboru opcji 3,&#10;&#10;scanner.nextLine() po nextInt() – zapobiega problemom z wczytywaniem tekstu." />
-    <MESSAGE value="Zadanie: Prosty przelicznik walut (PLN ↔ EUR)" />
-    <MESSAGE value="PrzelicznikWalut" />
     <MESSAGE value="KURS_EUR – ustalam stały kurs wymiany,&#10;&#10;W zależności od wyboru (1 lub 2) wykonuje odpowiednie działanie,&#10;&#10;printf(&quot;%.2f&quot;) – wypisuje wynik z 2 miejscami po przecinku." />
     <MESSAGE value="Zadanie: Kalkulator BMI (Body Mass Index)" />
     <MESSAGE value="KalkulatorBMI" />
@@ -595,6 +591,10 @@
     <MESSAGE value="AtrybutKlasowy" />
     <MESSAGE value="Anagramy" />
     <MESSAGE value="Employee" />
-    <option name="LAST_COMMIT_MESSAGE" value="Employee" />
+    <MESSAGE value="PalindromLiczby" />
+    <MESSAGE value="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)" />
+    <MESSAGE value="Sprawdzamy, czy pierwszy i ostatni znak są równe,&#10;&#10;Jeśli tak – sprawdzamy „środek” tekstu (substring(...)),&#10;&#10;Jeśli tekst ma długość 1 lub 0 – to palindrom (warunek końcowy)." />
+    <MESSAGE value="WalidatorHasla" />
+    <option name="LAST_COMMIT_MESSAGE" value="WalidatorHasla" />
   </component>
 </project>
