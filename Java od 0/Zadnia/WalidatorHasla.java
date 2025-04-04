@@ -21,3 +21,6 @@ public class WalidatorHasla {
             if (!wielka) System.out.println("– musi zawierać wielką literę");
             if (!specjalny) System.out.println("– musi zawierać znak specjalny (!@#$...)");
         }
+        scanner.close();
+    }
+}
