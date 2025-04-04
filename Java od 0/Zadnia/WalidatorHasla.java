@@ -18,3 +18,6 @@ public class WalidatorHasla {
             System.out.println("Hasło NIE spełnia wymagań.");
             if (!dlugosc) System.out.println("– musi mieć co najmniej 8 znaków");
             if (!cyfra) System.out.println("– musi zawierać cyfrę");
+            if (!wielka) System.out.println("– musi zawierać wielką literę");
+            if (!specjalny) System.out.println("– musi zawierać znak specjalny (!@#$...)");
+        }
