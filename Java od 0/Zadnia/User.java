@@ -23,3 +23,6 @@ class User {
 
             System.out.print("Podaj adres email: ");
             String email = scanner.nextLine();
+
+            boolean poprawnyEmail = email.contains("@") && email.contains(".");
+            boolean poprawnaNazwa = !username.trim().isEmpty();
