@@ -20,3 +20,6 @@ class User {
 
             System.out.print("Podaj nazwę użytkownika: ");
             String username = scanner.nextLine();
+
+            System.out.print("Podaj adres email: ");
+            String email = scanner.nextLine();
