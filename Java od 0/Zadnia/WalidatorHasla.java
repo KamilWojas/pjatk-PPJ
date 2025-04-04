@@ -14,3 +14,7 @@ public class WalidatorHasla {
 
         if (dlugosc && cyfra && wielka && specjalny) {
             System.out.println("Hasło jest silne.");
+        } else {
+            System.out.println("Hasło NIE spełnia wymagań.");
+            if (!dlugosc) System.out.println("– musi mieć co najmniej 8 znaków");
+            if (!cyfra) System.out.println("– musi zawierać cyfrę");
