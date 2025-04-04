@@ -26,3 +26,8 @@ class User {
 
             boolean poprawnyEmail = email.contains("@") && email.contains(".");
             boolean poprawnaNazwa = !username.trim().isEmpty();
+
+            if (poprawnyEmail && poprawnaNazwa) {
+                User user = new User(username, email);
+                System.out.println("Rejestracja udana!");
+                System.out.println(user);
