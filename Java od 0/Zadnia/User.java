@@ -13,6 +13,7 @@ class User {
     public String toString() {
         return "Użytkownik: " + username + ", Email: " + email;
     }
+}
 
     public class RejestracjaUzytkownika {
         public static void main(String[] args) {
@@ -36,3 +37,7 @@ class User {
                 if (!poprawnaNazwa) System.out.println("– Nazwa użytkownika nie może być pusta.");
                 if (!poprawnyEmail) System.out.println("– Email musi zawierać '@' i '.'");
             }
+
+            scanner.close();
+        }
+    }
