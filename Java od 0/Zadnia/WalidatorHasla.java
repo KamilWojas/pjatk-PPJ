@@ -11,3 +11,6 @@ public class WalidatorHasla {
         boolean cyfra = haslo.matches(".*\\d.*");
         boolean wielka = haslo.matches(".*[A-Z].*");
         boolean specjalny = haslo.matches(".*[!@#$%^&*()].*");
+
+        if (dlugosc && cyfra && wielka && specjalny) {
+            System.out.println("Hasło jest silne.");
