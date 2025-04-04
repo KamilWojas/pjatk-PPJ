@@ -13,7 +13,10 @@ class User {
     public String toString() {
         return "Użytkownik: " + username + ", Email: " + email;
     }
-    
+
     public class RejestracjaUzytkownika {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
+
+            System.out.print("Podaj nazwę użytkownika: ");
+            String username = scanner.nextLine();
