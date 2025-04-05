@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="WalidatorHasla" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="User" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,151 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="5767000" />
-    </task>
-    <task id="LOCAL-01564" summary="LicznikSlowIZnakow">
-      <option name="closed" value="true" />
-      <created>1743456885458</created>
-      <option name="number" value="01564" />
-      <option name="presentableId" value="LOCAL-01564" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456885458</updated>
-    </task>
-    <task id="LOCAL-01565" summary="LicznikSlowIZnakow">
-      <option name="closed" value="true" />
-      <created>1743456895251</created>
-      <option name="number" value="01565" />
-      <option name="presentableId" value="LOCAL-01565" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456895251</updated>
-    </task>
-    <task id="LOCAL-01566" summary="LicznikSlowIZnakow">
-      <option name="closed" value="true" />
-      <created>1743456906691</created>
-      <option name="number" value="01566" />
-      <option name="presentableId" value="LOCAL-01566" />
-      <option name="project" value="LOCAL" />
-      <updated>1743456906691</updated>
-    </task>
-    <task id="LOCAL-01567" summary="LicznikSlowIZnakow">
-      <option name="closed" value="true" />
-      <created>1743530705745</created>
-      <option name="number" value="01567" />
-      <option name="presentableId" value="LOCAL-01567" />
-      <option name="project" value="LOCAL" />
-      <updated>1743530705745</updated>
-    </task>
-    <task id="LOCAL-01568" summary="LicznikSlowIZnakow">
-      <option name="closed" value="true" />
-      <created>1743541631070</created>
-      <option name="number" value="01568" />
-      <option name="presentableId" value="LOCAL-01568" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541631070</updated>
-    </task>
-    <task id="LOCAL-01569" summary="Zadanie: Konwerter jednostek – metry, kilometry, mile">
-      <option name="closed" value="true" />
-      <created>1743541678276</created>
-      <option name="number" value="01569" />
-      <option name="presentableId" value="LOCAL-01569" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541678276</updated>
-    </task>
-    <task id="LOCAL-01570" summary="KonwerterJednostek">
-      <option name="closed" value="true" />
-      <created>1743541690928</created>
-      <option name="number" value="01570" />
-      <option name="presentableId" value="LOCAL-01570" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541690928</updated>
-    </task>
-    <task id="LOCAL-01571" summary="KonwerterJednostek">
-      <option name="closed" value="true" />
-      <created>1743541705258</created>
-      <option name="number" value="01571" />
-      <option name="presentableId" value="LOCAL-01571" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541705258</updated>
-    </task>
-    <task id="LOCAL-01572" summary="KonwerterJednostek">
-      <option name="closed" value="true" />
-      <created>1743541724521</created>
-      <option name="number" value="01572" />
-      <option name="presentableId" value="LOCAL-01572" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541724521</updated>
-    </task>
-    <task id="LOCAL-01573" summary="KonwerterJednostek">
-      <option name="closed" value="true" />
-      <created>1743541736525</created>
-      <option name="number" value="01573" />
-      <option name="presentableId" value="LOCAL-01573" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541736525</updated>
-    </task>
-    <task id="LOCAL-01574" summary="KonwerterJednostek">
-      <option name="closed" value="true" />
-      <created>1743541749542</created>
-      <option name="number" value="01574" />
-      <option name="presentableId" value="LOCAL-01574" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541749542</updated>
-    </task>
-    <task id="LOCAL-01575" summary="KonwerterJednostek">
-      <option name="closed" value="true" />
-      <created>1743541760721</created>
-      <option name="number" value="01575" />
-      <option name="presentableId" value="LOCAL-01575" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541760721</updated>
-    </task>
-    <task id="LOCAL-01576" summary="KonwerterJednostek">
-      <option name="closed" value="true" />
-      <created>1743541774196</created>
-      <option name="number" value="01576" />
-      <option name="presentableId" value="LOCAL-01576" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541774196</updated>
-    </task>
-    <task id="LOCAL-01577" summary="zamiana wszystkiego na metry">
-      <option name="closed" value="true" />
-      <created>1743541793979</created>
-      <option name="number" value="01577" />
-      <option name="presentableId" value="LOCAL-01577" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541793979</updated>
-    </task>
-    <task id="LOCAL-01578" summary="konwersja z metrów do celu">
-      <option name="closed" value="true" />
-      <created>1743541814484</created>
-      <option name="number" value="01578" />
-      <option name="presentableId" value="LOCAL-01578" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541814484</updated>
-    </task>
-    <task id="LOCAL-01579" summary="Zadanie: Tekstowy stoper (start → stop → czas trwania)">
-      <option name="closed" value="true" />
-      <created>1743541882950</created>
-      <option name="number" value="01579" />
-      <option name="presentableId" value="LOCAL-01579" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541882950</updated>
-    </task>
-    <task id="LOCAL-01580" summary="TekstowyStoper">
-      <option name="closed" value="true" />
-      <created>1743541901925</created>
-      <option name="number" value="01580" />
-      <option name="presentableId" value="LOCAL-01580" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541901925</updated>
-    </task>
-    <task id="LOCAL-01581" summary="TekstowyStoper">
-      <option name="closed" value="true" />
-      <created>1743541918797</created>
-      <option name="number" value="01581" />
-      <option name="presentableId" value="LOCAL-01581" />
-      <option name="project" value="LOCAL" />
-      <updated>1743541918797</updated>
+      <workItem from="1743443121163" duration="6108000" />
     </task>
     <task id="LOCAL-01582" summary="TekstowyStoper">
       <option name="closed" value="true" />
@@ -552,7 +408,151 @@
       <option name="project" value="LOCAL" />
       <updated>1743716028082</updated>
     </task>
-    <option name="localTasksCounter" value="1613" />
+    <task id="LOCAL-01613" summary="Zadanie: Walidator hasła – proste zasady bezpieczeństwa">
+      <option name="closed" value="true" />
+      <created>1743801655492</created>
+      <option name="number" value="01613" />
+      <option name="presentableId" value="LOCAL-01613" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801655492</updated>
+    </task>
+    <task id="LOCAL-01614" summary="WalidatorHasla">
+      <option name="closed" value="true" />
+      <created>1743801670897</created>
+      <option name="number" value="01614" />
+      <option name="presentableId" value="LOCAL-01614" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801670897</updated>
+    </task>
+    <task id="LOCAL-01615" summary="WalidatorHasla">
+      <option name="closed" value="true" />
+      <created>1743801683462</created>
+      <option name="number" value="01615" />
+      <option name="presentableId" value="LOCAL-01615" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801683462</updated>
+    </task>
+    <task id="LOCAL-01616" summary="WalidatorHasla">
+      <option name="closed" value="true" />
+      <created>1743801695206</created>
+      <option name="number" value="01616" />
+      <option name="presentableId" value="LOCAL-01616" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801695206</updated>
+    </task>
+    <task id="LOCAL-01617" summary="WalidatorHasla">
+      <option name="closed" value="true" />
+      <created>1743801706744</created>
+      <option name="number" value="01617" />
+      <option name="presentableId" value="LOCAL-01617" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801706744</updated>
+    </task>
+    <task id="LOCAL-01618" summary="WalidatorHasla">
+      <option name="closed" value="true" />
+      <created>1743801718171</created>
+      <option name="number" value="01618" />
+      <option name="presentableId" value="LOCAL-01618" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801718171</updated>
+    </task>
+    <task id="LOCAL-01619" summary="WalidatorHasla">
+      <option name="closed" value="true" />
+      <created>1743801731286</created>
+      <option name="number" value="01619" />
+      <option name="presentableId" value="LOCAL-01619" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801731286</updated>
+    </task>
+    <task id="LOCAL-01620" summary="User">
+      <option name="closed" value="true" />
+      <created>1743801748905</created>
+      <option name="number" value="01620" />
+      <option name="presentableId" value="LOCAL-01620" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801748906</updated>
+    </task>
+    <task id="LOCAL-01621" summary="Zadanie: Rejestracja użytkownika (klasa User) z walidacją">
+      <option name="closed" value="true" />
+      <created>1743801767252</created>
+      <option name="number" value="01621" />
+      <option name="presentableId" value="LOCAL-01621" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801767252</updated>
+    </task>
+    <task id="LOCAL-01622" summary="User">
+      <option name="closed" value="true" />
+      <created>1743801781522</created>
+      <option name="number" value="01622" />
+      <option name="presentableId" value="LOCAL-01622" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801781522</updated>
+    </task>
+    <task id="LOCAL-01623" summary="User">
+      <option name="closed" value="true" />
+      <created>1743801793736</created>
+      <option name="number" value="01623" />
+      <option name="presentableId" value="LOCAL-01623" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801793736</updated>
+    </task>
+    <task id="LOCAL-01624" summary="User">
+      <option name="closed" value="true" />
+      <created>1743801811107</created>
+      <option name="number" value="01624" />
+      <option name="presentableId" value="LOCAL-01624" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801811107</updated>
+    </task>
+    <task id="LOCAL-01625" summary="User">
+      <option name="closed" value="true" />
+      <created>1743801831168</created>
+      <option name="number" value="01625" />
+      <option name="presentableId" value="LOCAL-01625" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801831168</updated>
+    </task>
+    <task id="LOCAL-01626" summary="User">
+      <option name="closed" value="true" />
+      <created>1743801841488</created>
+      <option name="number" value="01626" />
+      <option name="presentableId" value="LOCAL-01626" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801841488</updated>
+    </task>
+    <task id="LOCAL-01627" summary="User">
+      <option name="closed" value="true" />
+      <created>1743801851744</created>
+      <option name="number" value="01627" />
+      <option name="presentableId" value="LOCAL-01627" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801851744</updated>
+    </task>
+    <task id="LOCAL-01628" summary="User">
+      <option name="closed" value="true" />
+      <created>1743801864584</created>
+      <option name="number" value="01628" />
+      <option name="presentableId" value="LOCAL-01628" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801864584</updated>
+    </task>
+    <task id="LOCAL-01629" summary="User">
+      <option name="closed" value="true" />
+      <created>1743801875307</created>
+      <option name="number" value="01629" />
+      <option name="presentableId" value="LOCAL-01629" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801875307</updated>
+    </task>
+    <task id="LOCAL-01630" summary="User">
+      <option name="closed" value="true" />
+      <created>1743801922508</created>
+      <option name="number" value="01630" />
+      <option name="presentableId" value="LOCAL-01630" />
+      <option name="project" value="LOCAL" />
+      <updated>1743801922508</updated>
+    </task>
+    <option name="localTasksCounter" value="1631" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,9 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="KURS_EUR – ustalam stały kurs wymiany,&#10;&#10;W zależności od wyboru (1 lub 2) wykonuje odpowiednie działanie,&#10;&#10;printf(&quot;%.2f&quot;) – wypisuje wynik z 2 miejscami po przecinku." />
-    <MESSAGE value="Zadanie: Kalkulator BMI (Body Mass Index)" />
-    <MESSAGE value="KalkulatorBMI" />
     <MESSAGE value="BMI = masa / (wzrost²),&#10;&#10;printf(&quot;%.2f&quot;) ogranicza wynik do 2 miejsc po przecinku,&#10;&#10;warunki klasyfikują wartość BMI do odpowiedniej kategorii." />
     <MESSAGE value=" Zadanie: Gra „parzysta czy nieparzysta” z komputerem" />
     <MESSAGE value="ParzystaNieparzystaGra" />
@@ -594,7 +591,10 @@
     <MESSAGE value="PalindromLiczby" />
     <MESSAGE value="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)" />
     <MESSAGE value="Sprawdzamy, czy pierwszy i ostatni znak są równe,&#10;&#10;Jeśli tak – sprawdzamy „środek” tekstu (substring(...)),&#10;&#10;Jeśli tekst ma długość 1 lub 0 – to palindrom (warunek końcowy)." />
+    <MESSAGE value="Zadanie: Walidator hasła – proste zasady bezpieczeństwa" />
     <MESSAGE value="WalidatorHasla" />
-    <option name="LAST_COMMIT_MESSAGE" value="WalidatorHasla" />
+    <MESSAGE value="Zadanie: Rejestracja użytkownika (klasa User) z walidacją" />
+    <MESSAGE value="User" />
+    <option name="LAST_COMMIT_MESSAGE" value="User" />
   </component>
 </project>
