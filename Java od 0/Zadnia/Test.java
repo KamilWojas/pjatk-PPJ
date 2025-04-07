@@ -149,6 +149,8 @@ class Kalkulator {
 
         k.dodaj(2, 3, 4, 5); Nie
 
+//Przeciążenie oznacza wiele metod o tej samej nazwie,
+// ale różnych sygnaturach (liczba/typ argumentów). Musi istnieć dokładne dopasowanie.
 
 ==========================================================================================
 
