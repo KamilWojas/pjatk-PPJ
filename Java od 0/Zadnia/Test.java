@@ -9,3 +9,7 @@ public class Main {
         Test t = new Test();
     }
 }
+
+//Rozwiązanie:
+//   Konstruktor Test() uruchamia się automatycznie przy tworzeniu obiektu new Test();
+//   Wypisze: Konstruktor!
