@@ -205,3 +205,8 @@ public class Main {
         C obiekt = new C();
     }
 }
+
+//        Odp:
+//                Konstruktor A
+//                Konstruktor B
+//                Konstruktor C
