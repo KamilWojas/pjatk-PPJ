@@ -126,6 +126,21 @@ class B extends A {
 }
 
 
+
+//Które z poniższych wywołań są poprawne i dopasują się do przeciążonych metod?
+
+class Kalkulator {
+    public int dodaj(int a, int b) {
+        return a + b;
+    }
+
+    public int dodaj(int a, int b, int c) {
+        return a + b + c;
+    }
+}
+
+
+
 ==========================================================================================
 
 //Tablice i operatory warunkowe
