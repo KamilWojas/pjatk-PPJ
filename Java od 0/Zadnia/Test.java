@@ -68,4 +68,18 @@ public class Main {
 
 ==========================================================================================
 
-        Ile razy wykona się pętla do-while? 
+//       Ile razy wykona się pętla do-while?
+
+        int i = 5;
+        do {
+        System.out.println(i);
+        i++;
+        } while (i < 5);
+
+//        Rozwiązanie: Pętla do-while zawsze wykona się minimum raz, nawet jeśli warunek jest fałszywy.
+//        Tutaj:
+//
+//        i = 5, warunek i < 5 jest fałszywy.
+//
+//        Ale do {} wykona się raz, więc wypisze: 5
+//        Odpowiedź: 1 raz
