@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="User" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Co wypisze kod?">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,55 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="10389000" />
-    </task>
-    <task id="LOCAL-01589" summary="MiniQuiz">
-      <option name="closed" value="true" />
-      <created>1743542163066</created>
-      <option name="number" value="01589" />
-      <option name="presentableId" value="LOCAL-01589" />
-      <option name="project" value="LOCAL" />
-      <updated>1743542163066</updated>
-    </task>
-    <task id="LOCAL-01590" summary="MiniQuiz">
-      <option name="closed" value="true" />
-      <created>1743542177255</created>
-      <option name="number" value="01590" />
-      <option name="presentableId" value="LOCAL-01590" />
-      <option name="project" value="LOCAL" />
-      <updated>1743542177255</updated>
-    </task>
-    <task id="LOCAL-01591" summary="MiniQuiz">
-      <option name="closed" value="true" />
-      <created>1743542190596</created>
-      <option name="number" value="01591" />
-      <option name="presentableId" value="LOCAL-01591" />
-      <option name="project" value="LOCAL" />
-      <updated>1743542190596</updated>
-    </task>
-    <task id="LOCAL-01592" summary="MiniQuiz">
-      <option name="closed" value="true" />
-      <created>1743542202342</created>
-      <option name="number" value="01592" />
-      <option name="presentableId" value="LOCAL-01592" />
-      <option name="project" value="LOCAL" />
-      <updated>1743542202343</updated>
-    </task>
-    <task id="LOCAL-01593" summary="Po każdej odpowiedzi porównujemy equalsIgnoreCase(...) z poprawną literą,&#10;&#10;Zmienna punkty przechowuje wynik gracza,&#10;&#10;Ostatni komunikat motywuje do lepszego wyniku.">
-      <option name="closed" value="true" />
-      <created>1743542235833</created>
-      <option name="number" value="01593" />
-      <option name="presentableId" value="LOCAL-01593" />
-      <option name="project" value="LOCAL" />
-      <updated>1743542235833</updated>
-    </task>
-    <task id="LOCAL-01594" summary="AnagramChecker">
-      <option name="closed" value="true" />
-      <created>1743627967725</created>
-      <option name="number" value="01594" />
-      <option name="presentableId" value="LOCAL-01594" />
-      <option name="project" value="LOCAL" />
-      <updated>1743627967725</updated>
+      <workItem from="1743443121163" duration="10715000" />
     </task>
     <task id="LOCAL-01595" summary="AtrybutKlasowy">
       <option name="closed" value="true" />
@@ -552,7 +506,55 @@
       <option name="project" value="LOCAL" />
       <updated>1744054353260</updated>
     </task>
-    <option name="localTasksCounter" value="1638" />
+    <task id="LOCAL-01638" summary="Zadanie: Kiedy uruchomi się konstruktor?">
+      <option name="closed" value="true" />
+      <created>1744059620645</created>
+      <option name="number" value="01638" />
+      <option name="presentableId" value="LOCAL-01638" />
+      <option name="project" value="LOCAL" />
+      <updated>1744059620645</updated>
+    </task>
+    <task id="LOCAL-01639" summary="Zadanie: Kiedy uruchomi się konstruktor?">
+      <option name="closed" value="true" />
+      <created>1744059637371</created>
+      <option name="number" value="01639" />
+      <option name="presentableId" value="LOCAL-01639" />
+      <option name="project" value="LOCAL" />
+      <updated>1744059637371</updated>
+    </task>
+    <task id="LOCAL-01640" summary="Zadanie: Kiedy uruchomi się konstruktor?">
+      <option name="closed" value="true" />
+      <created>1744059648933</created>
+      <option name="number" value="01640" />
+      <option name="presentableId" value="LOCAL-01640" />
+      <option name="project" value="LOCAL" />
+      <updated>1744059648933</updated>
+    </task>
+    <task id="LOCAL-01641" summary="Rozwiązanie">
+      <option name="closed" value="true" />
+      <created>1744059689904</created>
+      <option name="number" value="01641" />
+      <option name="presentableId" value="LOCAL-01641" />
+      <option name="project" value="LOCAL" />
+      <updated>1744059689904</updated>
+    </task>
+    <task id="LOCAL-01642" summary="Co wypisze kod?">
+      <option name="closed" value="true" />
+      <created>1744059776113</created>
+      <option name="number" value="01642" />
+      <option name="presentableId" value="LOCAL-01642" />
+      <option name="project" value="LOCAL" />
+      <updated>1744059776113</updated>
+    </task>
+    <task id="LOCAL-01643" summary="Co wypisze kod?">
+      <option name="closed" value="true" />
+      <created>1744059800322</created>
+      <option name="number" value="01643" />
+      <option name="presentableId" value="LOCAL-01643" />
+      <option name="project" value="LOCAL" />
+      <updated>1744059800322</updated>
+    </task>
+    <option name="localTasksCounter" value="1644" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,9 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BMI = masa / (wzrost²),&#10;&#10;printf(&quot;%.2f&quot;) ogranicza wynik do 2 miejsc po przecinku,&#10;&#10;warunki klasyfikują wartość BMI do odpowiedniej kategorii." />
-    <MESSAGE value=" Zadanie: Gra „parzysta czy nieparzysta” z komputerem" />
-    <MESSAGE value="ParzystaNieparzystaGra" />
     <MESSAGE value="random.nextInt(10) + 1 → liczba od 1 do 10,&#10;&#10;% 2 sprawdza, czy liczba jest parzysta," />
     <MESSAGE value="LicznikSlowIZnakow" />
     <MESSAGE value="Zadanie: Konwerter jednostek – metry, kilometry, mile" />
@@ -595,6 +594,9 @@
     <MESSAGE value="WalidatorHasla" />
     <MESSAGE value="Zadanie: Rejestracja użytkownika (klasa User) z walidacją" />
     <MESSAGE value="User" />
-    <option name="LAST_COMMIT_MESSAGE" value="User" />
+    <MESSAGE value="Zadanie: Kiedy uruchomi się konstruktor?" />
+    <MESSAGE value="Rozwiązanie" />
+    <MESSAGE value="Co wypisze kod?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Co wypisze kod?" />
   </component>
 </project>

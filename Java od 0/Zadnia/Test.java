@@ -40,3 +40,27 @@ public class Main {
 //        i=3 → 3%3==0 → arr[5] = 5 (arr[8 - 3] = arr[5])
 //
 //        Odpowiedź: 8125
+
+==========================================================================================
+
+      Jaki wynik daje 4 | 1 i 5 & 3?
+//
+//        Rozwiązanie:
+//
+//        4 = 0100
+//
+//        1 = 0001
+//
+//        4 | 1 = 0101 = 5
+//        (operacja OR ustawia bit na 1, jeśli choć jeden z operandów ma 1)
+//
+//        5 = 0101
+//
+//        3 = 0011
+//
+//        5 & 3 = 0001 = 1
+//        (AND daje 1 tylko tam, gdzie oba bity to 1)
+//
+//        Odpowiedź:
+//        4 | 1 = 5
+//        5 & 3 = 1
