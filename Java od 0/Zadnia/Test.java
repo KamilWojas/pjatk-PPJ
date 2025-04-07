@@ -139,6 +139,15 @@ class Kalkulator {
     }
 }
 
+   // Które wywołania są poprawne?
+
+        k.dodaj(2, 3); Tak
+
+        k.dodaj(2, 3, 4); Tak
+
+        k.dodaj(2); Nie
+
+        k.dodaj(2, 3, 4, 5); Nie
 
 
 ==========================================================================================
