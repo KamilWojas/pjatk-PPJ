@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Jaki wynik da operacja 4 | 1?">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Dziedziczenie i wywołanie konstruktorów" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,55 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="11029000" />
-    </task>
-    <task id="LOCAL-01599" summary="Employee">
-      <option name="closed" value="true" />
-      <created>1743629181105</created>
-      <option name="number" value="01599" />
-      <option name="presentableId" value="LOCAL-01599" />
-      <option name="project" value="LOCAL" />
-      <updated>1743629181105</updated>
-    </task>
-    <task id="LOCAL-01600" summary="Employee">
-      <option name="closed" value="true" />
-      <created>1743629209793</created>
-      <option name="number" value="01600" />
-      <option name="presentableId" value="LOCAL-01600" />
-      <option name="project" value="LOCAL" />
-      <updated>1743629209793</updated>
-    </task>
-    <task id="LOCAL-01601" summary="Employee">
-      <option name="closed" value="true" />
-      <created>1743629232251</created>
-      <option name="number" value="01601" />
-      <option name="presentableId" value="LOCAL-01601" />
-      <option name="project" value="LOCAL" />
-      <updated>1743629232251</updated>
-    </task>
-    <task id="LOCAL-01602" summary="Employee">
-      <option name="closed" value="true" />
-      <created>1743629253683</created>
-      <option name="number" value="01602" />
-      <option name="presentableId" value="LOCAL-01602" />
-      <option name="project" value="LOCAL" />
-      <updated>1743629253683</updated>
-    </task>
-    <task id="LOCAL-01603" summary="Employee">
-      <option name="closed" value="true" />
-      <created>1743629274851</created>
-      <option name="number" value="01603" />
-      <option name="presentableId" value="LOCAL-01603" />
-      <option name="project" value="LOCAL" />
-      <updated>1743629274851</updated>
-    </task>
-    <task id="LOCAL-01604" summary="Employee">
-      <option name="closed" value="true" />
-      <created>1743715806132</created>
-      <option name="number" value="01604" />
-      <option name="presentableId" value="LOCAL-01604" />
-      <option name="project" value="LOCAL" />
-      <updated>1743715806132</updated>
+      <workItem from="1743443121163" duration="11354000" />
     </task>
     <task id="LOCAL-01605" summary="PalindromLiczby">
       <option name="closed" value="true" />
@@ -554,7 +504,55 @@
       <option name="project" value="LOCAL" />
       <updated>1744060198999</updated>
     </task>
-    <option name="localTasksCounter" value="1648" />
+    <task id="LOCAL-01648" summary="Przeciążanie i przesłanianie">
+      <option name="closed" value="true" />
+      <created>1744060262419</created>
+      <option name="number" value="01648" />
+      <option name="presentableId" value="LOCAL-01648" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060262420</updated>
+    </task>
+    <task id="LOCAL-01649" summary="Przeciążanie i przesłanianie">
+      <option name="closed" value="true" />
+      <created>1744060297528</created>
+      <option name="number" value="01649" />
+      <option name="presentableId" value="LOCAL-01649" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060297528</updated>
+    </task>
+    <task id="LOCAL-01650" summary="Tablice i operatory warunkowe">
+      <option name="closed" value="true" />
+      <created>1744060341686</created>
+      <option name="number" value="01650" />
+      <option name="presentableId" value="LOCAL-01650" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060341686</updated>
+    </task>
+    <task id="LOCAL-01651" summary="Tablice i operatory warunkowe">
+      <option name="closed" value="true" />
+      <created>1744060396036</created>
+      <option name="number" value="01651" />
+      <option name="presentableId" value="LOCAL-01651" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060396036</updated>
+    </task>
+    <task id="LOCAL-01652" summary="Dziedziczenie i wywołanie konstruktorów">
+      <option name="closed" value="true" />
+      <created>1744060467977</created>
+      <option name="number" value="01652" />
+      <option name="presentableId" value="LOCAL-01652" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060467977</updated>
+    </task>
+    <task id="LOCAL-01653" summary="Dziedziczenie i wywołanie konstruktorów">
+      <option name="closed" value="true" />
+      <created>1744060503865</created>
+      <option name="number" value="01653" />
+      <option name="presentableId" value="LOCAL-01653" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060503865</updated>
+    </task>
+    <option name="localTasksCounter" value="1654" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,9 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie: Konwerter jednostek – metry, kilometry, mile" />
-    <MESSAGE value="KonwerterJednostek" />
-    <MESSAGE value="zamiana wszystkiego na metry" />
     <MESSAGE value="konwersja z metrów do celu" />
     <MESSAGE value="Zadanie: Tekstowy stoper (start → stop → czas trwania)" />
     <MESSAGE value="TekstowyStoper" />
@@ -597,6 +592,9 @@
     <MESSAGE value="Co wypisze kod?" />
     <MESSAGE value="Ile razy wykona się pętla do-while?" />
     <MESSAGE value="Jaki wynik da operacja 4 | 1?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jaki wynik da operacja 4 | 1?" />
+    <MESSAGE value="Przeciążanie i przesłanianie" />
+    <MESSAGE value="Tablice i operatory warunkowe" />
+    <MESSAGE value="Dziedziczenie i wywołanie konstruktorów" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dziedziczenie i wywołanie konstruktorów" />
   </component>
 </project>

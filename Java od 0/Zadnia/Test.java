@@ -174,3 +174,34 @@ public class Main {
 // Odp A
 //B
 //Najpierw wywoływany jest konstruktor klasy nadrzędnej (A), potem klasy pochodnej (B).
+
+
+==========================================================================================
+
+//        Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B.
+//        Każda z nich ma konstruktor z komunikatem System.out.println().
+//        Co zostanie wypisane na ekranie?
+
+class A {
+    A() {
+        System.out.println("Konstruktor A");
+    }
+}
+
+class B extends A {
+    B() {
+        System.out.println("Konstruktor B");
+    }
+}
+
+class C extends B {
+    C() {
+        System.out.println("Konstruktor C");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        C obiekt = new C();
+    }
+}
