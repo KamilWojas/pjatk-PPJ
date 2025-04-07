@@ -97,3 +97,15 @@ public class Main {
 //        Odpowiedź: 5
 //        Operator | (bitowe OR) porównuje każdy bit osobno i ustawia 1,
 //        jeśli przynajmniej jeden z bitów ma wartość 1.
+
+
+
+==========================================================================================
+
+//        Czym różni się przeciążenie (overloading) od przesłonięcia (overriding)?
+//
+//        Overloading (przeciążenie): w tej samej klasie, ta sama nazwa metody,
+//        różne parametry (liczba, typ lub kolejność).
+//
+//        Overriding (przesłonięcie): nadpisanie metody z klasy nadrzędnej w klasie dziedziczącej.
+//        Parametry i nazwa muszą być identyczne.

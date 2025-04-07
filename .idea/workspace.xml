@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Co wypisze kod?">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Jaki wynik da operacja 4 | 1?">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,39 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="10715000" />
-    </task>
-    <task id="LOCAL-01595" summary="AtrybutKlasowy">
-      <option name="closed" value="true" />
-      <created>1743628000079</created>
-      <option name="number" value="01595" />
-      <option name="presentableId" value="LOCAL-01595" />
-      <option name="project" value="LOCAL" />
-      <updated>1743628000079</updated>
-    </task>
-    <task id="LOCAL-01596" summary="Anagramy">
-      <option name="closed" value="true" />
-      <created>1743629097516</created>
-      <option name="number" value="01596" />
-      <option name="presentableId" value="LOCAL-01596" />
-      <option name="project" value="LOCAL" />
-      <updated>1743629097516</updated>
-    </task>
-    <task id="LOCAL-01597" summary="Anagramy">
-      <option name="closed" value="true" />
-      <created>1743629123982</created>
-      <option name="number" value="01597" />
-      <option name="presentableId" value="LOCAL-01597" />
-      <option name="project" value="LOCAL" />
-      <updated>1743629123982</updated>
-    </task>
-    <task id="LOCAL-01598" summary="Anagramy">
-      <option name="closed" value="true" />
-      <created>1743629144807</created>
-      <option name="number" value="01598" />
-      <option name="presentableId" value="LOCAL-01598" />
-      <option name="project" value="LOCAL" />
-      <updated>1743629144807</updated>
+      <workItem from="1743443121163" duration="11029000" />
     </task>
     <task id="LOCAL-01599" summary="Employee">
       <option name="closed" value="true" />
@@ -554,7 +522,39 @@
       <option name="project" value="LOCAL" />
       <updated>1744059800322</updated>
     </task>
-    <option name="localTasksCounter" value="1644" />
+    <task id="LOCAL-01644" summary="Co wypisze kod?">
+      <option name="closed" value="true" />
+      <created>1744059914136</created>
+      <option name="number" value="01644" />
+      <option name="presentableId" value="LOCAL-01644" />
+      <option name="project" value="LOCAL" />
+      <updated>1744059914136</updated>
+    </task>
+    <task id="LOCAL-01645" summary="Ile razy wykona się pętla do-while?">
+      <option name="closed" value="true" />
+      <created>1744059983360</created>
+      <option name="number" value="01645" />
+      <option name="presentableId" value="LOCAL-01645" />
+      <option name="project" value="LOCAL" />
+      <updated>1744059983360</updated>
+    </task>
+    <task id="LOCAL-01646" summary="Ile razy wykona się pętla do-while?">
+      <option name="closed" value="true" />
+      <created>1744060029112</created>
+      <option name="number" value="01646" />
+      <option name="presentableId" value="LOCAL-01646" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060029112</updated>
+    </task>
+    <task id="LOCAL-01647" summary="Jaki wynik da operacja 4 | 1?">
+      <option name="closed" value="true" />
+      <created>1744060198999</created>
+      <option name="number" value="01647" />
+      <option name="presentableId" value="LOCAL-01647" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060198999</updated>
+    </task>
+    <option name="localTasksCounter" value="1648" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,8 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="random.nextInt(10) + 1 → liczba od 1 do 10,&#10;&#10;% 2 sprawdza, czy liczba jest parzysta," />
-    <MESSAGE value="LicznikSlowIZnakow" />
     <MESSAGE value="Zadanie: Konwerter jednostek – metry, kilometry, mile" />
     <MESSAGE value="KonwerterJednostek" />
     <MESSAGE value="zamiana wszystkiego na metry" />
@@ -597,6 +595,8 @@
     <MESSAGE value="Zadanie: Kiedy uruchomi się konstruktor?" />
     <MESSAGE value="Rozwiązanie" />
     <MESSAGE value="Co wypisze kod?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Co wypisze kod?" />
+    <MESSAGE value="Ile razy wykona się pętla do-while?" />
+    <MESSAGE value="Jaki wynik da operacja 4 | 1?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jaki wynik da operacja 4 | 1?" />
   </component>
 </project>
