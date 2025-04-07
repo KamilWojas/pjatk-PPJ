@@ -85,7 +85,16 @@ public class Main {
 //        Odpowiedź: 1 raz
 
 
-==========================================================================================
+//Ile minimum razy wykona się pętla do-while?
+
+        int i = 10;
+        do {
+        System.out.println(i);
+        i++;
+        } while (i < 0);
+
+
+        ==========================================================================================
 
 //Jaki wynik da operacja 4 | 1?
 
