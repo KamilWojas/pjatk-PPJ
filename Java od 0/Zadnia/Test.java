@@ -137,3 +137,13 @@ class B extends A {
         arr[i % 3 == 0 ? arr.length - 1 - i : i]
         );
         }
+        
+
+//        arr.length = 9, arr.length/2 = 4, więc 4 iteracje.
+//
+//        i = 0 → 0 % 3 == 0 → true → arr[8] → 9
+//        i = 1 → false → arr[1] → 2
+//        i = 2 → false → arr[2] → 3
+//        i = 3 → true → arr[5] → 6
+//
+//       Odp: 9286
