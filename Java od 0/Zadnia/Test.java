@@ -83,3 +83,17 @@ public class Main {
 //
 //        Ale do {} wykona się raz, więc wypisze: 5
 //        Odpowiedź: 1 raz
+
+
+==========================================================================================
+
+//Jaki wynik da operacja 4 | 1?
+
+        4 = 100
+        1 = 001
+        ---------
+        4 | 1 = 101 (czyli 5)
+
+//        Odpowiedź: 5
+//        Operator | (bitowe OR) porównuje każdy bit osobno i ustawia 1,
+//        jeśli przynajmniej jeden z bitów ma wartość 1.
