@@ -210,3 +210,7 @@ public class Main {
 //                Konstruktor A
 //                Konstruktor B
 //                Konstruktor C
+
+//    Przy tworzeniu obiektu klasy pochodnej (C),
+//    konstruktory klas nadrzędnych (B i A) wywoływane
+//    są automatycznie w kolejności dziedziczenia (od najstarszej klasy do najnowszej).
