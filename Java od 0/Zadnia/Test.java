@@ -170,3 +170,7 @@ public class Main {
         new B();
     }
 }
+
+// Odp A
+//B
+//Najpierw wywoływany jest konstruktor klasy nadrzędnej (A), potem klasy pochodnej (B).
