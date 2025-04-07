@@ -137,7 +137,7 @@ class B extends A {
         arr[i % 3 == 0 ? arr.length - 1 - i : i]
         );
         }
-        
+
 
 //        arr.length = 9, arr.length/2 = 4, więc 4 iteracje.
 //
@@ -147,3 +147,26 @@ class B extends A {
 //        i = 3 → true → arr[5] → 6
 //
 //       Odp: 9286
+
+
+==========================================================================================
+
+//Co się stanie, jeśli mamy taką hierarchię klas?
+
+class A {
+    A() {
+        System.out.println("A");
+    }
+}
+
+class B extends A {
+    B() {
+        System.out.println("B");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        new B();
+    }
+}
