@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Dziedziczenie i wywołanie konstruktorów" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,23 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="11354000" />
-    </task>
-    <task id="LOCAL-01605" summary="PalindromLiczby">
-      <option name="closed" value="true" />
-      <created>1743715873182</created>
-      <option name="number" value="01605" />
-      <option name="presentableId" value="LOCAL-01605" />
-      <option name="project" value="LOCAL" />
-      <updated>1743715873182</updated>
-    </task>
-    <task id="LOCAL-01606" summary="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)">
-      <option name="closed" value="true" />
-      <created>1743715903784</created>
-      <option name="number" value="01606" />
-      <option name="presentableId" value="LOCAL-01606" />
-      <option name="project" value="LOCAL" />
-      <updated>1743715903784</updated>
+      <workItem from="1743443121163" duration="11659000" />
     </task>
     <task id="LOCAL-01607" summary="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)">
       <option name="closed" value="true" />
@@ -552,7 +538,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744060503865</updated>
     </task>
-    <option name="localTasksCounter" value="1654" />
+    <task id="LOCAL-01654" summary="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?">
+      <option name="closed" value="true" />
+      <created>1744060805691</created>
+      <option name="number" value="01654" />
+      <option name="presentableId" value="LOCAL-01654" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060805691</updated>
+    </task>
+    <task id="LOCAL-01655" summary="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?">
+      <option name="closed" value="true" />
+      <created>1744060828166</created>
+      <option name="number" value="01655" />
+      <option name="presentableId" value="LOCAL-01655" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060828166</updated>
+    </task>
+    <option name="localTasksCounter" value="1656" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="konwersja z metrów do celu" />
     <MESSAGE value="Zadanie: Tekstowy stoper (start → stop → czas trwania)" />
     <MESSAGE value="TekstowyStoper" />
     <MESSAGE value="Zadanie: Mini-quiz z punktacją" />
@@ -595,6 +596,7 @@
     <MESSAGE value="Przeciążanie i przesłanianie" />
     <MESSAGE value="Tablice i operatory warunkowe" />
     <MESSAGE value="Dziedziczenie i wywołanie konstruktorów" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dziedziczenie i wywołanie konstruktorów" />
+    <MESSAGE value="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?" />
   </component>
 </project>
