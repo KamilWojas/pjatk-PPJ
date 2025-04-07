@@ -109,3 +109,18 @@ public class Main {
 //
 //        Overriding (przesłonięcie): nadpisanie metody z klasy nadrzędnej w klasie dziedziczącej.
 //        Parametry i nazwa muszą być identyczne.
+
+// Przeciążenie:
+
+        void print(int x) {}
+        void print(String x) {}
+
+// Przesłonięcie
+
+class A {
+    void show() { System.out.println("A"); }
+}
+class B extends A {
+    @Override
+    void show() { System.out.println("B"); }
+}
