@@ -269,3 +269,9 @@ class B extends A {
         System.out.println("B");
     }
 }
+
+//Czy metoda pokaz() z klasy B przesłania metodę z klasy A?
+
+//Odpowiedź: Nie – to NIE jest przesłanianie.
+//Metoda pokaz() w klasie A jest private, więc nie jest widoczna w klasie B. W klasie B powstaje nowa,
+//niezależna metoda, a nie przesłonięcie (override).
