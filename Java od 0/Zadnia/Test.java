@@ -93,7 +93,7 @@ public class Main {
         i++;
         } while (i < 0);
 
-//Pętla wykona się dokładnie raz. 
+//Pętla wykona się dokładnie raz.
 //W do-while ciało pętli zawsze wykona się przynajmniej jeden raz, nawet jeśli warunek jest fałszywy.
 
 
@@ -252,3 +252,20 @@ public class Main {
 //    Przy tworzeniu obiektu klasy pochodnej (C),
 //    konstruktory klas nadrzędnych (B i A) wywoływane
 //    są automatycznie w kolejności dziedziczenia (od najstarszej klasy do najnowszej).
+
+
+==========================================================================================
+
+//Czy kod się skompiluje?
+
+class A {
+    private void pokaz() {
+        System.out.println("A");
+    }
+}
+
+class B extends A {
+    void pokaz() {
+        System.out.println("B");
+    }
+}

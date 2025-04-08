@@ -160,15 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="12511000" />
-    </task>
-    <task id="LOCAL-01614" summary="WalidatorHasla">
-      <option name="closed" value="true" />
-      <created>1743801670897</created>
-      <option name="number" value="01614" />
-      <option name="presentableId" value="LOCAL-01614" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801670897</updated>
+      <workItem from="1743443121163" duration="13124000" />
     </task>
     <task id="LOCAL-01615" summary="WalidatorHasla">
       <option name="closed" value="true" />
@@ -554,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744061100083</updated>
     </task>
-    <option name="localTasksCounter" value="1663" />
+    <task id="LOCAL-01663" summary="Ile minimum razy wykona się pętla do-while?">
+      <option name="closed" value="true" />
+      <created>1744145882376</created>
+      <option name="number" value="01663" />
+      <option name="presentableId" value="LOCAL-01663" />
+      <option name="project" value="LOCAL" />
+      <updated>1744145882376</updated>
+    </task>
+    <option name="localTasksCounter" value="1664" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
