@@ -24,5 +24,5 @@ public class OdczytPliku {
         System.out.println("Liczba linii: " + licznikLinii);
         System.out.println("Liczba słów: " + licznikSlow);
         System.out.println("Liczba znaków: " + licznikZnakow);
-    }
+    } 
 }
