@@ -334,3 +334,6 @@ public class Main {
 
         int[] tab = new int[5];
         System.out.println(tab[5]);
+
+//Indeksy w tablicy zaczynają się od 0. Dla new int[5] poprawne indeksy to 0..4. tab[5]
+//przekracza zakres → wyjątek w czasie działania programu.
