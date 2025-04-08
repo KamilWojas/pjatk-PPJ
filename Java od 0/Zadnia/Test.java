@@ -93,7 +93,7 @@ public class Main {
         i++;
         } while (i < 0);
 
-//Pętla wykona się dokładnie raz.
+//Pętla wykona się dokładnie raz. 
 //W do-while ciało pętli zawsze wykona się przynajmniej jeden raz, nawet jeśli warunek jest fałszywy.
 
 

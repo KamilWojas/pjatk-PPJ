@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Ile minimum razy wykona się pętla do-while?">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,63 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="11659000" />
-    </task>
-    <task id="LOCAL-01607" summary="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)">
-      <option name="closed" value="true" />
-      <created>1743715926363</created>
-      <option name="number" value="01607" />
-      <option name="presentableId" value="LOCAL-01607" />
-      <option name="project" value="LOCAL" />
-      <updated>1743715926363</updated>
-    </task>
-    <task id="LOCAL-01608" summary="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)">
-      <option name="closed" value="true" />
-      <created>1743715943935</created>
-      <option name="number" value="01608" />
-      <option name="presentableId" value="LOCAL-01608" />
-      <option name="project" value="LOCAL" />
-      <updated>1743715943935</updated>
-    </task>
-    <task id="LOCAL-01609" summary="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)">
-      <option name="closed" value="true" />
-      <created>1743715957765</created>
-      <option name="number" value="01609" />
-      <option name="presentableId" value="LOCAL-01609" />
-      <option name="project" value="LOCAL" />
-      <updated>1743715957765</updated>
-    </task>
-    <task id="LOCAL-01610" summary="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)">
-      <option name="closed" value="true" />
-      <created>1743715976991</created>
-      <option name="number" value="01610" />
-      <option name="presentableId" value="LOCAL-01610" />
-      <option name="project" value="LOCAL" />
-      <updated>1743715976991</updated>
-    </task>
-    <task id="LOCAL-01611" summary="Sprawdzamy, czy pierwszy i ostatni znak są równe,&#10;&#10;Jeśli tak – sprawdzamy „środek” tekstu (substring(...)),&#10;&#10;Jeśli tekst ma długość 1 lub 0 – to palindrom (warunek końcowy).">
-      <option name="closed" value="true" />
-      <created>1743715997117</created>
-      <option name="number" value="01611" />
-      <option name="presentableId" value="LOCAL-01611" />
-      <option name="project" value="LOCAL" />
-      <updated>1743715997117</updated>
-    </task>
-    <task id="LOCAL-01612" summary="WalidatorHasla">
-      <option name="closed" value="true" />
-      <created>1743716028082</created>
-      <option name="number" value="01612" />
-      <option name="presentableId" value="LOCAL-01612" />
-      <option name="project" value="LOCAL" />
-      <updated>1743716028082</updated>
-    </task>
-    <task id="LOCAL-01613" summary="Zadanie: Walidator hasła – proste zasady bezpieczeństwa">
-      <option name="closed" value="true" />
-      <created>1743801655492</created>
-      <option name="number" value="01613" />
-      <option name="presentableId" value="LOCAL-01613" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801655492</updated>
+      <workItem from="1743443121163" duration="12511000" />
     </task>
     <task id="LOCAL-01614" summary="WalidatorHasla">
       <option name="closed" value="true" />
@@ -554,7 +498,63 @@
       <option name="project" value="LOCAL" />
       <updated>1744060828166</updated>
     </task>
-    <option name="localTasksCounter" value="1656" />
+    <task id="LOCAL-01656" summary="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?">
+      <option name="closed" value="true" />
+      <created>1744060855958</created>
+      <option name="number" value="01656" />
+      <option name="presentableId" value="LOCAL-01656" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060855958</updated>
+    </task>
+    <task id="LOCAL-01657" summary="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?">
+      <option name="closed" value="true" />
+      <created>1744060869097</created>
+      <option name="number" value="01657" />
+      <option name="presentableId" value="LOCAL-01657" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060869097</updated>
+    </task>
+    <task id="LOCAL-01658" summary="Które z poniższych wywołań są poprawne i dopasują się do przeciążonych metod?">
+      <option name="closed" value="true" />
+      <created>1744060940902</created>
+      <option name="number" value="01658" />
+      <option name="presentableId" value="LOCAL-01658" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060940902</updated>
+    </task>
+    <task id="LOCAL-01659" summary="Które z poniższych wywołań są poprawne i dopasują się do przeciążonych metod?">
+      <option name="closed" value="true" />
+      <created>1744060992219</created>
+      <option name="number" value="01659" />
+      <option name="presentableId" value="LOCAL-01659" />
+      <option name="project" value="LOCAL" />
+      <updated>1744060992219</updated>
+    </task>
+    <task id="LOCAL-01660" summary="Które z poniższych wywołań są poprawne i dopasują się do przeciążonych metod?">
+      <option name="closed" value="true" />
+      <created>1744061014751</created>
+      <option name="number" value="01660" />
+      <option name="presentableId" value="LOCAL-01660" />
+      <option name="project" value="LOCAL" />
+      <updated>1744061014751</updated>
+    </task>
+    <task id="LOCAL-01661" summary="Ile minimum razy wykona się pętla do-while?">
+      <option name="closed" value="true" />
+      <created>1744061066313</created>
+      <option name="number" value="01661" />
+      <option name="presentableId" value="LOCAL-01661" />
+      <option name="project" value="LOCAL" />
+      <updated>1744061066313</updated>
+    </task>
+    <task id="LOCAL-01662" summary="Ile minimum razy wykona się pętla do-while?">
+      <option name="closed" value="true" />
+      <created>1744061100083</created>
+      <option name="number" value="01662" />
+      <option name="presentableId" value="LOCAL-01662" />
+      <option name="project" value="LOCAL" />
+      <updated>1744061100083</updated>
+    </task>
+    <option name="localTasksCounter" value="1663" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,8 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie: Tekstowy stoper (start → stop → czas trwania)" />
-    <MESSAGE value="TekstowyStoper" />
     <MESSAGE value="Zadanie: Mini-quiz z punktacją" />
     <MESSAGE value="MiniQuiz" />
     <MESSAGE value="Po każdej odpowiedzi porównujemy equalsIgnoreCase(...) z poprawną literą,&#10;&#10;Zmienna punkty przechowuje wynik gracza,&#10;&#10;Ostatni komunikat motywuje do lepszego wyniku." />
@@ -597,6 +595,8 @@
     <MESSAGE value="Tablice i operatory warunkowe" />
     <MESSAGE value="Dziedziczenie i wywołanie konstruktorów" />
     <MESSAGE value="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?" />
+    <MESSAGE value="Które z poniższych wywołań są poprawne i dopasują się do przeciążonych metod?" />
+    <MESSAGE value="Ile minimum razy wykona się pętla do-while?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ile minimum razy wykona się pętla do-while?" />
   </component>
 </project>
