@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Co wypisze ten kod z plikiem?">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="OdczytPliku">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/OdczytPliku.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/OdczytPliku.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,71 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="13427000" />
-    </task>
-    <task id="LOCAL-01620" summary="User">
-      <option name="closed" value="true" />
-      <created>1743801748905</created>
-      <option name="number" value="01620" />
-      <option name="presentableId" value="LOCAL-01620" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801748906</updated>
-    </task>
-    <task id="LOCAL-01621" summary="Zadanie: Rejestracja użytkownika (klasa User) z walidacją">
-      <option name="closed" value="true" />
-      <created>1743801767252</created>
-      <option name="number" value="01621" />
-      <option name="presentableId" value="LOCAL-01621" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801767252</updated>
-    </task>
-    <task id="LOCAL-01622" summary="User">
-      <option name="closed" value="true" />
-      <created>1743801781522</created>
-      <option name="number" value="01622" />
-      <option name="presentableId" value="LOCAL-01622" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801781522</updated>
-    </task>
-    <task id="LOCAL-01623" summary="User">
-      <option name="closed" value="true" />
-      <created>1743801793736</created>
-      <option name="number" value="01623" />
-      <option name="presentableId" value="LOCAL-01623" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801793736</updated>
-    </task>
-    <task id="LOCAL-01624" summary="User">
-      <option name="closed" value="true" />
-      <created>1743801811107</created>
-      <option name="number" value="01624" />
-      <option name="presentableId" value="LOCAL-01624" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801811107</updated>
-    </task>
-    <task id="LOCAL-01625" summary="User">
-      <option name="closed" value="true" />
-      <created>1743801831168</created>
-      <option name="number" value="01625" />
-      <option name="presentableId" value="LOCAL-01625" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801831168</updated>
-    </task>
-    <task id="LOCAL-01626" summary="User">
-      <option name="closed" value="true" />
-      <created>1743801841488</created>
-      <option name="number" value="01626" />
-      <option name="presentableId" value="LOCAL-01626" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801841488</updated>
-    </task>
-    <task id="LOCAL-01627" summary="User">
-      <option name="closed" value="true" />
-      <created>1743801851744</created>
-      <option name="number" value="01627" />
-      <option name="presentableId" value="LOCAL-01627" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801851744</updated>
+      <workItem from="1743443121163" duration="13737000" />
     </task>
     <task id="LOCAL-01628" summary="User">
       <option name="closed" value="true" />
@@ -554,7 +490,71 @@
       <option name="project" value="LOCAL" />
       <updated>1744148049579</updated>
     </task>
-    <option name="localTasksCounter" value="1669" />
+    <task id="LOCAL-01669" summary="Co wypisze ten kod z plikiem?">
+      <option name="closed" value="true" />
+      <created>1744148086782</created>
+      <option name="number" value="01669" />
+      <option name="presentableId" value="LOCAL-01669" />
+      <option name="project" value="LOCAL" />
+      <updated>1744148086782</updated>
+    </task>
+    <task id="LOCAL-01670" summary="Czy wystąpi wyjątek?">
+      <option name="closed" value="true" />
+      <created>1744148125044</created>
+      <option name="number" value="01670" />
+      <option name="presentableId" value="LOCAL-01670" />
+      <option name="project" value="LOCAL" />
+      <updated>1744148125044</updated>
+    </task>
+    <task id="LOCAL-01671" summary="Czy wystąpi wyjątek?">
+      <option name="closed" value="true" />
+      <created>1744148166036</created>
+      <option name="number" value="01671" />
+      <option name="presentableId" value="LOCAL-01671" />
+      <option name="project" value="LOCAL" />
+      <updated>1744148166036</updated>
+    </task>
+    <task id="LOCAL-01672" summary="OdczytPliku">
+      <option name="closed" value="true" />
+      <created>1744148251406</created>
+      <option name="number" value="01672" />
+      <option name="presentableId" value="LOCAL-01672" />
+      <option name="project" value="LOCAL" />
+      <updated>1744148251406</updated>
+    </task>
+    <task id="LOCAL-01673" summary="Odczytaj plik dane.txt i wypisz:&#10;&#10;liczbę linii,&#10;&#10;liczbę słów,&#10;&#10;liczbę znaków.&#10;&#10;Plik dane.txt musi znajdować się w katalogu projektu.">
+      <option name="closed" value="true" />
+      <created>1744148275558</created>
+      <option name="number" value="01673" />
+      <option name="presentableId" value="LOCAL-01673" />
+      <option name="project" value="LOCAL" />
+      <updated>1744148275558</updated>
+    </task>
+    <task id="LOCAL-01674" summary="OdczytPliku">
+      <option name="closed" value="true" />
+      <created>1744148292916</created>
+      <option name="number" value="01674" />
+      <option name="presentableId" value="LOCAL-01674" />
+      <option name="project" value="LOCAL" />
+      <updated>1744148292916</updated>
+    </task>
+    <task id="LOCAL-01675" summary="OdczytPliku">
+      <option name="closed" value="true" />
+      <created>1744148313069</created>
+      <option name="number" value="01675" />
+      <option name="presentableId" value="LOCAL-01675" />
+      <option name="project" value="LOCAL" />
+      <updated>1744148313069</updated>
+    </task>
+    <task id="LOCAL-01676" summary="OdczytPliku">
+      <option name="closed" value="true" />
+      <created>1744148326141</created>
+      <option name="number" value="01676" />
+      <option name="presentableId" value="LOCAL-01676" />
+      <option name="project" value="LOCAL" />
+      <updated>1744148326141</updated>
+    </task>
+    <option name="localTasksCounter" value="1677" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,9 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AnagramChecker" />
-    <MESSAGE value="AtrybutKlasowy" />
-    <MESSAGE value="Anagramy" />
     <MESSAGE value="Employee" />
     <MESSAGE value="PalindromLiczby" />
     <MESSAGE value="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)" />
@@ -597,6 +594,9 @@
     <MESSAGE value="Czy kod się skompiluje?" />
     <MESSAGE value="Bloki inicjalizacyjne - Co zostanie wypisane?" />
     <MESSAGE value="Co wypisze ten kod z plikiem?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Co wypisze ten kod z plikiem?" />
+    <MESSAGE value="Czy wystąpi wyjątek?" />
+    <MESSAGE value="Odczytaj plik dane.txt i wypisz:&#10;&#10;liczbę linii,&#10;&#10;liczbę słów,&#10;&#10;liczbę znaków.&#10;&#10;Plik dane.txt musi znajdować się w katalogu projektu." />
+    <MESSAGE value="OdczytPliku" />
+    <option name="LAST_COMMIT_MESSAGE" value="OdczytPliku" />
   </component>
 </project>
