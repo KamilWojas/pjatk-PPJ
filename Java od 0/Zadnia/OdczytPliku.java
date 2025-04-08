@@ -14,5 +14,9 @@ public class OdczytPliku {
             while ((linia = reader.readLine()) != null) {
                 licznikLinii++;
                 licznikZnakow += linia.length();
-                lic
-    }
+                licznikSlow += linia.trim().isEmpty() ? 0 : linia.trim().split("\\s+").length;
+            }
+        } catch (IOException e) {
+            System.out.println("Błąd podczas odczytu pliku: " + e.getMessage());
+            return;
+        }
