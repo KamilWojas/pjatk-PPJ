@@ -20,3 +20,9 @@ public class OdczytPliku {
             System.out.println("Błąd podczas odczytu pliku: " + e.getMessage());
             return;
         }
+
+        System.out.println("Liczba linii: " + licznikLinii);
+        System.out.println("Liczba słów: " + licznikSlow);
+        System.out.println("Liczba znaków: " + licznikZnakow);
+    }
+}
