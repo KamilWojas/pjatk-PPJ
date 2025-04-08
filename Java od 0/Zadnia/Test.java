@@ -276,6 +276,7 @@ class B extends A {
 //Metoda pokaz() w klasie A jest private, więc nie jest widoczna w klasie B. W klasie B powstaje nowa,
 //niezależna metoda, a nie przesłonięcie (override).
 
+
 ==========================================================================================
 
 //Bloki inicjalizacyjne - Co zostanie wypisane?
@@ -308,3 +309,15 @@ public class Main {
 //                Konstruktor
 //                Blok zwykły
 //                Konstruktor
+
+
+==========================================================================================
+//Co wypisze ten kod z plikiem?
+
+        FileOutputStream fos = new FileOutputStream("out.bin");
+        fos.write(260);
+        fos.close();
+
+        FileInputStream fis = new FileInputStream("out.bin");
+        System.out.println(fis.read());
+        fis.close();
