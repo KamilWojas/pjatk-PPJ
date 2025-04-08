@@ -324,3 +324,13 @@ public class Main {
 
 //260 % 256 = 4 → FileOutputStream.write(int) zapisuje tylko 1 bajt (8 bitów) – najmłodsze 8 bitów liczby.
 //260 = 00000001 00000100 → zapisywany jest tylko ostatni bajt: 00000100 = 4.
+
+
+
+
+
+==========================================================================================
+//Czy wystąpi wyjątek?
+
+        int[] tab = new int[5];
+        System.out.println(tab[5]);
