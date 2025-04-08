@@ -300,3 +300,11 @@ public class Main {
         Test t2 = new Test();
     }
 }
+
+
+//        Odp:
+//                Blok statyczny
+//                Blok zwykły
+//                Konstruktor
+//                Blok zwykły
+//                Konstruktor
