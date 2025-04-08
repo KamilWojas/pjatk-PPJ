@@ -275,3 +275,28 @@ class B extends A {
 //Odpowiedź: Nie – to NIE jest przesłanianie.
 //Metoda pokaz() w klasie A jest private, więc nie jest widoczna w klasie B. W klasie B powstaje nowa,
 //niezależna metoda, a nie przesłonięcie (override).
+
+==========================================================================================
+
+//Bloki inicjalizacyjne - Co zostanie wypisane?
+
+class Test {
+    {
+        System.out.println("Blok zwykły");
+    }
+
+    static {
+        System.out.println("Blok statyczny");
+    }
+
+    Test() {
+        System.out.println("Konstruktor");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Test t = new Test();
+        Test t2 = new Test();
+    }
+}
