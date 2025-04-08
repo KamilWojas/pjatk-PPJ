@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Ile minimum razy wykona się pętla do-while?">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Co wypisze ten kod z plikiem?">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,47 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="13124000" />
-    </task>
-    <task id="LOCAL-01615" summary="WalidatorHasla">
-      <option name="closed" value="true" />
-      <created>1743801683462</created>
-      <option name="number" value="01615" />
-      <option name="presentableId" value="LOCAL-01615" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801683462</updated>
-    </task>
-    <task id="LOCAL-01616" summary="WalidatorHasla">
-      <option name="closed" value="true" />
-      <created>1743801695206</created>
-      <option name="number" value="01616" />
-      <option name="presentableId" value="LOCAL-01616" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801695206</updated>
-    </task>
-    <task id="LOCAL-01617" summary="WalidatorHasla">
-      <option name="closed" value="true" />
-      <created>1743801706744</created>
-      <option name="number" value="01617" />
-      <option name="presentableId" value="LOCAL-01617" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801706744</updated>
-    </task>
-    <task id="LOCAL-01618" summary="WalidatorHasla">
-      <option name="closed" value="true" />
-      <created>1743801718171</created>
-      <option name="number" value="01618" />
-      <option name="presentableId" value="LOCAL-01618" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801718171</updated>
-    </task>
-    <task id="LOCAL-01619" summary="WalidatorHasla">
-      <option name="closed" value="true" />
-      <created>1743801731286</created>
-      <option name="number" value="01619" />
-      <option name="presentableId" value="LOCAL-01619" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801731286</updated>
+      <workItem from="1743443121163" duration="13427000" />
     </task>
     <task id="LOCAL-01620" summary="User">
       <option name="closed" value="true" />
@@ -554,7 +514,47 @@
       <option name="project" value="LOCAL" />
       <updated>1744145882376</updated>
     </task>
-    <option name="localTasksCounter" value="1664" />
+    <task id="LOCAL-01664" summary="Czy kod się skompiluje?">
+      <option name="closed" value="true" />
+      <created>1744147768019</created>
+      <option name="number" value="01664" />
+      <option name="presentableId" value="LOCAL-01664" />
+      <option name="project" value="LOCAL" />
+      <updated>1744147768019</updated>
+    </task>
+    <task id="LOCAL-01665" summary="Czy kod się skompiluje?">
+      <option name="closed" value="true" />
+      <created>1744147838053</created>
+      <option name="number" value="01665" />
+      <option name="presentableId" value="LOCAL-01665" />
+      <option name="project" value="LOCAL" />
+      <updated>1744147838053</updated>
+    </task>
+    <task id="LOCAL-01666" summary="Bloki inicjalizacyjne - Co zostanie wypisane?">
+      <option name="closed" value="true" />
+      <created>1744147899111</created>
+      <option name="number" value="01666" />
+      <option name="presentableId" value="LOCAL-01666" />
+      <option name="project" value="LOCAL" />
+      <updated>1744147899111</updated>
+    </task>
+    <task id="LOCAL-01667" summary="Bloki inicjalizacyjne - Co zostanie wypisane?">
+      <option name="closed" value="true" />
+      <created>1744147943910</created>
+      <option name="number" value="01667" />
+      <option name="presentableId" value="LOCAL-01667" />
+      <option name="project" value="LOCAL" />
+      <updated>1744147943910</updated>
+    </task>
+    <task id="LOCAL-01668" summary="Co wypisze ten kod z plikiem?">
+      <option name="closed" value="true" />
+      <created>1744148049579</created>
+      <option name="number" value="01668" />
+      <option name="presentableId" value="LOCAL-01668" />
+      <option name="project" value="LOCAL" />
+      <updated>1744148049579</updated>
+    </task>
+    <option name="localTasksCounter" value="1669" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,9 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie: Mini-quiz z punktacją" />
-    <MESSAGE value="MiniQuiz" />
-    <MESSAGE value="Po każdej odpowiedzi porównujemy equalsIgnoreCase(...) z poprawną literą,&#10;&#10;Zmienna punkty przechowuje wynik gracza,&#10;&#10;Ostatni komunikat motywuje do lepszego wyniku." />
     <MESSAGE value="AnagramChecker" />
     <MESSAGE value="AtrybutKlasowy" />
     <MESSAGE value="Anagramy" />
@@ -597,6 +594,9 @@
     <MESSAGE value="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?" />
     <MESSAGE value="Które z poniższych wywołań są poprawne i dopasują się do przeciążonych metod?" />
     <MESSAGE value="Ile minimum razy wykona się pętla do-while?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ile minimum razy wykona się pętla do-while?" />
+    <MESSAGE value="Czy kod się skompiluje?" />
+    <MESSAGE value="Bloki inicjalizacyjne - Co zostanie wypisane?" />
+    <MESSAGE value="Co wypisze ten kod z plikiem?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Co wypisze ten kod z plikiem?" />
   </component>
 </project>

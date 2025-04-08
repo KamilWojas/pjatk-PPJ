@@ -321,3 +321,6 @@ public class Main {
         FileInputStream fis = new FileInputStream("out.bin");
         System.out.println(fis.read());
         fis.close();
+
+//260 % 256 = 4 → FileOutputStream.write(int) zapisuje tylko 1 bajt (8 bitów) – najmłodsze 8 bitów liczby.
+//260 = 00000001 00000100 → zapisywany jest tylko ostatni bajt: 00000100 = 4.
