@@ -17,4 +17,18 @@ public class MenuKalkulator {
             double a = scanner.nextDouble();
             System.out.print("Podaj drugą liczbę: ");
             double b = scanner.nextDouble();
-            scanner.nextLine(); 
+            scanner.nextLine();
+
+            switch (wybor) {
+                case "dodaj":
+                    System.out.println("Wynik: " + (a + b));
+                    break;
+                case "odejmij":
+                    System.out.println("Wynik: " + (a - b));
+                    break;
+                case "pomnóż":
+                    System.out.println("Wynik: " + (a * b));
+                    break;
+                case "podziel":
+                    if (b != 0) {
+                        System.out.println("Wynik: " + (a / b));
