@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="OdczytPliku">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/OdczytPliku.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/OdczytPliku.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,31 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="13737000" />
-    </task>
-    <task id="LOCAL-01628" summary="User">
-      <option name="closed" value="true" />
-      <created>1743801864584</created>
-      <option name="number" value="01628" />
-      <option name="presentableId" value="LOCAL-01628" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801864584</updated>
-    </task>
-    <task id="LOCAL-01629" summary="User">
-      <option name="closed" value="true" />
-      <created>1743801875307</created>
-      <option name="number" value="01629" />
-      <option name="presentableId" value="LOCAL-01629" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801875307</updated>
-    </task>
-    <task id="LOCAL-01630" summary="User">
-      <option name="closed" value="true" />
-      <created>1743801922508</created>
-      <option name="number" value="01630" />
-      <option name="presentableId" value="LOCAL-01630" />
-      <option name="project" value="LOCAL" />
-      <updated>1743801922508</updated>
+      <workItem from="1743443121163" duration="14363000" />
     </task>
     <task id="LOCAL-01631" summary="User">
       <option name="closed" value="true" />
@@ -554,7 +528,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744148326141</updated>
     </task>
-    <option name="localTasksCounter" value="1677" />
+    <task id="LOCAL-01677" summary="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii.">
+      <option name="closed" value="true" />
+      <created>1744148364364</created>
+      <option name="number" value="01677" />
+      <option name="presentableId" value="LOCAL-01677" />
+      <option name="project" value="LOCAL" />
+      <updated>1744148364364</updated>
+    </task>
+    <task id="LOCAL-01678" summary="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii.">
+      <option name="closed" value="true" />
+      <created>1744148374369</created>
+      <option name="number" value="01678" />
+      <option name="presentableId" value="LOCAL-01678" />
+      <option name="project" value="LOCAL" />
+      <updated>1744148374369</updated>
+    </task>
+    <task id="LOCAL-01679" summary="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii.">
+      <option name="closed" value="true" />
+      <created>1744149069296</created>
+      <option name="number" value="01679" />
+      <option name="presentableId" value="LOCAL-01679" />
+      <option name="project" value="LOCAL" />
+      <updated>1744149069296</updated>
+    </task>
+    <option name="localTasksCounter" value="1680" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Employee" />
     <MESSAGE value="PalindromLiczby" />
     <MESSAGE value="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)" />
     <MESSAGE value="Sprawdzamy, czy pierwszy i ostatni znak są równe,&#10;&#10;Jeśli tak – sprawdzamy „środek” tekstu (substring(...)),&#10;&#10;Jeśli tekst ma długość 1 lub 0 – to palindrom (warunek końcowy)." />
@@ -597,6 +594,7 @@
     <MESSAGE value="Czy wystąpi wyjątek?" />
     <MESSAGE value="Odczytaj plik dane.txt i wypisz:&#10;&#10;liczbę linii,&#10;&#10;liczbę słów,&#10;&#10;liczbę znaków.&#10;&#10;Plik dane.txt musi znajdować się w katalogu projektu." />
     <MESSAGE value="OdczytPliku" />
-    <option name="LAST_COMMIT_MESSAGE" value="OdczytPliku" />
+    <MESSAGE value="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii." />
+    <option name="LAST_COMMIT_MESSAGE" value="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii." />
   </component>
 </project>
