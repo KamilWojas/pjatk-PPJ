@@ -12,3 +12,9 @@ public class MenuKalkulator {
             wybor = scanner.nextLine().toLowerCase();
 
             if (wybor.equals("wyjście")) break;
+
+            System.out.print("Podaj pierwszą liczbę: ");
+            double a = scanner.nextDouble();
+            System.out.print("Podaj drugą liczbę: ");
+            double b = scanner.nextDouble();
+            scanner.nextLine(); 
