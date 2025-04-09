@@ -41,3 +41,8 @@ public class MenuKalkulator {
             }
 
         } while (!wybor.equals("wyjście"));
+        
+        System.out.println("Zakończono kalkulator.");
+        scanner.close();
+    }
+}
