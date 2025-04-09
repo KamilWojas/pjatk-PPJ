@@ -10,4 +10,5 @@ public class MenuKalkulator {
             System.out.println("Dostępne działania: dodaj, odejmij, pomnóż, podziel, wyjście");
             System.out.print("Wybierz działanie: ");
             wybor = scanner.nextLine().toLowerCase();
-    }
+
+            if (wybor.equals("wyjście")) break;
