@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii." />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii.">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/MenuKalkulator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,15 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="14936000" />
-    </task>
-    <task id="LOCAL-01632" summary="User">
-      <option name="closed" value="true" />
-      <created>1743957311148</created>
-      <option name="number" value="01632" />
-      <option name="presentableId" value="LOCAL-01632" />
-      <option name="project" value="LOCAL" />
-      <updated>1743957311148</updated>
+      <workItem from="1743443121163" duration="15555000" />
     </task>
     <task id="LOCAL-01633" summary="User">
       <option name="closed" value="true" />
@@ -552,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744233701116</updated>
     </task>
-    <option name="localTasksCounter" value="1681" />
+    <task id="LOCAL-01681" summary="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii.">
+      <option name="closed" value="true" />
+      <created>1744233721293</created>
+      <option name="number" value="01681" />
+      <option name="presentableId" value="LOCAL-01681" />
+      <option name="project" value="LOCAL" />
+      <updated>1744233721293</updated>
+    </task>
+    <option name="localTasksCounter" value="1682" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
