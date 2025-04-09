@@ -32,3 +32,12 @@ public class MenuKalkulator {
                 case "podziel":
                     if (b != 0) {
                         System.out.println("Wynik: " + (a / b));
+                    } else {
+                        System.out.println("Nie można dzielić przez zero.");
+                    }
+                    break;
+                default:
+                    System.out.println("Nieznana opcja.");
+            }
+
+        } while (!wybor.equals("wyjście"));
