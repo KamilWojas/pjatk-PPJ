@@ -7,4 +7,11 @@ public class ZapisDoPliku {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Wpisz tekst do zapisania (wpisz 'KONIEC' aby zakończyć):");
-    }
+
+        try (FileWriter writer = new FileWriter("notatka.txt")) {
+            while (true) {
+                String linia = scanner.nextLine();
+                if (linia.equalsIgnoreCase("KONIEC")) break;
+                writer.write(linia + System.lineSeparator());
+            }
+            System.out.println("Zapisano dane do pliku notatka.txt");
