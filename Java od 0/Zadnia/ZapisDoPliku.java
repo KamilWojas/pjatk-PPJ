@@ -15,3 +15,10 @@ public class ZapisDoPliku {
                 writer.write(linia + System.lineSeparator());
             }
             System.out.println("Zapisano dane do pliku notatka.txt");
+        } catch (IOException e) {
+            System.out.println("Błąd zapisu: " + e.getMessage());
+        }
+
+        scanner.close();
+    }
+}
