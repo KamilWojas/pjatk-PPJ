@@ -16,4 +16,12 @@ public class SortowanieTablicy {
             liczby[i] = scanner.nextInt();
         }
 
+        Arrays.sort(liczby);
+        System.out.println("Posortowane rosnąco: " + Arrays.toString(liczby));
+
+        Arrays.sort(liczby, Collections.reverseOrder());
+        System.out.println("Posortowane malejąco: " + Arrays.toString(liczby));
+
+        scanner.close();
     }
+}
