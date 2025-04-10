@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii.">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/MenuKalkulator.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="MenuKalkulator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,79 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="15555000" />
-    </task>
-    <task id="LOCAL-01633" summary="User">
-      <option name="closed" value="true" />
-      <created>1743967687594</created>
-      <option name="number" value="01633" />
-      <option name="presentableId" value="LOCAL-01633" />
-      <option name="project" value="LOCAL" />
-      <updated>1743967687594</updated>
-    </task>
-    <task id="LOCAL-01634" summary="User">
-      <option name="closed" value="true" />
-      <created>1744049625462</created>
-      <option name="number" value="01634" />
-      <option name="presentableId" value="LOCAL-01634" />
-      <option name="project" value="LOCAL" />
-      <updated>1744049625462</updated>
-    </task>
-    <task id="LOCAL-01635" summary="User">
-      <option name="closed" value="true" />
-      <created>1744053468666</created>
-      <option name="number" value="01635" />
-      <option name="presentableId" value="LOCAL-01635" />
-      <option name="project" value="LOCAL" />
-      <updated>1744053468666</updated>
-    </task>
-    <task id="LOCAL-01636" summary="User">
-      <option name="closed" value="true" />
-      <created>1744054336840</created>
-      <option name="number" value="01636" />
-      <option name="presentableId" value="LOCAL-01636" />
-      <option name="project" value="LOCAL" />
-      <updated>1744054336840</updated>
-    </task>
-    <task id="LOCAL-01637" summary="User">
-      <option name="closed" value="true" />
-      <created>1744054353260</created>
-      <option name="number" value="01637" />
-      <option name="presentableId" value="LOCAL-01637" />
-      <option name="project" value="LOCAL" />
-      <updated>1744054353260</updated>
-    </task>
-    <task id="LOCAL-01638" summary="Zadanie: Kiedy uruchomi się konstruktor?">
-      <option name="closed" value="true" />
-      <created>1744059620645</created>
-      <option name="number" value="01638" />
-      <option name="presentableId" value="LOCAL-01638" />
-      <option name="project" value="LOCAL" />
-      <updated>1744059620645</updated>
-    </task>
-    <task id="LOCAL-01639" summary="Zadanie: Kiedy uruchomi się konstruktor?">
-      <option name="closed" value="true" />
-      <created>1744059637371</created>
-      <option name="number" value="01639" />
-      <option name="presentableId" value="LOCAL-01639" />
-      <option name="project" value="LOCAL" />
-      <updated>1744059637371</updated>
-    </task>
-    <task id="LOCAL-01640" summary="Zadanie: Kiedy uruchomi się konstruktor?">
-      <option name="closed" value="true" />
-      <created>1744059648933</created>
-      <option name="number" value="01640" />
-      <option name="presentableId" value="LOCAL-01640" />
-      <option name="project" value="LOCAL" />
-      <updated>1744059648933</updated>
-    </task>
-    <task id="LOCAL-01641" summary="Rozwiązanie">
-      <option name="closed" value="true" />
-      <created>1744059689904</created>
-      <option name="number" value="01641" />
-      <option name="presentableId" value="LOCAL-01641" />
-      <option name="project" value="LOCAL" />
-      <updated>1744059689904</updated>
+      <workItem from="1743443121163" duration="16343000" />
     </task>
     <task id="LOCAL-01642" summary="Co wypisze kod?">
       <option name="closed" value="true" />
@@ -554,7 +480,79 @@
       <option name="project" value="LOCAL" />
       <updated>1744233721293</updated>
     </task>
-    <option name="localTasksCounter" value="1682" />
+    <task id="LOCAL-01682" summary="MenuKalkulator">
+      <option name="closed" value="true" />
+      <created>1744234415805</created>
+      <option name="number" value="01682" />
+      <option name="presentableId" value="LOCAL-01682" />
+      <option name="project" value="LOCAL" />
+      <updated>1744234415805</updated>
+    </task>
+    <task id="LOCAL-01683" summary="Zadanie: Prosty kalkulator z menu i powtarzaniem działania - Użytkownik wybiera działanie z menu i może wykonywać kolejne obliczenia w pętli, aż wpisze &quot;wyjście&quot;.">
+      <option name="closed" value="true" />
+      <created>1744234451891</created>
+      <option name="number" value="01683" />
+      <option name="presentableId" value="LOCAL-01683" />
+      <option name="project" value="LOCAL" />
+      <updated>1744234451891</updated>
+    </task>
+    <task id="LOCAL-01684" summary="MenuKalkulator">
+      <option name="closed" value="true" />
+      <created>1744234472876</created>
+      <option name="number" value="01684" />
+      <option name="presentableId" value="LOCAL-01684" />
+      <option name="project" value="LOCAL" />
+      <updated>1744234472876</updated>
+    </task>
+    <task id="LOCAL-01685" summary="MenuKalkulator">
+      <option name="closed" value="true" />
+      <created>1744234483881</created>
+      <option name="number" value="01685" />
+      <option name="presentableId" value="LOCAL-01685" />
+      <option name="project" value="LOCAL" />
+      <updated>1744234483881</updated>
+    </task>
+    <task id="LOCAL-01686" summary="MenuKalkulator">
+      <option name="closed" value="true" />
+      <created>1744234496318</created>
+      <option name="number" value="01686" />
+      <option name="presentableId" value="LOCAL-01686" />
+      <option name="project" value="LOCAL" />
+      <updated>1744234496318</updated>
+    </task>
+    <task id="LOCAL-01687" summary="MenuKalkulator">
+      <option name="closed" value="true" />
+      <created>1744234511362</created>
+      <option name="number" value="01687" />
+      <option name="presentableId" value="LOCAL-01687" />
+      <option name="project" value="LOCAL" />
+      <updated>1744234511362</updated>
+    </task>
+    <task id="LOCAL-01688" summary="MenuKalkulator">
+      <option name="closed" value="true" />
+      <created>1744234523694</created>
+      <option name="number" value="01688" />
+      <option name="presentableId" value="LOCAL-01688" />
+      <option name="project" value="LOCAL" />
+      <updated>1744234523694</updated>
+    </task>
+    <task id="LOCAL-01689" summary="MenuKalkulator">
+      <option name="closed" value="true" />
+      <created>1744234538102</created>
+      <option name="number" value="01689" />
+      <option name="presentableId" value="LOCAL-01689" />
+      <option name="project" value="LOCAL" />
+      <updated>1744234538102</updated>
+    </task>
+    <task id="LOCAL-01690" summary="MenuKalkulator">
+      <option name="closed" value="true" />
+      <created>1744237553350</created>
+      <option name="number" value="01690" />
+      <option name="presentableId" value="LOCAL-01690" />
+      <option name="project" value="LOCAL" />
+      <updated>1744237553351</updated>
+    </task>
+    <option name="localTasksCounter" value="1691" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,8 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PalindromLiczby" />
-    <MESSAGE value="Zadanie: Sprawdź, czy liczba jest palindromem (rekurencyjnie)" />
     <MESSAGE value="Sprawdzamy, czy pierwszy i ostatni znak są równe,&#10;&#10;Jeśli tak – sprawdzamy „środek” tekstu (substring(...)),&#10;&#10;Jeśli tekst ma długość 1 lub 0 – to palindrom (warunek końcowy)." />
     <MESSAGE value="Zadanie: Walidator hasła – proste zasady bezpieczeństwa" />
     <MESSAGE value="WalidatorHasla" />
@@ -597,6 +593,8 @@
     <MESSAGE value="Odczytaj plik dane.txt i wypisz:&#10;&#10;liczbę linii,&#10;&#10;liczbę słów,&#10;&#10;liczbę znaków.&#10;&#10;Plik dane.txt musi znajdować się w katalogu projektu." />
     <MESSAGE value="OdczytPliku" />
     <MESSAGE value="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii." />
-    <option name="LAST_COMMIT_MESSAGE" value="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii." />
+    <MESSAGE value="Zadanie: Prosty kalkulator z menu i powtarzaniem działania - Użytkownik wybiera działanie z menu i może wykonywać kolejne obliczenia w pętli, aż wpisze &quot;wyjście&quot;." />
+    <MESSAGE value="MenuKalkulator" />
+    <option name="LAST_COMMIT_MESSAGE" value="MenuKalkulator" />
   </component>
 </project>
