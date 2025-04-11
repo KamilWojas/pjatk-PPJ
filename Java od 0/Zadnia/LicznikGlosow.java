@@ -32,3 +32,13 @@ public class LicznikGlosow {
                 maxGlosy = entry.getValue();
             }
         }
+
+        if (zwyciezca != null) {
+            System.out.println("\nZwycięzca: " + zwyciezca + " (" + maxGlosy + " głosów)");
+        } else {
+            System.out.println("\nBrak głosów.");
+        }
+
+        scanner.close();
+    }
+}
