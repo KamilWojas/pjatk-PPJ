@@ -16,7 +16,7 @@ public class LicznikGlosow {
             if (imie.equalsIgnoreCase("koniec")) break;
 
             glosy.put(imie, glosy.getOrDefault(imie, 0) + 1);
-        }
+        } 
 
         System.out.println("\nWyniki głosowania:");
         for (Map.Entry<String, Integer> entry : glosy.entrySet()) {
