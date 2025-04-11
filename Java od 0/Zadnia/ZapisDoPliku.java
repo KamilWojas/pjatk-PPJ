@@ -21,4 +21,4 @@ public class ZapisDoPliku {
 
         scanner.close();
     }
-} 
+}  
