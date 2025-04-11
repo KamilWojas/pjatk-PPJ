@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC." />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC.">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/LicznikGlosow.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,15 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="18324000" />
-    </task>
-    <task id="LOCAL-01656" summary="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?">
-      <option name="closed" value="true" />
-      <created>1744060855958</created>
-      <option name="number" value="01656" />
-      <option name="presentableId" value="LOCAL-01656" />
-      <option name="project" value="LOCAL" />
-      <updated>1744060855958</updated>
+      <workItem from="1743443121163" duration="18933000" />
     </task>
     <task id="LOCAL-01657" summary="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?">
       <option name="closed" value="true" />
@@ -552,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744402217634</updated>
     </task>
-    <option name="localTasksCounter" value="1705" />
+    <task id="LOCAL-01705" summary="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC.">
+      <option name="closed" value="true" />
+      <created>1744405779809</created>
+      <option name="number" value="01705" />
+      <option name="presentableId" value="LOCAL-01705" />
+      <option name="project" value="LOCAL" />
+      <updated>1744405779809</updated>
+    </task>
+    <option name="localTasksCounter" value="1706" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
