@@ -25,3 +25,10 @@ public class LicznikGlosow {
 
         String zwyciezca = null;
         int maxGlosy = 0;
+
+        for (Map.Entry<String, Integer> entry : glosy.entrySet()) {
+            if (entry.getValue() > maxGlosy) {
+                zwyciezca = entry.getKey();
+                maxGlosy = entry.getValue();
+            }
+        }
