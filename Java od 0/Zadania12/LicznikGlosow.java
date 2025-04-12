@@ -4,3 +4,8 @@ import java.util.Scanner;
 
 public class LicznikGlosow {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        Map<String, Integer> glosy = new HashMap<>();
+
+        System.out.println("Wpisuj imiona, aby oddać głos (wpisz 'koniec', aby zakończyć):");
+    }
