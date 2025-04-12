@@ -17,3 +17,8 @@ public class LicznikGlosow {
 
             glosy.put(imie, glosy.getOrDefault(imie, 0) + 1);
         }
+
+        System.out.println("\nWyniki głosowania:");
+        for (Map.Entry<String, Integer> entry : glosy.entrySet()) {
+            System.out.println(entry.getKey() + " – " + entry.getValue() + " głos(y)");
+        }
