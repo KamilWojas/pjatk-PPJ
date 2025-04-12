@@ -8,4 +8,12 @@ public class LicznikGlosow {
         Map<String, Integer> glosy = new HashMap<>();
 
         System.out.println("Wpisuj imiona, aby oddać głos (wpisz 'koniec', aby zakończyć):");
-    }
+
+        while (true) {
+            System.out.print("Głos na: ");
+            String imie = scanner.nextLine().trim();
+
+            if (imie.equalsIgnoreCase("koniec")) break;
+
+            glosy.put(imie, glosy.getOrDefault(imie, 0) + 1);
+        }
