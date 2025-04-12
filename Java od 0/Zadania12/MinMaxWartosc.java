@@ -14,3 +14,16 @@ public class MinMaxWartosc {
             if (liczba == 0) break;
             liczby.add(liczba);
         }
+
+        if (!liczby.isEmpty()) {
+            int min = Collections.min(liczby);
+            int max = Collections.max(liczby);
+            System.out.println("Najmniejsza liczba: " + min);
+            System.out.println("Największa liczba: " + max);
+        } else {
+            System.out.println("Nie podano żadnych liczb.");
+        }
+
+        scanner.close();
+    }
+}
