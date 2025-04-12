@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="LicznikGlosow">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="MinMaxWartosc">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/MinMaxWartosc.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/MinMaxWartosc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,103 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="21580000" />
-    </task>
-    <task id="LOCAL-01666" summary="Bloki inicjalizacyjne - Co zostanie wypisane?">
-      <option name="closed" value="true" />
-      <created>1744147899111</created>
-      <option name="number" value="01666" />
-      <option name="presentableId" value="LOCAL-01666" />
-      <option name="project" value="LOCAL" />
-      <updated>1744147899111</updated>
-    </task>
-    <task id="LOCAL-01667" summary="Bloki inicjalizacyjne - Co zostanie wypisane?">
-      <option name="closed" value="true" />
-      <created>1744147943910</created>
-      <option name="number" value="01667" />
-      <option name="presentableId" value="LOCAL-01667" />
-      <option name="project" value="LOCAL" />
-      <updated>1744147943910</updated>
-    </task>
-    <task id="LOCAL-01668" summary="Co wypisze ten kod z plikiem?">
-      <option name="closed" value="true" />
-      <created>1744148049579</created>
-      <option name="number" value="01668" />
-      <option name="presentableId" value="LOCAL-01668" />
-      <option name="project" value="LOCAL" />
-      <updated>1744148049579</updated>
-    </task>
-    <task id="LOCAL-01669" summary="Co wypisze ten kod z plikiem?">
-      <option name="closed" value="true" />
-      <created>1744148086782</created>
-      <option name="number" value="01669" />
-      <option name="presentableId" value="LOCAL-01669" />
-      <option name="project" value="LOCAL" />
-      <updated>1744148086782</updated>
-    </task>
-    <task id="LOCAL-01670" summary="Czy wystąpi wyjątek?">
-      <option name="closed" value="true" />
-      <created>1744148125044</created>
-      <option name="number" value="01670" />
-      <option name="presentableId" value="LOCAL-01670" />
-      <option name="project" value="LOCAL" />
-      <updated>1744148125044</updated>
-    </task>
-    <task id="LOCAL-01671" summary="Czy wystąpi wyjątek?">
-      <option name="closed" value="true" />
-      <created>1744148166036</created>
-      <option name="number" value="01671" />
-      <option name="presentableId" value="LOCAL-01671" />
-      <option name="project" value="LOCAL" />
-      <updated>1744148166036</updated>
-    </task>
-    <task id="LOCAL-01672" summary="OdczytPliku">
-      <option name="closed" value="true" />
-      <created>1744148251406</created>
-      <option name="number" value="01672" />
-      <option name="presentableId" value="LOCAL-01672" />
-      <option name="project" value="LOCAL" />
-      <updated>1744148251406</updated>
-    </task>
-    <task id="LOCAL-01673" summary="Odczytaj plik dane.txt i wypisz:&#10;&#10;liczbę linii,&#10;&#10;liczbę słów,&#10;&#10;liczbę znaków.&#10;&#10;Plik dane.txt musi znajdować się w katalogu projektu.">
-      <option name="closed" value="true" />
-      <created>1744148275558</created>
-      <option name="number" value="01673" />
-      <option name="presentableId" value="LOCAL-01673" />
-      <option name="project" value="LOCAL" />
-      <updated>1744148275558</updated>
-    </task>
-    <task id="LOCAL-01674" summary="OdczytPliku">
-      <option name="closed" value="true" />
-      <created>1744148292916</created>
-      <option name="number" value="01674" />
-      <option name="presentableId" value="LOCAL-01674" />
-      <option name="project" value="LOCAL" />
-      <updated>1744148292916</updated>
-    </task>
-    <task id="LOCAL-01675" summary="OdczytPliku">
-      <option name="closed" value="true" />
-      <created>1744148313069</created>
-      <option name="number" value="01675" />
-      <option name="presentableId" value="LOCAL-01675" />
-      <option name="project" value="LOCAL" />
-      <updated>1744148313069</updated>
-    </task>
-    <task id="LOCAL-01676" summary="OdczytPliku">
-      <option name="closed" value="true" />
-      <created>1744148326141</created>
-      <option name="number" value="01676" />
-      <option name="presentableId" value="LOCAL-01676" />
-      <option name="project" value="LOCAL" />
-      <updated>1744148326141</updated>
-    </task>
-    <task id="LOCAL-01677" summary="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii.">
-      <option name="closed" value="true" />
-      <created>1744148364364</created>
-      <option name="number" value="01677" />
-      <option name="presentableId" value="LOCAL-01677" />
-      <option name="project" value="LOCAL" />
-      <updated>1744148364364</updated>
+      <workItem from="1743443121163" duration="22401000" />
     </task>
     <task id="LOCAL-01678" summary="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii.">
       <option name="closed" value="true" />
@@ -554,7 +458,103 @@
       <option name="project" value="LOCAL" />
       <updated>1744475121827</updated>
     </task>
-    <option name="localTasksCounter" value="1715" />
+    <task id="LOCAL-01715" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744492859112</created>
+      <option name="number" value="01715" />
+      <option name="presentableId" value="LOCAL-01715" />
+      <option name="project" value="LOCAL" />
+      <updated>1744492859113</updated>
+    </task>
+    <task id="LOCAL-01716" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744492873703</created>
+      <option name="number" value="01716" />
+      <option name="presentableId" value="LOCAL-01716" />
+      <option name="project" value="LOCAL" />
+      <updated>1744492873703</updated>
+    </task>
+    <task id="LOCAL-01717" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744492890518</created>
+      <option name="number" value="01717" />
+      <option name="presentableId" value="LOCAL-01717" />
+      <option name="project" value="LOCAL" />
+      <updated>1744492890518</updated>
+    </task>
+    <task id="LOCAL-01718" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744492904850</created>
+      <option name="number" value="01718" />
+      <option name="presentableId" value="LOCAL-01718" />
+      <option name="project" value="LOCAL" />
+      <updated>1744492904850</updated>
+    </task>
+    <task id="LOCAL-01719" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744492918676</created>
+      <option name="number" value="01719" />
+      <option name="presentableId" value="LOCAL-01719" />
+      <option name="project" value="LOCAL" />
+      <updated>1744492918676</updated>
+    </task>
+    <task id="LOCAL-01720" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744492929609</created>
+      <option name="number" value="01720" />
+      <option name="presentableId" value="LOCAL-01720" />
+      <option name="project" value="LOCAL" />
+      <updated>1744492929609</updated>
+    </task>
+    <task id="LOCAL-01721" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744492941782</created>
+      <option name="number" value="01721" />
+      <option name="presentableId" value="LOCAL-01721" />
+      <option name="project" value="LOCAL" />
+      <updated>1744492941782</updated>
+    </task>
+    <task id="LOCAL-01722" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744492953402</created>
+      <option name="number" value="01722" />
+      <option name="presentableId" value="LOCAL-01722" />
+      <option name="project" value="LOCAL" />
+      <updated>1744492953403</updated>
+    </task>
+    <task id="LOCAL-01723" summary="MinMaxWartosc">
+      <option name="closed" value="true" />
+      <created>1744492983300</created>
+      <option name="number" value="01723" />
+      <option name="presentableId" value="LOCAL-01723" />
+      <option name="project" value="LOCAL" />
+      <updated>1744492983300</updated>
+    </task>
+    <task id="LOCAL-01724" summary="MinMaxWartosc">
+      <option name="closed" value="true" />
+      <created>1744492991779</created>
+      <option name="number" value="01724" />
+      <option name="presentableId" value="LOCAL-01724" />
+      <option name="project" value="LOCAL" />
+      <updated>1744492991779</updated>
+    </task>
+    <task id="LOCAL-01725" summary="MinMaxWartosc">
+      <option name="closed" value="true" />
+      <created>1744493004045</created>
+      <option name="number" value="01725" />
+      <option name="presentableId" value="LOCAL-01725" />
+      <option name="project" value="LOCAL" />
+      <updated>1744493004046</updated>
+    </task>
+    <task id="LOCAL-01726" summary="MinMaxWartosc">
+      <option name="closed" value="true" />
+      <created>1744493791604</created>
+      <option name="number" value="01726" />
+      <option name="presentableId" value="LOCAL-01726" />
+      <option name="project" value="LOCAL" />
+      <updated>1744493791604</updated>
+    </task>
+    <option name="localTasksCounter" value="1727" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ile razy wykona się pętla do-while?" />
     <MESSAGE value="Jaki wynik da operacja 4 | 1?" />
     <MESSAGE value="Przeciążanie i przesłanianie" />
     <MESSAGE value="Tablice i operatory warunkowe" />
@@ -597,6 +596,7 @@
     <MESSAGE value="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC." />
     <MESSAGE value=" Zadanie: Licznik głosów (mapowanie imion na liczbę głosów)&#10; &#10;Stwórz program, który:&#10;&#10;Pozwala użytkownikowi wpisywać imiona osób, na które chce oddać głos,&#10;&#10;Po wpisaniu &quot;koniec&quot; kończy działanie,&#10;&#10;Wypisuje ile głosów otrzymała każda osoba,&#10;&#10;Wypisuje zwycięzcę (osobę z największą liczbą głosów)." />
     <MESSAGE value="LicznikGlosow" />
-    <option name="LAST_COMMIT_MESSAGE" value="LicznikGlosow" />
+    <MESSAGE value="MinMaxWartosc" />
+    <option name="LAST_COMMIT_MESSAGE" value="MinMaxWartosc" />
   </component>
 </project>

@@ -26,4 +26,4 @@ public class MinMaxWartosc {
 
         scanner.close();
     }
-} 
+}  
