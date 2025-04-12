@@ -160,15 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="20378000" />
-    </task>
-    <task id="LOCAL-01665" summary="Czy kod się skompiluje?">
-      <option name="closed" value="true" />
-      <created>1744147838053</created>
-      <option name="number" value="01665" />
-      <option name="presentableId" value="LOCAL-01665" />
-      <option name="project" value="LOCAL" />
-      <updated>1744147838053</updated>
+      <workItem from="1743443121163" duration="21580000" />
     </task>
     <task id="LOCAL-01666" summary="Bloki inicjalizacyjne - Co zostanie wypisane?">
       <option name="closed" value="true" />
@@ -554,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744408673245</updated>
     </task>
-    <option name="localTasksCounter" value="1714" />
+    <task id="LOCAL-01714" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744475121827</created>
+      <option name="number" value="01714" />
+      <option name="presentableId" value="LOCAL-01714" />
+      <option name="project" value="LOCAL" />
+      <updated>1744475121827</updated>
+    </task>
+    <option name="localTasksCounter" value="1715" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
