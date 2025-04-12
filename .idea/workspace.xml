@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC.">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Zadnia/LicznikGlosow.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="LicznikGlosow">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,71 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="18933000" />
-    </task>
-    <task id="LOCAL-01657" summary="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?">
-      <option name="closed" value="true" />
-      <created>1744060869097</created>
-      <option name="number" value="01657" />
-      <option name="presentableId" value="LOCAL-01657" />
-      <option name="project" value="LOCAL" />
-      <updated>1744060869097</updated>
-    </task>
-    <task id="LOCAL-01658" summary="Które z poniższych wywołań są poprawne i dopasują się do przeciążonych metod?">
-      <option name="closed" value="true" />
-      <created>1744060940902</created>
-      <option name="number" value="01658" />
-      <option name="presentableId" value="LOCAL-01658" />
-      <option name="project" value="LOCAL" />
-      <updated>1744060940902</updated>
-    </task>
-    <task id="LOCAL-01659" summary="Które z poniższych wywołań są poprawne i dopasują się do przeciążonych metod?">
-      <option name="closed" value="true" />
-      <created>1744060992219</created>
-      <option name="number" value="01659" />
-      <option name="presentableId" value="LOCAL-01659" />
-      <option name="project" value="LOCAL" />
-      <updated>1744060992219</updated>
-    </task>
-    <task id="LOCAL-01660" summary="Które z poniższych wywołań są poprawne i dopasują się do przeciążonych metod?">
-      <option name="closed" value="true" />
-      <created>1744061014751</created>
-      <option name="number" value="01660" />
-      <option name="presentableId" value="LOCAL-01660" />
-      <option name="project" value="LOCAL" />
-      <updated>1744061014751</updated>
-    </task>
-    <task id="LOCAL-01661" summary="Ile minimum razy wykona się pętla do-while?">
-      <option name="closed" value="true" />
-      <created>1744061066313</created>
-      <option name="number" value="01661" />
-      <option name="presentableId" value="LOCAL-01661" />
-      <option name="project" value="LOCAL" />
-      <updated>1744061066313</updated>
-    </task>
-    <task id="LOCAL-01662" summary="Ile minimum razy wykona się pętla do-while?">
-      <option name="closed" value="true" />
-      <created>1744061100083</created>
-      <option name="number" value="01662" />
-      <option name="presentableId" value="LOCAL-01662" />
-      <option name="project" value="LOCAL" />
-      <updated>1744061100083</updated>
-    </task>
-    <task id="LOCAL-01663" summary="Ile minimum razy wykona się pętla do-while?">
-      <option name="closed" value="true" />
-      <created>1744145882376</created>
-      <option name="number" value="01663" />
-      <option name="presentableId" value="LOCAL-01663" />
-      <option name="project" value="LOCAL" />
-      <updated>1744145882376</updated>
-    </task>
-    <task id="LOCAL-01664" summary="Czy kod się skompiluje?">
-      <option name="closed" value="true" />
-      <created>1744147768019</created>
-      <option name="number" value="01664" />
-      <option name="presentableId" value="LOCAL-01664" />
-      <option name="project" value="LOCAL" />
-      <updated>1744147768019</updated>
+      <workItem from="1743443121163" duration="20378000" />
     </task>
     <task id="LOCAL-01665" summary="Czy kod się skompiluje?">
       <option name="closed" value="true" />
@@ -554,7 +490,71 @@
       <option name="project" value="LOCAL" />
       <updated>1744405779809</updated>
     </task>
-    <option name="localTasksCounter" value="1706" />
+    <task id="LOCAL-01706" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744405798788</created>
+      <option name="number" value="01706" />
+      <option name="presentableId" value="LOCAL-01706" />
+      <option name="project" value="LOCAL" />
+      <updated>1744405798788</updated>
+    </task>
+    <task id="LOCAL-01707" summary=" Zadanie: Licznik głosów (mapowanie imion na liczbę głosów)&#10; &#10;Stwórz program, który:&#10;&#10;Pozwala użytkownikowi wpisywać imiona osób, na które chce oddać głos,&#10;&#10;Po wpisaniu &quot;koniec&quot; kończy działanie,&#10;&#10;Wypisuje ile głosów otrzymała każda osoba,&#10;&#10;Wypisuje zwycięzcę (osobę z największą liczbą głosów).">
+      <option name="closed" value="true" />
+      <created>1744405831160</created>
+      <option name="number" value="01707" />
+      <option name="presentableId" value="LOCAL-01707" />
+      <option name="project" value="LOCAL" />
+      <updated>1744405831160</updated>
+    </task>
+    <task id="LOCAL-01708" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744405871756</created>
+      <option name="number" value="01708" />
+      <option name="presentableId" value="LOCAL-01708" />
+      <option name="project" value="LOCAL" />
+      <updated>1744405871756</updated>
+    </task>
+    <task id="LOCAL-01709" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744405885462</created>
+      <option name="number" value="01709" />
+      <option name="presentableId" value="LOCAL-01709" />
+      <option name="project" value="LOCAL" />
+      <updated>1744405885462</updated>
+    </task>
+    <task id="LOCAL-01710" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744405920582</created>
+      <option name="number" value="01710" />
+      <option name="presentableId" value="LOCAL-01710" />
+      <option name="project" value="LOCAL" />
+      <updated>1744405920582</updated>
+    </task>
+    <task id="LOCAL-01711" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744405932420</created>
+      <option name="number" value="01711" />
+      <option name="presentableId" value="LOCAL-01711" />
+      <option name="project" value="LOCAL" />
+      <updated>1744405932420</updated>
+    </task>
+    <task id="LOCAL-01712" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744405946989</created>
+      <option name="number" value="01712" />
+      <option name="presentableId" value="LOCAL-01712" />
+      <option name="project" value="LOCAL" />
+      <updated>1744405946989</updated>
+    </task>
+    <task id="LOCAL-01713" summary="LicznikGlosow">
+      <option name="closed" value="true" />
+      <created>1744408673245</created>
+      <option name="number" value="01713" />
+      <option name="presentableId" value="LOCAL-01713" />
+      <option name="project" value="LOCAL" />
+      <updated>1744408673245</updated>
+    </task>
+    <option name="localTasksCounter" value="1714" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,8 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Rozwiązanie" />
-    <MESSAGE value="Co wypisze kod?" />
     <MESSAGE value="Ile razy wykona się pętla do-while?" />
     <MESSAGE value="Jaki wynik da operacja 4 | 1?" />
     <MESSAGE value="Przeciążanie i przesłanianie" />
@@ -597,6 +595,8 @@
     <MESSAGE value="Zadanie: Zapis tekstu użytkownika do pliku&#10;Poproś użytkownika o wpisanie kilku linii tekstu.&#10;Zapisz je do pliku notatka.txt." />
     <MESSAGE value="ZapisDoPliku" />
     <MESSAGE value="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC." />
-    <option name="LAST_COMMIT_MESSAGE" value="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC." />
+    <MESSAGE value=" Zadanie: Licznik głosów (mapowanie imion na liczbę głosów)&#10; &#10;Stwórz program, który:&#10;&#10;Pozwala użytkownikowi wpisywać imiona osób, na które chce oddać głos,&#10;&#10;Po wpisaniu &quot;koniec&quot; kończy działanie,&#10;&#10;Wypisuje ile głosów otrzymała każda osoba,&#10;&#10;Wypisuje zwycięzcę (osobę z największą liczbą głosów)." />
+    <MESSAGE value="LicznikGlosow" />
+    <option name="LAST_COMMIT_MESSAGE" value="LicznikGlosow" />
   </component>
 </project>
