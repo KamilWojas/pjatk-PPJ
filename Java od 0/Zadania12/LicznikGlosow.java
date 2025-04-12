@@ -22,3 +22,6 @@ public class LicznikGlosow {
         for (Map.Entry<String, Integer> entry : glosy.entrySet()) {
             System.out.println(entry.getKey() + " – " + entry.getValue() + " głos(y)");
         }
+
+        String zwyciezca = null;
+        int maxGlosy = 0;
