@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="MinMaxWartosc">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="MinMaxWartosc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,15 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="23633000" />
-    </task>
-    <task id="LOCAL-01680" summary="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii.">
-      <option name="closed" value="true" />
-      <created>1744233701116</created>
-      <option name="number" value="01680" />
-      <option name="presentableId" value="LOCAL-01680" />
-      <option name="project" value="LOCAL" />
-      <updated>1744233701116</updated>
+      <workItem from="1743443121163" duration="24241000" />
     </task>
     <task id="LOCAL-01681" summary="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii.">
       <option name="closed" value="true" />
@@ -554,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744568467305</updated>
     </task>
-    <option name="localTasksCounter" value="1729" />
+    <task id="LOCAL-01729" summary="MinMaxWartosc">
+      <option name="closed" value="true" />
+      <created>1744662572938</created>
+      <option name="number" value="01729" />
+      <option name="presentableId" value="LOCAL-01729" />
+      <option name="project" value="LOCAL" />
+      <updated>1744662572938</updated>
+    </task>
+    <option name="localTasksCounter" value="1730" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
