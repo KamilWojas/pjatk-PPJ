@@ -158,15 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="24241000" />
-    </task>
-    <task id="LOCAL-01681" summary="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii.">
-      <option name="closed" value="true" />
-      <created>1744233721293</created>
-      <option name="number" value="01681" />
-      <option name="presentableId" value="LOCAL-01681" />
-      <option name="project" value="LOCAL" />
-      <updated>1744233721293</updated>
+      <workItem from="1743443121163" duration="24894000" />
     </task>
     <task id="LOCAL-01682" summary="MenuKalkulator">
       <option name="closed" value="true" />
@@ -552,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744662572938</updated>
     </task>
-    <option name="localTasksCounter" value="1730" />
+    <task id="LOCAL-01730" summary="MinMaxWartosc">
+      <option name="closed" value="true" />
+      <created>1744662625914</created>
+      <option name="number" value="01730" />
+      <option name="presentableId" value="LOCAL-01730" />
+      <option name="project" value="LOCAL" />
+      <updated>1744662625914</updated>
+    </task>
+    <option name="localTasksCounter" value="1731" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
