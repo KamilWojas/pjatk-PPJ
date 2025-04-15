@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="MinMaxWartosc" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="UnikalneSlowa">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/UnikalneSlowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/UnikalneSlowa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,15 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="24894000" />
-    </task>
-    <task id="LOCAL-01682" summary="MenuKalkulator">
-      <option name="closed" value="true" />
-      <created>1744234415805</created>
-      <option name="number" value="01682" />
-      <option name="presentableId" value="LOCAL-01682" />
-      <option name="project" value="LOCAL" />
-      <updated>1744234415805</updated>
+      <workItem from="1743443121163" duration="25534000" />
     </task>
     <task id="LOCAL-01683" summary="Zadanie: Prosty kalkulator z menu i powtarzaniem działania - Użytkownik wybiera działanie z menu i może wykonywać kolejne obliczenia w pętli, aż wpisze &quot;wyjście&quot;.">
       <option name="closed" value="true" />
@@ -552,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744662625914</updated>
     </task>
-    <option name="localTasksCounter" value="1731" />
+    <task id="LOCAL-01731" summary="UnikalneSlowa">
+      <option name="closed" value="true" />
+      <created>1744663346276</created>
+      <option name="number" value="01731" />
+      <option name="presentableId" value="LOCAL-01731" />
+      <option name="project" value="LOCAL" />
+      <updated>1744663346276</updated>
+    </task>
+    <option name="localTasksCounter" value="1732" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Jaki wynik da operacja 4 | 1?" />
     <MESSAGE value="Przeciążanie i przesłanianie" />
     <MESSAGE value="Tablice i operatory warunkowe" />
     <MESSAGE value="Dziedziczenie i wywołanie konstruktorów" />
@@ -595,6 +596,7 @@
     <MESSAGE value=" Zadanie: Licznik głosów (mapowanie imion na liczbę głosów)&#10; &#10;Stwórz program, który:&#10;&#10;Pozwala użytkownikowi wpisywać imiona osób, na które chce oddać głos,&#10;&#10;Po wpisaniu &quot;koniec&quot; kończy działanie,&#10;&#10;Wypisuje ile głosów otrzymała każda osoba,&#10;&#10;Wypisuje zwycięzcę (osobę z największą liczbą głosów)." />
     <MESSAGE value="LicznikGlosow" />
     <MESSAGE value="MinMaxWartosc" />
-    <option name="LAST_COMMIT_MESSAGE" value="MinMaxWartosc" />
+    <MESSAGE value="UnikalneSlowa" />
+    <option name="LAST_COMMIT_MESSAGE" value="UnikalneSlowa" />
   </component>
 </project>
