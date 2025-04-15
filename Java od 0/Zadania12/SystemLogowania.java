@@ -29,7 +29,7 @@ public class SystemLogowania {
                         System.out.println("Zarejestrowano pomyślnie!");
                     }
                     break;
-                    
+
                 case "2":
                     System.out.print("Login: ");
                     String login = scanner.nextLine();
@@ -43,3 +43,15 @@ public class SystemLogowania {
                         System.out.println("Błędny login lub hasło.");
                     }
                     break;
+                    
+                case "3":
+                    System.out.println("Zamykanie programu...");
+                    scanner.close();
+                    return;
+
+                default:
+                    System.out.println("Nieznana opcja.");
+            }
+        }
+    }
+}
