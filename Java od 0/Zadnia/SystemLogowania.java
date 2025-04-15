@@ -20,3 +20,19 @@ public class SystemLogowania {
 
             System.out.print("Hasło: ");
             String haslo = scanner.nextLine();
+
+            if (konta.containsKey(login)) {
+                if (konta.get(login).equals(haslo)) {
+                    System.out.println("Zalogowano pomyślnie! ✅");
+                    zalogowano = true;
+                    break;
+                } else {
+                    System.out.println("Błędne hasło.");
+                }
+            } else {
+                System.out.println("Nieznany login.");
+            }
+
+            proby++;
+            System.out.println("Pozostało prób: " + (3 - proby));
+        }
