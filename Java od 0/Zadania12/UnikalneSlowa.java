@@ -19,3 +19,14 @@ public class UnikalneSlowa {
                 unikalne.add(slowo);
             }
         }
+
+        System.out.println("\nLiczba wszystkich słów: " + slowa.length);
+        System.out.println("Liczba unikalnych słów: " + unikalne.size());
+        System.out.println("Unikalne słowa (alfabetycznie):");
+        for (String s : unikalne) {
+            System.out.println("- " + s);
+        }
+
+        scanner.close();
+    }
+}
