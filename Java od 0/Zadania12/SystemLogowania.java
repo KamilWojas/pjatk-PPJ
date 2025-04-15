@@ -29,3 +29,17 @@ public class SystemLogowania {
                         System.out.println("Zarejestrowano pomyślnie!");
                     }
                     break;
+                    
+                case "2":
+                    System.out.print("Login: ");
+                    String login = scanner.nextLine();
+                    System.out.print("Hasło: ");
+                    String hasloLogowanie = scanner.nextLine();
+
+                    if (uzytkownicy.containsKey(login) &&
+                            uzytkownicy.get(login).equals(hasloLogowanie)) {
+                        System.out.println("Zalogowano pomyślnie!");
+                    } else {
+                        System.out.println("Błędny login lub hasło.");
+                    }
+                    break;
