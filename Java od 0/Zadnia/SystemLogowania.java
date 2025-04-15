@@ -13,3 +13,10 @@ public class SystemLogowania {
 
         int proby = 0;
         boolean zalogowano = false;
+
+        while (proby < 3) {
+            System.out.print("Login: ");
+            String login = scanner.nextLine();
+
+            System.out.print("Hasło: ");
+            String haslo = scanner.nextLine();
