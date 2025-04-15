@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="UnikalneSlowa">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/UnikalneSlowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/UnikalneSlowa.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="SystemLogowania">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/SystemLogowania.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/SystemLogowania.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,111 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="25534000" />
-    </task>
-    <task id="LOCAL-01683" summary="Zadanie: Prosty kalkulator z menu i powtarzaniem działania - Użytkownik wybiera działanie z menu i może wykonywać kolejne obliczenia w pętli, aż wpisze &quot;wyjście&quot;.">
-      <option name="closed" value="true" />
-      <created>1744234451891</created>
-      <option name="number" value="01683" />
-      <option name="presentableId" value="LOCAL-01683" />
-      <option name="project" value="LOCAL" />
-      <updated>1744234451891</updated>
-    </task>
-    <task id="LOCAL-01684" summary="MenuKalkulator">
-      <option name="closed" value="true" />
-      <created>1744234472876</created>
-      <option name="number" value="01684" />
-      <option name="presentableId" value="LOCAL-01684" />
-      <option name="project" value="LOCAL" />
-      <updated>1744234472876</updated>
-    </task>
-    <task id="LOCAL-01685" summary="MenuKalkulator">
-      <option name="closed" value="true" />
-      <created>1744234483881</created>
-      <option name="number" value="01685" />
-      <option name="presentableId" value="LOCAL-01685" />
-      <option name="project" value="LOCAL" />
-      <updated>1744234483881</updated>
-    </task>
-    <task id="LOCAL-01686" summary="MenuKalkulator">
-      <option name="closed" value="true" />
-      <created>1744234496318</created>
-      <option name="number" value="01686" />
-      <option name="presentableId" value="LOCAL-01686" />
-      <option name="project" value="LOCAL" />
-      <updated>1744234496318</updated>
-    </task>
-    <task id="LOCAL-01687" summary="MenuKalkulator">
-      <option name="closed" value="true" />
-      <created>1744234511362</created>
-      <option name="number" value="01687" />
-      <option name="presentableId" value="LOCAL-01687" />
-      <option name="project" value="LOCAL" />
-      <updated>1744234511362</updated>
-    </task>
-    <task id="LOCAL-01688" summary="MenuKalkulator">
-      <option name="closed" value="true" />
-      <created>1744234523694</created>
-      <option name="number" value="01688" />
-      <option name="presentableId" value="LOCAL-01688" />
-      <option name="project" value="LOCAL" />
-      <updated>1744234523694</updated>
-    </task>
-    <task id="LOCAL-01689" summary="MenuKalkulator">
-      <option name="closed" value="true" />
-      <created>1744234538102</created>
-      <option name="number" value="01689" />
-      <option name="presentableId" value="LOCAL-01689" />
-      <option name="project" value="LOCAL" />
-      <updated>1744234538102</updated>
-    </task>
-    <task id="LOCAL-01690" summary="MenuKalkulator">
-      <option name="closed" value="true" />
-      <created>1744237553350</created>
-      <option name="number" value="01690" />
-      <option name="presentableId" value="LOCAL-01690" />
-      <option name="project" value="LOCAL" />
-      <updated>1744237553351</updated>
-    </task>
-    <task id="LOCAL-01691" summary="MenuKalkulator">
-      <option name="closed" value="true" />
-      <created>1744304689488</created>
-      <option name="number" value="01691" />
-      <option name="presentableId" value="LOCAL-01691" />
-      <option name="project" value="LOCAL" />
-      <updated>1744304689488</updated>
-    </task>
-    <task id="LOCAL-01692" summary="MenuKalkulator">
-      <option name="closed" value="true" />
-      <created>1744320535180</created>
-      <option name="number" value="01692" />
-      <option name="presentableId" value="LOCAL-01692" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320535180</updated>
-    </task>
-    <task id="LOCAL-01693" summary="SortowanieTablicy">
-      <option name="closed" value="true" />
-      <created>1744320557920</created>
-      <option name="number" value="01693" />
-      <option name="presentableId" value="LOCAL-01693" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320557920</updated>
-    </task>
-    <task id="LOCAL-01694" summary="Zadanie: Sortowanie tablicy liczb rosnąco i malejąco&#10;Poproś użytkownika o kilka liczb, a następnie:&#10;&#10;posortuj je rosnąco i wypisz,&#10;&#10;posortuj je malejąco i wypisz.">
-      <option name="closed" value="true" />
-      <created>1744320580769</created>
-      <option name="number" value="01694" />
-      <option name="presentableId" value="LOCAL-01694" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320580769</updated>
-    </task>
-    <task id="LOCAL-01695" summary="SortowanieTablicy">
-      <option name="closed" value="true" />
-      <created>1744320600908</created>
-      <option name="number" value="01695" />
-      <option name="presentableId" value="LOCAL-01695" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320600908</updated>
+      <workItem from="1743443121163" duration="25835000" />
     </task>
     <task id="LOCAL-01696" summary="SortowanieTablicy">
       <option name="closed" value="true" />
@@ -554,7 +450,111 @@
       <option name="project" value="LOCAL" />
       <updated>1744663346276</updated>
     </task>
-    <option name="localTasksCounter" value="1732" />
+    <task id="LOCAL-01732" summary="UnikalneSlowa">
+      <option name="closed" value="true" />
+      <created>1744752466095</created>
+      <option name="number" value="01732" />
+      <option name="presentableId" value="LOCAL-01732" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752466095</updated>
+    </task>
+    <task id="LOCAL-01733" summary="UnikalneSlowa">
+      <option name="closed" value="true" />
+      <created>1744752472282</created>
+      <option name="number" value="01733" />
+      <option name="presentableId" value="LOCAL-01733" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752472282</updated>
+    </task>
+    <task id="LOCAL-01734" summary="UnikalneSlowa">
+      <option name="closed" value="true" />
+      <created>1744752485901</created>
+      <option name="number" value="01734" />
+      <option name="presentableId" value="LOCAL-01734" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752485901</updated>
+    </task>
+    <task id="LOCAL-01735" summary="Dziele tekst po białych znakach, usuwając znaki interpunkcyjne">
+      <option name="closed" value="true" />
+      <created>1744752510761</created>
+      <option name="number" value="01735" />
+      <option name="presentableId" value="LOCAL-01735" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752510761</updated>
+    </task>
+    <task id="LOCAL-01736" summary="automatycznie sortuje alfabetycznie">
+      <option name="closed" value="true" />
+      <created>1744752527240</created>
+      <option name="number" value="01736" />
+      <option name="presentableId" value="LOCAL-01736" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752527240</updated>
+    </task>
+    <task id="LOCAL-01737" summary="Instrukcja warunkowa">
+      <option name="closed" value="true" />
+      <created>1744752551680</created>
+      <option name="number" value="01737" />
+      <option name="presentableId" value="LOCAL-01737" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752551680</updated>
+    </task>
+    <task id="LOCAL-01738" summary="Instrukcja warunkowa">
+      <option name="closed" value="true" />
+      <created>1744752569127</created>
+      <option name="number" value="01738" />
+      <option name="presentableId" value="LOCAL-01738" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752569127</updated>
+    </task>
+    <task id="LOCAL-01739" summary="🔹 replaceAll(...)&#10;Usuwamy przecinki, kropki, znaki specjalne – zostają tylko litery, cyfry i spacje.&#10;&#10; toLowerCase()&#10;Dzięki temu &quot;Java&quot; i &quot;java&quot; będą traktowane jak to samo słowo.&#10;&#10; split(&quot;\\s+&quot;)&#10;Dzieli tekst na tablicę słów – jedno lub więcej białych znaków.&#10;&#10; TreeSet&#10;Przechowuje unikalne słowa i automatycznie sortuje je alfabetycznie.">
+      <option name="closed" value="true" />
+      <created>1744752610030</created>
+      <option name="number" value="01739" />
+      <option name="presentableId" value="LOCAL-01739" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752610030</updated>
+    </task>
+    <task id="LOCAL-01740" summary="SystemLogowania">
+      <option name="closed" value="true" />
+      <created>1744752656390</created>
+      <option name="number" value="01740" />
+      <option name="presentableId" value="LOCAL-01740" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752656390</updated>
+    </task>
+    <task id="LOCAL-01741" summary="Stwórz aplikację konsolową, która:&#10;&#10;Pozwala użytkownikowi zarejestrować login i hasło,&#10;&#10;Następnie umożliwia zalogowanie, sprawdzając dane,&#10;&#10;Obsługuje wiele kont (mapa użytkowników),&#10;&#10;Pozwala wybrać: 1 – rejestracja, 2 – logowanie, 3 – zakończ.">
+      <option name="closed" value="true" />
+      <created>1744752675733</created>
+      <option name="number" value="01741" />
+      <option name="presentableId" value="LOCAL-01741" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752675733</updated>
+    </task>
+    <task id="LOCAL-01742" summary="SystemLogowania">
+      <option name="closed" value="true" />
+      <created>1744752699144</created>
+      <option name="number" value="01742" />
+      <option name="presentableId" value="LOCAL-01742" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752699144</updated>
+    </task>
+    <task id="LOCAL-01743" summary="SystemLogowania">
+      <option name="closed" value="true" />
+      <created>1744752729217</created>
+      <option name="number" value="01743" />
+      <option name="presentableId" value="LOCAL-01743" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752729217</updated>
+    </task>
+    <task id="LOCAL-01744" summary="SystemLogowania">
+      <option name="closed" value="true" />
+      <created>1744752748852</created>
+      <option name="number" value="01744" />
+      <option name="presentableId" value="LOCAL-01744" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752748852</updated>
+    </task>
+    <option name="localTasksCounter" value="1745" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,12 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Przeciążanie i przesłanianie" />
-    <MESSAGE value="Tablice i operatory warunkowe" />
-    <MESSAGE value="Dziedziczenie i wywołanie konstruktorów" />
-    <MESSAGE value="Dane są klasy A, B i C. Klasa B dziedziczy po A, a C po B. Każda z nich ma konstruktor z komunikatem System.out.println(). Co zostanie wypisane na ekranie?" />
-    <MESSAGE value="Które z poniższych wywołań są poprawne i dopasują się do przeciążonych metod?" />
-    <MESSAGE value="Ile minimum razy wykona się pętla do-while?" />
     <MESSAGE value="Czy kod się skompiluje?" />
     <MESSAGE value="Bloki inicjalizacyjne - Co zostanie wypisane?" />
     <MESSAGE value="Co wypisze ten kod z plikiem?" />
@@ -597,6 +591,12 @@
     <MESSAGE value="LicznikGlosow" />
     <MESSAGE value="MinMaxWartosc" />
     <MESSAGE value="UnikalneSlowa" />
-    <option name="LAST_COMMIT_MESSAGE" value="UnikalneSlowa" />
+    <MESSAGE value="Dziele tekst po białych znakach, usuwając znaki interpunkcyjne" />
+    <MESSAGE value="automatycznie sortuje alfabetycznie" />
+    <MESSAGE value="Instrukcja warunkowa" />
+    <MESSAGE value=" replaceAll(...)&#10;Usuwamy przecinki, kropki, znaki specjalne – zostają tylko litery, cyfry i spacje.&#10;&#10; toLowerCase()&#10;Dzięki temu &quot;Java&quot; i &quot;java&quot; będą traktowane jak to samo słowo.&#10;&#10; split(&quot;\\s+&quot;)&#10;Dzieli tekst na tablicę słów – jedno lub więcej białych znaków.&#10;&#10; TreeSet&#10;Przechowuje unikalne słowa i automatycznie sortuje je alfabetycznie." />
+    <MESSAGE value="Stwórz aplikację konsolową, która:&#10;&#10;Pozwala użytkownikowi zarejestrować login i hasło,&#10;&#10;Następnie umożliwia zalogowanie, sprawdzając dane,&#10;&#10;Obsługuje wiele kont (mapa użytkowników),&#10;&#10;Pozwala wybrać: 1 – rejestracja, 2 – logowanie, 3 – zakończ." />
+    <MESSAGE value="SystemLogowania" />
+    <option name="LAST_COMMIT_MESSAGE" value="SystemLogowania" />
   </component>
 </project>
