@@ -12,4 +12,10 @@ public class UnikalneSlowa {
         String[] slowa = tekst.replaceAll("[^a-ząćęłńóśźż0-9\\s]", "")
                 .split("\\s+");
 
-        Set<String> unikalne = new TreeSet<>(); 
+        Set<String> unikalne = new TreeSet<>();
+
+        for (String slowo : slowa) {
+            if (!slowo.isEmpty()) {
+                unikalne.add(slowo);
+            }
+        }
