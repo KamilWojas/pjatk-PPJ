@@ -20,7 +20,7 @@ public class SystemLogowania {
 
             System.out.print("Hasło: ");
             String haslo = scanner.nextLine();
- 
+
             if (konta.containsKey(login)) {
                 if (konta.get(login).equals(haslo)) {
                     System.out.println("Zalogowano pomyślnie! ✅");
@@ -36,3 +36,11 @@ public class SystemLogowania {
             proby++;
             System.out.println("Pozostało prób: " + (3 - proby));
         }
+        
+        if (!zalogowano) {
+            System.out.println("Zbyt wiele nieudanych prób. Dostęp zablokowany.");
+        }
+
+        scanner.close();
+    }
+}
