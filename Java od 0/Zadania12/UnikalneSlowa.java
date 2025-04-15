@@ -27,6 +27,6 @@ public class UnikalneSlowa {
             System.out.println("- " + s);
         }
 
-        scanner.close();
+        scanner.close(); 
     }
 }
