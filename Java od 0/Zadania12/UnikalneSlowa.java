@@ -8,3 +8,6 @@ public class UnikalneSlowa {
 
         System.out.println("Wpisz tekst (kilka zdań):");
         String tekst = scanner.nextLine().toLowerCase();
+
+        String[] slowa = tekst.replaceAll("[^a-ząćęłńóśźż0-9\\s]", "")
+                .split("\\s+");
