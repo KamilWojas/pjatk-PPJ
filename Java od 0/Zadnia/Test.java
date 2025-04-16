@@ -384,7 +384,7 @@ System.out.printl(wynik);
 class Zwierze{ 
     Zwierze(){
         System.out.println("Tworzenie zwierzęcia");
-    }
+    } 
 }
 
 public class Main{
