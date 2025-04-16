@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="SystemLogowania">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="operator ||">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,23 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="27844000" />
-    </task>
-    <task id="LOCAL-01705" summary="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC.">
-      <option name="closed" value="true" />
-      <created>1744405779809</created>
-      <option name="number" value="01705" />
-      <option name="presentableId" value="LOCAL-01705" />
-      <option name="project" value="LOCAL" />
-      <updated>1744405779809</updated>
-    </task>
-    <task id="LOCAL-01706" summary="LicznikGlosow">
-      <option name="closed" value="true" />
-      <created>1744405798788</created>
-      <option name="number" value="01706" />
-      <option name="presentableId" value="LOCAL-01706" />
-      <option name="project" value="LOCAL" />
-      <updated>1744405798788</updated>
+      <workItem from="1743443121163" duration="28152000" />
     </task>
     <task id="LOCAL-01707" summary=" Zadanie: Licznik głosów (mapowanie imion na liczbę głosów)&#10; &#10;Stwórz program, który:&#10;&#10;Pozwala użytkownikowi wpisywać imiona osób, na które chce oddać głos,&#10;&#10;Po wpisaniu &quot;koniec&quot; kończy działanie,&#10;&#10;Wypisuje ile głosów otrzymała każda osoba,&#10;&#10;Wypisuje zwycięzcę (osobę z największą liczbą głosów).">
       <option name="closed" value="true" />
@@ -554,7 +538,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744819582165</updated>
     </task>
-    <option name="localTasksCounter" value="1754" />
+    <task id="LOCAL-01754" summary="pętla for">
+      <option name="closed" value="true" />
+      <created>1744838996859</created>
+      <option name="number" value="01754" />
+      <option name="presentableId" value="LOCAL-01754" />
+      <option name="project" value="LOCAL" />
+      <updated>1744838996859</updated>
+    </task>
+    <task id="LOCAL-01755" summary="operator ||">
+      <option name="closed" value="true" />
+      <created>1744839173443</created>
+      <option name="number" value="01755" />
+      <option name="presentableId" value="LOCAL-01755" />
+      <option name="project" value="LOCAL" />
+      <updated>1744839173443</updated>
+    </task>
+    <option name="localTasksCounter" value="1756" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,8 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Co wypisze ten kod z plikiem?" />
-    <MESSAGE value="Czy wystąpi wyjątek?" />
     <MESSAGE value="Odczytaj plik dane.txt i wypisz:&#10;&#10;liczbę linii,&#10;&#10;liczbę słów,&#10;&#10;liczbę znaków.&#10;&#10;Plik dane.txt musi znajdować się w katalogu projektu." />
     <MESSAGE value="OdczytPliku" />
     <MESSAGE value="BufferedReader i FileReader służą do odczytu pliku,&#10;&#10;readLine() wczytuje kolejne linie tekstu,&#10;&#10;split(&quot;\\s+&quot;) – dzieli linie po spacjach,&#10;&#10;każda linia zwiększa licznik znaków, słów i linii." />
@@ -597,6 +595,8 @@
     <MESSAGE value="Map&lt;String, String&gt; uzytkownicy = new HashMap&lt;&gt;();&#10;Klucz: login użytkownika,&#10;&#10;Wartość: hasło.&#10;&#10;Rejestracja&#10;Jeśli login już istnieje → nie pozwalamy na duplikat,&#10;&#10;W przeciwnym razie dodajemy nowego użytkownika.&#10;&#10;Logowanie&#10;Sprawdzamy, czy login istnieje i czy hasło się zgadza (get().equals()).&#10;&#10;Pętla while (true)&#10;Zapętlamy menu, dopóki użytkownik nie wybierze opcji „3”." />
     <MESSAGE value="Utworzenie mapy login–hasło" />
     <MESSAGE value="SystemLogowania" />
-    <option name="LAST_COMMIT_MESSAGE" value="SystemLogowania" />
+    <MESSAGE value="pętla for" />
+    <MESSAGE value="operator ||" />
+    <option name="LAST_COMMIT_MESSAGE" value="operator ||" />
   </component>
 </project>
