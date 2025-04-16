@@ -381,7 +381,7 @@ System.out.printl(wynik);
 ==========================================================================================
 //Tworzenie obiektu 
 
-class Zwierze{
+class Zwierze{ 
     Zwierze(){
         System.out.println("Tworzenie zwierzęcia");
     }
