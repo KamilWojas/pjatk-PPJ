@@ -373,4 +373,25 @@ if (a > 3 || b < 5){
 int wynik = 10 % 3;
 System.out.printl(wynik);
 
-//% reszta z dzielenia 
+//% reszta z dzielenia
+
+
+
+
+==========================================================================================
+//Tworzenie obiektu 
+
+class Zwierze{
+    Zwierze(){
+        System.out.println("Tworzenie zwierzęcia");
+    }
+}
+
+public class Main{
+    public static void main(String [] args){
+        Zwierze z = new Zwierze();
+    }
+}
+
+//new Zwierze() tworzymy nowy obiekt
+//Tworzymy za pomocą konstruktora
