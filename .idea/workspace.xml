@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="SystemLogowania">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadania12/SystemLogowania.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadania12/SystemLogowania.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,71 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="25835000" />
-    </task>
-    <task id="LOCAL-01696" summary="SortowanieTablicy">
-      <option name="closed" value="true" />
-      <created>1744320614651</created>
-      <option name="number" value="01696" />
-      <option name="presentableId" value="LOCAL-01696" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320614651</updated>
-    </task>
-    <task id="LOCAL-01697" summary="Arrays.sort(liczby) – sortuje rosnąco,&#10;&#10;Arrays.sort(liczby, Collections.reverseOrder()) – sortuje malejąco,&#10;&#10;Używamy Integer[], bo Collections.reverseOrder() nie działa z int[].">
-      <option name="closed" value="true" />
-      <created>1744320628584</created>
-      <option name="number" value="01697" />
-      <option name="presentableId" value="LOCAL-01697" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320628584</updated>
-    </task>
-    <task id="LOCAL-01698" summary="ZapisDoPliku">
-      <option name="closed" value="true" />
-      <created>1744320646940</created>
-      <option name="number" value="01698" />
-      <option name="presentableId" value="LOCAL-01698" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320646940</updated>
-    </task>
-    <task id="LOCAL-01699" summary="Zadanie: Zapis tekstu użytkownika do pliku&#10;Poproś użytkownika o wpisanie kilku linii tekstu.&#10;Zapisz je do pliku notatka.txt.">
-      <option name="closed" value="true" />
-      <created>1744320682400</created>
-      <option name="number" value="01699" />
-      <option name="presentableId" value="LOCAL-01699" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320682400</updated>
-    </task>
-    <task id="LOCAL-01700" summary="ZapisDoPliku">
-      <option name="closed" value="true" />
-      <created>1744320710225</created>
-      <option name="number" value="01700" />
-      <option name="presentableId" value="LOCAL-01700" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320710226</updated>
-    </task>
-    <task id="LOCAL-01701" summary="ZapisDoPliku">
-      <option name="closed" value="true" />
-      <created>1744320731599</created>
-      <option name="number" value="01701" />
-      <option name="presentableId" value="LOCAL-01701" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320731600</updated>
-    </task>
-    <task id="LOCAL-01702" summary="ZapisDoPliku">
-      <option name="closed" value="true" />
-      <created>1744320743459</created>
-      <option name="number" value="01702" />
-      <option name="presentableId" value="LOCAL-01702" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320743459</updated>
-    </task>
-    <task id="LOCAL-01703" summary="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC.">
-      <option name="closed" value="true" />
-      <created>1744320756210</created>
-      <option name="number" value="01703" />
-      <option name="presentableId" value="LOCAL-01703" />
-      <option name="project" value="LOCAL" />
-      <updated>1744320756210</updated>
+      <workItem from="1743443121163" duration="27204000" />
     </task>
     <task id="LOCAL-01704" summary="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC.">
       <option name="closed" value="true" />
@@ -554,7 +490,71 @@
       <option name="project" value="LOCAL" />
       <updated>1744752748852</updated>
     </task>
-    <option name="localTasksCounter" value="1745" />
+    <task id="LOCAL-01745" summary="SystemLogowania">
+      <option name="closed" value="true" />
+      <created>1744752767109</created>
+      <option name="number" value="01745" />
+      <option name="presentableId" value="LOCAL-01745" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752767109</updated>
+    </task>
+    <task id="LOCAL-01746" summary="Map&lt;String, String&gt; uzytkownicy = new HashMap&lt;&gt;();&#10;Klucz: login użytkownika,&#10;&#10;Wartość: hasło.&#10;&#10;Rejestracja&#10;Jeśli login już istnieje → nie pozwalamy na duplikat,&#10;&#10;W przeciwnym razie dodajemy nowego użytkownika.&#10;&#10;Logowanie&#10;Sprawdzamy, czy login istnieje i czy hasło się zgadza (get().equals()).&#10;&#10;Pętla while (true)&#10;Zapętlamy menu, dopóki użytkownik nie wybierze opcji „3”.">
+      <option name="closed" value="true" />
+      <created>1744752810118</created>
+      <option name="number" value="01746" />
+      <option name="presentableId" value="LOCAL-01746" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752810118</updated>
+    </task>
+    <task id="LOCAL-01747" summary="SystemLogowania">
+      <option name="closed" value="true" />
+      <created>1744752854822</created>
+      <option name="number" value="01747" />
+      <option name="presentableId" value="LOCAL-01747" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752854822</updated>
+    </task>
+    <task id="LOCAL-01748" summary="Utworzenie mapy login–hasło">
+      <option name="closed" value="true" />
+      <created>1744752876008</created>
+      <option name="number" value="01748" />
+      <option name="presentableId" value="LOCAL-01748" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752876008</updated>
+    </task>
+    <task id="LOCAL-01749" summary="Utworzenie mapy login–hasło">
+      <option name="closed" value="true" />
+      <created>1744752891129</created>
+      <option name="number" value="01749" />
+      <option name="presentableId" value="LOCAL-01749" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752891129</updated>
+    </task>
+    <task id="LOCAL-01750" summary="Utworzenie mapy login–hasło">
+      <option name="closed" value="true" />
+      <created>1744752908825</created>
+      <option name="number" value="01750" />
+      <option name="presentableId" value="LOCAL-01750" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752908825</updated>
+    </task>
+    <task id="LOCAL-01751" summary="SystemLogowania">
+      <option name="closed" value="true" />
+      <created>1744752920902</created>
+      <option name="number" value="01751" />
+      <option name="presentableId" value="LOCAL-01751" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752920902</updated>
+    </task>
+    <task id="LOCAL-01752" summary="SystemLogowania">
+      <option name="closed" value="true" />
+      <created>1744752935198</created>
+      <option name="number" value="01752" />
+      <option name="presentableId" value="LOCAL-01752" />
+      <option name="project" value="LOCAL" />
+      <updated>1744752935198</updated>
+    </task>
+    <option name="localTasksCounter" value="1753" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,8 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Czy kod się skompiluje?" />
-    <MESSAGE value="Bloki inicjalizacyjne - Co zostanie wypisane?" />
     <MESSAGE value="Co wypisze ten kod z plikiem?" />
     <MESSAGE value="Czy wystąpi wyjątek?" />
     <MESSAGE value="Odczytaj plik dane.txt i wypisz:&#10;&#10;liczbę linii,&#10;&#10;liczbę słów,&#10;&#10;liczbę znaków.&#10;&#10;Plik dane.txt musi znajdować się w katalogu projektu." />
@@ -596,6 +594,8 @@
     <MESSAGE value="Instrukcja warunkowa" />
     <MESSAGE value=" replaceAll(...)&#10;Usuwamy przecinki, kropki, znaki specjalne – zostają tylko litery, cyfry i spacje.&#10;&#10; toLowerCase()&#10;Dzięki temu &quot;Java&quot; i &quot;java&quot; będą traktowane jak to samo słowo.&#10;&#10; split(&quot;\\s+&quot;)&#10;Dzieli tekst na tablicę słów – jedno lub więcej białych znaków.&#10;&#10; TreeSet&#10;Przechowuje unikalne słowa i automatycznie sortuje je alfabetycznie." />
     <MESSAGE value="Stwórz aplikację konsolową, która:&#10;&#10;Pozwala użytkownikowi zarejestrować login i hasło,&#10;&#10;Następnie umożliwia zalogowanie, sprawdzając dane,&#10;&#10;Obsługuje wiele kont (mapa użytkowników),&#10;&#10;Pozwala wybrać: 1 – rejestracja, 2 – logowanie, 3 – zakończ." />
+    <MESSAGE value="Map&lt;String, String&gt; uzytkownicy = new HashMap&lt;&gt;();&#10;Klucz: login użytkownika,&#10;&#10;Wartość: hasło.&#10;&#10;Rejestracja&#10;Jeśli login już istnieje → nie pozwalamy na duplikat,&#10;&#10;W przeciwnym razie dodajemy nowego użytkownika.&#10;&#10;Logowanie&#10;Sprawdzamy, czy login istnieje i czy hasło się zgadza (get().equals()).&#10;&#10;Pętla while (true)&#10;Zapętlamy menu, dopóki użytkownik nie wybierze opcji „3”." />
+    <MESSAGE value="Utworzenie mapy login–hasło" />
     <MESSAGE value="SystemLogowania" />
     <option name="LAST_COMMIT_MESSAGE" value="SystemLogowania" />
   </component>
