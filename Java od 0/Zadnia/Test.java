@@ -368,3 +368,9 @@ if (a > 3 || b < 5){
 //        || oznacza: jeśli chociaż jeden warunek jest prawdziwy, to pętla się wykona
 
 ==========================================================================================
+//operator %
+
+int wynik = 10 % 3;
+System.out.printl(wynik);
+
+//% reszta z dzielenia 
