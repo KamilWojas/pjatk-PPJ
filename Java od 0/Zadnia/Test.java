@@ -350,3 +350,20 @@ for (int i = 0, i < 3; i++){
 //        int i = 0 – zaczynamy liczyć od zera.
 //        i < 3 – dopóki i jest mniejsze niż 3, wykonuj to, co jest w {}.
 //        i++ – po każdym razie zwiększ i o 1.
+
+
+
+==========================================================================================
+//Jak działa operator ||? (czyli „lub”)
+
+int b = 5;
+int a = 10;
+
+if (a > 3 || b < 5){
+    System.out.println("Warunek spełniony");
+        }
+
+//        a > 3 to prawda, bo 5 > 3.
+//        b < 5 to fałsz, bo 10 nie jest mniejsze od 5.
+//        || oznacza: jeśli chociaż jeden warunek jest prawdziwy, to pętla się wykona
+
