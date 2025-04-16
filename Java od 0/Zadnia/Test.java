@@ -367,3 +367,4 @@ if (a > 3 || b < 5){
 //        b < 5 to fałsz, bo 10 nie jest mniejsze od 5.
 //        || oznacza: jeśli chociaż jeden warunek jest prawdziwy, to pętla się wykona
 
+==========================================================================================
