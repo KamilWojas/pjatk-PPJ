@@ -337,3 +337,16 @@ public class Main {
 
 //Indeksy w tablicy zaczynają się od 0. Dla new int[5] poprawne indeksy to 0..4. tab[5]
 //przekracza zakres → wyjątek w czasie działania programu.
+
+
+
+==========================================================================================
+//Zadanie – Jak działa pętla for?
+
+for (int i = 0, i < 3; i++){
+    System.out.println("TEST");
+        }
+
+//        int i = 0 – zaczynamy liczyć od zera.
+//        i < 3 – dopóki i jest mniejsze niż 3, wykonuj to, co jest w {}.
+//        i++ – po każdym razie zwiększ i o 1.

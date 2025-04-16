@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="SystemLogowania">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,15 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="27204000" />
-    </task>
-    <task id="LOCAL-01704" summary="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC.">
-      <option name="closed" value="true" />
-      <created>1744402217634</created>
-      <option name="number" value="01704" />
-      <option name="presentableId" value="LOCAL-01704" />
-      <option name="project" value="LOCAL" />
-      <updated>1744402217634</updated>
+      <workItem from="1743443121163" duration="27844000" />
     </task>
     <task id="LOCAL-01705" summary="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC.">
       <option name="closed" value="true" />
@@ -554,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744752935198</updated>
     </task>
-    <option name="localTasksCounter" value="1753" />
+    <task id="LOCAL-01753" summary="SystemLogowania">
+      <option name="closed" value="true" />
+      <created>1744819582165</created>
+      <option name="number" value="01753" />
+      <option name="presentableId" value="LOCAL-01753" />
+      <option name="project" value="LOCAL" />
+      <updated>1744819582165</updated>
+    </task>
+    <option name="localTasksCounter" value="1754" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
