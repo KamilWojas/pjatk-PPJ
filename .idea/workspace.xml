@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500.">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,23 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="32263000" />
-    </task>
-    <task id="LOCAL-01724" summary="MinMaxWartosc">
-      <option name="closed" value="true" />
-      <created>1744492991779</created>
-      <option name="number" value="01724" />
-      <option name="presentableId" value="LOCAL-01724" />
-      <option name="project" value="LOCAL" />
-      <updated>1744492991779</updated>
-    </task>
-    <task id="LOCAL-01725" summary="MinMaxWartosc">
-      <option name="closed" value="true" />
-      <created>1744493004045</created>
-      <option name="number" value="01725" />
-      <option name="presentableId" value="LOCAL-01725" />
-      <option name="project" value="LOCAL" />
-      <updated>1744493004046</updated>
+      <workItem from="1743443121163" duration="33059000" />
     </task>
     <task id="LOCAL-01726" summary="MinMaxWartosc">
       <option name="closed" value="true" />
@@ -554,7 +538,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744917835842</updated>
     </task>
-    <option name="localTasksCounter" value="1773" />
+    <task id="LOCAL-01773" summary="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500.">
+      <option name="closed" value="true" />
+      <created>1744918606520</created>
+      <option name="number" value="01773" />
+      <option name="presentableId" value="LOCAL-01773" />
+      <option name="project" value="LOCAL" />
+      <updated>1744918606520</updated>
+    </task>
+    <task id="LOCAL-01774" summary="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500.">
+      <option name="closed" value="true" />
+      <created>1744922248928</created>
+      <option name="number" value="01774" />
+      <option name="presentableId" value="LOCAL-01774" />
+      <option name="project" value="LOCAL" />
+      <updated>1744922248928</updated>
+    </task>
+    <option name="localTasksCounter" value="1775" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie: Sortowanie tablicy liczb rosnąco i malejąco&#10;Poproś użytkownika o kilka liczb, a następnie:&#10;&#10;posortuj je rosnąco i wypisz,&#10;&#10;posortuj je malejąco i wypisz." />
     <MESSAGE value="SortowanieTablicy" />
     <MESSAGE value="Arrays.sort(liczby) – sortuje rosnąco,&#10;&#10;Arrays.sort(liczby, Collections.reverseOrder()) – sortuje malejąco,&#10;&#10;Używamy Integer[], bo Collections.reverseOrder() nie działa z int[]." />
     <MESSAGE value="Zadanie: Zapis tekstu użytkownika do pliku&#10;Poproś użytkownika o wpisanie kilku linii tekstu.&#10;Zapisz je do pliku notatka.txt." />
@@ -597,7 +596,8 @@
     <MESSAGE value="Zmodyfikuj kod pętli tak aby wykorzytał pętle while" />
     <MESSAGE value="Przedstaw różnicę między pętlami while i do while" />
     <MESSAGE value="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt" />
+    <MESSAGE value="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500." />
+    <option name="LAST_COMMIT_MESSAGE" value="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
