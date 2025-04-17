@@ -434,4 +434,12 @@ public class PetlaWhile{
             System.out.println("To się wyświetli nawet gdy warunek jest fałszywy");
         }while (a < 5);
     }
-}
+} 
+
+
+
+
+
+==========================================================================================
+//Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt
+
