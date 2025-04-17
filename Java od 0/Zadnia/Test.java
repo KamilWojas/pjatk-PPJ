@@ -407,10 +407,10 @@ for (int i = 1; i <= 10; i++)
 
 //Modyfikcj
 
-int s = 0;
-int i = 1;
+int s = 0;  //zaczynamy od 0
+int i = 1;  //zaczynamy od 1
 
-while(i <= 10){
-    s = s + i;
-    i++;
+while(i <= 10){     //dopóki i jest mniejsze od lub równe 10 pętla się wykonuje 
+    s = s + i;  //dodajemy i do s
+    i++;        //zwiększamy i o 1 (czyli i = i +1)
         }
