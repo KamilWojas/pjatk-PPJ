@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,15 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="31670000" />
-    </task>
-    <task id="LOCAL-01723" summary="MinMaxWartosc">
-      <option name="closed" value="true" />
-      <created>1744492983300</created>
-      <option name="number" value="01723" />
-      <option name="presentableId" value="LOCAL-01723" />
-      <option name="project" value="LOCAL" />
-      <updated>1744492983300</updated>
+      <workItem from="1743443121163" duration="32263000" />
     </task>
     <task id="LOCAL-01724" summary="MinMaxWartosc">
       <option name="closed" value="true" />
@@ -552,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744917796176</updated>
     </task>
-    <option name="localTasksCounter" value="1772" />
+    <task id="LOCAL-01772" summary="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt">
+      <option name="closed" value="true" />
+      <created>1744917835842</created>
+      <option name="number" value="01772" />
+      <option name="presentableId" value="LOCAL-01772" />
+      <option name="project" value="LOCAL" />
+      <updated>1744917835842</updated>
+    </task>
+    <option name="localTasksCounter" value="1773" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,5 +598,16 @@
     <MESSAGE value="Przedstaw różnicę między pętlami while i do while" />
     <MESSAGE value="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt" />
     <option name="LAST_COMMIT_MESSAGE" value="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java od 0/Zadnia/Test.java</url>
+          <line>448</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

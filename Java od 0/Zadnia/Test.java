@@ -456,3 +456,21 @@ public class PetlaMnozenie{
     }
 }
 
+
+
+
+==========================================================================================
+//Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500.
+
+public class Podzielne{
+    public static void main(String[] args) {
+        int i = -1500;
+        
+        while (i <= 1500){
+            if (i % 3 == 0 && i % 2 == 0){
+                System.out.println(i);
+            }
+            i++;
+        }
+    }
+}
