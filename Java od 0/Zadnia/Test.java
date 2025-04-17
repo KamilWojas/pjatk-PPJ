@@ -443,3 +443,16 @@ public class PetlaWhile{
 ==========================================================================================
 //Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt
 
+public class PetlaMnozenie{
+    public static void main(String [] args){
+        int wrt = 3; //Liczba przez którą będziemy mnożyć
+        int i = 1; //zaczynamy od 1
+
+        while (i <= 10){
+            int wynik = i * wrt;
+            System.out.println(i + " * " + wrt + " = " + wynik);
+            i++;
+        }
+    }
+}
+
