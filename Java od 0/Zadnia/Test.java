@@ -395,3 +395,8 @@ public class Main{
 
 //new Zwierze() tworzymy nowy obiekt
 //Tworzymy za pomocą konstruktora
+
+
+
+==========================================================================================
+//Zmodyfikuj kod pętli tak aby wykorzytał pętle while
