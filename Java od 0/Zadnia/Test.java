@@ -414,3 +414,24 @@ while(i <= 10){     //dopóki i jest mniejsze od lub równe 10 pętla się wykon
     s = s + i;  //dodajemy i do s
     i++;        //zwiększamy i o 1 (czyli i = i +1)
         }
+
+
+
+==========================================================================================
+//Przedstaw różnicę między pętlami while i do while
+
+public class PetlaWhile{
+    public static void main(String [] args){
+        int a = 5;
+        
+        System.out.println("Pętla while");
+        while (a < 5){
+            System.out.println("Nie wyświetli się bo warunek jest fałszywy");
+        }
+
+        System.out.println("Pętla do-while");
+        do {
+            System.out.println("To się wyświetli nawet gdy warunek jest fałszywy");
+        }while (a < 5);
+    }
+}
