@@ -473,4 +473,4 @@ public class Podzielne{
             i++;
         }
     }
-}
+} 
