@@ -501,3 +501,7 @@ public class Kompas{
         }
     }
 }
+
+
+==========================================================================================
+//Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów
