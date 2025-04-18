@@ -505,3 +505,5 @@ public class Kompas{
 
 ==========================================================================================
 //Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów
+
+int[] tab = new int[10];

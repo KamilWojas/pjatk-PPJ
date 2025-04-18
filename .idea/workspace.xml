@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="obrót w prawo (+1 z modulo 4)">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="//Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,23 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="35304000" />
-    </task>
-    <task id="LOCAL-01734" summary="UnikalneSlowa">
-      <option name="closed" value="true" />
-      <created>1744752485901</created>
-      <option name="number" value="01734" />
-      <option name="presentableId" value="LOCAL-01734" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752485901</updated>
-    </task>
-    <task id="LOCAL-01735" summary="Dziele tekst po białych znakach, usuwając znaki interpunkcyjne">
-      <option name="closed" value="true" />
-      <created>1744752510761</created>
-      <option name="number" value="01735" />
-      <option name="presentableId" value="LOCAL-01735" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752510761</updated>
+      <workItem from="1743443121163" duration="35968000" />
     </task>
     <task id="LOCAL-01736" summary="automatycznie sortuje alfabetycznie">
       <option name="closed" value="true" />
@@ -554,7 +538,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744980449544</updated>
     </task>
-    <option name="localTasksCounter" value="1783" />
+    <task id="LOCAL-01783" summary="obrót w prawo (+1 z modulo 4)">
+      <option name="closed" value="true" />
+      <created>1744980463556</created>
+      <option name="number" value="01783" />
+      <option name="presentableId" value="LOCAL-01783" />
+      <option name="project" value="LOCAL" />
+      <updated>1744980463556</updated>
+    </task>
+    <task id="LOCAL-01784" summary="//Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów">
+      <option name="closed" value="true" />
+      <created>1744985308339</created>
+      <option name="number" value="01784" />
+      <option name="presentableId" value="LOCAL-01784" />
+      <option name="project" value="LOCAL" />
+      <updated>1744985308339</updated>
+    </task>
+    <option name="localTasksCounter" value="1785" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ZapisDoPliku" />
     <MESSAGE value="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC." />
     <MESSAGE value=" Zadanie: Licznik głosów (mapowanie imion na liczbę głosów)&#10; &#10;Stwórz program, który:&#10;&#10;Pozwala użytkownikowi wpisywać imiona osób, na które chce oddać głos,&#10;&#10;Po wpisaniu &quot;koniec&quot; kończy działanie,&#10;&#10;Wypisuje ile głosów otrzymała każda osoba,&#10;&#10;Wypisuje zwycięzcę (osobę z największą liczbą głosów)." />
     <MESSAGE value="LicznikGlosow" />
@@ -597,7 +596,8 @@
     <MESSAGE value="Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek." />
     <MESSAGE value="obrót w lewo (czyli -1 z modulo 4)" />
     <MESSAGE value="obrót w prawo (+1 z modulo 4)" />
-    <option name="LAST_COMMIT_MESSAGE" value="obrót w prawo (+1 z modulo 4)" />
+    <MESSAGE value="//Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów" />
+    <option name="LAST_COMMIT_MESSAGE" value="//Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
