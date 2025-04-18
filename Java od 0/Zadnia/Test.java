@@ -473,4 +473,7 @@ public class Podzielne{
             i++;
         }
     }
-} 
+}
+
+==========================================================================================
+//Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek.
