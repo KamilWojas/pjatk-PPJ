@@ -493,8 +493,11 @@ public class Kompas{
                 pozycja = (pozycja + 3) % 4;
             } else if (c == 'D' || c == 'd') {
                 pozycja = (pozycja + 1) % 4;
-
+            }else {
+                System.out.println("Koniec");
+                break;
             }
+            System.out.println(kierunki[pozycja]);
         }
     }
 }
