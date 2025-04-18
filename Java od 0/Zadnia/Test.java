@@ -484,5 +484,14 @@ public class Kompas{
         
         String[] kierunki = {"North", "East", "South", "West"};
         int pozycja = 0;
+
+        while (true){
+            System.out.println("-> ");
+            char c = in.next().charAt(0);
+
+            if (c == 'A' || c == 'a'){
+                pozycja = (pozycja + 3) % 4;
+            }
+        }
     }
 }
