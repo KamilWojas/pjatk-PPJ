@@ -491,6 +491,9 @@ public class Kompas{
 
             if (c == 'A' || c == 'a'){
                 pozycja = (pozycja + 3) % 4;
+            } else if (c == 'D' || c == 'd') {
+                pozycja = (pozycja + 1) % 4;
+
             }
         }
     }

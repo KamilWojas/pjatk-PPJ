@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek.">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="obrót w lewo (czyli -1 z modulo 4)">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,23 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="34303000" />
-    </task>
-    <task id="LOCAL-01729" summary="MinMaxWartosc">
-      <option name="closed" value="true" />
-      <created>1744662572938</created>
-      <option name="number" value="01729" />
-      <option name="presentableId" value="LOCAL-01729" />
-      <option name="project" value="LOCAL" />
-      <updated>1744662572938</updated>
-    </task>
-    <task id="LOCAL-01730" summary="MinMaxWartosc">
-      <option name="closed" value="true" />
-      <created>1744662625914</created>
-      <option name="number" value="01730" />
-      <option name="presentableId" value="LOCAL-01730" />
-      <option name="project" value="LOCAL" />
-      <updated>1744662625914</updated>
+      <workItem from="1743443121163" duration="34637000" />
     </task>
     <task id="LOCAL-01731" summary="UnikalneSlowa">
       <option name="closed" value="true" />
@@ -554,7 +538,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744977460678</updated>
     </task>
-    <option name="localTasksCounter" value="1778" />
+    <task id="LOCAL-01778" summary="Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek.">
+      <option name="closed" value="true" />
+      <created>1744977575579</created>
+      <option name="number" value="01778" />
+      <option name="presentableId" value="LOCAL-01778" />
+      <option name="project" value="LOCAL" />
+      <updated>1744977575579</updated>
+    </task>
+    <task id="LOCAL-01779" summary="obrót w lewo (czyli -1 z modulo 4)">
+      <option name="closed" value="true" />
+      <created>1744977732638</created>
+      <option name="number" value="01779" />
+      <option name="presentableId" value="LOCAL-01779" />
+      <option name="project" value="LOCAL" />
+      <updated>1744977732638</updated>
+    </task>
+    <option name="localTasksCounter" value="1780" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Arrays.sort(liczby) – sortuje rosnąco,&#10;&#10;Arrays.sort(liczby, Collections.reverseOrder()) – sortuje malejąco,&#10;&#10;Używamy Integer[], bo Collections.reverseOrder() nie działa z int[]." />
     <MESSAGE value="Zadanie: Zapis tekstu użytkownika do pliku&#10;Poproś użytkownika o wpisanie kilku linii tekstu.&#10;Zapisz je do pliku notatka.txt." />
     <MESSAGE value="ZapisDoPliku" />
     <MESSAGE value="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC." />
@@ -597,7 +596,8 @@
     <MESSAGE value="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt" />
     <MESSAGE value="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500." />
     <MESSAGE value="Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek." />
-    <option name="LAST_COMMIT_MESSAGE" value="Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek." />
+    <MESSAGE value="obrót w lewo (czyli -1 z modulo 4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="obrót w lewo (czyli -1 z modulo 4)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
