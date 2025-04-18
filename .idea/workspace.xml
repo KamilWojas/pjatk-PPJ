@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="obrót w lewo (czyli -1 z modulo 4)">
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="obrót w prawo (+1 z modulo 4)">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,31 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="34637000" />
-    </task>
-    <task id="LOCAL-01731" summary="UnikalneSlowa">
-      <option name="closed" value="true" />
-      <created>1744663346276</created>
-      <option name="number" value="01731" />
-      <option name="presentableId" value="LOCAL-01731" />
-      <option name="project" value="LOCAL" />
-      <updated>1744663346276</updated>
-    </task>
-    <task id="LOCAL-01732" summary="UnikalneSlowa">
-      <option name="closed" value="true" />
-      <created>1744752466095</created>
-      <option name="number" value="01732" />
-      <option name="presentableId" value="LOCAL-01732" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752466095</updated>
-    </task>
-    <task id="LOCAL-01733" summary="UnikalneSlowa">
-      <option name="closed" value="true" />
-      <created>1744752472282</created>
-      <option name="number" value="01733" />
-      <option name="presentableId" value="LOCAL-01733" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752472282</updated>
+      <workItem from="1743443121163" duration="35304000" />
     </task>
     <task id="LOCAL-01734" summary="UnikalneSlowa">
       <option name="closed" value="true" />
@@ -554,7 +530,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744977732638</updated>
     </task>
-    <option name="localTasksCounter" value="1780" />
+    <task id="LOCAL-01780" summary="obrót w prawo (+1 z modulo 4)">
+      <option name="closed" value="true" />
+      <created>1744977810851</created>
+      <option name="number" value="01780" />
+      <option name="presentableId" value="LOCAL-01780" />
+      <option name="project" value="LOCAL" />
+      <updated>1744977810851</updated>
+    </task>
+    <task id="LOCAL-01781" summary="obrót w prawo (+1 z modulo 4)">
+      <option name="closed" value="true" />
+      <created>1744977855641</created>
+      <option name="number" value="01781" />
+      <option name="presentableId" value="LOCAL-01781" />
+      <option name="project" value="LOCAL" />
+      <updated>1744977855641</updated>
+    </task>
+    <task id="LOCAL-01782" summary="obrót w prawo (+1 z modulo 4)">
+      <option name="closed" value="true" />
+      <created>1744980449544</created>
+      <option name="number" value="01782" />
+      <option name="presentableId" value="LOCAL-01782" />
+      <option name="project" value="LOCAL" />
+      <updated>1744980449544</updated>
+    </task>
+    <option name="localTasksCounter" value="1783" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie: Zapis tekstu użytkownika do pliku&#10;Poproś użytkownika o wpisanie kilku linii tekstu.&#10;Zapisz je do pliku notatka.txt." />
     <MESSAGE value="ZapisDoPliku" />
     <MESSAGE value="FileWriter służy do zapisu tekstu do pliku,&#10;&#10;System.lineSeparator() dodaje znak końca linii (działa na każdym systemie),&#10;&#10;Użytkownik kończy wpisywanie wpisując KONIEC." />
     <MESSAGE value=" Zadanie: Licznik głosów (mapowanie imion na liczbę głosów)&#10; &#10;Stwórz program, który:&#10;&#10;Pozwala użytkownikowi wpisywać imiona osób, na które chce oddać głos,&#10;&#10;Po wpisaniu &quot;koniec&quot; kończy działanie,&#10;&#10;Wypisuje ile głosów otrzymała każda osoba,&#10;&#10;Wypisuje zwycięzcę (osobę z największą liczbą głosów)." />
@@ -597,7 +596,8 @@
     <MESSAGE value="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500." />
     <MESSAGE value="Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek." />
     <MESSAGE value="obrót w lewo (czyli -1 z modulo 4)" />
-    <option name="LAST_COMMIT_MESSAGE" value="obrót w lewo (czyli -1 z modulo 4)" />
+    <MESSAGE value="obrót w prawo (+1 z modulo 4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="obrót w prawo (+1 z modulo 4)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
