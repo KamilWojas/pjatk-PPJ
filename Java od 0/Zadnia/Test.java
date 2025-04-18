@@ -477,3 +477,12 @@ public class Podzielne{
 
 ==========================================================================================
 //Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek.
+
+public class Kompas{
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        
+        String[] kierunki = {"North", "East", "South", "West"};
+        int pozycja = 0;
+    }
+}
