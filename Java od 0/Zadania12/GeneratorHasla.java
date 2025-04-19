@@ -22,3 +22,8 @@ public class GeneratorHasla {
             int index = random.nextInt(znaki.length());
             haslo.append(znaki.charAt(index));
         }
+
+        System.out.println("Wygenerowane hasło: " + haslo.toString());
+        scanner.close();
+    }
+}
