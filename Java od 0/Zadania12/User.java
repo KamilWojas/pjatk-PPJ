@@ -18,3 +18,8 @@ class User {
         return "User: " + username + ", Email: " + email + ", Age: " + age;
     }
 }
+
+public class ListaUzytkownikow {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        List<User> users = new ArrayList<>();
