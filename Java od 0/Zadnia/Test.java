@@ -498,7 +498,7 @@ public class Kompas{
                 break;
             }
             System.out.println(kierunki[pozycja]);
-        }
+        } 
     }
 }
 
