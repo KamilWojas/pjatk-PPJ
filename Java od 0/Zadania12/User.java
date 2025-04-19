@@ -31,3 +31,15 @@ public class ListaUzytkownikow {
             System.out.println("3. Wyjdź");
             System.out.print("Wybierz opcję: ");
             String wybor = scanner.nextLine();
+
+            switch (wybor) {
+                case "1":
+                    System.out.print("Nazwa użytkownika: ");
+                    String username = scanner.nextLine();
+                    System.out.print("Email: ");
+                    String email = scanner.nextLine();
+                    System.out.print("Wiek: ");
+                    int age = Integer.parseInt(scanner.nextLine());
+                    users.add(new User(username, email, age));
+                    System.out.println("Użytkownik dodany!");
+                    break;
