@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="GeneratorHasla" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,103 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="36629000" />
-    </task>
-    <task id="LOCAL-01738" summary="Instrukcja warunkowa">
-      <option name="closed" value="true" />
-      <created>1744752569127</created>
-      <option name="number" value="01738" />
-      <option name="presentableId" value="LOCAL-01738" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752569127</updated>
-    </task>
-    <task id="LOCAL-01739" summary="🔹 replaceAll(...)&#10;Usuwamy przecinki, kropki, znaki specjalne – zostają tylko litery, cyfry i spacje.&#10;&#10; toLowerCase()&#10;Dzięki temu &quot;Java&quot; i &quot;java&quot; będą traktowane jak to samo słowo.&#10;&#10; split(&quot;\\s+&quot;)&#10;Dzieli tekst na tablicę słów – jedno lub więcej białych znaków.&#10;&#10; TreeSet&#10;Przechowuje unikalne słowa i automatycznie sortuje je alfabetycznie.">
-      <option name="closed" value="true" />
-      <created>1744752610030</created>
-      <option name="number" value="01739" />
-      <option name="presentableId" value="LOCAL-01739" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752610030</updated>
-    </task>
-    <task id="LOCAL-01740" summary="SystemLogowania">
-      <option name="closed" value="true" />
-      <created>1744752656390</created>
-      <option name="number" value="01740" />
-      <option name="presentableId" value="LOCAL-01740" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752656390</updated>
-    </task>
-    <task id="LOCAL-01741" summary="Stwórz aplikację konsolową, która:&#10;&#10;Pozwala użytkownikowi zarejestrować login i hasło,&#10;&#10;Następnie umożliwia zalogowanie, sprawdzając dane,&#10;&#10;Obsługuje wiele kont (mapa użytkowników),&#10;&#10;Pozwala wybrać: 1 – rejestracja, 2 – logowanie, 3 – zakończ.">
-      <option name="closed" value="true" />
-      <created>1744752675733</created>
-      <option name="number" value="01741" />
-      <option name="presentableId" value="LOCAL-01741" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752675733</updated>
-    </task>
-    <task id="LOCAL-01742" summary="SystemLogowania">
-      <option name="closed" value="true" />
-      <created>1744752699144</created>
-      <option name="number" value="01742" />
-      <option name="presentableId" value="LOCAL-01742" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752699144</updated>
-    </task>
-    <task id="LOCAL-01743" summary="SystemLogowania">
-      <option name="closed" value="true" />
-      <created>1744752729217</created>
-      <option name="number" value="01743" />
-      <option name="presentableId" value="LOCAL-01743" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752729217</updated>
-    </task>
-    <task id="LOCAL-01744" summary="SystemLogowania">
-      <option name="closed" value="true" />
-      <created>1744752748852</created>
-      <option name="number" value="01744" />
-      <option name="presentableId" value="LOCAL-01744" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752748852</updated>
-    </task>
-    <task id="LOCAL-01745" summary="SystemLogowania">
-      <option name="closed" value="true" />
-      <created>1744752767109</created>
-      <option name="number" value="01745" />
-      <option name="presentableId" value="LOCAL-01745" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752767109</updated>
-    </task>
-    <task id="LOCAL-01746" summary="Map&lt;String, String&gt; uzytkownicy = new HashMap&lt;&gt;();&#10;Klucz: login użytkownika,&#10;&#10;Wartość: hasło.&#10;&#10;Rejestracja&#10;Jeśli login już istnieje → nie pozwalamy na duplikat,&#10;&#10;W przeciwnym razie dodajemy nowego użytkownika.&#10;&#10;Logowanie&#10;Sprawdzamy, czy login istnieje i czy hasło się zgadza (get().equals()).&#10;&#10;Pętla while (true)&#10;Zapętlamy menu, dopóki użytkownik nie wybierze opcji „3”.">
-      <option name="closed" value="true" />
-      <created>1744752810118</created>
-      <option name="number" value="01746" />
-      <option name="presentableId" value="LOCAL-01746" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752810118</updated>
-    </task>
-    <task id="LOCAL-01747" summary="SystemLogowania">
-      <option name="closed" value="true" />
-      <created>1744752854822</created>
-      <option name="number" value="01747" />
-      <option name="presentableId" value="LOCAL-01747" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752854822</updated>
-    </task>
-    <task id="LOCAL-01748" summary="Utworzenie mapy login–hasło">
-      <option name="closed" value="true" />
-      <created>1744752876008</created>
-      <option name="number" value="01748" />
-      <option name="presentableId" value="LOCAL-01748" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752876008</updated>
-    </task>
-    <task id="LOCAL-01749" summary="Utworzenie mapy login–hasło">
-      <option name="closed" value="true" />
-      <created>1744752891129</created>
-      <option name="number" value="01749" />
-      <option name="presentableId" value="LOCAL-01749" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752891129</updated>
+      <workItem from="1743443121163" duration="36932000" />
     </task>
     <task id="LOCAL-01750" summary="Utworzenie mapy login–hasło">
       <option name="closed" value="true" />
@@ -554,7 +456,103 @@
       <option name="project" value="LOCAL" />
       <updated>1745088570201</updated>
     </task>
-    <option name="localTasksCounter" value="1787" />
+    <task id="LOCAL-01787" summary="Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów">
+      <option name="closed" value="true" />
+      <created>1745088587539</created>
+      <option name="number" value="01787" />
+      <option name="presentableId" value="LOCAL-01787" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088587539</updated>
+    </task>
+    <task id="LOCAL-01788" summary="User">
+      <option name="closed" value="true" />
+      <created>1745088619618</created>
+      <option name="number" value="01788" />
+      <option name="presentableId" value="LOCAL-01788" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088619618</updated>
+    </task>
+    <task id="LOCAL-01789" summary="User">
+      <option name="closed" value="true" />
+      <created>1745088632382</created>
+      <option name="number" value="01789" />
+      <option name="presentableId" value="LOCAL-01789" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088632382</updated>
+    </task>
+    <task id="LOCAL-01790" summary="User">
+      <option name="closed" value="true" />
+      <created>1745088646056</created>
+      <option name="number" value="01790" />
+      <option name="presentableId" value="LOCAL-01790" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088646056</updated>
+    </task>
+    <task id="LOCAL-01791" summary="User">
+      <option name="closed" value="true" />
+      <created>1745088671148</created>
+      <option name="number" value="01791" />
+      <option name="presentableId" value="LOCAL-01791" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088671148</updated>
+    </task>
+    <task id="LOCAL-01792" summary="User">
+      <option name="closed" value="true" />
+      <created>1745088688862</created>
+      <option name="number" value="01792" />
+      <option name="presentableId" value="LOCAL-01792" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088688862</updated>
+    </task>
+    <task id="LOCAL-01793" summary="User">
+      <option name="closed" value="true" />
+      <created>1745088703328</created>
+      <option name="number" value="01793" />
+      <option name="presentableId" value="LOCAL-01793" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088703328</updated>
+    </task>
+    <task id="LOCAL-01794" summary="User">
+      <option name="closed" value="true" />
+      <created>1745088721446</created>
+      <option name="number" value="01794" />
+      <option name="presentableId" value="LOCAL-01794" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088721446</updated>
+    </task>
+    <task id="LOCAL-01795" summary="User">
+      <option name="closed" value="true" />
+      <created>1745088741542</created>
+      <option name="number" value="01795" />
+      <option name="presentableId" value="LOCAL-01795" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088741542</updated>
+    </task>
+    <task id="LOCAL-01796" summary="User">
+      <option name="closed" value="true" />
+      <created>1745088756359</created>
+      <option name="number" value="01796" />
+      <option name="presentableId" value="LOCAL-01796" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088756359</updated>
+    </task>
+    <task id="LOCAL-01797" summary="GeneratorHasla">
+      <option name="closed" value="true" />
+      <created>1745088838807</created>
+      <option name="number" value="01797" />
+      <option name="presentableId" value="LOCAL-01797" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088838807</updated>
+    </task>
+    <task id="LOCAL-01798" summary="GeneratorHasla">
+      <option name="closed" value="true" />
+      <created>1745088853640</created>
+      <option name="number" value="01798" />
+      <option name="presentableId" value="LOCAL-01798" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088853640</updated>
+    </task>
+    <option name="localTasksCounter" value="1799" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,8 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" Zadanie: Licznik głosów (mapowanie imion na liczbę głosów)&#10; &#10;Stwórz program, który:&#10;&#10;Pozwala użytkownikowi wpisywać imiona osób, na które chce oddać głos,&#10;&#10;Po wpisaniu &quot;koniec&quot; kończy działanie,&#10;&#10;Wypisuje ile głosów otrzymała każda osoba,&#10;&#10;Wypisuje zwycięzcę (osobę z największą liczbą głosów)." />
-    <MESSAGE value="LicznikGlosow" />
     <MESSAGE value="MinMaxWartosc" />
     <MESSAGE value="UnikalneSlowa" />
     <MESSAGE value="Dziele tekst po białych znakach, usuwając znaki interpunkcyjne" />
@@ -597,7 +593,9 @@
     <MESSAGE value="obrót w prawo (+1 z modulo 4)" />
     <MESSAGE value="//Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów" />
     <MESSAGE value="Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów" />
+    <MESSAGE value="User" />
+    <MESSAGE value="GeneratorHasla" />
+    <option name="LAST_COMMIT_MESSAGE" value="GeneratorHasla" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -16,3 +16,9 @@ public class GeneratorHasla {
             scanner.close();
             return;
         }
+
+        StringBuilder haslo = new StringBuilder();
+        for (int i = 0; i < dlugosc; i++) {
+            int index = random.nextInt(znaki.length());
+            haslo.append(znaki.charAt(index));
+        }
