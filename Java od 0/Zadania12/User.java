@@ -43,3 +43,13 @@ public class ListaUzytkownikow {
                     users.add(new User(username, email, age));
                     System.out.println("Użytkownik dodany!");
                     break;
+
+                case "2":
+                    if (users.isEmpty()) {
+                        System.out.println("Brak użytkowników.");
+                    } else {
+                        for (User u : users) {
+                            System.out.println(u);
+                        }
+                    }
+                    break;
