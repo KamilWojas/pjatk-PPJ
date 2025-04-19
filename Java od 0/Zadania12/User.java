@@ -53,3 +53,15 @@ public class ListaUzytkownikow {
                         }
                     }
                     break;
+
+                case "3":
+                    System.out.println("Zakończono.");
+                    scanner.close();
+                    return;
+
+                default:
+                    System.out.println("Nieprawidłowa opcja.");
+            }
+        }
+    }
+}
