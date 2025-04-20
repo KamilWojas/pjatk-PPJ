@@ -44,3 +44,13 @@ public class SystemProduktow {
                     produkty.add(new Product(name, category, price));
                     System.out.println("Dodano!");
                     break;
+
+                case "2":
+                    if (produkty.isEmpty()) {
+                        System.out.println("Brak produktów.");
+                    } else {
+                        for (Product p : produkty) {
+                            System.out.println(p);
+                        }
+                    }
+                    break;
