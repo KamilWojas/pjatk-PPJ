@@ -23,3 +23,12 @@ public class SystemProduktow {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<Product> produkty = new ArrayList<>();
+
+        while (true) {
+            System.out.println("\n--- MENU ---");
+            System.out.println("1. Dodaj produkt");
+            System.out.println("2. Wyświetl wszystkie produkty");
+            System.out.println("3. Filtruj po kategorii");
+            System.out.println("4. Zakończ");
+            System.out.print("Wybierz opcję: ");
+            String wybor = scanner.nextLine();
