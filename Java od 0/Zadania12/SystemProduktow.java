@@ -32,3 +32,15 @@ public class SystemProduktow {
             System.out.println("4. Zakończ");
             System.out.print("Wybierz opcję: ");
             String wybor = scanner.nextLine();
+
+            switch (wybor) {
+                case "1":
+                    System.out.print("Nazwa produktu: ");
+                    String name = scanner.nextLine();
+                    System.out.print("Kategoria: ");
+                    String category = scanner.nextLine();
+                    System.out.print("Cena: ");
+                    double price = Double.parseDouble(scanner.nextLine());
+                    produkty.add(new Product(name, category, price));
+                    System.out.println("Dodano!");
+                    break;
