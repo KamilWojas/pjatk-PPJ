@@ -18,3 +18,8 @@ class Product {
         return name + " (" + category + ") - " + price + " zł";
     }
 }
+
+public class SystemProduktow {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        List<Product> produkty = new ArrayList<>();
