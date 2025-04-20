@@ -12,3 +12,9 @@ class Product {
         this.category = category;
         this.price = price;
     }
+
+    @Override
+    public String toString() {
+        return name + " (" + category + ") - " + price + " zł";
+    }
+}
