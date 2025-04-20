@@ -8,3 +8,7 @@ public class KalkulatorWiek {
 
         System.out.print("Podaj swoją datę urodzenia (RRRR-MM-DD): ");
         String dataTekst = scanner.nextLine();
+
+        try {
+            LocalDate dataUrodzenia = LocalDate.parse(dataTekst);
+            LocalDate dzis = LocalDate.now();
