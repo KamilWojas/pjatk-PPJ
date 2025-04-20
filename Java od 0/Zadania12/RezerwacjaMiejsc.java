@@ -10,3 +10,11 @@ public class RezerwacjaMiejsc {
                 sala[i][j] = 'O';
             }
         }
+
+        while (true) {
+            System.out.println("\n--- MENU ---");
+            System.out.println("1. Pokaż miejsca");
+            System.out.println("2. Zarezerwuj miejsce");
+            System.out.println("3. Wyjdź");
+            System.out.print("Wybierz opcję: ");
+            String wybor = scanner.nextLine();
