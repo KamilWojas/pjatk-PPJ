@@ -69,3 +69,16 @@ public class SystemProduktow {
                         System.out.println("Brak produktów w tej kategorii.");
                     }
                     break;
+
+
+                case "4":
+                    System.out.println("Zakończono.");
+                    scanner.close();
+                    return;
+
+                default:
+                    System.out.println("Nieprawidłowa opcja.");
+            }
+        }
+    }
+}
