@@ -12,3 +12,11 @@ public class KalkulatorWiek {
         try {
             LocalDate dataUrodzenia = LocalDate.parse(dataTekst);
             LocalDate dzis = LocalDate.now();
+
+            if (dataUrodzenia.isAfter(dzis)) {
+                System.out.println("Data urodzenia nie może być w przyszłości.");
+            } else {
+                Period wiek = Period.between(dataUrodzenia, dzis);
+                System.out.println("Masz: " + wiek.getYears() + " lat, " + wiek.getMonths() + " miesięcy i " + wiek.getDays() + " dni.");
+            }
+
