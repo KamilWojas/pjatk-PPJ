@@ -20,3 +20,10 @@ public class KalkulatorWiek {
                 System.out.println("Masz: " + wiek.getYears() + " lat, " + wiek.getMonths() + " miesięcy i " + wiek.getDays() + " dni.");
             }
 
+        } catch (Exception e) {
+            System.out.println("Błędny format daty. Użyj RRRR-MM-DD.");
+        }
+
+        scanner.close();
+    }
+}
