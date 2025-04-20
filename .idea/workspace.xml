@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="GeneratorHasla" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="GeneratorHasla">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Zadania12/RezerwacjaMiejsc.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,23 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="36932000" />
-    </task>
-    <task id="LOCAL-01750" summary="Utworzenie mapy login–hasło">
-      <option name="closed" value="true" />
-      <created>1744752908825</created>
-      <option name="number" value="01750" />
-      <option name="presentableId" value="LOCAL-01750" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752908825</updated>
-    </task>
-    <task id="LOCAL-01751" summary="SystemLogowania">
-      <option name="closed" value="true" />
-      <created>1744752920902</created>
-      <option name="number" value="01751" />
-      <option name="presentableId" value="LOCAL-01751" />
-      <option name="project" value="LOCAL" />
-      <updated>1744752920902</updated>
+      <workItem from="1743443121163" duration="37291000" />
     </task>
     <task id="LOCAL-01752" summary="SystemLogowania">
       <option name="closed" value="true" />
@@ -552,7 +538,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745088853640</updated>
     </task>
-    <option name="localTasksCounter" value="1799" />
+    <task id="LOCAL-01799" summary="GeneratorHasla">
+      <option name="closed" value="true" />
+      <created>1745088888467</created>
+      <option name="number" value="01799" />
+      <option name="presentableId" value="LOCAL-01799" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088888467</updated>
+    </task>
+    <task id="LOCAL-01800" summary="GeneratorHasla">
+      <option name="closed" value="true" />
+      <created>1745088906912</created>
+      <option name="number" value="01800" />
+      <option name="presentableId" value="LOCAL-01800" />
+      <option name="project" value="LOCAL" />
+      <updated>1745088906912</updated>
+    </task>
+    <option name="localTasksCounter" value="1801" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
