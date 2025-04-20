@@ -45,3 +45,15 @@ public class RezerwacjaMiejsc {
                     }
                     break;
 
+                case "3":
+                    System.out.println("Zakończono.");
+                    scanner.close();
+                    return;
+
+                default:
+                    System.out.println("Nieprawidłowa opcja.");
+            }
+        }
+    }
+}
+
