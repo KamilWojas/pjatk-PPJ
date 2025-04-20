@@ -54,3 +54,18 @@ public class SystemProduktow {
                         }
                     }
                     break;
+
+                case "3":
+                    System.out.print("Podaj kategorię: ");
+                    String szukanaKategoria = scanner.nextLine();
+                    boolean znaleziono = false;
+                    for (Product p : produkty) {
+                        if (p.category.equalsIgnoreCase(szukanaKategoria)) {
+                            System.out.println(p);
+                            znaleziono = true;
+                        }
+                    }
+                    if (!znaleziono) {
+                        System.out.println("Brak produktów w tej kategorii.");
+                    }
+                    break;
