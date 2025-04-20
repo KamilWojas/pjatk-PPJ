@@ -31,3 +31,17 @@ public class RezerwacjaMiejsc {
                     }
                     break;
 
+                case "2":
+                    System.out.print("Podaj numer rzędu (1-5): ");
+                    int rzad = Integer.parseInt(scanner.nextLine()) - 1;
+                    System.out.print("Podaj numer miejsca (1-6): ");
+                    int miejsce = Integer.parseInt(scanner.nextLine()) - 1;
+
+                    if (sala[rzad][miejsce] == 'X') {
+                        System.out.println("To miejsce jest już zajęte.");
+                    } else {
+                        sala[rzad][miejsce] = 'X';
+                        System.out.println("Miejsce zostało zarezerwowane.");
+                    }
+                    break;
+
