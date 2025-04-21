@@ -77,7 +77,7 @@ public class SystemProduktow {
                     return;
 
                 default:
-                    System.out.println("Nieprawidłowa opcja.");
+                    System.out.println("Nieprawidłowa opcja."); 
             }
         }
     }
