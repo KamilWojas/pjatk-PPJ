@@ -540,4 +540,10 @@ public class BajtyInt{
             System.out.println("Liczba: " + n + "-> Bajty (od końca): " + Arrays.toString(reverse(bajty)));
         }
     }
+
+    public static byte[] reverse(byte[] bajty){
+        for (int i = 0; i < bajty.length /2; i++){
+            byte tmp = bajty[i];
+        }
+    }
 }

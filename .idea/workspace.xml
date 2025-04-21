@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wynik opercji bitowej w pętli for" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Typy danych i operacje bitowe">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,23 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="39480000" />
-    </task>
-    <task id="LOCAL-01787" summary="Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów">
-      <option name="closed" value="true" />
-      <created>1745088587539</created>
-      <option name="number" value="01787" />
-      <option name="presentableId" value="LOCAL-01787" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088587539</updated>
-    </task>
-    <task id="LOCAL-01788" summary="User">
-      <option name="closed" value="true" />
-      <created>1745088619618</created>
-      <option name="number" value="01788" />
-      <option name="presentableId" value="LOCAL-01788" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088619618</updated>
+      <workItem from="1743443121163" duration="39832000" />
     </task>
     <task id="LOCAL-01789" summary="User">
       <option name="closed" value="true" />
@@ -552,7 +538,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745226732444</updated>
     </task>
-    <option name="localTasksCounter" value="1836" />
+    <task id="LOCAL-01836" summary="Typy danych i operacje bitowe">
+      <option name="closed" value="true" />
+      <created>1745226814487</created>
+      <option name="number" value="01836" />
+      <option name="presentableId" value="LOCAL-01836" />
+      <option name="project" value="LOCAL" />
+      <updated>1745226814487</updated>
+    </task>
+    <task id="LOCAL-01837" summary="Typy danych i operacje bitowe">
+      <option name="closed" value="true" />
+      <created>1745226983737</created>
+      <option name="number" value="01837" />
+      <option name="presentableId" value="LOCAL-01837" />
+      <option name="project" value="LOCAL" />
+      <updated>1745226983737</updated>
+    </task>
+    <option name="localTasksCounter" value="1838" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zmodyfikuj kod pętli tak aby wykorzytał pętle while" />
     <MESSAGE value="Przedstaw różnicę między pętlami while i do while" />
     <MESSAGE value="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt" />
     <MESSAGE value="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500." />
@@ -595,7 +596,8 @@
     <MESSAGE value="Zliczamy wystąpienia" />
     <MESSAGE value="Pętla for po literach alfabetu" />
     <MESSAGE value="Wynik opercji bitowej w pętli for" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wynik opercji bitowej w pętli for" />
+    <MESSAGE value="Typy danych i operacje bitowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typy danych i operacje bitowe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
