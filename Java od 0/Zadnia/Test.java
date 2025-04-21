@@ -549,4 +549,4 @@ public class BajtyInt{
         }
         return bajty;
     }
-}
+} 
