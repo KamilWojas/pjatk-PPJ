@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="KalkulatorWiek" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="SystemProduktow" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,95 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="37597000" />
-    </task>
-    <task id="LOCAL-01766" summary="Zmodyfikuj kod pętli tak aby wykorzytał pętle while">
-      <option name="closed" value="true" />
-      <created>1744916821327</created>
-      <option name="number" value="01766" />
-      <option name="presentableId" value="LOCAL-01766" />
-      <option name="project" value="LOCAL" />
-      <updated>1744916821327</updated>
-    </task>
-    <task id="LOCAL-01767" summary="Zmodyfikuj kod pętli tak aby wykorzytał pętle while">
-      <option name="closed" value="true" />
-      <created>1744916922315</created>
-      <option name="number" value="01767" />
-      <option name="presentableId" value="LOCAL-01767" />
-      <option name="project" value="LOCAL" />
-      <updated>1744916922315</updated>
-    </task>
-    <task id="LOCAL-01768" summary="Zmodyfikuj kod pętli tak aby wykorzytał pętle while">
-      <option name="closed" value="true" />
-      <created>1744917014826</created>
-      <option name="number" value="01768" />
-      <option name="presentableId" value="LOCAL-01768" />
-      <option name="project" value="LOCAL" />
-      <updated>1744917014826</updated>
-    </task>
-    <task id="LOCAL-01769" summary="Przedstaw różnicę między pętlami while i do while">
-      <option name="closed" value="true" />
-      <created>1744917518471</created>
-      <option name="number" value="01769" />
-      <option name="presentableId" value="LOCAL-01769" />
-      <option name="project" value="LOCAL" />
-      <updated>1744917518471</updated>
-    </task>
-    <task id="LOCAL-01770" summary="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt">
-      <option name="closed" value="true" />
-      <created>1744917638665</created>
-      <option name="number" value="01770" />
-      <option name="presentableId" value="LOCAL-01770" />
-      <option name="project" value="LOCAL" />
-      <updated>1744917638665</updated>
-    </task>
-    <task id="LOCAL-01771" summary="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt">
-      <option name="closed" value="true" />
-      <created>1744917796176</created>
-      <option name="number" value="01771" />
-      <option name="presentableId" value="LOCAL-01771" />
-      <option name="project" value="LOCAL" />
-      <updated>1744917796176</updated>
-    </task>
-    <task id="LOCAL-01772" summary="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt">
-      <option name="closed" value="true" />
-      <created>1744917835842</created>
-      <option name="number" value="01772" />
-      <option name="presentableId" value="LOCAL-01772" />
-      <option name="project" value="LOCAL" />
-      <updated>1744917835842</updated>
-    </task>
-    <task id="LOCAL-01773" summary="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500.">
-      <option name="closed" value="true" />
-      <created>1744918606520</created>
-      <option name="number" value="01773" />
-      <option name="presentableId" value="LOCAL-01773" />
-      <option name="project" value="LOCAL" />
-      <updated>1744918606520</updated>
-    </task>
-    <task id="LOCAL-01774" summary="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500.">
-      <option name="closed" value="true" />
-      <created>1744922248928</created>
-      <option name="number" value="01774" />
-      <option name="presentableId" value="LOCAL-01774" />
-      <option name="project" value="LOCAL" />
-      <updated>1744922248928</updated>
-    </task>
-    <task id="LOCAL-01775" summary="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500.">
-      <option name="closed" value="true" />
-      <created>1744922270661</created>
-      <option name="number" value="01775" />
-      <option name="presentableId" value="LOCAL-01775" />
-      <option name="project" value="LOCAL" />
-      <updated>1744922270661</updated>
-    </task>
-    <task id="LOCAL-01776" summary="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500.">
-      <option name="closed" value="true" />
-      <created>1744927724711</created>
-      <option name="number" value="01776" />
-      <option name="presentableId" value="LOCAL-01776" />
-      <option name="project" value="LOCAL" />
-      <updated>1744927724711</updated>
+      <workItem from="1743443121163" duration="38270000" />
     </task>
     <task id="LOCAL-01777" summary="Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek.">
       <option name="closed" value="true" />
@@ -552,7 +464,95 @@
       <option name="project" value="LOCAL" />
       <updated>1745137874821</updated>
     </task>
-    <option name="localTasksCounter" value="1815" />
+    <task id="LOCAL-01815" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745137927392</created>
+      <option name="number" value="01815" />
+      <option name="presentableId" value="LOCAL-01815" />
+      <option name="project" value="LOCAL" />
+      <updated>1745137927392</updated>
+    </task>
+    <task id="LOCAL-01816" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745137942164</created>
+      <option name="number" value="01816" />
+      <option name="presentableId" value="LOCAL-01816" />
+      <option name="project" value="LOCAL" />
+      <updated>1745137942164</updated>
+    </task>
+    <task id="LOCAL-01817" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745137954129</created>
+      <option name="number" value="01817" />
+      <option name="presentableId" value="LOCAL-01817" />
+      <option name="project" value="LOCAL" />
+      <updated>1745137954129</updated>
+    </task>
+    <task id="LOCAL-01818" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745137983171</created>
+      <option name="number" value="01818" />
+      <option name="presentableId" value="LOCAL-01818" />
+      <option name="project" value="LOCAL" />
+      <updated>1745137983171</updated>
+    </task>
+    <task id="LOCAL-01819" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745137998251</created>
+      <option name="number" value="01819" />
+      <option name="presentableId" value="LOCAL-01819" />
+      <option name="project" value="LOCAL" />
+      <updated>1745137998251</updated>
+    </task>
+    <task id="LOCAL-01820" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745138011122</created>
+      <option name="number" value="01820" />
+      <option name="presentableId" value="LOCAL-01820" />
+      <option name="project" value="LOCAL" />
+      <updated>1745138011122</updated>
+    </task>
+    <task id="LOCAL-01821" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745138039237</created>
+      <option name="number" value="01821" />
+      <option name="presentableId" value="LOCAL-01821" />
+      <option name="project" value="LOCAL" />
+      <updated>1745138039238</updated>
+    </task>
+    <task id="LOCAL-01822" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745138056763</created>
+      <option name="number" value="01822" />
+      <option name="presentableId" value="LOCAL-01822" />
+      <option name="project" value="LOCAL" />
+      <updated>1745138056763</updated>
+    </task>
+    <task id="LOCAL-01823" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745138089547</created>
+      <option name="number" value="01823" />
+      <option name="presentableId" value="LOCAL-01823" />
+      <option name="project" value="LOCAL" />
+      <updated>1745138089547</updated>
+    </task>
+    <task id="LOCAL-01824" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745138104875</created>
+      <option name="number" value="01824" />
+      <option name="presentableId" value="LOCAL-01824" />
+      <option name="project" value="LOCAL" />
+      <updated>1745138104875</updated>
+    </task>
+    <task id="LOCAL-01825" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745224892876</created>
+      <option name="number" value="01825" />
+      <option name="presentableId" value="LOCAL-01825" />
+      <option name="project" value="LOCAL" />
+      <updated>1745224892876</updated>
+    </task>
+    <option name="localTasksCounter" value="1826" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Stwórz aplikację konsolową, która:&#10;&#10;Pozwala użytkownikowi zarejestrować login i hasło,&#10;&#10;Następnie umożliwia zalogowanie, sprawdzając dane,&#10;&#10;Obsługuje wiele kont (mapa użytkowników),&#10;&#10;Pozwala wybrać: 1 – rejestracja, 2 – logowanie, 3 – zakończ." />
     <MESSAGE value="Map&lt;String, String&gt; uzytkownicy = new HashMap&lt;&gt;();&#10;Klucz: login użytkownika,&#10;&#10;Wartość: hasło.&#10;&#10;Rejestracja&#10;Jeśli login już istnieje → nie pozwalamy na duplikat,&#10;&#10;W przeciwnym razie dodajemy nowego użytkownika.&#10;&#10;Logowanie&#10;Sprawdzamy, czy login istnieje i czy hasło się zgadza (get().equals()).&#10;&#10;Pętla while (true)&#10;Zapętlamy menu, dopóki użytkownik nie wybierze opcji „3”." />
     <MESSAGE value="Utworzenie mapy login–hasło" />
     <MESSAGE value="SystemLogowania" />
@@ -595,7 +594,8 @@
     <MESSAGE value="Pętla while" />
     <MESSAGE value="wybór" />
     <MESSAGE value="KalkulatorWiek" />
-    <option name="LAST_COMMIT_MESSAGE" value="KalkulatorWiek" />
+    <MESSAGE value="SystemProduktow" />
+    <option name="LAST_COMMIT_MESSAGE" value="SystemProduktow" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
