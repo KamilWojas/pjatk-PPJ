@@ -10,3 +10,9 @@ public class LicznikLiter {
         String tekst = scanner.nextLine().toLowerCase();
 
         Map<Character, Integer> mapa = new HashMap<>();
+
+        for (char c : tekst.toCharArray()) {
+            if (Character.isLetter(c)) {
+                mapa.put(c, mapa.getOrDefault(c, 0) + 1);
+            }
+        }
