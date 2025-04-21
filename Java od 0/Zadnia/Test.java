@@ -523,3 +523,4 @@ public class PetlaBitowa{
         System.out.println("Wynik operacji bitowej 4 | 1: " + (4 | 1));
     }
 }
+ 
