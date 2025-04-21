@@ -530,3 +530,14 @@ public class PetlaBitowa{
 
 ==========================================================================================
 //Typy danych i operacje bitowe
+
+public class BajtyInt{
+    public static void main(String[] args) {
+        int[] liczby = {123, 500, 1024, 4000};
+
+        for (int n : liczby){
+            byte[] bajty = ByteBuffer.allocate(4).putInt(n).array();
+            System.out.println("Liczba: " + n + "-> Bajty (od końca): " + Arrays.toString(reverse(bajty)));
+        }
+    }
+}
