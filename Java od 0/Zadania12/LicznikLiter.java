@@ -8,3 +8,5 @@ public class LicznikLiter {
     
         System.out.print("Wpisz tekst: ");
         String tekst = scanner.nextLine().toLowerCase();
+
+        Map<Character, Integer> mapa = new HashMap<>();
