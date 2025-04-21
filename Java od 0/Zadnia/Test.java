@@ -544,6 +544,9 @@ public class BajtyInt{
     public static byte[] reverse(byte[] bajty){
         for (int i = 0; i < bajty.length /2; i++){
             byte tmp = bajty[i];
+            bajty[i] = bajty[bajty.length - 1 - i];
+            bajty[bajty.length - 1 - i] = tmp;
         }
+        return bajty;
     }
 }
