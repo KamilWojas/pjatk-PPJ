@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="SystemProduktow" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Pętla for po literach alfabetu">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,71 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="38270000" />
-    </task>
-    <task id="LOCAL-01777" summary="Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek.">
-      <option name="closed" value="true" />
-      <created>1744977460678</created>
-      <option name="number" value="01777" />
-      <option name="presentableId" value="LOCAL-01777" />
-      <option name="project" value="LOCAL" />
-      <updated>1744977460678</updated>
-    </task>
-    <task id="LOCAL-01778" summary="Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek.">
-      <option name="closed" value="true" />
-      <created>1744977575579</created>
-      <option name="number" value="01778" />
-      <option name="presentableId" value="LOCAL-01778" />
-      <option name="project" value="LOCAL" />
-      <updated>1744977575579</updated>
-    </task>
-    <task id="LOCAL-01779" summary="obrót w lewo (czyli -1 z modulo 4)">
-      <option name="closed" value="true" />
-      <created>1744977732638</created>
-      <option name="number" value="01779" />
-      <option name="presentableId" value="LOCAL-01779" />
-      <option name="project" value="LOCAL" />
-      <updated>1744977732638</updated>
-    </task>
-    <task id="LOCAL-01780" summary="obrót w prawo (+1 z modulo 4)">
-      <option name="closed" value="true" />
-      <created>1744977810851</created>
-      <option name="number" value="01780" />
-      <option name="presentableId" value="LOCAL-01780" />
-      <option name="project" value="LOCAL" />
-      <updated>1744977810851</updated>
-    </task>
-    <task id="LOCAL-01781" summary="obrót w prawo (+1 z modulo 4)">
-      <option name="closed" value="true" />
-      <created>1744977855641</created>
-      <option name="number" value="01781" />
-      <option name="presentableId" value="LOCAL-01781" />
-      <option name="project" value="LOCAL" />
-      <updated>1744977855641</updated>
-    </task>
-    <task id="LOCAL-01782" summary="obrót w prawo (+1 z modulo 4)">
-      <option name="closed" value="true" />
-      <created>1744980449544</created>
-      <option name="number" value="01782" />
-      <option name="presentableId" value="LOCAL-01782" />
-      <option name="project" value="LOCAL" />
-      <updated>1744980449544</updated>
-    </task>
-    <task id="LOCAL-01783" summary="obrót w prawo (+1 z modulo 4)">
-      <option name="closed" value="true" />
-      <created>1744980463556</created>
-      <option name="number" value="01783" />
-      <option name="presentableId" value="LOCAL-01783" />
-      <option name="project" value="LOCAL" />
-      <updated>1744980463556</updated>
-    </task>
-    <task id="LOCAL-01784" summary="//Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów">
-      <option name="closed" value="true" />
-      <created>1744985308339</created>
-      <option name="number" value="01784" />
-      <option name="presentableId" value="LOCAL-01784" />
-      <option name="project" value="LOCAL" />
-      <updated>1744985308339</updated>
+      <workItem from="1743443121163" duration="38708000" />
     </task>
     <task id="LOCAL-01785" summary="//Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów">
       <option name="closed" value="true" />
@@ -552,7 +490,71 @@
       <option name="project" value="LOCAL" />
       <updated>1745224892876</updated>
     </task>
-    <option name="localTasksCounter" value="1826" />
+    <task id="LOCAL-01826" summary="SystemProduktow">
+      <option name="closed" value="true" />
+      <created>1745224918068</created>
+      <option name="number" value="01826" />
+      <option name="presentableId" value="LOCAL-01826" />
+      <option name="project" value="LOCAL" />
+      <updated>1745224918069</updated>
+    </task>
+    <task id="LOCAL-01827" summary="LicznikLiter">
+      <option name="closed" value="true" />
+      <created>1745224937009</created>
+      <option name="number" value="01827" />
+      <option name="presentableId" value="LOCAL-01827" />
+      <option name="project" value="LOCAL" />
+      <updated>1745224937009</updated>
+    </task>
+    <task id="LOCAL-01828" summary="LicznikLiter">
+      <option name="closed" value="true" />
+      <created>1745224952377</created>
+      <option name="number" value="01828" />
+      <option name="presentableId" value="LOCAL-01828" />
+      <option name="project" value="LOCAL" />
+      <updated>1745224952377</updated>
+    </task>
+    <task id="LOCAL-01829" summary="Zadanie:&#10;Poproś użytkownika o wpisanie tekstu, a następnie:&#10;&#10;Zlicz, ile razy występuje każda litera (ignorując wielkość liter),&#10;&#10;Wypisz wynik w formacie:&#10;a – 3 razy,&#10;b – 0 razy,&#10;c – 1 raz, itd.">
+      <option name="closed" value="true" />
+      <created>1745224976363</created>
+      <option name="number" value="01829" />
+      <option name="presentableId" value="LOCAL-01829" />
+      <option name="project" value="LOCAL" />
+      <updated>1745224976363</updated>
+    </task>
+    <task id="LOCAL-01830" summary="Prosimy o wpisanie tekstu">
+      <option name="closed" value="true" />
+      <created>1745225025612</created>
+      <option name="number" value="01830" />
+      <option name="presentableId" value="LOCAL-01830" />
+      <option name="project" value="LOCAL" />
+      <updated>1745225025612</updated>
+    </task>
+    <task id="LOCAL-01831" summary="Grupujemy produkty po kategorii">
+      <option name="closed" value="true" />
+      <created>1745225058430</created>
+      <option name="number" value="01831" />
+      <option name="presentableId" value="LOCAL-01831" />
+      <option name="project" value="LOCAL" />
+      <updated>1745225058430</updated>
+    </task>
+    <task id="LOCAL-01832" summary="Zliczamy wystąpienia">
+      <option name="closed" value="true" />
+      <created>1745225109000</created>
+      <option name="number" value="01832" />
+      <option name="presentableId" value="LOCAL-01832" />
+      <option name="project" value="LOCAL" />
+      <updated>1745225109000</updated>
+    </task>
+    <task id="LOCAL-01833" summary="Pętla for po literach alfabetu">
+      <option name="closed" value="true" />
+      <created>1745225146666</created>
+      <option name="number" value="01833" />
+      <option name="presentableId" value="LOCAL-01833" />
+      <option name="project" value="LOCAL" />
+      <updated>1745225146666</updated>
+    </task>
+    <option name="localTasksCounter" value="1834" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,12 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Map&lt;String, String&gt; uzytkownicy = new HashMap&lt;&gt;();&#10;Klucz: login użytkownika,&#10;&#10;Wartość: hasło.&#10;&#10;Rejestracja&#10;Jeśli login już istnieje → nie pozwalamy na duplikat,&#10;&#10;W przeciwnym razie dodajemy nowego użytkownika.&#10;&#10;Logowanie&#10;Sprawdzamy, czy login istnieje i czy hasło się zgadza (get().equals()).&#10;&#10;Pętla while (true)&#10;Zapętlamy menu, dopóki użytkownik nie wybierze opcji „3”." />
-    <MESSAGE value="Utworzenie mapy login–hasło" />
-    <MESSAGE value="SystemLogowania" />
-    <MESSAGE value="pętla for" />
-    <MESSAGE value="operator ||" />
-    <MESSAGE value="operator %" />
     <MESSAGE value="Tworzenie obiektu" />
     <MESSAGE value="Zmodyfikuj kod pętli tak aby wykorzytał pętle while" />
     <MESSAGE value="Przedstaw różnicę między pętlami while i do while" />
@@ -595,7 +591,13 @@
     <MESSAGE value="wybór" />
     <MESSAGE value="KalkulatorWiek" />
     <MESSAGE value="SystemProduktow" />
-    <option name="LAST_COMMIT_MESSAGE" value="SystemProduktow" />
+    <MESSAGE value="LicznikLiter" />
+    <MESSAGE value="Zadanie:&#10;Poproś użytkownika o wpisanie tekstu, a następnie:&#10;&#10;Zlicz, ile razy występuje każda litera (ignorując wielkość liter),&#10;&#10;Wypisz wynik w formacie:&#10;a – 3 razy,&#10;b – 0 razy,&#10;c – 1 raz, itd." />
+    <MESSAGE value="Prosimy o wpisanie tekstu" />
+    <MESSAGE value="Grupujemy produkty po kategorii" />
+    <MESSAGE value="Zliczamy wystąpienia" />
+    <MESSAGE value="Pętla for po literach alfabetu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pętla for po literach alfabetu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

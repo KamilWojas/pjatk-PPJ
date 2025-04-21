@@ -507,3 +507,19 @@ public class Kompas{
 //Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów
 
 int[] tab = new int[10];
+
+
+==========================================================================================
+//Działanie pętli do-while, warunku while(i < 3) oraz działania bitowego 4 | 1.
+
+public class PetlaBitowa{
+    public static void main(String[] args) {
+        int i = 0;
+        do {
+            System.out.println("Iteracja: " + 1);
+            i++;
+        }while (i < 3);
+
+        System.out.println("Wynik operacji bitowej 4 | 1: " + (4 | 1));
+    }
+}
