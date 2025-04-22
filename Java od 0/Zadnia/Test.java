@@ -554,3 +554,14 @@ public class BajtyInt{
 
 ==========================================================================================
 //Pokazać działanie konstruktora, wyjątku oraz efekt System.out.println() w konstruktorze.
+
+public class WyjatkiIKonstruktor {
+    public static void main(String[] args) {
+        try {
+            Test t = new Test(); // Konstruktor wyświetli komunikat
+            t.dziel(10, 0); // Błąd: dzielenie przez 0
+        } catch (ArithmeticException e) {
+            System.out.println("Błąd: " + e.getMessage());
+        }
+    }
+}
