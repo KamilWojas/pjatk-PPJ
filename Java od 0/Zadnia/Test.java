@@ -579,3 +579,13 @@ class Test {
 
 ==========================================================================================
 //Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.
+
+class Zwierze {
+    public void dajGlos() {
+        System.out.println("Zwierzę wydaje dźwięk");
+    }
+
+    public void dajGlos(String dodatkowy) { // Overloading
+        System.out.println("Zwierzę: " + dodatkowy);
+    }
+}
