@@ -550,3 +550,7 @@ public class BajtyInt{
         return bajty;
     }
 }  
+
+
+==========================================================================================
+//Pokazać działanie konstruktora, wyjątku oraz efekt System.out.println() w konstruktorze.
