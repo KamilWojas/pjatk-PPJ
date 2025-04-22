@@ -600,3 +600,10 @@ public class Polimorfizm {
     public static void main(String[] args) {
         Zwierze z1 = new Zwierze();
         Zwierze z2 = new Pies();
+
+        z1.dajGlos();      
+        z2.dajGlos();      
+        z1.dajGlos("zzz"); 
+
+    }
+}
