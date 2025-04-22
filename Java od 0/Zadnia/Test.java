@@ -575,3 +575,7 @@ class Test {
         System.out.println("Wynik: " + (a / b));
     }
 }
+
+
+==========================================================================================
+//Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.
