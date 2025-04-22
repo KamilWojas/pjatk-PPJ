@@ -589,3 +589,11 @@ class Zwierze {
         System.out.println("Zwierzę: " + dodatkowy);
     }
 }
+
+class Pies extends Zwierze {
+    @Override
+    public void dajGlos() {
+        System.out.println("Hau hau");
+    }
+}
+
