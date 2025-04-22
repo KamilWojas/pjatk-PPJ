@@ -565,3 +565,13 @@ public class WyjatkiIKonstruktor {
         }
     }
 }
+
+class Test {
+    public Test() {
+        System.out.println("Konstruktor został wywołany.");
+    }
+
+    public void dziel(int a, int b) {
+        System.out.println("Wynik: " + (a / b));
+    }
+}
