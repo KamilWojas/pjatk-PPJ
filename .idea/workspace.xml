@@ -160,39 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="39832000" />
-    </task>
-    <task id="LOCAL-01789" summary="User">
-      <option name="closed" value="true" />
-      <created>1745088632382</created>
-      <option name="number" value="01789" />
-      <option name="presentableId" value="LOCAL-01789" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088632382</updated>
-    </task>
-    <task id="LOCAL-01790" summary="User">
-      <option name="closed" value="true" />
-      <created>1745088646056</created>
-      <option name="number" value="01790" />
-      <option name="presentableId" value="LOCAL-01790" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088646056</updated>
-    </task>
-    <task id="LOCAL-01791" summary="User">
-      <option name="closed" value="true" />
-      <created>1745088671148</created>
-      <option name="number" value="01791" />
-      <option name="presentableId" value="LOCAL-01791" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088671148</updated>
-    </task>
-    <task id="LOCAL-01792" summary="User">
-      <option name="closed" value="true" />
-      <created>1745088688862</created>
-      <option name="number" value="01792" />
-      <option name="presentableId" value="LOCAL-01792" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088688862</updated>
+      <workItem from="1743443121163" duration="40481000" />
     </task>
     <task id="LOCAL-01793" summary="User">
       <option name="closed" value="true" />
@@ -554,7 +522,39 @@
       <option name="project" value="LOCAL" />
       <updated>1745226983737</updated>
     </task>
-    <option name="localTasksCounter" value="1838" />
+    <task id="LOCAL-01838" summary="Typy danych i operacje bitowe">
+      <option name="closed" value="true" />
+      <created>1745227099913</created>
+      <option name="number" value="01838" />
+      <option name="presentableId" value="LOCAL-01838" />
+      <option name="project" value="LOCAL" />
+      <updated>1745227099913</updated>
+    </task>
+    <task id="LOCAL-01839" summary="Typy danych i operacje bitowe">
+      <option name="closed" value="true" />
+      <created>1745227125086</created>
+      <option name="number" value="01839" />
+      <option name="presentableId" value="LOCAL-01839" />
+      <option name="project" value="LOCAL" />
+      <updated>1745227125086</updated>
+    </task>
+    <task id="LOCAL-01840" summary="Typy danych i operacje bitowe">
+      <option name="closed" value="true" />
+      <created>1745227140839</created>
+      <option name="number" value="01840" />
+      <option name="presentableId" value="LOCAL-01840" />
+      <option name="project" value="LOCAL" />
+      <updated>1745227140839</updated>
+    </task>
+    <task id="LOCAL-01841" summary="Typy danych i operacje bitowe">
+      <option name="closed" value="true" />
+      <created>1745271618687</created>
+      <option name="number" value="01841" />
+      <option name="presentableId" value="LOCAL-01841" />
+      <option name="project" value="LOCAL" />
+      <updated>1745271618687</updated>
+    </task>
+    <option name="localTasksCounter" value="1842" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
