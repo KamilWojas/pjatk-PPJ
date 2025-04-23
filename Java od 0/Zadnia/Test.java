@@ -603,7 +603,7 @@ public class Polimorfizm {
 
         z1.dajGlos();      
         z2.dajGlos();      
-        z1.dajGlos("zzz"); 
+        z1.dajGlos("zzz");  
 
     }
 }
