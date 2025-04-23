@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Typy danych i operacje bitowe" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,79 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="41675000" />
-    </task>
-    <task id="LOCAL-01795" summary="User">
-      <option name="closed" value="true" />
-      <created>1745088741542</created>
-      <option name="number" value="01795" />
-      <option name="presentableId" value="LOCAL-01795" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088741542</updated>
-    </task>
-    <task id="LOCAL-01796" summary="User">
-      <option name="closed" value="true" />
-      <created>1745088756359</created>
-      <option name="number" value="01796" />
-      <option name="presentableId" value="LOCAL-01796" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088756359</updated>
-    </task>
-    <task id="LOCAL-01797" summary="GeneratorHasla">
-      <option name="closed" value="true" />
-      <created>1745088838807</created>
-      <option name="number" value="01797" />
-      <option name="presentableId" value="LOCAL-01797" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088838807</updated>
-    </task>
-    <task id="LOCAL-01798" summary="GeneratorHasla">
-      <option name="closed" value="true" />
-      <created>1745088853640</created>
-      <option name="number" value="01798" />
-      <option name="presentableId" value="LOCAL-01798" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088853640</updated>
-    </task>
-    <task id="LOCAL-01799" summary="GeneratorHasla">
-      <option name="closed" value="true" />
-      <created>1745088888467</created>
-      <option name="number" value="01799" />
-      <option name="presentableId" value="LOCAL-01799" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088888467</updated>
-    </task>
-    <task id="LOCAL-01800" summary="GeneratorHasla">
-      <option name="closed" value="true" />
-      <created>1745088906912</created>
-      <option name="number" value="01800" />
-      <option name="presentableId" value="LOCAL-01800" />
-      <option name="project" value="LOCAL" />
-      <updated>1745088906912</updated>
-    </task>
-    <task id="LOCAL-01801" summary="RezerwacjaMiejsc">
-      <option name="closed" value="true" />
-      <created>1745137604331</created>
-      <option name="number" value="01801" />
-      <option name="presentableId" value="LOCAL-01801" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137604331</updated>
-    </task>
-    <task id="LOCAL-01802" summary="5 rzędów x 6 miejsc">
-      <option name="closed" value="true" />
-      <created>1745137632125</created>
-      <option name="number" value="01802" />
-      <option name="presentableId" value="LOCAL-01802" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137632125</updated>
-    </task>
-    <task id="LOCAL-01803" summary="Inicjalizacja miejsc jako wolnych ('O')">
-      <option name="closed" value="true" />
-      <created>1745137661541</created>
-      <option name="number" value="01803" />
-      <option name="presentableId" value="LOCAL-01803" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137661541</updated>
+      <workItem from="1743443121163" duration="42455000" />
     </task>
     <task id="LOCAL-01804" summary="Pętla while">
       <option name="closed" value="true" />
@@ -552,7 +480,79 @@
       <option name="project" value="LOCAL" />
       <updated>1745347634089</updated>
     </task>
-    <option name="localTasksCounter" value="1844" />
+    <task id="LOCAL-01844" summary="Typy danych i operacje bitowe">
+      <option name="closed" value="true" />
+      <created>1745358397794</created>
+      <option name="number" value="01844" />
+      <option name="presentableId" value="LOCAL-01844" />
+      <option name="project" value="LOCAL" />
+      <updated>1745358397794</updated>
+    </task>
+    <task id="LOCAL-01845" summary="Pokazać działanie konstruktora, wyjątku oraz efekt System.out.println() w konstruktorze.">
+      <option name="closed" value="true" />
+      <created>1745358424923</created>
+      <option name="number" value="01845" />
+      <option name="presentableId" value="LOCAL-01845" />
+      <option name="project" value="LOCAL" />
+      <updated>1745358424923</updated>
+    </task>
+    <task id="LOCAL-01846" summary="Pokazać działanie konstruktora, wyjątku oraz efekt System.out.println() w konstruktorze.">
+      <option name="closed" value="true" />
+      <created>1745358446046</created>
+      <option name="number" value="01846" />
+      <option name="presentableId" value="LOCAL-01846" />
+      <option name="project" value="LOCAL" />
+      <updated>1745358446046</updated>
+    </task>
+    <task id="LOCAL-01847" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
+      <option name="closed" value="true" />
+      <created>1745358483764</created>
+      <option name="number" value="01847" />
+      <option name="presentableId" value="LOCAL-01847" />
+      <option name="project" value="LOCAL" />
+      <updated>1745358483764</updated>
+    </task>
+    <task id="LOCAL-01848" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
+      <option name="closed" value="true" />
+      <created>1745358498910</created>
+      <option name="number" value="01848" />
+      <option name="presentableId" value="LOCAL-01848" />
+      <option name="project" value="LOCAL" />
+      <updated>1745358498910</updated>
+    </task>
+    <task id="LOCAL-01849" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
+      <option name="closed" value="true" />
+      <created>1745358510726</created>
+      <option name="number" value="01849" />
+      <option name="presentableId" value="LOCAL-01849" />
+      <option name="project" value="LOCAL" />
+      <updated>1745358510726</updated>
+    </task>
+    <task id="LOCAL-01850" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
+      <option name="closed" value="true" />
+      <created>1745358531248</created>
+      <option name="number" value="01850" />
+      <option name="presentableId" value="LOCAL-01850" />
+      <option name="project" value="LOCAL" />
+      <updated>1745358531248</updated>
+    </task>
+    <task id="LOCAL-01851" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
+      <option name="closed" value="true" />
+      <created>1745358554717</created>
+      <option name="number" value="01851" />
+      <option name="presentableId" value="LOCAL-01851" />
+      <option name="project" value="LOCAL" />
+      <updated>1745358554717</updated>
+    </task>
+    <task id="LOCAL-01852" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
+      <option name="closed" value="true" />
+      <created>1745435447753</created>
+      <option name="number" value="01852" />
+      <option name="presentableId" value="LOCAL-01852" />
+      <option name="project" value="LOCAL" />
+      <updated>1745435447753</updated>
+    </task>
+    <option name="localTasksCounter" value="1853" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,8 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Przedstaw różnicę między pętlami while i do while" />
-    <MESSAGE value="Pokaż zmodyfikowany program, który pokazuje jak pętla mnoży kolejne liczby przez zmienną wrt" />
     <MESSAGE value="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500." />
     <MESSAGE value="Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek." />
     <MESSAGE value="obrót w lewo (czyli -1 z modulo 4)" />
@@ -595,7 +593,9 @@
     <MESSAGE value="Pętla for po literach alfabetu" />
     <MESSAGE value="Wynik opercji bitowej w pętli for" />
     <MESSAGE value="Typy danych i operacje bitowe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Typy danych i operacje bitowe" />
+    <MESSAGE value="Pokazać działanie konstruktora, wyjątku oraz efekt System.out.println() w konstruktorze." />
+    <MESSAGE value="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie." />
+    <option name="LAST_COMMIT_MESSAGE" value="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
