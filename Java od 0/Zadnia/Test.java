@@ -656,3 +656,6 @@ public class LicznikBitow {
 
         System.out.print("Podaj liczbę całkowitą: ");
         int liczba = scanner.nextInt();
+
+        int kopia = liczba; 
+        int licznik = 0;
