@@ -649,3 +649,10 @@ public class Tablica2D {
 
 ==========================================================================================
 //Licznik bitów – ile 1 w liczbie binarnej
+
+public class LicznikBitow {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Podaj liczbę całkowitą: ");
+        int liczba = scanner.nextInt();
