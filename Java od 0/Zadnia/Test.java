@@ -664,5 +664,12 @@ public class LicznikBitow {
             if ((liczba & 1) == 1) {
                 licznik++;
             }
-            liczba = liczba >>> 1; 
+            liczba = liczba >>> 1;
         }
+
+        System.out.println("Binarna reprezentacja: " + Integer.toBinaryString(kopia));
+        System.out.println("Liczba jedynek: " + licznik);
+
+        scanner.close();
+    }
+}

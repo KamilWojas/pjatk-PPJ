@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="liczba &amp; 1 sprawdza, czy ostatni bit to 1 (bo 1 to 0001),&#10;&#10;&gt;&gt;&gt; 1 przesuwa bity w prawo (dzieli przez 2 bez znaku),&#10;&#10;while działa, dopóki liczba ≠ 0,">
       <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,71 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="43669000" />
-    </task>
-    <task id="LOCAL-01806" summary="wybór">
-      <option name="closed" value="true" />
-      <created>1745137734746</created>
-      <option name="number" value="01806" />
-      <option name="presentableId" value="LOCAL-01806" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137734746</updated>
-    </task>
-    <task id="LOCAL-01807" summary="wybór">
-      <option name="closed" value="true" />
-      <created>1745137750712</created>
-      <option name="number" value="01807" />
-      <option name="presentableId" value="LOCAL-01807" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137750712</updated>
-    </task>
-    <task id="LOCAL-01808" summary="wybór">
-      <option name="closed" value="true" />
-      <created>1745137790685</created>
-      <option name="number" value="01808" />
-      <option name="presentableId" value="LOCAL-01808" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137790685</updated>
-    </task>
-    <task id="LOCAL-01809" summary="wybór">
-      <option name="closed" value="true" />
-      <created>1745137803109</created>
-      <option name="number" value="01809" />
-      <option name="presentableId" value="LOCAL-01809" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137803109</updated>
-    </task>
-    <task id="LOCAL-01810" summary="KalkulatorWiek">
-      <option name="closed" value="true" />
-      <created>1745137813224</created>
-      <option name="number" value="01810" />
-      <option name="presentableId" value="LOCAL-01810" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137813224</updated>
-    </task>
-    <task id="LOCAL-01811" summary="KalkulatorWiek">
-      <option name="closed" value="true" />
-      <created>1745137826629</created>
-      <option name="number" value="01811" />
-      <option name="presentableId" value="LOCAL-01811" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137826629</updated>
-    </task>
-    <task id="LOCAL-01812" summary="KalkulatorWiek">
-      <option name="closed" value="true" />
-      <created>1745137840089</created>
-      <option name="number" value="01812" />
-      <option name="presentableId" value="LOCAL-01812" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137840089</updated>
-    </task>
-    <task id="LOCAL-01813" summary="KalkulatorWiek">
-      <option name="closed" value="true" />
-      <created>1745137856056</created>
-      <option name="number" value="01813" />
-      <option name="presentableId" value="LOCAL-01813" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137856056</updated>
+      <workItem from="1743443121163" duration="43978000" />
     </task>
     <task id="LOCAL-01814" summary="KalkulatorWiek">
       <option name="closed" value="true" />
@@ -555,7 +490,71 @@
       <option name="project" value="LOCAL" />
       <updated>1745443501632</updated>
     </task>
-    <option name="localTasksCounter" value="1855" />
+    <task id="LOCAL-01855" summary="Zainicjalizować tablicę dwuwymiarową, wypisać uporządkowane liczby.">
+      <option name="closed" value="true" />
+      <created>1745443535692</created>
+      <option name="number" value="01855" />
+      <option name="presentableId" value="LOCAL-01855" />
+      <option name="project" value="LOCAL" />
+      <updated>1745443535692</updated>
+    </task>
+    <task id="LOCAL-01856" summary="Tworzymy dwuwymiarową tablicę">
+      <option name="closed" value="true" />
+      <created>1745443570732</created>
+      <option name="number" value="01856" />
+      <option name="presentableId" value="LOCAL-01856" />
+      <option name="project" value="LOCAL" />
+      <updated>1745443570732</updated>
+    </task>
+    <task id="LOCAL-01857" summary="Arrays.stream(...).flatMapToInt() – spłaszcza tablicę do 1D,&#10;&#10;Arrays.sort() – sortuje,">
+      <option name="closed" value="true" />
+      <created>1745443607036</created>
+      <option name="number" value="01857" />
+      <option name="presentableId" value="LOCAL-01857" />
+      <option name="project" value="LOCAL" />
+      <updated>1745443607036</updated>
+    </task>
+    <task id="LOCAL-01858" summary="wypisywanie z for-each.">
+      <option name="closed" value="true" />
+      <created>1745443629521</created>
+      <option name="number" value="01858" />
+      <option name="presentableId" value="LOCAL-01858" />
+      <option name="project" value="LOCAL" />
+      <updated>1745443629521</updated>
+    </task>
+    <task id="LOCAL-01859" summary="Licznik bitów – ile 1 w liczbie binarnej">
+      <option name="closed" value="true" />
+      <created>1745443698877</created>
+      <option name="number" value="01859" />
+      <option name="presentableId" value="LOCAL-01859" />
+      <option name="project" value="LOCAL" />
+      <updated>1745443698877</updated>
+    </task>
+    <task id="LOCAL-01860" summary="Podajemy liczbę">
+      <option name="closed" value="true" />
+      <created>1745443734820</created>
+      <option name="number" value="01860" />
+      <option name="presentableId" value="LOCAL-01860" />
+      <option name="project" value="LOCAL" />
+      <updated>1745443734820</updated>
+    </task>
+    <task id="LOCAL-01861" summary="do wypisania binarnie">
+      <option name="closed" value="true" />
+      <created>1745443768164</created>
+      <option name="number" value="01861" />
+      <option name="presentableId" value="LOCAL-01861" />
+      <option name="project" value="LOCAL" />
+      <updated>1745443768165</updated>
+    </task>
+    <task id="LOCAL-01862" summary="liczba &amp; 1 sprawdza, czy ostatni bit to 1 (bo 1 to 0001),&#10;&#10;&gt;&gt;&gt; 1 przesuwa bity w prawo (dzieli przez 2 bez znaku),&#10;&#10;while działa, dopóki liczba ≠ 0,">
+      <option name="closed" value="true" />
+      <created>1745443810932</created>
+      <option name="number" value="01862" />
+      <option name="presentableId" value="LOCAL-01862" />
+      <option name="project" value="LOCAL" />
+      <updated>1745443810932</updated>
+    </task>
+    <option name="localTasksCounter" value="1863" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,14 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Napisz kod, który wypisuje wszystkie liczby podzielne bez reszty przez 3 i 2 (czyli przez 6) z przedziału od -1500 do 1500." />
-    <MESSAGE value="Stwórz kompas, który reaguje na klawisze A (obrót w lewo) i D (obrót w prawo), pokazując aktualny kierunek." />
-    <MESSAGE value="obrót w lewo (czyli -1 z modulo 4)" />
-    <MESSAGE value="obrót w prawo (+1 z modulo 4)" />
-    <MESSAGE value="//Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów" />
-    <MESSAGE value="Zadeklaruj tablicę jednowymiarową typu int o rozmiarze 10 elementów" />
-    <MESSAGE value="User" />
-    <MESSAGE value="GeneratorHasla" />
     <MESSAGE value="RezerwacjaMiejsc" />
     <MESSAGE value="5 rzędów x 6 miejsc" />
     <MESSAGE value="Inicjalizacja miejsc jako wolnych ('O')" />
@@ -598,7 +589,15 @@
     <MESSAGE value="Typy danych i operacje bitowe" />
     <MESSAGE value="Pokazać działanie konstruktora, wyjątku oraz efekt System.out.println() w konstruktorze." />
     <MESSAGE value="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie." />
-    <option name="LAST_COMMIT_MESSAGE" value="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie." />
+    <MESSAGE value="Zainicjalizować tablicę dwuwymiarową, wypisać uporządkowane liczby." />
+    <MESSAGE value="Tworzymy dwuwymiarową tablicę" />
+    <MESSAGE value="Arrays.stream(...).flatMapToInt() – spłaszcza tablicę do 1D,&#10;&#10;Arrays.sort() – sortuje," />
+    <MESSAGE value="wypisywanie z for-each." />
+    <MESSAGE value="Licznik bitów – ile 1 w liczbie binarnej" />
+    <MESSAGE value="Podajemy liczbę" />
+    <MESSAGE value="do wypisania binarnie" />
+    <MESSAGE value="liczba &amp; 1 sprawdza, czy ostatni bit to 1 (bo 1 to 0001),&#10;&#10;&gt;&gt;&gt; 1 przesuwa bity w prawo (dzieli przez 2 bez znaku),&#10;&#10;while działa, dopóki liczba ≠ 0," />
+    <option name="LAST_COMMIT_MESSAGE" value="liczba &amp; 1 sprawdza, czy ostatni bit to 1 (bo 1 to 0001),&#10;&#10;&gt;&gt;&gt; 1 przesuwa bity w prawo (dzieli przez 2 bez znaku),&#10;&#10;while działa, dopóki liczba ≠ 0," />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
