@@ -659,3 +659,10 @@ public class LicznikBitow {
 
         int kopia = liczba; 
         int licznik = 0;
+
+        while (liczba != 0) {
+            if ((liczba & 1) == 1) {
+                licznik++;
+            }
+            liczba = liczba >>> 1; 
+        }
