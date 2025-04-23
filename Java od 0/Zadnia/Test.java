@@ -622,3 +622,15 @@ public class Tablica2D {
                 {3, 1, 6},
                 {9, 4, 7}
         };
+
+        System.out.println("Tablica wejściowa:");
+        wypisz(tablica);
+
+        int[] plaska = Arrays.stream(tablica)
+                .flatMapToInt(Arrays::stream)
+                .toArray();
+        Arrays.sort(plaska);
+
+        System.out.println("\nLiczby posortowane:");
+        System.out.println(Arrays.toString(plaska));
+    }
