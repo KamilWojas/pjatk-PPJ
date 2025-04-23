@@ -634,3 +634,12 @@ public class Tablica2D {
         System.out.println("\nLiczby posortowane:");
         System.out.println(Arrays.toString(plaska));
     }
+    public static void wypisz(int[][] t) {
+        for (int[] rzad : t) {
+            for (int el : rzad) {
+                System.out.print(el + " ");
+            }
+            System.out.println();
+        }
+    }
+}
