@@ -613,3 +613,4 @@ public class Polimorfizm {
 
 
 ==========================================================================================
+//Zainicjalizować tablicę dwuwymiarową, wypisać uporządkowane liczby.
