@@ -614,3 +614,11 @@ public class Polimorfizm {
 
 ==========================================================================================
 //Zainicjalizować tablicę dwuwymiarową, wypisać uporządkowane liczby.
+
+public class Tablica2D {
+    public static void main(String[] args) {
+        int[][] tablica = {
+                {5, 2, 8},
+                {3, 1, 6},
+                {9, 4, 7}
+        };
