@@ -158,15 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="42455000" />
-    </task>
-    <task id="LOCAL-01804" summary="Pętla while">
-      <option name="closed" value="true" />
-      <created>1745137698306</created>
-      <option name="number" value="01804" />
-      <option name="presentableId" value="LOCAL-01804" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137698306</updated>
+      <workItem from="1743443121163" duration="43658000" />
     </task>
     <task id="LOCAL-01805" summary="wybór">
       <option name="closed" value="true" />
@@ -552,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745435447753</updated>
     </task>
-    <option name="localTasksCounter" value="1853" />
+    <task id="LOCAL-01853" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
+      <option name="closed" value="true" />
+      <created>1745435461250</created>
+      <option name="number" value="01853" />
+      <option name="presentableId" value="LOCAL-01853" />
+      <option name="project" value="LOCAL" />
+      <updated>1745435461250</updated>
+    </task>
+    <option name="localTasksCounter" value="1854" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
