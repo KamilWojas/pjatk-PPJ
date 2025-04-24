@@ -160,15 +160,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="44607000" />
-    </task>
-    <task id="LOCAL-01815" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745137927392</created>
-      <option name="number" value="01815" />
-      <option name="presentableId" value="LOCAL-01815" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137927392</updated>
+      <workItem from="1743443121163" duration="45217000" />
     </task>
     <task id="LOCAL-01816" summary="SystemProduktow">
       <option name="closed" value="true" />
@@ -554,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745443834702</updated>
     </task>
-    <option name="localTasksCounter" value="1864" />
+    <task id="LOCAL-01864" summary="metoda Integer.toBinaryString() wypisuje reprezentację binarną.">
+      <option name="closed" value="true" />
+      <created>1745515884938</created>
+      <option name="number" value="01864" />
+      <option name="presentableId" value="LOCAL-01864" />
+      <option name="project" value="LOCAL" />
+      <updated>1745515884938</updated>
+    </task>
+    <option name="localTasksCounter" value="1865" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

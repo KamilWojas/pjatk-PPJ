@@ -673,3 +673,8 @@ public class LicznikBitow {
         scanner.close();
     }
 }
+
+
+
+==========================================================================================
+//Dziedziczenie – kolejność wywołania konstruktorów
