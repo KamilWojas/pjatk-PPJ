@@ -702,3 +702,9 @@ public class DziedziczenieKonstruktory {
         Pies p = new Pies();
     }
 }
+
+
+
+
+==========================================================================================
+//interfejsy vs klasy abstrakcyjne
