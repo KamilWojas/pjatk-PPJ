@@ -708,3 +708,10 @@ public class DziedziczenieKonstruktory {
 
 ==========================================================================================
 //interfejsy vs klasy abstrakcyjne
+
+interface Glos {
+    void dajGlos();
+}
+
+abstract class Zwierze {
+    String imie;
