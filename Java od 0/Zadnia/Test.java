@@ -678,3 +678,9 @@ public class LicznikBitow {
 
 ==========================================================================================
 //Dziedziczenie – kolejność wywołania konstruktorów
+
+class Organizm {
+    public Organizm() {
+        System.out.println("Konstruktor: Organizm");
+    }
+}
