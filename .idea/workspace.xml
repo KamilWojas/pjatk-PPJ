@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="metoda Integer.toBinaryString() wypisuje reprezentację binarną.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="klasy abstrakcyjnej i interfejsu" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,95 +158,7 @@
       <workItem from="1739986880532" duration="2929000" />
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
-      <workItem from="1743443121163" duration="45217000" />
-    </task>
-    <task id="LOCAL-01816" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745137942164</created>
-      <option name="number" value="01816" />
-      <option name="presentableId" value="LOCAL-01816" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137942164</updated>
-    </task>
-    <task id="LOCAL-01817" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745137954129</created>
-      <option name="number" value="01817" />
-      <option name="presentableId" value="LOCAL-01817" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137954129</updated>
-    </task>
-    <task id="LOCAL-01818" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745137983171</created>
-      <option name="number" value="01818" />
-      <option name="presentableId" value="LOCAL-01818" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137983171</updated>
-    </task>
-    <task id="LOCAL-01819" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745137998251</created>
-      <option name="number" value="01819" />
-      <option name="presentableId" value="LOCAL-01819" />
-      <option name="project" value="LOCAL" />
-      <updated>1745137998251</updated>
-    </task>
-    <task id="LOCAL-01820" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745138011122</created>
-      <option name="number" value="01820" />
-      <option name="presentableId" value="LOCAL-01820" />
-      <option name="project" value="LOCAL" />
-      <updated>1745138011122</updated>
-    </task>
-    <task id="LOCAL-01821" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745138039237</created>
-      <option name="number" value="01821" />
-      <option name="presentableId" value="LOCAL-01821" />
-      <option name="project" value="LOCAL" />
-      <updated>1745138039238</updated>
-    </task>
-    <task id="LOCAL-01822" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745138056763</created>
-      <option name="number" value="01822" />
-      <option name="presentableId" value="LOCAL-01822" />
-      <option name="project" value="LOCAL" />
-      <updated>1745138056763</updated>
-    </task>
-    <task id="LOCAL-01823" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745138089547</created>
-      <option name="number" value="01823" />
-      <option name="presentableId" value="LOCAL-01823" />
-      <option name="project" value="LOCAL" />
-      <updated>1745138089547</updated>
-    </task>
-    <task id="LOCAL-01824" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745138104875</created>
-      <option name="number" value="01824" />
-      <option name="presentableId" value="LOCAL-01824" />
-      <option name="project" value="LOCAL" />
-      <updated>1745138104875</updated>
-    </task>
-    <task id="LOCAL-01825" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745224892876</created>
-      <option name="number" value="01825" />
-      <option name="presentableId" value="LOCAL-01825" />
-      <option name="project" value="LOCAL" />
-      <updated>1745224892876</updated>
-    </task>
-    <task id="LOCAL-01826" summary="SystemProduktow">
-      <option name="closed" value="true" />
-      <created>1745224918068</created>
-      <option name="number" value="01826" />
-      <option name="presentableId" value="LOCAL-01826" />
-      <option name="project" value="LOCAL" />
-      <updated>1745224918069</updated>
+      <workItem from="1743443121163" duration="45519000" />
     </task>
     <task id="LOCAL-01827" summary="LicznikLiter">
       <option name="closed" value="true" />
@@ -554,7 +464,95 @@
       <option name="project" value="LOCAL" />
       <updated>1745515884938</updated>
     </task>
-    <option name="localTasksCounter" value="1865" />
+    <task id="LOCAL-01865" summary="Dziedziczenie – kolejność wywołania konstruktorów">
+      <option name="closed" value="true" />
+      <created>1745531139198</created>
+      <option name="number" value="01865" />
+      <option name="presentableId" value="LOCAL-01865" />
+      <option name="project" value="LOCAL" />
+      <updated>1745531139198</updated>
+    </task>
+    <task id="LOCAL-01866" summary="Dziedziczenie – kolejność wywołania konstruktorów">
+      <option name="closed" value="true" />
+      <created>1745531154951</created>
+      <option name="number" value="01866" />
+      <option name="presentableId" value="LOCAL-01866" />
+      <option name="project" value="LOCAL" />
+      <updated>1745531154951</updated>
+    </task>
+    <task id="LOCAL-01867" summary="Dziedziczenie – kolejność wywołania konstruktorów">
+      <option name="closed" value="true" />
+      <created>1745531166751</created>
+      <option name="number" value="01867" />
+      <option name="presentableId" value="LOCAL-01867" />
+      <option name="project" value="LOCAL" />
+      <updated>1745531166751</updated>
+    </task>
+    <task id="LOCAL-01868" summary="Dziedziczenie – kolejność wywołania konstruktorów">
+      <option name="closed" value="true" />
+      <created>1745531180034</created>
+      <option name="number" value="01868" />
+      <option name="presentableId" value="LOCAL-01868" />
+      <option name="project" value="LOCAL" />
+      <updated>1745531180034</updated>
+    </task>
+    <task id="LOCAL-01869" summary="W tym przypadku:&#10;Organizm → Zwierze → Pies.">
+      <option name="closed" value="true" />
+      <created>1745531201550</created>
+      <option name="number" value="01869" />
+      <option name="presentableId" value="LOCAL-01869" />
+      <option name="project" value="LOCAL" />
+      <updated>1745531201550</updated>
+    </task>
+    <task id="LOCAL-01870" summary="interfejsy vs klasy abstrakcyjne">
+      <option name="closed" value="true" />
+      <created>1745531267022</created>
+      <option name="number" value="01870" />
+      <option name="presentableId" value="LOCAL-01870" />
+      <option name="project" value="LOCAL" />
+      <updated>1745531267022</updated>
+    </task>
+    <task id="LOCAL-01871" summary="interfejsy vs klasy abstrakcyjne">
+      <option name="closed" value="true" />
+      <created>1745531282037</created>
+      <option name="number" value="01871" />
+      <option name="presentableId" value="LOCAL-01871" />
+      <option name="project" value="LOCAL" />
+      <updated>1745531282038</updated>
+    </task>
+    <task id="LOCAL-01872" summary="Zwierze – klasa abstrakcyjna: może zawierać kod + konstruktory, ale nie można jej utworzyć bezpośrednio (new)">
+      <option name="closed" value="true" />
+      <created>1745531310607</created>
+      <option name="number" value="01872" />
+      <option name="presentableId" value="LOCAL-01872" />
+      <option name="project" value="LOCAL" />
+      <updated>1745531310608</updated>
+    </task>
+    <task id="LOCAL-01873" summary="Kot – dziedziczy z klasy abstrakcyjnej i implementuje interfejs.">
+      <option name="closed" value="true" />
+      <created>1745531340209</created>
+      <option name="number" value="01873" />
+      <option name="presentableId" value="LOCAL-01873" />
+      <option name="project" value="LOCAL" />
+      <updated>1745531340209</updated>
+    </task>
+    <task id="LOCAL-01874" summary="Glos – interfejs: zawiera tylko nagłówki metod, które muszą być zaimplementowane,">
+      <option name="closed" value="true" />
+      <created>1745531376733</created>
+      <option name="number" value="01874" />
+      <option name="presentableId" value="LOCAL-01874" />
+      <option name="project" value="LOCAL" />
+      <updated>1745531376733</updated>
+    </task>
+    <task id="LOCAL-01875" summary="klasy abstrakcyjnej i interfejsu">
+      <option name="closed" value="true" />
+      <created>1745531411947</created>
+      <option name="number" value="01875" />
+      <option name="presentableId" value="LOCAL-01875" />
+      <option name="project" value="LOCAL" />
+      <updated>1745531411947</updated>
+    </task>
+    <option name="localTasksCounter" value="1876" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,13 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5 rzędów x 6 miejsc" />
-    <MESSAGE value="Inicjalizacja miejsc jako wolnych ('O')" />
-    <MESSAGE value="Pętla while" />
-    <MESSAGE value="wybór" />
-    <MESSAGE value="KalkulatorWiek" />
-    <MESSAGE value="SystemProduktow" />
-    <MESSAGE value="LicznikLiter" />
     <MESSAGE value="Zadanie:&#10;Poproś użytkownika o wpisanie tekstu, a następnie:&#10;&#10;Zlicz, ile razy występuje każda litera (ignorując wielkość liter),&#10;&#10;Wypisz wynik w formacie:&#10;a – 3 razy,&#10;b – 0 razy,&#10;c – 1 raz, itd." />
     <MESSAGE value="Prosimy o wpisanie tekstu" />
     <MESSAGE value="Grupujemy produkty po kategorii" />
@@ -597,7 +588,14 @@
     <MESSAGE value="do wypisania binarnie" />
     <MESSAGE value="liczba &amp; 1 sprawdza, czy ostatni bit to 1 (bo 1 to 0001),&#10;&#10;&gt;&gt;&gt; 1 przesuwa bity w prawo (dzieli przez 2 bez znaku),&#10;&#10;while działa, dopóki liczba ≠ 0," />
     <MESSAGE value="metoda Integer.toBinaryString() wypisuje reprezentację binarną." />
-    <option name="LAST_COMMIT_MESSAGE" value="metoda Integer.toBinaryString() wypisuje reprezentację binarną." />
+    <MESSAGE value="Dziedziczenie – kolejność wywołania konstruktorów" />
+    <MESSAGE value="W tym przypadku:&#10;Organizm → Zwierze → Pies." />
+    <MESSAGE value="interfejsy vs klasy abstrakcyjne" />
+    <MESSAGE value="Zwierze – klasa abstrakcyjna: może zawierać kod + konstruktory, ale nie można jej utworzyć bezpośrednio (new)" />
+    <MESSAGE value="Kot – dziedziczy z klasy abstrakcyjnej i implementuje interfejs." />
+    <MESSAGE value="Glos – interfejs: zawiera tylko nagłówki metod, które muszą być zaimplementowane," />
+    <MESSAGE value="klasy abstrakcyjnej i interfejsu" />
+    <option name="LAST_COMMIT_MESSAGE" value="klasy abstrakcyjnej i interfejsu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
