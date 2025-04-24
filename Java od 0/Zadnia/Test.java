@@ -719,3 +719,13 @@ abstract class Zwierze {
     public Zwierze(String imie) {
         this.imie = imie;
     }
+
+    public void przedstawSie() {
+        System.out.println("Cześć, jestem " + imie);
+    }
+}
+
+class Kot extends Zwierze implements Glos {
+    public Kot(String imie) {
+        super(imie);
+    }
