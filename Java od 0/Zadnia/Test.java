@@ -696,3 +696,9 @@ class Pies extends Zwierze {
         System.out.println("Konstruktor: Pies");
     }
 }
+
+public class DziedziczenieKonstruktory {
+    public static void main(String[] args) {
+        Pies p = new Pies();
+    }
+}
