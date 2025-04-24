@@ -715,3 +715,7 @@ interface Glos {
 
 abstract class Zwierze {
     String imie;
+
+    public Zwierze(String imie) {
+        this.imie = imie;
+    }
