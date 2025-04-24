@@ -690,3 +690,9 @@ class Zwierze extends Organizm {
         System.out.println("Konstruktor: Zwierze");
     }
 }
+
+class Pies extends Zwierze {
+    public Pies() {
+        System.out.println("Konstruktor: Pies");
+    }
+}
