@@ -736,3 +736,11 @@ class Kot extends Zwierze implements Glos {
         System.out.println("Miau miau!");
     }
 }
+
+public class InterfejsyAbstrakcyjne {
+    public static void main(String[] args) {
+        Kot k = new Kot("Puszek");
+        k.przedstawSie();  
+        k.dajGlos();
+    }
+}
