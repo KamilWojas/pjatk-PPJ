@@ -729,3 +729,10 @@ class Kot extends Zwierze implements Glos {
     public Kot(String imie) {
         super(imie);
     }
+
+
+    @Override
+    public void dajGlos() {
+        System.out.println("Miau miau!");
+    }
+}
