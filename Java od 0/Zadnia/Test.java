@@ -744,3 +744,12 @@ public class InterfejsyAbstrakcyjne {
         k.dajGlos();
     }
 }
+
+
+
+
+
+
+
+==========================================================================================
+//Zliczanie unikalnych elementów – Set
