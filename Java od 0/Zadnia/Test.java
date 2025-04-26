@@ -797,3 +797,21 @@ public class SystemZamowienEnum {
 
         System.out.println("Podaj status zamówienia (NOWE, W_REALIZACJI, WYSŁANE, DOSTARCZONE): ");
         String input = scanner.nextLine().toUpperCase();
+
+        try {
+            StatusZamowienia status = StatusZamowienia.valueOf(input);
+
+            switch (status) {
+                case NOWE:
+                    System.out.println("Zamówienie zostało utworzone.");
+                    break;
+                case W_REALIZACJI:
+                    System.out.println("Zamówienie jest w trakcie realizacji.");
+                    break;
+                case WYSŁANE:
+                    System.out.println("Zamówienie zostało wysłane.");
+                    break;
+                case DOSTARCZONE:
+                    System.out.println("Zamówienie zostało dostarczone do klienta.");
+                    break;
+            }
