@@ -775,3 +775,11 @@ public class UnikalneImiona {
         scanner.close();
     }
 }
+
+
+
+
+
+
+==========================================================================================
+//wykorzystanie enum i switch-case
