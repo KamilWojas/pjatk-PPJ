@@ -783,3 +783,10 @@ public class UnikalneImiona {
 
 ==========================================================================================
 //wykorzystanie enum i switch-case
+
+enum StatusZamowienia {
+    NOWE,
+    W_REALIZACJI,
+    WYSŁANE,
+    DOSTARCZONE
+}
