@@ -757,3 +757,6 @@ public class InterfejsyAbstrakcyjne {
 public class UnikalneImiona {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Wpisz imiona oddzielone spacją:");
+        String[] imiona = scanner.nextLine().split("\\s+");
