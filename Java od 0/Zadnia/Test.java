@@ -760,3 +760,6 @@ public class UnikalneImiona {
 
         System.out.println("Wpisz imiona oddzielone spacją:");
         String[] imiona = scanner.nextLine().split("\\s+");
+
+        Set<String> unikalne = new HashSet<>();
+        Set<String> powtorzenia = new HashSet<>();
