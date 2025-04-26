@@ -763,3 +763,9 @@ public class UnikalneImiona {
 
         Set<String> unikalne = new HashSet<>();
         Set<String> powtorzenia = new HashSet<>();
+
+        for (String imie : imiona) {
+            if (!unikalne.add(imie)) {
+                powtorzenia.add(imie);
+            }
+        }
