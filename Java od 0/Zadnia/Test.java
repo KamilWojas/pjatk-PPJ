@@ -769,3 +769,9 @@ public class UnikalneImiona {
                 powtorzenia.add(imie);
             }
         }
+
+        System.out.println("Liczba unikalnych imion: " + unikalne.size());
+        System.out.println("Powtórzone imiona: " + (powtorzenia.isEmpty() ? "brak" : powtorzenia));
+        scanner.close();
+    }
+}
