@@ -753,3 +753,7 @@ public class InterfejsyAbstrakcyjne {
 
 ==========================================================================================
 //Zliczanie unikalnych elementów – Set
+
+public class UnikalneImiona {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
