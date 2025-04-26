@@ -815,3 +815,11 @@ public class SystemZamowienEnum {
                     System.out.println("Zamówienie zostało dostarczone do klienta.");
                     break;
             }
+            
+        } catch (IllegalArgumentException e) {
+            System.out.println("Niepoprawny status zamówienia!");
+        }
+
+        scanner.close();
+    }
+}
