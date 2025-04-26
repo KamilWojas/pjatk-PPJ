@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="klasy abstrakcyjnej i interfejsu" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="wykorzystanie enum i switch-case" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,79 +159,7 @@
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
-      <workItem from="1745677996747" duration="1227000" />
-    </task>
-    <task id="LOCAL-01834" summary="Wynik opercji bitowej w pętli for">
-      <option name="closed" value="true" />
-      <created>1745225485253</created>
-      <option name="number" value="01834" />
-      <option name="presentableId" value="LOCAL-01834" />
-      <option name="project" value="LOCAL" />
-      <updated>1745225485253</updated>
-    </task>
-    <task id="LOCAL-01835" summary="Wynik opercji bitowej w pętli for">
-      <option name="closed" value="true" />
-      <created>1745226732444</created>
-      <option name="number" value="01835" />
-      <option name="presentableId" value="LOCAL-01835" />
-      <option name="project" value="LOCAL" />
-      <updated>1745226732444</updated>
-    </task>
-    <task id="LOCAL-01836" summary="Typy danych i operacje bitowe">
-      <option name="closed" value="true" />
-      <created>1745226814487</created>
-      <option name="number" value="01836" />
-      <option name="presentableId" value="LOCAL-01836" />
-      <option name="project" value="LOCAL" />
-      <updated>1745226814487</updated>
-    </task>
-    <task id="LOCAL-01837" summary="Typy danych i operacje bitowe">
-      <option name="closed" value="true" />
-      <created>1745226983737</created>
-      <option name="number" value="01837" />
-      <option name="presentableId" value="LOCAL-01837" />
-      <option name="project" value="LOCAL" />
-      <updated>1745226983737</updated>
-    </task>
-    <task id="LOCAL-01838" summary="Typy danych i operacje bitowe">
-      <option name="closed" value="true" />
-      <created>1745227099913</created>
-      <option name="number" value="01838" />
-      <option name="presentableId" value="LOCAL-01838" />
-      <option name="project" value="LOCAL" />
-      <updated>1745227099913</updated>
-    </task>
-    <task id="LOCAL-01839" summary="Typy danych i operacje bitowe">
-      <option name="closed" value="true" />
-      <created>1745227125086</created>
-      <option name="number" value="01839" />
-      <option name="presentableId" value="LOCAL-01839" />
-      <option name="project" value="LOCAL" />
-      <updated>1745227125086</updated>
-    </task>
-    <task id="LOCAL-01840" summary="Typy danych i operacje bitowe">
-      <option name="closed" value="true" />
-      <created>1745227140839</created>
-      <option name="number" value="01840" />
-      <option name="presentableId" value="LOCAL-01840" />
-      <option name="project" value="LOCAL" />
-      <updated>1745227140839</updated>
-    </task>
-    <task id="LOCAL-01841" summary="Typy danych i operacje bitowe">
-      <option name="closed" value="true" />
-      <created>1745271618687</created>
-      <option name="number" value="01841" />
-      <option name="presentableId" value="LOCAL-01841" />
-      <option name="project" value="LOCAL" />
-      <updated>1745271618687</updated>
-    </task>
-    <task id="LOCAL-01842" summary="Typy danych i operacje bitowe">
-      <option name="closed" value="true" />
-      <created>1745347617145</created>
-      <option name="number" value="01842" />
-      <option name="presentableId" value="LOCAL-01842" />
-      <option name="project" value="LOCAL" />
-      <updated>1745347617145</updated>
+      <workItem from="1745677996747" duration="1531000" />
     </task>
     <task id="LOCAL-01843" summary="Typy danych i operacje bitowe">
       <option name="closed" value="true" />
@@ -553,7 +481,79 @@
       <option name="project" value="LOCAL" />
       <updated>1745684449627</updated>
     </task>
-    <option name="localTasksCounter" value="1883" />
+    <task id="LOCAL-01883" summary="Zliczanie unikalnych elementów – Set">
+      <option name="closed" value="true" />
+      <created>1745684507265</created>
+      <option name="number" value="01883" />
+      <option name="presentableId" value="LOCAL-01883" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684507265</updated>
+    </task>
+    <task id="LOCAL-01884" summary="Zliczanie unikalnych elementów – Set">
+      <option name="closed" value="true" />
+      <created>1745684532015</created>
+      <option name="number" value="01884" />
+      <option name="presentableId" value="LOCAL-01884" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684532015</updated>
+    </task>
+    <task id="LOCAL-01885" summary="Zliczanie unikalnych elementów – Set">
+      <option name="closed" value="true" />
+      <created>1745684547015</created>
+      <option name="number" value="01885" />
+      <option name="presentableId" value="LOCAL-01885" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684547015</updated>
+    </task>
+    <task id="LOCAL-01886" summary="Zliczanie unikalnych elementów – Set">
+      <option name="closed" value="true" />
+      <created>1745684561750</created>
+      <option name="number" value="01886" />
+      <option name="presentableId" value="LOCAL-01886" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684561750</updated>
+    </task>
+    <task id="LOCAL-01887" summary="Zliczanie unikalnych elementów – Set">
+      <option name="closed" value="true" />
+      <created>1745684578007</created>
+      <option name="number" value="01887" />
+      <option name="presentableId" value="LOCAL-01887" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684578007</updated>
+    </task>
+    <task id="LOCAL-01888" summary="Zliczanie unikalnych elementów – Set">
+      <option name="closed" value="true" />
+      <created>1745684591495</created>
+      <option name="number" value="01888" />
+      <option name="presentableId" value="LOCAL-01888" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684591495</updated>
+    </task>
+    <task id="LOCAL-01889" summary="wykorzystanie enum i switch-case">
+      <option name="closed" value="true" />
+      <created>1745684668382</created>
+      <option name="number" value="01889" />
+      <option name="presentableId" value="LOCAL-01889" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684668382</updated>
+    </task>
+    <task id="LOCAL-01890" summary="wykorzystanie enum i switch-case">
+      <option name="closed" value="true" />
+      <created>1745684684482</created>
+      <option name="number" value="01890" />
+      <option name="presentableId" value="LOCAL-01890" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684684482</updated>
+    </task>
+    <task id="LOCAL-01891" summary="wykorzystanie enum i switch-case">
+      <option name="closed" value="true" />
+      <created>1745684736798</created>
+      <option name="number" value="01891" />
+      <option name="presentableId" value="LOCAL-01891" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684736798</updated>
+    </task>
+    <option name="localTasksCounter" value="1892" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,8 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie:&#10;Poproś użytkownika o wpisanie tekstu, a następnie:&#10;&#10;Zlicz, ile razy występuje każda litera (ignorując wielkość liter),&#10;&#10;Wypisz wynik w formacie:&#10;a – 3 razy,&#10;b – 0 razy,&#10;c – 1 raz, itd." />
-    <MESSAGE value="Prosimy o wpisanie tekstu" />
     <MESSAGE value="Grupujemy produkty po kategorii" />
     <MESSAGE value="Zliczamy wystąpienia" />
     <MESSAGE value="Pętla for po literach alfabetu" />
@@ -596,7 +594,9 @@
     <MESSAGE value="Kot – dziedziczy z klasy abstrakcyjnej i implementuje interfejs." />
     <MESSAGE value="Glos – interfejs: zawiera tylko nagłówki metod, które muszą być zaimplementowane," />
     <MESSAGE value="klasy abstrakcyjnej i interfejsu" />
-    <option name="LAST_COMMIT_MESSAGE" value="klasy abstrakcyjnej i interfejsu" />
+    <MESSAGE value="Zliczanie unikalnych elementów – Set" />
+    <MESSAGE value="wykorzystanie enum i switch-case" />
+    <option name="LAST_COMMIT_MESSAGE" value="wykorzystanie enum i switch-case" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

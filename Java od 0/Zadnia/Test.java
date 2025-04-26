@@ -794,3 +794,6 @@ enum StatusZamowienia {
 public class SystemZamowienEnum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Podaj status zamówienia (NOWE, W_REALIZACJI, WYSŁANE, DOSTARCZONE): ");
+        String input = scanner.nextLine().toUpperCase();
