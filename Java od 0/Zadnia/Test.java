@@ -925,3 +925,11 @@ public class ParzystoscWyjatek {
 
         System.out.print("Podaj liczbę całkowitą: ");
         int liczba = scanner.nextInt();
+
+        try {
+            sprawdzParzystosc(liczba);
+            System.out.println("Podana liczba jest parzysta.");
+        } catch (IllegalArgumentException e) {
+            System.out.println("Błąd: " + e.getMessage());
+        }
+    }
