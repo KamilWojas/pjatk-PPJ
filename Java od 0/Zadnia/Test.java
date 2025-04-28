@@ -933,3 +933,10 @@ public class ParzystoscWyjatek {
             System.out.println("Błąd: " + e.getMessage());
         }
     }
+
+    public static void sprawdzParzystosc(int liczba) {
+        if (liczba % 2 != 0) {
+            throw new IllegalArgumentException("Liczba jest nieparzysta!");
+        }
+    }
+}
