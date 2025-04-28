@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="wykorzystanie enum i switch-case" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="wykorzystanie enum i switch-case">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,39 +161,7 @@
       <workItem from="1740068933537" duration="46334000" />
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
-      <workItem from="1745677996747" duration="1531000" />
-    </task>
-    <task id="LOCAL-01843" summary="Typy danych i operacje bitowe">
-      <option name="closed" value="true" />
-      <created>1745347634088</created>
-      <option name="number" value="01843" />
-      <option name="presentableId" value="LOCAL-01843" />
-      <option name="project" value="LOCAL" />
-      <updated>1745347634089</updated>
-    </task>
-    <task id="LOCAL-01844" summary="Typy danych i operacje bitowe">
-      <option name="closed" value="true" />
-      <created>1745358397794</created>
-      <option name="number" value="01844" />
-      <option name="presentableId" value="LOCAL-01844" />
-      <option name="project" value="LOCAL" />
-      <updated>1745358397794</updated>
-    </task>
-    <task id="LOCAL-01845" summary="Pokazać działanie konstruktora, wyjątku oraz efekt System.out.println() w konstruktorze.">
-      <option name="closed" value="true" />
-      <created>1745358424923</created>
-      <option name="number" value="01845" />
-      <option name="presentableId" value="LOCAL-01845" />
-      <option name="project" value="LOCAL" />
-      <updated>1745358424923</updated>
-    </task>
-    <task id="LOCAL-01846" summary="Pokazać działanie konstruktora, wyjątku oraz efekt System.out.println() w konstruktorze.">
-      <option name="closed" value="true" />
-      <created>1745358446046</created>
-      <option name="number" value="01846" />
-      <option name="presentableId" value="LOCAL-01846" />
-      <option name="project" value="LOCAL" />
-      <updated>1745358446046</updated>
+      <workItem from="1745677996747" duration="2208000" />
     </task>
     <task id="LOCAL-01847" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
       <option name="closed" value="true" />
@@ -553,7 +523,39 @@
       <option name="project" value="LOCAL" />
       <updated>1745684736798</updated>
     </task>
-    <option name="localTasksCounter" value="1892" />
+    <task id="LOCAL-01892" summary="wykorzystanie enum i switch-case">
+      <option name="closed" value="true" />
+      <created>1745684787406</created>
+      <option name="number" value="01892" />
+      <option name="presentableId" value="LOCAL-01892" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684787406</updated>
+    </task>
+    <task id="LOCAL-01893" summary="wykorzystanie enum i switch-case">
+      <option name="closed" value="true" />
+      <created>1745684823423</created>
+      <option name="number" value="01893" />
+      <option name="presentableId" value="LOCAL-01893" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684823423</updated>
+    </task>
+    <task id="LOCAL-01894" summary="wykorzystanie enum i switch-case">
+      <option name="closed" value="true" />
+      <created>1745684846957</created>
+      <option name="number" value="01894" />
+      <option name="presentableId" value="LOCAL-01894" />
+      <option name="project" value="LOCAL" />
+      <updated>1745684846957</updated>
+    </task>
+    <task id="LOCAL-01895" summary="wykorzystanie enum i switch-case">
+      <option name="closed" value="true" />
+      <created>1745764417050</created>
+      <option name="number" value="01895" />
+      <option name="presentableId" value="LOCAL-01895" />
+      <option name="project" value="LOCAL" />
+      <updated>1745764417050</updated>
+    </task>
+    <option name="localTasksCounter" value="1896" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
