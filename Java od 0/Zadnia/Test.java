@@ -908,3 +908,7 @@ public class NajwiekszaLiczba {
                 max = liczby[i];
             }
         }
+
+        System.out.println("Największa liczba w tablicy to: " + max);
+    }
+}
