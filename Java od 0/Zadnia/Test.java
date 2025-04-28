@@ -823,3 +823,20 @@ public class SystemZamowienEnum {
         scanner.close();
     }
 }
+
+
+
+
+
+
+
+
+
+==========================================================================================
+//Własny wyjątek – sprawdzanie wieku użytkownika
+
+class InvalidAgeException extends Exception {
+    public InvalidAgeException(String message) {
+        super(message);
+    }
+}
