@@ -863,3 +863,12 @@ public class WlasnyWyjatek {
         }
     }
 }
+
+
+
+
+
+
+
+==========================================================================================
+//Licznik instancji klasy – metody statyczne

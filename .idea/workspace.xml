@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="wykorzystanie enum i switch-case" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Własny wyjątek – sprawdzanie wieku użytkownika" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,39 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="770000" />
-    </task>
-    <task id="LOCAL-01848" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
-      <option name="closed" value="true" />
-      <created>1745358498910</created>
-      <option name="number" value="01848" />
-      <option name="presentableId" value="LOCAL-01848" />
-      <option name="project" value="LOCAL" />
-      <updated>1745358498910</updated>
-    </task>
-    <task id="LOCAL-01849" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
-      <option name="closed" value="true" />
-      <created>1745358510726</created>
-      <option name="number" value="01849" />
-      <option name="presentableId" value="LOCAL-01849" />
-      <option name="project" value="LOCAL" />
-      <updated>1745358510726</updated>
-    </task>
-    <task id="LOCAL-01850" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
-      <option name="closed" value="true" />
-      <created>1745358531248</created>
-      <option name="number" value="01850" />
-      <option name="presentableId" value="LOCAL-01850" />
-      <option name="project" value="LOCAL" />
-      <updated>1745358531248</updated>
-    </task>
-    <task id="LOCAL-01851" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
-      <option name="closed" value="true" />
-      <created>1745358554717</created>
-      <option name="number" value="01851" />
-      <option name="presentableId" value="LOCAL-01851" />
-      <option name="project" value="LOCAL" />
-      <updated>1745358554717</updated>
+      <workItem from="1745779601674" duration="1082000" />
     </task>
     <task id="LOCAL-01852" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
       <option name="closed" value="true" />
@@ -554,7 +522,39 @@
       <option name="project" value="LOCAL" />
       <updated>1745875581029</updated>
     </task>
-    <option name="localTasksCounter" value="1897" />
+    <task id="LOCAL-01897" summary="wykorzystanie enum i switch-case">
+      <option name="closed" value="true" />
+      <created>1745875894952</created>
+      <option name="number" value="01897" />
+      <option name="presentableId" value="LOCAL-01897" />
+      <option name="project" value="LOCAL" />
+      <updated>1745875894952</updated>
+    </task>
+    <task id="LOCAL-01898" summary="Własny wyjątek – sprawdzanie wieku użytkownika">
+      <option name="closed" value="true" />
+      <created>1745875934735</created>
+      <option name="number" value="01898" />
+      <option name="presentableId" value="LOCAL-01898" />
+      <option name="project" value="LOCAL" />
+      <updated>1745875934735</updated>
+    </task>
+    <task id="LOCAL-01899" summary="Własny wyjątek – sprawdzanie wieku użytkownika">
+      <option name="closed" value="true" />
+      <created>1745875951467</created>
+      <option name="number" value="01899" />
+      <option name="presentableId" value="LOCAL-01899" />
+      <option name="project" value="LOCAL" />
+      <updated>1745875951467</updated>
+    </task>
+    <task id="LOCAL-01900" summary="Własny wyjątek – sprawdzanie wieku użytkownika">
+      <option name="closed" value="true" />
+      <created>1745875965237</created>
+      <option name="number" value="01900" />
+      <option name="presentableId" value="LOCAL-01900" />
+      <option name="project" value="LOCAL" />
+      <updated>1745875965237</updated>
+    </task>
+    <option name="localTasksCounter" value="1901" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Grupujemy produkty po kategorii" />
     <MESSAGE value="Zliczamy wystąpienia" />
     <MESSAGE value="Pętla for po literach alfabetu" />
     <MESSAGE value="Wynik opercji bitowej w pętli for" />
@@ -597,7 +596,8 @@
     <MESSAGE value="klasy abstrakcyjnej i interfejsu" />
     <MESSAGE value="Zliczanie unikalnych elementów – Set" />
     <MESSAGE value="wykorzystanie enum i switch-case" />
-    <option name="LAST_COMMIT_MESSAGE" value="wykorzystanie enum i switch-case" />
+    <MESSAGE value="Własny wyjątek – sprawdzanie wieku użytkownika" />
+    <option name="LAST_COMMIT_MESSAGE" value="Własny wyjątek – sprawdzanie wieku użytkownika" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
