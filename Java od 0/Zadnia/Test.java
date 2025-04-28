@@ -856,3 +856,10 @@ public class WlasnyWyjatek {
             System.out.println("Błąd: " + e.getMessage());
         }
     }
+
+    public static void sprawdzWiek(int wiek) throws InvalidAgeException {
+        if (wiek < 18) {
+            throw new InvalidAgeException("Musisz mieć co najmniej 18 lat!");
+        }
+    }
+}
