@@ -900,3 +900,5 @@ class Uzytkownik {
 public class NajwiekszaLiczba {
     public static void main(String[] args) {
         int[] liczby = {12, 7, 34, 56, 2, 89, 24};
+
+        int max = liczby[0]; 
