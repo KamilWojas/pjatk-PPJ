@@ -912,3 +912,9 @@ public class NajwiekszaLiczba {
         System.out.println("Największa liczba w tablicy to: " + max);
     }
 }
+
+
+
+
+==========================================================================================
+//Liczba parzysta/nieparzysta z wyjątkiem
