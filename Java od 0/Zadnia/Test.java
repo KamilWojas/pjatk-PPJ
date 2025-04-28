@@ -872,3 +872,12 @@ public class WlasnyWyjatek {
 
 ==========================================================================================
 //Licznik instancji klasy – metody statyczne
+
+class Uzytkownik {
+    private static int licznik = 0;
+    private String imie;
+
+    public Uzytkownik(String imie) {
+        this.imie = imie;
+        licznik++;
+    }
