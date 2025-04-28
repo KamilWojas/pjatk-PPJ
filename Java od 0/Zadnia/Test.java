@@ -918,3 +918,7 @@ public class NajwiekszaLiczba {
 
 ==========================================================================================
 //Liczba parzysta/nieparzysta z wyjątkiem
+
+public class ParzystoscWyjatek {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
