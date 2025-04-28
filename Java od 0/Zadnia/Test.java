@@ -885,3 +885,8 @@ class Uzytkownik {
         return licznik;
     }
 }
+    public static int ileUzytkownikow() {
+        return licznik;
+    }
+}
+
