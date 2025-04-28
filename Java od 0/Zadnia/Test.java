@@ -840,3 +840,19 @@ class InvalidAgeException extends Exception {
         super(message);
     }
 }
+
+
+public class WlasnyWyjatek {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Podaj swój wiek: ");
+        int wiek = scanner.nextInt();
+
+        try {
+            sprawdzWiek(wiek);
+            System.out.println("Wiek jest poprawny. Możesz kontynuować.");
+        } catch (InvalidAgeException e) {
+            System.out.println("Błąd: " + e.getMessage());
+        }
+    }
