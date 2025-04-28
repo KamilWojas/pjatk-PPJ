@@ -881,3 +881,7 @@ class Uzytkownik {
         this.imie = imie;
         licznik++;
     }
+    public static int ileUzytkownikow() {
+        return licznik;
+    }
+}
