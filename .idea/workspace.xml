@@ -162,23 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="2621000" />
-    </task>
-    <task id="LOCAL-01868" summary="Dziedziczenie – kolejność wywołania konstruktorów">
-      <option name="closed" value="true" />
-      <created>1745531180034</created>
-      <option name="number" value="01868" />
-      <option name="presentableId" value="LOCAL-01868" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531180034</updated>
-    </task>
-    <task id="LOCAL-01869" summary="W tym przypadku:&#10;Organizm → Zwierze → Pies.">
-      <option name="closed" value="true" />
-      <created>1745531201550</created>
-      <option name="number" value="01869" />
-      <option name="presentableId" value="LOCAL-01869" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531201550</updated>
+      <workItem from="1745779601674" duration="3239000" />
     </task>
     <task id="LOCAL-01870" summary="interfejsy vs klasy abstrakcyjne">
       <option name="closed" value="true" />
@@ -556,7 +540,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745954861899</updated>
     </task>
-    <option name="localTasksCounter" value="1917" />
+    <task id="LOCAL-01917" summary="Kasa w sklepie – prosta symulacja z klasami i metodami">
+      <option name="closed" value="true" />
+      <created>1745954871250</created>
+      <option name="number" value="01917" />
+      <option name="presentableId" value="LOCAL-01917" />
+      <option name="project" value="LOCAL" />
+      <updated>1745954871250</updated>
+    </task>
+    <task id="LOCAL-01918" summary="Kasa w sklepie – prosta symulacja z klasami i metodami">
+      <option name="closed" value="true" />
+      <created>1745954879896</created>
+      <option name="number" value="01918" />
+      <option name="presentableId" value="LOCAL-01918" />
+      <option name="project" value="LOCAL" />
+      <updated>1745954879896</updated>
+    </task>
+    <option name="localTasksCounter" value="1919" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

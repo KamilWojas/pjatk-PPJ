@@ -956,3 +956,14 @@ class Produkt {
         this.nazwa = nazwa;
         this.cena = cena;
     }
+
+    public void wypisz() {
+        System.out.println(nazwa + " - " + cena + " zł");
+    }
+}
+
+public class KasaSklepowa {
+    public static void main(String[] args) {
+        Produkt p1 = new Produkt("Chleb", 4.5);
+        Produkt p2 = new Produkt("Masło", 7.3);
+        Produkt p3 = new Produkt("Mleko", 3.2);
