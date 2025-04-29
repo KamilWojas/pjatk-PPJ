@@ -977,3 +977,16 @@ public class KasaSklepowa {
         System.out.println("Suma do zapłaty: " + suma + " zł");
     }
 }
+
+
+
+
+
+
+
+==========================================================================================
+//Odwracanie tekstu – manipulacja String i pętle
+
+public class OdwrotnyTekst {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
