@@ -967,3 +967,13 @@ public class KasaSklepowa {
         Produkt p1 = new Produkt("Chleb", 4.5);
         Produkt p2 = new Produkt("Masło", 7.3);
         Produkt p3 = new Produkt("Mleko", 3.2);
+
+        double suma = p1.cena + p2.cena + p3.cena;
+
+        p1.wypisz();
+        p2.wypisz();
+        p3.wypisz();
+
+        System.out.println("Suma do zapłaty: " + suma + " zł");
+    }
+}
