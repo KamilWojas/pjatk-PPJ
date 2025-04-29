@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Własny wyjątek – sprawdzanie wieku użytkownika" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Liczba parzysta/nieparzysta z wyjątkiem" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,119 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="1082000" />
-    </task>
-    <task id="LOCAL-01852" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
-      <option name="closed" value="true" />
-      <created>1745435447753</created>
-      <option name="number" value="01852" />
-      <option name="presentableId" value="LOCAL-01852" />
-      <option name="project" value="LOCAL" />
-      <updated>1745435447753</updated>
-    </task>
-    <task id="LOCAL-01853" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
-      <option name="closed" value="true" />
-      <created>1745435461250</created>
-      <option name="number" value="01853" />
-      <option name="presentableId" value="LOCAL-01853" />
-      <option name="project" value="LOCAL" />
-      <updated>1745435461250</updated>
-    </task>
-    <task id="LOCAL-01854" summary="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie.">
-      <option name="closed" value="true" />
-      <created>1745443501632</created>
-      <option name="number" value="01854" />
-      <option name="presentableId" value="LOCAL-01854" />
-      <option name="project" value="LOCAL" />
-      <updated>1745443501632</updated>
-    </task>
-    <task id="LOCAL-01855" summary="Zainicjalizować tablicę dwuwymiarową, wypisać uporządkowane liczby.">
-      <option name="closed" value="true" />
-      <created>1745443535692</created>
-      <option name="number" value="01855" />
-      <option name="presentableId" value="LOCAL-01855" />
-      <option name="project" value="LOCAL" />
-      <updated>1745443535692</updated>
-    </task>
-    <task id="LOCAL-01856" summary="Tworzymy dwuwymiarową tablicę">
-      <option name="closed" value="true" />
-      <created>1745443570732</created>
-      <option name="number" value="01856" />
-      <option name="presentableId" value="LOCAL-01856" />
-      <option name="project" value="LOCAL" />
-      <updated>1745443570732</updated>
-    </task>
-    <task id="LOCAL-01857" summary="Arrays.stream(...).flatMapToInt() – spłaszcza tablicę do 1D,&#10;&#10;Arrays.sort() – sortuje,">
-      <option name="closed" value="true" />
-      <created>1745443607036</created>
-      <option name="number" value="01857" />
-      <option name="presentableId" value="LOCAL-01857" />
-      <option name="project" value="LOCAL" />
-      <updated>1745443607036</updated>
-    </task>
-    <task id="LOCAL-01858" summary="wypisywanie z for-each.">
-      <option name="closed" value="true" />
-      <created>1745443629521</created>
-      <option name="number" value="01858" />
-      <option name="presentableId" value="LOCAL-01858" />
-      <option name="project" value="LOCAL" />
-      <updated>1745443629521</updated>
-    </task>
-    <task id="LOCAL-01859" summary="Licznik bitów – ile 1 w liczbie binarnej">
-      <option name="closed" value="true" />
-      <created>1745443698877</created>
-      <option name="number" value="01859" />
-      <option name="presentableId" value="LOCAL-01859" />
-      <option name="project" value="LOCAL" />
-      <updated>1745443698877</updated>
-    </task>
-    <task id="LOCAL-01860" summary="Podajemy liczbę">
-      <option name="closed" value="true" />
-      <created>1745443734820</created>
-      <option name="number" value="01860" />
-      <option name="presentableId" value="LOCAL-01860" />
-      <option name="project" value="LOCAL" />
-      <updated>1745443734820</updated>
-    </task>
-    <task id="LOCAL-01861" summary="do wypisania binarnie">
-      <option name="closed" value="true" />
-      <created>1745443768164</created>
-      <option name="number" value="01861" />
-      <option name="presentableId" value="LOCAL-01861" />
-      <option name="project" value="LOCAL" />
-      <updated>1745443768165</updated>
-    </task>
-    <task id="LOCAL-01862" summary="liczba &amp; 1 sprawdza, czy ostatni bit to 1 (bo 1 to 0001),&#10;&#10;&gt;&gt;&gt; 1 przesuwa bity w prawo (dzieli przez 2 bez znaku),&#10;&#10;while działa, dopóki liczba ≠ 0,">
-      <option name="closed" value="true" />
-      <created>1745443810932</created>
-      <option name="number" value="01862" />
-      <option name="presentableId" value="LOCAL-01862" />
-      <option name="project" value="LOCAL" />
-      <updated>1745443810932</updated>
-    </task>
-    <task id="LOCAL-01863" summary="metoda Integer.toBinaryString() wypisuje reprezentację binarną.">
-      <option name="closed" value="true" />
-      <created>1745443834702</created>
-      <option name="number" value="01863" />
-      <option name="presentableId" value="LOCAL-01863" />
-      <option name="project" value="LOCAL" />
-      <updated>1745443834702</updated>
-    </task>
-    <task id="LOCAL-01864" summary="metoda Integer.toBinaryString() wypisuje reprezentację binarną.">
-      <option name="closed" value="true" />
-      <created>1745515884938</created>
-      <option name="number" value="01864" />
-      <option name="presentableId" value="LOCAL-01864" />
-      <option name="project" value="LOCAL" />
-      <updated>1745515884938</updated>
-    </task>
-    <task id="LOCAL-01865" summary="Dziedziczenie – kolejność wywołania konstruktorów">
-      <option name="closed" value="true" />
-      <created>1745531139198</created>
-      <option name="number" value="01865" />
-      <option name="presentableId" value="LOCAL-01865" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531139198</updated>
+      <workItem from="1745779601674" duration="1987000" />
     </task>
     <task id="LOCAL-01866" summary="Dziedziczenie – kolejność wywołania konstruktorów">
       <option name="closed" value="true" />
@@ -554,7 +442,119 @@
       <option name="project" value="LOCAL" />
       <updated>1745875965237</updated>
     </task>
-    <option name="localTasksCounter" value="1901" />
+    <task id="LOCAL-01901" summary="Licznik instancji klasy – metody statyczne">
+      <option name="closed" value="true" />
+      <created>1745876100663</created>
+      <option name="number" value="01901" />
+      <option name="presentableId" value="LOCAL-01901" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876100664</updated>
+    </task>
+    <task id="LOCAL-01902" summary="Licznik instancji klasy – metody statyczne">
+      <option name="closed" value="true" />
+      <created>1745876114826</created>
+      <option name="number" value="01902" />
+      <option name="presentableId" value="LOCAL-01902" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876114826</updated>
+    </task>
+    <task id="LOCAL-01903" summary="Licznik instancji klasy – metody statyczne">
+      <option name="closed" value="true" />
+      <created>1745876125876</created>
+      <option name="number" value="01903" />
+      <option name="presentableId" value="LOCAL-01903" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876125876</updated>
+    </task>
+    <task id="LOCAL-01904" summary="Licznik instancji klasy – metody statyczne">
+      <option name="closed" value="true" />
+      <created>1745876137242</created>
+      <option name="number" value="01904" />
+      <option name="presentableId" value="LOCAL-01904" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876137242</updated>
+    </task>
+    <task id="LOCAL-01905" summary="Szukanie największej liczby w tablicy">
+      <option name="closed" value="true" />
+      <created>1745876223660</created>
+      <option name="number" value="01905" />
+      <option name="presentableId" value="LOCAL-01905" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876223660</updated>
+    </task>
+    <task id="LOCAL-01906" summary="Szukanie największej liczby w tablicy">
+      <option name="closed" value="true" />
+      <created>1745876240207</created>
+      <option name="number" value="01906" />
+      <option name="presentableId" value="LOCAL-01906" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876240208</updated>
+    </task>
+    <task id="LOCAL-01907" summary="Szukanie największej liczby w tablicy">
+      <option name="closed" value="true" />
+      <created>1745876252293</created>
+      <option name="number" value="01907" />
+      <option name="presentableId" value="LOCAL-01907" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876252293</updated>
+    </task>
+    <task id="LOCAL-01908" summary="Szukanie największej liczby w tablicy">
+      <option name="closed" value="true" />
+      <created>1745876263508</created>
+      <option name="number" value="01908" />
+      <option name="presentableId" value="LOCAL-01908" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876263508</updated>
+    </task>
+    <task id="LOCAL-01909" summary="Liczba parzysta/nieparzysta z wyjątkiem">
+      <option name="closed" value="true" />
+      <created>1745876305043</created>
+      <option name="number" value="01909" />
+      <option name="presentableId" value="LOCAL-01909" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876305043</updated>
+    </task>
+    <task id="LOCAL-01910" summary="Liczba parzysta/nieparzysta z wyjątkiem">
+      <option name="closed" value="true" />
+      <created>1745876317595</created>
+      <option name="number" value="01910" />
+      <option name="presentableId" value="LOCAL-01910" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876317595</updated>
+    </task>
+    <task id="LOCAL-01911" summary="Liczba parzysta/nieparzysta z wyjątkiem">
+      <option name="closed" value="true" />
+      <created>1745876331216</created>
+      <option name="number" value="01911" />
+      <option name="presentableId" value="LOCAL-01911" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876331216</updated>
+    </task>
+    <task id="LOCAL-01912" summary="Liczba parzysta/nieparzysta z wyjątkiem">
+      <option name="closed" value="true" />
+      <created>1745876343640</created>
+      <option name="number" value="01912" />
+      <option name="presentableId" value="LOCAL-01912" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876343640</updated>
+    </task>
+    <task id="LOCAL-01913" summary="Liczba parzysta/nieparzysta z wyjątkiem">
+      <option name="closed" value="true" />
+      <created>1745876354831</created>
+      <option name="number" value="01913" />
+      <option name="presentableId" value="LOCAL-01913" />
+      <option name="project" value="LOCAL" />
+      <updated>1745876354831</updated>
+    </task>
+    <task id="LOCAL-01914" summary="Liczba parzysta/nieparzysta z wyjątkiem">
+      <option name="closed" value="true" />
+      <created>1745948464027</created>
+      <option name="number" value="01914" />
+      <option name="presentableId" value="LOCAL-01914" />
+      <option name="project" value="LOCAL" />
+      <updated>1745948464027</updated>
+    </task>
+    <option name="localTasksCounter" value="1915" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,9 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zliczamy wystąpienia" />
-    <MESSAGE value="Pętla for po literach alfabetu" />
-    <MESSAGE value="Wynik opercji bitowej w pętli for" />
     <MESSAGE value="Typy danych i operacje bitowe" />
     <MESSAGE value="Pokazać działanie konstruktora, wyjątku oraz efekt System.out.println() w konstruktorze." />
     <MESSAGE value="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie." />
@@ -597,7 +594,10 @@
     <MESSAGE value="Zliczanie unikalnych elementów – Set" />
     <MESSAGE value="wykorzystanie enum i switch-case" />
     <MESSAGE value="Własny wyjątek – sprawdzanie wieku użytkownika" />
-    <option name="LAST_COMMIT_MESSAGE" value="Własny wyjątek – sprawdzanie wieku użytkownika" />
+    <MESSAGE value="Licznik instancji klasy – metody statyczne" />
+    <MESSAGE value="Szukanie największej liczby w tablicy" />
+    <MESSAGE value="Liczba parzysta/nieparzysta z wyjątkiem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Liczba parzysta/nieparzysta z wyjątkiem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
