@@ -997,3 +997,6 @@ public class OdwrotnyTekst {
         for (int i = tekst.length() - 1; i >= 0; i--) {
             odwrotny += tekst.charAt(i);
         }
+        System.out.println("Tekst od tyłu: " + odwrotny);
+    }
+}
