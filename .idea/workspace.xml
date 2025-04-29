@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Liczba parzysta/nieparzysta z wyjątkiem" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Kasa w sklepie – prosta symulacja z klasami i metodami">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,23 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="1987000" />
-    </task>
-    <task id="LOCAL-01866" summary="Dziedziczenie – kolejność wywołania konstruktorów">
-      <option name="closed" value="true" />
-      <created>1745531154951</created>
-      <option name="number" value="01866" />
-      <option name="presentableId" value="LOCAL-01866" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531154951</updated>
-    </task>
-    <task id="LOCAL-01867" summary="Dziedziczenie – kolejność wywołania konstruktorów">
-      <option name="closed" value="true" />
-      <created>1745531166751</created>
-      <option name="number" value="01867" />
-      <option name="presentableId" value="LOCAL-01867" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531166751</updated>
+      <workItem from="1745779601674" duration="2621000" />
     </task>
     <task id="LOCAL-01868" summary="Dziedziczenie – kolejność wywołania konstruktorów">
       <option name="closed" value="true" />
@@ -554,7 +540,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745948464027</updated>
     </task>
-    <option name="localTasksCounter" value="1915" />
+    <task id="LOCAL-01915" summary="Liczba parzysta/nieparzysta z wyjątkiem">
+      <option name="closed" value="true" />
+      <created>1745948487726</created>
+      <option name="number" value="01915" />
+      <option name="presentableId" value="LOCAL-01915" />
+      <option name="project" value="LOCAL" />
+      <updated>1745948487726</updated>
+    </task>
+    <task id="LOCAL-01916" summary="Kasa w sklepie – prosta symulacja z klasami i metodami">
+      <option name="closed" value="true" />
+      <created>1745954861899</created>
+      <option name="number" value="01916" />
+      <option name="presentableId" value="LOCAL-01916" />
+      <option name="project" value="LOCAL" />
+      <updated>1745954861899</updated>
+    </task>
+    <option name="localTasksCounter" value="1917" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Typy danych i operacje bitowe" />
     <MESSAGE value="Pokazać działanie konstruktora, wyjątku oraz efekt System.out.println() w konstruktorze." />
     <MESSAGE value="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie." />
     <MESSAGE value="Zainicjalizować tablicę dwuwymiarową, wypisać uporządkowane liczby." />
@@ -597,7 +598,8 @@
     <MESSAGE value="Licznik instancji klasy – metody statyczne" />
     <MESSAGE value="Szukanie największej liczby w tablicy" />
     <MESSAGE value="Liczba parzysta/nieparzysta z wyjątkiem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Liczba parzysta/nieparzysta z wyjątkiem" />
+    <MESSAGE value="Kasa w sklepie – prosta symulacja z klasami i metodami" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kasa w sklepie – prosta symulacja z klasami i metodami" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
