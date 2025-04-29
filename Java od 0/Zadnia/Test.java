@@ -947,3 +947,12 @@ public class ParzystoscWyjatek {
 
 ==========================================================================================
 //Kasa w sklepie – prosta symulacja z klasami i metodami
+
+class Produkt {
+    String nazwa;
+    double cena;
+
+    public Produkt(String nazwa, double cena) {
+        this.nazwa = nazwa;
+        this.cena = cena;
+    }
