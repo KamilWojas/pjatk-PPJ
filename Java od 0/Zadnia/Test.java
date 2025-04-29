@@ -940,3 +940,10 @@ public class ParzystoscWyjatek {
         }
     }
 }
+
+
+
+
+
+==========================================================================================
+//Kasa w sklepie – prosta symulacja z klasami i metodami
