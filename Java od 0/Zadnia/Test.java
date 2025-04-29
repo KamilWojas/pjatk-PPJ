@@ -992,3 +992,8 @@ public class OdwrotnyTekst {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Podaj tekst: ");
         String tekst = scanner.nextLine();
+
+        String odwrotny = "";
+        for (int i = tekst.length() - 1; i >= 0; i--) {
+            odwrotny += tekst.charAt(i);
+        }
