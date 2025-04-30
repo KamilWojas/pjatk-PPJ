@@ -1024,3 +1024,14 @@ public class Palindrom {
         }
     }
 }
+
+
+
+
+
+==========================================================================================
+//Czy liczba jest doskonała?
+
+public class LiczbaDoskonala {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
