@@ -1040,3 +1040,9 @@ public class LiczbaDoskonala {
         int liczba = scanner.nextInt();
 
         int sumaDzielnikow = 0;
+
+        for (int i = 1; i <= liczba / 2; i++) {
+            if (liczba % i == 0) {
+                sumaDzielnikow += i;
+            }
+        }
