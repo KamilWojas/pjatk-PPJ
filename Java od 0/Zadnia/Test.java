@@ -1051,6 +1051,6 @@ public class LiczbaDoskonala {
             System.out.println("To jest liczba doskonała!");
         } else {
             System.out.println("To NIE jest liczba doskonała.");
-        }
+        } 
     } 
 }
