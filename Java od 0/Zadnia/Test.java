@@ -1016,3 +1016,11 @@ public class Palindrom {
         String tekst = scanner.nextLine().toLowerCase();
 
         String odwrotny = new StringBuilder(tekst).reverse().toString();
+
+        if (tekst.equals(odwrotny)) {
+            System.out.println("To jest palindrom!");
+        } else {
+            System.out.println("To NIE jest palindrom.");
+        }
+    }
+}
