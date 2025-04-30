@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Odwracanie tekstu – manipulacja String i pętle" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Czy liczba jest doskonała?" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,87 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="3939000" />
-    </task>
-    <task id="LOCAL-01877" summary="klasy abstrakcyjnej i interfejsu">
-      <option name="closed" value="true" />
-      <created>1745604139675</created>
-      <option name="number" value="01877" />
-      <option name="presentableId" value="LOCAL-01877" />
-      <option name="project" value="LOCAL" />
-      <updated>1745604139676</updated>
-    </task>
-    <task id="LOCAL-01878" summary="klasy abstrakcyjnej i interfejsu">
-      <option name="closed" value="true" />
-      <created>1745607507626</created>
-      <option name="number" value="01878" />
-      <option name="presentableId" value="LOCAL-01878" />
-      <option name="project" value="LOCAL" />
-      <updated>1745607507626</updated>
-    </task>
-    <task id="LOCAL-01879" summary="klasy abstrakcyjnej i interfejsu">
-      <option name="closed" value="true" />
-      <created>1745613156261</created>
-      <option name="number" value="01879" />
-      <option name="presentableId" value="LOCAL-01879" />
-      <option name="project" value="LOCAL" />
-      <updated>1745613156261</updated>
-    </task>
-    <task id="LOCAL-01880" summary="klasy abstrakcyjnej i interfejsu">
-      <option name="closed" value="true" />
-      <created>1745613315576</created>
-      <option name="number" value="01880" />
-      <option name="presentableId" value="LOCAL-01880" />
-      <option name="project" value="LOCAL" />
-      <updated>1745613315576</updated>
-    </task>
-    <task id="LOCAL-01881" summary="klasy abstrakcyjnej i interfejsu">
-      <option name="closed" value="true" />
-      <created>1745678937280</created>
-      <option name="number" value="01881" />
-      <option name="presentableId" value="LOCAL-01881" />
-      <option name="project" value="LOCAL" />
-      <updated>1745678937281</updated>
-    </task>
-    <task id="LOCAL-01882" summary="klasy abstrakcyjnej i interfejsu">
-      <option name="closed" value="true" />
-      <created>1745684449627</created>
-      <option name="number" value="01882" />
-      <option name="presentableId" value="LOCAL-01882" />
-      <option name="project" value="LOCAL" />
-      <updated>1745684449627</updated>
-    </task>
-    <task id="LOCAL-01883" summary="Zliczanie unikalnych elementów – Set">
-      <option name="closed" value="true" />
-      <created>1745684507265</created>
-      <option name="number" value="01883" />
-      <option name="presentableId" value="LOCAL-01883" />
-      <option name="project" value="LOCAL" />
-      <updated>1745684507265</updated>
-    </task>
-    <task id="LOCAL-01884" summary="Zliczanie unikalnych elementów – Set">
-      <option name="closed" value="true" />
-      <created>1745684532015</created>
-      <option name="number" value="01884" />
-      <option name="presentableId" value="LOCAL-01884" />
-      <option name="project" value="LOCAL" />
-      <updated>1745684532015</updated>
-    </task>
-    <task id="LOCAL-01885" summary="Zliczanie unikalnych elementów – Set">
-      <option name="closed" value="true" />
-      <created>1745684547015</created>
-      <option name="number" value="01885" />
-      <option name="presentableId" value="LOCAL-01885" />
-      <option name="project" value="LOCAL" />
-      <updated>1745684547015</updated>
-    </task>
-    <task id="LOCAL-01886" summary="Zliczanie unikalnych elementów – Set">
-      <option name="closed" value="true" />
-      <created>1745684561750</created>
-      <option name="number" value="01886" />
-      <option name="presentableId" value="LOCAL-01886" />
-      <option name="project" value="LOCAL" />
-      <updated>1745684561750</updated>
+      <workItem from="1745779601674" duration="4991000" />
     </task>
     <task id="LOCAL-01887" summary="Zliczanie unikalnych elementów – Set">
       <option name="closed" value="true" />
@@ -554,7 +474,87 @@
       <option name="project" value="LOCAL" />
       <updated>1746034367394</updated>
     </task>
-    <option name="localTasksCounter" value="1926" />
+    <task id="LOCAL-01926" summary="Sprawdź, czy tekst jest palindromem">
+      <option name="closed" value="true" />
+      <created>1746034441017</created>
+      <option name="number" value="01926" />
+      <option name="presentableId" value="LOCAL-01926" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034441017</updated>
+    </task>
+    <task id="LOCAL-01927" summary="Sprawdź, czy tekst jest palindromem">
+      <option name="closed" value="true" />
+      <created>1746034454598</created>
+      <option name="number" value="01927" />
+      <option name="presentableId" value="LOCAL-01927" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034454598</updated>
+    </task>
+    <task id="LOCAL-01928" summary="Sprawdź, czy tekst jest palindromem">
+      <option name="closed" value="true" />
+      <created>1746034466033</created>
+      <option name="number" value="01928" />
+      <option name="presentableId" value="LOCAL-01928" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034466033</updated>
+    </task>
+    <task id="LOCAL-01929" summary="Sprawdź, czy tekst jest palindromem">
+      <option name="closed" value="true" />
+      <created>1746034482350</created>
+      <option name="number" value="01929" />
+      <option name="presentableId" value="LOCAL-01929" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034482350</updated>
+    </task>
+    <task id="LOCAL-01930" summary="Czy liczba jest doskonała?">
+      <option name="closed" value="true" />
+      <created>1746034523804</created>
+      <option name="number" value="01930" />
+      <option name="presentableId" value="LOCAL-01930" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034523804</updated>
+    </task>
+    <task id="LOCAL-01931" summary="Czy liczba jest doskonała?">
+      <option name="closed" value="true" />
+      <created>1746034534635</created>
+      <option name="number" value="01931" />
+      <option name="presentableId" value="LOCAL-01931" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034534635</updated>
+    </task>
+    <task id="LOCAL-01932" summary="Czy liczba jest doskonała?">
+      <option name="closed" value="true" />
+      <created>1746034546370</created>
+      <option name="number" value="01932" />
+      <option name="presentableId" value="LOCAL-01932" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034546370</updated>
+    </task>
+    <task id="LOCAL-01933" summary="Czy liczba jest doskonała?">
+      <option name="closed" value="true" />
+      <created>1746034560086</created>
+      <option name="number" value="01933" />
+      <option name="presentableId" value="LOCAL-01933" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034560086</updated>
+    </task>
+    <task id="LOCAL-01934" summary="Czy liczba jest doskonała?">
+      <option name="closed" value="true" />
+      <created>1746034573671</created>
+      <option name="number" value="01934" />
+      <option name="presentableId" value="LOCAL-01934" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034573671</updated>
+    </task>
+    <task id="LOCAL-01935" summary="Czy liczba jest doskonała?">
+      <option name="closed" value="true" />
+      <created>1746050173062</created>
+      <option name="number" value="01935" />
+      <option name="presentableId" value="LOCAL-01935" />
+      <option name="project" value="LOCAL" />
+      <updated>1746050173062</updated>
+    </task>
+    <option name="localTasksCounter" value="1936" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,8 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie." />
-    <MESSAGE value="Zainicjalizować tablicę dwuwymiarową, wypisać uporządkowane liczby." />
     <MESSAGE value="Tworzymy dwuwymiarową tablicę" />
     <MESSAGE value="Arrays.stream(...).flatMapToInt() – spłaszcza tablicę do 1D,&#10;&#10;Arrays.sort() – sortuje," />
     <MESSAGE value="wypisywanie z for-each." />
@@ -597,7 +595,9 @@
     <MESSAGE value="Liczba parzysta/nieparzysta z wyjątkiem" />
     <MESSAGE value="Kasa w sklepie – prosta symulacja z klasami i metodami" />
     <MESSAGE value="Odwracanie tekstu – manipulacja String i pętle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Odwracanie tekstu – manipulacja String i pętle" />
+    <MESSAGE value="Sprawdź, czy tekst jest palindromem" />
+    <MESSAGE value="Czy liczba jest doskonała?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Czy liczba jest doskonała?" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
