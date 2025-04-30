@@ -1000,3 +1000,14 @@ public class OdwrotnyTekst {
         System.out.println("Tekst od tyłu: " + odwrotny);
     }
 }
+
+
+
+
+
+==========================================================================================
+//Sprawdź, czy tekst jest palindromem
+
+public class Palindrom {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);

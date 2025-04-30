@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Kasa w sklepie – prosta symulacja z klasami i metodami">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Odwracanie tekstu – manipulacja String i pętle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,63 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="3239000" />
-    </task>
-    <task id="LOCAL-01870" summary="interfejsy vs klasy abstrakcyjne">
-      <option name="closed" value="true" />
-      <created>1745531267022</created>
-      <option name="number" value="01870" />
-      <option name="presentableId" value="LOCAL-01870" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531267022</updated>
-    </task>
-    <task id="LOCAL-01871" summary="interfejsy vs klasy abstrakcyjne">
-      <option name="closed" value="true" />
-      <created>1745531282037</created>
-      <option name="number" value="01871" />
-      <option name="presentableId" value="LOCAL-01871" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531282038</updated>
-    </task>
-    <task id="LOCAL-01872" summary="Zwierze – klasa abstrakcyjna: może zawierać kod + konstruktory, ale nie można jej utworzyć bezpośrednio (new)">
-      <option name="closed" value="true" />
-      <created>1745531310607</created>
-      <option name="number" value="01872" />
-      <option name="presentableId" value="LOCAL-01872" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531310608</updated>
-    </task>
-    <task id="LOCAL-01873" summary="Kot – dziedziczy z klasy abstrakcyjnej i implementuje interfejs.">
-      <option name="closed" value="true" />
-      <created>1745531340209</created>
-      <option name="number" value="01873" />
-      <option name="presentableId" value="LOCAL-01873" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531340209</updated>
-    </task>
-    <task id="LOCAL-01874" summary="Glos – interfejs: zawiera tylko nagłówki metod, które muszą być zaimplementowane,">
-      <option name="closed" value="true" />
-      <created>1745531376733</created>
-      <option name="number" value="01874" />
-      <option name="presentableId" value="LOCAL-01874" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531376733</updated>
-    </task>
-    <task id="LOCAL-01875" summary="klasy abstrakcyjnej i interfejsu">
-      <option name="closed" value="true" />
-      <created>1745531411947</created>
-      <option name="number" value="01875" />
-      <option name="presentableId" value="LOCAL-01875" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531411947</updated>
-    </task>
-    <task id="LOCAL-01876" summary="klasy abstrakcyjnej i interfejsu">
-      <option name="closed" value="true" />
-      <created>1745531433795</created>
-      <option name="number" value="01876" />
-      <option name="presentableId" value="LOCAL-01876" />
-      <option name="project" value="LOCAL" />
-      <updated>1745531433795</updated>
+      <workItem from="1745779601674" duration="3939000" />
     </task>
     <task id="LOCAL-01877" summary="klasy abstrakcyjnej i interfejsu">
       <option name="closed" value="true" />
@@ -556,7 +498,63 @@
       <option name="project" value="LOCAL" />
       <updated>1745954879896</updated>
     </task>
-    <option name="localTasksCounter" value="1919" />
+    <task id="LOCAL-01919" summary="Kasa w sklepie – prosta symulacja z klasami i metodami">
+      <option name="closed" value="true" />
+      <created>1745963258726</created>
+      <option name="number" value="01919" />
+      <option name="presentableId" value="LOCAL-01919" />
+      <option name="project" value="LOCAL" />
+      <updated>1745963258726</updated>
+    </task>
+    <task id="LOCAL-01920" summary="Kasa w sklepie – prosta symulacja z klasami i metodami">
+      <option name="closed" value="true" />
+      <created>1745963268597</created>
+      <option name="number" value="01920" />
+      <option name="presentableId" value="LOCAL-01920" />
+      <option name="project" value="LOCAL" />
+      <updated>1745963268597</updated>
+    </task>
+    <task id="LOCAL-01921" summary="Odwracanie tekstu – manipulacja String i pętle">
+      <option name="closed" value="true" />
+      <created>1745963298975</created>
+      <option name="number" value="01921" />
+      <option name="presentableId" value="LOCAL-01921" />
+      <option name="project" value="LOCAL" />
+      <updated>1745963298975</updated>
+    </task>
+    <task id="LOCAL-01922" summary="Odwracanie tekstu – manipulacja String i pętle">
+      <option name="closed" value="true" />
+      <created>1745963312603</created>
+      <option name="number" value="01922" />
+      <option name="presentableId" value="LOCAL-01922" />
+      <option name="project" value="LOCAL" />
+      <updated>1745963312603</updated>
+    </task>
+    <task id="LOCAL-01923" summary="Odwracanie tekstu – manipulacja String i pętle">
+      <option name="closed" value="true" />
+      <created>1745963322010</created>
+      <option name="number" value="01923" />
+      <option name="presentableId" value="LOCAL-01923" />
+      <option name="project" value="LOCAL" />
+      <updated>1745963322010</updated>
+    </task>
+    <task id="LOCAL-01924" summary="Odwracanie tekstu – manipulacja String i pętle">
+      <option name="closed" value="true" />
+      <created>1745963333111</created>
+      <option name="number" value="01924" />
+      <option name="presentableId" value="LOCAL-01924" />
+      <option name="project" value="LOCAL" />
+      <updated>1745963333111</updated>
+    </task>
+    <task id="LOCAL-01925" summary="Odwracanie tekstu – manipulacja String i pętle">
+      <option name="closed" value="true" />
+      <created>1746034367394</created>
+      <option name="number" value="01925" />
+      <option name="presentableId" value="LOCAL-01925" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034367394</updated>
+    </task>
+    <option name="localTasksCounter" value="1926" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pokazać działanie konstruktora, wyjątku oraz efekt System.out.println() w konstruktorze." />
     <MESSAGE value="Zobaczyć działanie polimorfizmu, @Override, overloading vs overriding, dziedziczenie." />
     <MESSAGE value="Zainicjalizować tablicę dwuwymiarową, wypisać uporządkowane liczby." />
     <MESSAGE value="Tworzymy dwuwymiarową tablicę" />
@@ -599,7 +596,8 @@
     <MESSAGE value="Szukanie największej liczby w tablicy" />
     <MESSAGE value="Liczba parzysta/nieparzysta z wyjątkiem" />
     <MESSAGE value="Kasa w sklepie – prosta symulacja z klasami i metodami" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kasa w sklepie – prosta symulacja z klasami i metodami" />
+    <MESSAGE value="Odwracanie tekstu – manipulacja String i pętle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Odwracanie tekstu – manipulacja String i pętle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
