@@ -1014,3 +1014,5 @@ public class Palindrom {
 
         System.out.print("Podaj tekst: ");
         String tekst = scanner.nextLine().toLowerCase();
+
+        String odwrotny = new StringBuilder(tekst).reverse().toString();
