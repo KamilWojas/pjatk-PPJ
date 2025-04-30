@@ -1038,3 +1038,5 @@ public class LiczbaDoskonala {
 
         System.out.print("Podaj liczbę całkowitą: ");
         int liczba = scanner.nextInt();
+
+        int sumaDzielnikow = 0;
