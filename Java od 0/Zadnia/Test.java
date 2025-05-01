@@ -1076,6 +1076,9 @@ public class UsunDuplikaty{
                     break;
                 }
             }
+            if (!duplikat) {
+                System.out.print(dane[i] + " ");
+            }
         }
     }
 }
