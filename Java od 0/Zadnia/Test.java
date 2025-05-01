@@ -1099,6 +1099,6 @@ public class PetlaDoWhile{
         do {
             System.out.println("Wykonanie " + licznik);
             licznik++;
-        }
+        }while (licznik < 0);
     }
 }
