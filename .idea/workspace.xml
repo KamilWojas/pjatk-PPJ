@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Czy liczba jest doskonała?" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Usuwanie duplikatów z tablicy liczb całkowitych">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,31 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="5610000" />
-    </task>
-    <task id="LOCAL-01890" summary="wykorzystanie enum i switch-case">
-      <option name="closed" value="true" />
-      <created>1745684684482</created>
-      <option name="number" value="01890" />
-      <option name="presentableId" value="LOCAL-01890" />
-      <option name="project" value="LOCAL" />
-      <updated>1745684684482</updated>
-    </task>
-    <task id="LOCAL-01891" summary="wykorzystanie enum i switch-case">
-      <option name="closed" value="true" />
-      <created>1745684736798</created>
-      <option name="number" value="01891" />
-      <option name="presentableId" value="LOCAL-01891" />
-      <option name="project" value="LOCAL" />
-      <updated>1745684736798</updated>
-    </task>
-    <task id="LOCAL-01892" summary="wykorzystanie enum i switch-case">
-      <option name="closed" value="true" />
-      <created>1745684787406</created>
-      <option name="number" value="01892" />
-      <option name="presentableId" value="LOCAL-01892" />
-      <option name="project" value="LOCAL" />
-      <updated>1745684787406</updated>
+      <workItem from="1745779601674" duration="5924000" />
     </task>
     <task id="LOCAL-01893" summary="wykorzystanie enum i switch-case">
       <option name="closed" value="true" />
@@ -554,7 +532,31 @@
       <option name="project" value="LOCAL" />
       <updated>1746123232094</updated>
     </task>
-    <option name="localTasksCounter" value="1939" />
+    <task id="LOCAL-01939" summary="Czy liczba jest doskonała?">
+      <option name="closed" value="true" />
+      <created>1746123348737</created>
+      <option name="number" value="01939" />
+      <option name="presentableId" value="LOCAL-01939" />
+      <option name="project" value="LOCAL" />
+      <updated>1746123348737</updated>
+    </task>
+    <task id="LOCAL-01940" summary="Usuwanie duplikatów z tablicy liczb całkowitych">
+      <option name="closed" value="true" />
+      <created>1746123488950</created>
+      <option name="number" value="01940" />
+      <option name="presentableId" value="LOCAL-01940" />
+      <option name="project" value="LOCAL" />
+      <updated>1746123488950</updated>
+    </task>
+    <task id="LOCAL-01941" summary="Usuwanie duplikatów z tablicy liczb całkowitych">
+      <option name="closed" value="true" />
+      <created>1746123551433</created>
+      <option name="number" value="01941" />
+      <option name="presentableId" value="LOCAL-01941" />
+      <option name="project" value="LOCAL" />
+      <updated>1746123551433</updated>
+    </task>
+    <option name="localTasksCounter" value="1942" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tworzymy dwuwymiarową tablicę" />
     <MESSAGE value="Arrays.stream(...).flatMapToInt() – spłaszcza tablicę do 1D,&#10;&#10;Arrays.sort() – sortuje," />
     <MESSAGE value="wypisywanie z for-each." />
     <MESSAGE value="Licznik bitów – ile 1 w liczbie binarnej" />
@@ -597,7 +598,8 @@
     <MESSAGE value="Odwracanie tekstu – manipulacja String i pętle" />
     <MESSAGE value="Sprawdź, czy tekst jest palindromem" />
     <MESSAGE value="Czy liczba jest doskonała?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Czy liczba jest doskonała?" />
+    <MESSAGE value="Usuwanie duplikatów z tablicy liczb całkowitych" />
+    <option name="LAST_COMMIT_MESSAGE" value="Usuwanie duplikatów z tablicy liczb całkowitych" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
