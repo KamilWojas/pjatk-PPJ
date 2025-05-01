@@ -1061,3 +1061,9 @@ public class LiczbaDoskonala {
 
 ==========================================================================================
 //Usuwanie duplikatów z tablicy liczb całkowitych
+
+public class UsunDuplikaty{
+    public static void main(String[] args) {
+        int[] dane = {1, 2, 3, 2, 4, 5, 1, 6};
+    }
+}
