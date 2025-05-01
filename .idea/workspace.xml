@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Usuwanie duplikatów z tablicy liczb całkowitych">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Usuwanie duplikatów z tablicy liczb całkowitych" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,31 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="5924000" />
-    </task>
-    <task id="LOCAL-01893" summary="wykorzystanie enum i switch-case">
-      <option name="closed" value="true" />
-      <created>1745684823423</created>
-      <option name="number" value="01893" />
-      <option name="presentableId" value="LOCAL-01893" />
-      <option name="project" value="LOCAL" />
-      <updated>1745684823423</updated>
-    </task>
-    <task id="LOCAL-01894" summary="wykorzystanie enum i switch-case">
-      <option name="closed" value="true" />
-      <created>1745684846957</created>
-      <option name="number" value="01894" />
-      <option name="presentableId" value="LOCAL-01894" />
-      <option name="project" value="LOCAL" />
-      <updated>1745684846957</updated>
-    </task>
-    <task id="LOCAL-01895" summary="wykorzystanie enum i switch-case">
-      <option name="closed" value="true" />
-      <created>1745764417050</created>
-      <option name="number" value="01895" />
-      <option name="presentableId" value="LOCAL-01895" />
-      <option name="project" value="LOCAL" />
-      <updated>1745764417050</updated>
+      <workItem from="1745779601674" duration="6455000" />
     </task>
     <task id="LOCAL-01896" summary="wykorzystanie enum i switch-case">
       <option name="closed" value="true" />
@@ -556,7 +530,31 @@
       <option name="project" value="LOCAL" />
       <updated>1746123551433</updated>
     </task>
-    <option name="localTasksCounter" value="1942" />
+    <task id="LOCAL-01942" summary="Usuwanie duplikatów z tablicy liczb całkowitych">
+      <option name="closed" value="true" />
+      <created>1746123647217</created>
+      <option name="number" value="01942" />
+      <option name="presentableId" value="LOCAL-01942" />
+      <option name="project" value="LOCAL" />
+      <updated>1746123647217</updated>
+    </task>
+    <task id="LOCAL-01943" summary="Usuwanie duplikatów z tablicy liczb całkowitych">
+      <option name="closed" value="true" />
+      <created>1746123758664</created>
+      <option name="number" value="01943" />
+      <option name="presentableId" value="LOCAL-01943" />
+      <option name="project" value="LOCAL" />
+      <updated>1746123758664</updated>
+    </task>
+    <task id="LOCAL-01944" summary="Usuwanie duplikatów z tablicy liczb całkowitych">
+      <option name="closed" value="true" />
+      <created>1746123774386</created>
+      <option name="number" value="01944" />
+      <option name="presentableId" value="LOCAL-01944" />
+      <option name="project" value="LOCAL" />
+      <updated>1746123774387</updated>
+    </task>
+    <option name="localTasksCounter" value="1945" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
