@@ -1094,6 +1094,10 @@ public class UsunDuplikaty{
 
 public class PetlaDoWhile{
     public static void main(String[] args) {
-        int liczba = 0;
+        int licznik = 0;
+
+        do {
+            System.out.println("Wykonanie " + licznik) ;
+        }
     }
 }
