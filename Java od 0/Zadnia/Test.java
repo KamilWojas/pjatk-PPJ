@@ -1097,7 +1097,8 @@ public class PetlaDoWhile{
         int licznik = 0;
 
         do {
-            System.out.println("Wykonanie " + licznik) ;
+            System.out.println("Wykonanie " + licznik);
+            licznik++;
         }
     }
 }
