@@ -1082,3 +1082,18 @@ public class UsunDuplikaty{
         }
     }
 }
+
+
+
+
+
+
+
+==========================================================================================
+//Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?
+
+public class PetlaDoWhile{
+    public static void main(String[] args) {
+        int liczba = 0;
+    }
+}
