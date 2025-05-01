@@ -1069,6 +1069,13 @@ public class UsunDuplikaty{
         System.out.println("Unikalne wartości");
         for (int i = 0; i < dane.length; i++ ){
             boolean duplikaty = false;
+
+            for (int j = 0; j < i; j++){
+                if (dane[i] == dane[j]){
+                    duplikaty = true;
+                    break;
+                }
+            }
         }
     }
 }
