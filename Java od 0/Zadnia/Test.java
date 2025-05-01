@@ -1052,5 +1052,5 @@ public class LiczbaDoskonala {
         } else {
             System.out.println("To NIE jest liczba doskonała.");
         } 
-    } 
+    }  
 }
