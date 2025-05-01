@@ -1054,3 +1054,10 @@ public class LiczbaDoskonala {
         } 
     }  
 }
+
+
+
+
+
+==========================================================================================
+//Usuwanie duplikatów z tablicy liczb całkowitych
