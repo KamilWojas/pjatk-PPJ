@@ -828,10 +828,6 @@ public class SystemZamowienEnum {
 
 
 
-
-
-
-
 ==========================================================================================
 //Własny wyjątek – sprawdzanie wieku użytkownika
 
