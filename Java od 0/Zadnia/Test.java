@@ -1146,5 +1146,3 @@ public class RysujProstokat {
         System.out.println();   
     }
 }
-
-
