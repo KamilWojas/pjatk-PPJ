@@ -1106,3 +1106,7 @@ public class PetlaDoWhile{
 
 ==========================================================================================
 //Suma liczb podzielnych przez 3 i 5 z zakresu 1–100
+
+public class SumaPodzielnych {
+    public static void main(String[] args) {
+        int suma = 0;
