@@ -1120,3 +1120,9 @@ public class SumaPodzielnych {
         System.out.println("Suma liczb podzielnych przez 3 i 5 w zakresie 1–100: " + suma);
     }
 }
+
+
+
+
+==========================================================================================
+//Rysowanie prostokąta z gwiazdek (*)
