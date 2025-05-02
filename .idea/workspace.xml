@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Rysowanie prostokąta z gwiazdek (*)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,87 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="9672000" />
-    </task>
-    <task id="LOCAL-01904" summary="Licznik instancji klasy – metody statyczne">
-      <option name="closed" value="true" />
-      <created>1745876137242</created>
-      <option name="number" value="01904" />
-      <option name="presentableId" value="LOCAL-01904" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876137242</updated>
-    </task>
-    <task id="LOCAL-01905" summary="Szukanie największej liczby w tablicy">
-      <option name="closed" value="true" />
-      <created>1745876223660</created>
-      <option name="number" value="01905" />
-      <option name="presentableId" value="LOCAL-01905" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876223660</updated>
-    </task>
-    <task id="LOCAL-01906" summary="Szukanie największej liczby w tablicy">
-      <option name="closed" value="true" />
-      <created>1745876240207</created>
-      <option name="number" value="01906" />
-      <option name="presentableId" value="LOCAL-01906" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876240208</updated>
-    </task>
-    <task id="LOCAL-01907" summary="Szukanie największej liczby w tablicy">
-      <option name="closed" value="true" />
-      <created>1745876252293</created>
-      <option name="number" value="01907" />
-      <option name="presentableId" value="LOCAL-01907" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876252293</updated>
-    </task>
-    <task id="LOCAL-01908" summary="Szukanie największej liczby w tablicy">
-      <option name="closed" value="true" />
-      <created>1745876263508</created>
-      <option name="number" value="01908" />
-      <option name="presentableId" value="LOCAL-01908" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876263508</updated>
-    </task>
-    <task id="LOCAL-01909" summary="Liczba parzysta/nieparzysta z wyjątkiem">
-      <option name="closed" value="true" />
-      <created>1745876305043</created>
-      <option name="number" value="01909" />
-      <option name="presentableId" value="LOCAL-01909" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876305043</updated>
-    </task>
-    <task id="LOCAL-01910" summary="Liczba parzysta/nieparzysta z wyjątkiem">
-      <option name="closed" value="true" />
-      <created>1745876317595</created>
-      <option name="number" value="01910" />
-      <option name="presentableId" value="LOCAL-01910" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876317595</updated>
-    </task>
-    <task id="LOCAL-01911" summary="Liczba parzysta/nieparzysta z wyjątkiem">
-      <option name="closed" value="true" />
-      <created>1745876331216</created>
-      <option name="number" value="01911" />
-      <option name="presentableId" value="LOCAL-01911" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876331216</updated>
-    </task>
-    <task id="LOCAL-01912" summary="Liczba parzysta/nieparzysta z wyjątkiem">
-      <option name="closed" value="true" />
-      <created>1745876343640</created>
-      <option name="number" value="01912" />
-      <option name="presentableId" value="LOCAL-01912" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876343640</updated>
-    </task>
-    <task id="LOCAL-01913" summary="Liczba parzysta/nieparzysta z wyjątkiem">
-      <option name="closed" value="true" />
-      <created>1745876354831</created>
-      <option name="number" value="01913" />
-      <option name="presentableId" value="LOCAL-01913" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876354831</updated>
+      <workItem from="1745779601674" duration="11026000" />
     </task>
     <task id="LOCAL-01914" summary="Liczba parzysta/nieparzysta z wyjątkiem">
       <option name="closed" value="true" />
@@ -556,7 +476,87 @@
       <option name="project" value="LOCAL" />
       <updated>1746218231372</updated>
     </task>
-    <option name="localTasksCounter" value="1953" />
+    <task id="LOCAL-01953" summary="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100">
+      <option name="closed" value="true" />
+      <created>1746221352490</created>
+      <option name="number" value="01953" />
+      <option name="presentableId" value="LOCAL-01953" />
+      <option name="project" value="LOCAL" />
+      <updated>1746221352490</updated>
+    </task>
+    <task id="LOCAL-01954" summary="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100">
+      <option name="closed" value="true" />
+      <created>1746221362292</created>
+      <option name="number" value="01954" />
+      <option name="presentableId" value="LOCAL-01954" />
+      <option name="project" value="LOCAL" />
+      <updated>1746221362292</updated>
+    </task>
+    <task id="LOCAL-01955" summary="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100">
+      <option name="closed" value="true" />
+      <created>1746221377991</created>
+      <option name="number" value="01955" />
+      <option name="presentableId" value="LOCAL-01955" />
+      <option name="project" value="LOCAL" />
+      <updated>1746221377992</updated>
+    </task>
+    <task id="LOCAL-01956" summary="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100">
+      <option name="closed" value="true" />
+      <created>1746221387990</created>
+      <option name="number" value="01956" />
+      <option name="presentableId" value="LOCAL-01956" />
+      <option name="project" value="LOCAL" />
+      <updated>1746221387990</updated>
+    </task>
+    <task id="LOCAL-01957" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746221409574</created>
+      <option name="number" value="01957" />
+      <option name="presentableId" value="LOCAL-01957" />
+      <option name="project" value="LOCAL" />
+      <updated>1746221409574</updated>
+    </task>
+    <task id="LOCAL-01958" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746221419474</created>
+      <option name="number" value="01958" />
+      <option name="presentableId" value="LOCAL-01958" />
+      <option name="project" value="LOCAL" />
+      <updated>1746221419474</updated>
+    </task>
+    <task id="LOCAL-01959" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746221435119</created>
+      <option name="number" value="01959" />
+      <option name="presentableId" value="LOCAL-01959" />
+      <option name="project" value="LOCAL" />
+      <updated>1746221435119</updated>
+    </task>
+    <task id="LOCAL-01960" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746221447808</created>
+      <option name="number" value="01960" />
+      <option name="presentableId" value="LOCAL-01960" />
+      <option name="project" value="LOCAL" />
+      <updated>1746221447808</updated>
+    </task>
+    <task id="LOCAL-01961" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746221460212</created>
+      <option name="number" value="01961" />
+      <option name="presentableId" value="LOCAL-01961" />
+      <option name="project" value="LOCAL" />
+      <updated>1746221460212</updated>
+    </task>
+    <task id="LOCAL-01962" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746227859271</created>
+      <option name="number" value="01962" />
+      <option name="presentableId" value="LOCAL-01962" />
+      <option name="project" value="LOCAL" />
+      <updated>1746227859271</updated>
+    </task>
+    <option name="localTasksCounter" value="1963" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,8 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="wypisywanie z for-each." />
-    <MESSAGE value="Licznik bitów – ile 1 w liczbie binarnej" />
     <MESSAGE value="Podajemy liczbę" />
     <MESSAGE value="do wypisania binarnie" />
     <MESSAGE value="liczba &amp; 1 sprawdza, czy ostatni bit to 1 (bo 1 to 0001),&#10;&#10;&gt;&gt;&gt; 1 przesuwa bity w prawo (dzieli przez 2 bez znaku),&#10;&#10;while działa, dopóki liczba ≠ 0," />
@@ -599,6 +597,8 @@
     <MESSAGE value="Czy liczba jest doskonała?" />
     <MESSAGE value="Usuwanie duplikatów z tablicy liczb całkowitych" />
     <MESSAGE value="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?" />
+    <MESSAGE value="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100" />
+    <MESSAGE value="Rysowanie prostokąta z gwiazdek (*)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rysowanie prostokąta z gwiazdek (*)" />
   </component>
 </project>
