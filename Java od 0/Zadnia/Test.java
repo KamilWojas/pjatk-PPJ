@@ -1143,7 +1143,7 @@ public class RysujProstokat {
             }
 
         }
-        System.out.println(); 
+        System.out.println();   
     }
 }
 }
