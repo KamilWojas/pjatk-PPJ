@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,15 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="9059000" />
-    </task>
-    <task id="LOCAL-01903" summary="Licznik instancji klasy – metody statyczne">
-      <option name="closed" value="true" />
-      <created>1745876125876</created>
-      <option name="number" value="01903" />
-      <option name="presentableId" value="LOCAL-01903" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876125876</updated>
+      <workItem from="1745779601674" duration="9672000" />
     </task>
     <task id="LOCAL-01904" summary="Licznik instancji klasy – metody statyczne">
       <option name="closed" value="true" />
@@ -554,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746218156536</updated>
     </task>
-    <option name="localTasksCounter" value="1952" />
+    <task id="LOCAL-01952" summary="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
+      <option name="closed" value="true" />
+      <created>1746218231371</created>
+      <option name="number" value="01952" />
+      <option name="presentableId" value="LOCAL-01952" />
+      <option name="project" value="LOCAL" />
+      <updated>1746218231372</updated>
+    </task>
+    <option name="localTasksCounter" value="1953" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

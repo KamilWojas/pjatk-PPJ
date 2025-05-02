@@ -1098,3 +1098,11 @@ public class PetlaDoWhile{
         }while (licznik < 0);
     }
 }
+
+
+
+
+
+
+==========================================================================================
+//Suma liczb podzielnych przez 3 i 5 z zakresu 1–100
