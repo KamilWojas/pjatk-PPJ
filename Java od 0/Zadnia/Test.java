@@ -1136,3 +1136,8 @@ public class RysujProstokat {
 
         System.out.print("Podaj wysokość: ");
         int wysokosc = scanner.nextInt();
+
+        for (int i = 0; i < wysokosc; i++) {
+            for (int j = 0; j < szerokosc; j++) {
+                System.out.print("*");
+            }
