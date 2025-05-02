@@ -1141,3 +1141,9 @@ public class RysujProstokat {
             for (int j = 0; j < szerokosc; j++) {
                 System.out.print("*");
             }
+
+        }
+        System.out.println(); 
+    }
+}
+}
