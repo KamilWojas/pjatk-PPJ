@@ -978,8 +978,6 @@ public class KasaSklepowa {
 
 
 
-
-
 ==========================================================================================
 //Odwracanie tekstu – manipulacja String i pętle
 
