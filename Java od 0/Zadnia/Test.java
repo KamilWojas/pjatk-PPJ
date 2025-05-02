@@ -1130,3 +1130,9 @@ public class SumaPodzielnych {
 public class RysujProstokat {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Podaj szerokość: ");
+        int szerokosc = scanner.nextInt();
+
+        System.out.print("Podaj wysokość: ");
+        int wysokosc = scanner.nextInt();
