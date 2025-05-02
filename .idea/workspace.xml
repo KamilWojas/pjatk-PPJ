@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Usuwanie duplikatów z tablicy liczb całkowitych" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,47 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="7568000" />
-    </task>
-    <task id="LOCAL-01897" summary="wykorzystanie enum i switch-case">
-      <option name="closed" value="true" />
-      <created>1745875894952</created>
-      <option name="number" value="01897" />
-      <option name="presentableId" value="LOCAL-01897" />
-      <option name="project" value="LOCAL" />
-      <updated>1745875894952</updated>
-    </task>
-    <task id="LOCAL-01898" summary="Własny wyjątek – sprawdzanie wieku użytkownika">
-      <option name="closed" value="true" />
-      <created>1745875934735</created>
-      <option name="number" value="01898" />
-      <option name="presentableId" value="LOCAL-01898" />
-      <option name="project" value="LOCAL" />
-      <updated>1745875934735</updated>
-    </task>
-    <task id="LOCAL-01899" summary="Własny wyjątek – sprawdzanie wieku użytkownika">
-      <option name="closed" value="true" />
-      <created>1745875951467</created>
-      <option name="number" value="01899" />
-      <option name="presentableId" value="LOCAL-01899" />
-      <option name="project" value="LOCAL" />
-      <updated>1745875951467</updated>
-    </task>
-    <task id="LOCAL-01900" summary="Własny wyjątek – sprawdzanie wieku użytkownika">
-      <option name="closed" value="true" />
-      <created>1745875965237</created>
-      <option name="number" value="01900" />
-      <option name="presentableId" value="LOCAL-01900" />
-      <option name="project" value="LOCAL" />
-      <updated>1745875965237</updated>
-    </task>
-    <task id="LOCAL-01901" summary="Licznik instancji klasy – metody statyczne">
-      <option name="closed" value="true" />
-      <created>1745876100663</created>
-      <option name="number" value="01901" />
-      <option name="presentableId" value="LOCAL-01901" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876100664</updated>
+      <workItem from="1745779601674" duration="8428000" />
     </task>
     <task id="LOCAL-01902" summary="Licznik instancji klasy – metody statyczne">
       <option name="closed" value="true" />
@@ -554,7 +514,47 @@
       <option name="project" value="LOCAL" />
       <updated>1746124166219</updated>
     </task>
-    <option name="localTasksCounter" value="1946" />
+    <task id="LOCAL-01946" summary="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
+      <option name="closed" value="true" />
+      <created>1746125262640</created>
+      <option name="number" value="01946" />
+      <option name="presentableId" value="LOCAL-01946" />
+      <option name="project" value="LOCAL" />
+      <updated>1746125262640</updated>
+    </task>
+    <task id="LOCAL-01947" summary="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
+      <option name="closed" value="true" />
+      <created>1746125303526</created>
+      <option name="number" value="01947" />
+      <option name="presentableId" value="LOCAL-01947" />
+      <option name="project" value="LOCAL" />
+      <updated>1746125303526</updated>
+    </task>
+    <task id="LOCAL-01948" summary="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
+      <option name="closed" value="true" />
+      <created>1746125328169</created>
+      <option name="number" value="01948" />
+      <option name="presentableId" value="LOCAL-01948" />
+      <option name="project" value="LOCAL" />
+      <updated>1746125328169</updated>
+    </task>
+    <task id="LOCAL-01949" summary="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
+      <option name="closed" value="true" />
+      <created>1746125350502</created>
+      <option name="number" value="01949" />
+      <option name="presentableId" value="LOCAL-01949" />
+      <option name="project" value="LOCAL" />
+      <updated>1746125350502</updated>
+    </task>
+    <task id="LOCAL-01950" summary="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
+      <option name="closed" value="true" />
+      <created>1746131635654</created>
+      <option name="number" value="01950" />
+      <option name="presentableId" value="LOCAL-01950" />
+      <option name="project" value="LOCAL" />
+      <updated>1746131635654</updated>
+    </task>
+    <option name="localTasksCounter" value="1951" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Arrays.stream(...).flatMapToInt() – spłaszcza tablicę do 1D,&#10;&#10;Arrays.sort() – sortuje," />
     <MESSAGE value="wypisywanie z for-each." />
     <MESSAGE value="Licznik bitów – ile 1 w liczbie binarnej" />
     <MESSAGE value="Podajemy liczbę" />
@@ -597,17 +596,7 @@
     <MESSAGE value="Sprawdź, czy tekst jest palindromem" />
     <MESSAGE value="Czy liczba jest doskonała?" />
     <MESSAGE value="Usuwanie duplikatów z tablicy liczb całkowitych" />
-    <option name="LAST_COMMIT_MESSAGE" value="Usuwanie duplikatów z tablicy liczb całkowitych" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Java od 0/Zadnia/Test.java</url>
-          <line>448</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?" />
   </component>
 </project>
