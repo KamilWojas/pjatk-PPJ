@@ -160,15 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="8428000" />
-    </task>
-    <task id="LOCAL-01902" summary="Licznik instancji klasy – metody statyczne">
-      <option name="closed" value="true" />
-      <created>1745876114826</created>
-      <option name="number" value="01902" />
-      <option name="presentableId" value="LOCAL-01902" />
-      <option name="project" value="LOCAL" />
-      <updated>1745876114826</updated>
+      <workItem from="1745779601674" duration="9059000" />
     </task>
     <task id="LOCAL-01903" summary="Licznik instancji klasy – metody statyczne">
       <option name="closed" value="true" />
@@ -554,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746131635654</updated>
     </task>
-    <option name="localTasksCounter" value="1951" />
+    <task id="LOCAL-01951" summary="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
+      <option name="closed" value="true" />
+      <created>1746218156536</created>
+      <option name="number" value="01951" />
+      <option name="presentableId" value="LOCAL-01951" />
+      <option name="project" value="LOCAL" />
+      <updated>1746218156536</updated>
+    </task>
+    <option name="localTasksCounter" value="1952" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
