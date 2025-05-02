@@ -1126,3 +1126,7 @@ public class SumaPodzielnych {
 
 ==========================================================================================
 //Rysowanie prostokąta z gwiazdek (*)
+
+public class RysujProstokat {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
