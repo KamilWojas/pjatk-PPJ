@@ -1192,3 +1192,11 @@ public class LiczbaCyfr {
         int liczba = Math.abs(scanner.nextInt());
 
         int licznik = 0;
+        do {
+            liczba /= 10;
+            licznik++;
+        } while (liczba > 0);
+
+        System.out.println("Liczba składa się z " + licznik + " cyfr.");
+    }
+}
