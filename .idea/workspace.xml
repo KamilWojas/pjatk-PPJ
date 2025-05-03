@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Rysowanie prostokąta z gwiazdek (*)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Ile cyfr zawiera liczba?">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,71 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="13780000" />
-    </task>
-    <task id="LOCAL-01923" summary="Odwracanie tekstu – manipulacja String i pętle">
-      <option name="closed" value="true" />
-      <created>1745963322010</created>
-      <option name="number" value="01923" />
-      <option name="presentableId" value="LOCAL-01923" />
-      <option name="project" value="LOCAL" />
-      <updated>1745963322010</updated>
-    </task>
-    <task id="LOCAL-01924" summary="Odwracanie tekstu – manipulacja String i pętle">
-      <option name="closed" value="true" />
-      <created>1745963333111</created>
-      <option name="number" value="01924" />
-      <option name="presentableId" value="LOCAL-01924" />
-      <option name="project" value="LOCAL" />
-      <updated>1745963333111</updated>
-    </task>
-    <task id="LOCAL-01925" summary="Odwracanie tekstu – manipulacja String i pętle">
-      <option name="closed" value="true" />
-      <created>1746034367394</created>
-      <option name="number" value="01925" />
-      <option name="presentableId" value="LOCAL-01925" />
-      <option name="project" value="LOCAL" />
-      <updated>1746034367394</updated>
-    </task>
-    <task id="LOCAL-01926" summary="Sprawdź, czy tekst jest palindromem">
-      <option name="closed" value="true" />
-      <created>1746034441017</created>
-      <option name="number" value="01926" />
-      <option name="presentableId" value="LOCAL-01926" />
-      <option name="project" value="LOCAL" />
-      <updated>1746034441017</updated>
-    </task>
-    <task id="LOCAL-01927" summary="Sprawdź, czy tekst jest palindromem">
-      <option name="closed" value="true" />
-      <created>1746034454598</created>
-      <option name="number" value="01927" />
-      <option name="presentableId" value="LOCAL-01927" />
-      <option name="project" value="LOCAL" />
-      <updated>1746034454598</updated>
-    </task>
-    <task id="LOCAL-01928" summary="Sprawdź, czy tekst jest palindromem">
-      <option name="closed" value="true" />
-      <created>1746034466033</created>
-      <option name="number" value="01928" />
-      <option name="presentableId" value="LOCAL-01928" />
-      <option name="project" value="LOCAL" />
-      <updated>1746034466033</updated>
-    </task>
-    <task id="LOCAL-01929" summary="Sprawdź, czy tekst jest palindromem">
-      <option name="closed" value="true" />
-      <created>1746034482350</created>
-      <option name="number" value="01929" />
-      <option name="presentableId" value="LOCAL-01929" />
-      <option name="project" value="LOCAL" />
-      <updated>1746034482350</updated>
-    </task>
-    <task id="LOCAL-01930" summary="Czy liczba jest doskonała?">
-      <option name="closed" value="true" />
-      <created>1746034523804</created>
-      <option name="number" value="01930" />
-      <option name="presentableId" value="LOCAL-01930" />
-      <option name="project" value="LOCAL" />
-      <updated>1746034523804</updated>
+      <workItem from="1745779601674" duration="14191000" />
     </task>
     <task id="LOCAL-01931" summary="Czy liczba jest doskonała?">
       <option name="closed" value="true" />
@@ -556,7 +492,71 @@
       <option name="project" value="LOCAL" />
       <updated>1746285641234</updated>
     </task>
-    <option name="localTasksCounter" value="1972" />
+    <task id="LOCAL-01972" summary="Sprawdź, czy liczba jest liczbą pierwszą">
+      <option name="closed" value="true" />
+      <created>1746287223703</created>
+      <option name="number" value="01972" />
+      <option name="presentableId" value="LOCAL-01972" />
+      <option name="project" value="LOCAL" />
+      <updated>1746287223703</updated>
+    </task>
+    <task id="LOCAL-01973" summary="Sprawdź, czy liczba jest liczbą pierwszą">
+      <option name="closed" value="true" />
+      <created>1746287247826</created>
+      <option name="number" value="01973" />
+      <option name="presentableId" value="LOCAL-01973" />
+      <option name="project" value="LOCAL" />
+      <updated>1746287247826</updated>
+    </task>
+    <task id="LOCAL-01974" summary="Sprawdź, czy liczba jest liczbą pierwszą">
+      <option name="closed" value="true" />
+      <created>1746287262120</created>
+      <option name="number" value="01974" />
+      <option name="presentableId" value="LOCAL-01974" />
+      <option name="project" value="LOCAL" />
+      <updated>1746287262120</updated>
+    </task>
+    <task id="LOCAL-01975" summary="Sprawdź, czy liczba jest liczbą pierwszą">
+      <option name="closed" value="true" />
+      <created>1746287277929</created>
+      <option name="number" value="01975" />
+      <option name="presentableId" value="LOCAL-01975" />
+      <option name="project" value="LOCAL" />
+      <updated>1746287277929</updated>
+    </task>
+    <task id="LOCAL-01976" summary="Ile cyfr zawiera liczba?">
+      <option name="closed" value="true" />
+      <created>1746287319778</created>
+      <option name="number" value="01976" />
+      <option name="presentableId" value="LOCAL-01976" />
+      <option name="project" value="LOCAL" />
+      <updated>1746287319778</updated>
+    </task>
+    <task id="LOCAL-01977" summary="Ile cyfr zawiera liczba?">
+      <option name="closed" value="true" />
+      <created>1746287334173</created>
+      <option name="number" value="01977" />
+      <option name="presentableId" value="LOCAL-01977" />
+      <option name="project" value="LOCAL" />
+      <updated>1746287334173</updated>
+    </task>
+    <task id="LOCAL-01978" summary="Ile cyfr zawiera liczba?">
+      <option name="closed" value="true" />
+      <created>1746287350043</created>
+      <option name="number" value="01978" />
+      <option name="presentableId" value="LOCAL-01978" />
+      <option name="project" value="LOCAL" />
+      <updated>1746287350043</updated>
+    </task>
+    <task id="LOCAL-01979" summary="Ile cyfr zawiera liczba?">
+      <option name="closed" value="true" />
+      <created>1746287382529</created>
+      <option name="number" value="01979" />
+      <option name="presentableId" value="LOCAL-01979" />
+      <option name="project" value="LOCAL" />
+      <updated>1746287382529</updated>
+    </task>
+    <option name="localTasksCounter" value="1980" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,8 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Podajemy liczbę" />
-    <MESSAGE value="do wypisania binarnie" />
     <MESSAGE value="liczba &amp; 1 sprawdza, czy ostatni bit to 1 (bo 1 to 0001),&#10;&#10;&gt;&gt;&gt; 1 przesuwa bity w prawo (dzieli przez 2 bez znaku),&#10;&#10;while działa, dopóki liczba ≠ 0," />
     <MESSAGE value="metoda Integer.toBinaryString() wypisuje reprezentację binarną." />
     <MESSAGE value="Dziedziczenie – kolejność wywołania konstruktorów" />
@@ -599,6 +597,8 @@
     <MESSAGE value="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?" />
     <MESSAGE value="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100" />
     <MESSAGE value="Rysowanie prostokąta z gwiazdek (*)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rysowanie prostokąta z gwiazdek (*)" />
+    <MESSAGE value="Sprawdź, czy liczba jest liczbą pierwszą" />
+    <MESSAGE value="Ile cyfr zawiera liczba?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ile cyfr zawiera liczba?" />
   </component>
 </project>

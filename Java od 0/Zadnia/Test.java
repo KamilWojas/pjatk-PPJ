@@ -1200,3 +1200,12 @@ public class LiczbaCyfr {
         System.out.println("Liczba składa się z " + licznik + " cyfr.");
     }
 }
+
+
+
+
+
+==========================================================================================
+//Utwórz trzy tablice zmiennych typu int o losowych rozmiarach i wypełnij je losowymi wartościami.
+// Następnie utwórz tablicę, której elementami będą przygotowane wcześniej tablice.
+// Wyświetl wszystkie wylosowane wartości wykorzystując utworzoną tablicę dwuwymiarową.
