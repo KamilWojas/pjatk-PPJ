@@ -1170,3 +1170,11 @@ public class LiczbaPierwsza {
                 }
             }
         }
+
+        if (pierwsza) {
+            System.out.println("Liczba " + liczba + " jest pierwsza.");
+        } else {
+            System.out.println("Liczba " + liczba + " nie jest pierwsza.");
+        }
+    }
+}
