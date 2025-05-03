@@ -1221,3 +1221,6 @@ public class TabliceDwuwymiarowe {
         fillWithRandom(tab1, rand);
         fillWithRandom(tab2, rand);
         fillWithRandom(tab3, rand);
+
+        int[][] wszystkieTablice = { tab1, tab2, tab3 };
+
