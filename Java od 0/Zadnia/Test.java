@@ -1159,3 +1159,14 @@ public class LiczbaPierwsza {
         int liczba = scanner.nextInt();
 
         boolean pierwsza = true;
+
+        if (liczba <= 1) {
+            pierwsza = false;
+        } else {
+            for (int i = 2; i <= Math.sqrt(liczba); i++) {
+                if (liczba % i == 0) {
+                    pierwsza = false;
+                    break;
+                }
+            }
+        }
