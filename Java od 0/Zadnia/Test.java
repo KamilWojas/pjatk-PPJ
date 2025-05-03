@@ -1213,3 +1213,7 @@ public class LiczbaCyfr {
 public class TabliceDwuwymiarowe {
     public static void main(String[] args) {
         Random rand = new Random();
+
+        int[] tab1 = new int[rand.nextInt(5) + 3];
+        int[] tab2 = new int[rand.nextInt(5) + 3];
+        int[] tab3 = new int[rand.nextInt(5) + 3];
