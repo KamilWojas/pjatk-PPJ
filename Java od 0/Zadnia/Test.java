@@ -1217,3 +1217,7 @@ public class TabliceDwuwymiarowe {
         int[] tab1 = new int[rand.nextInt(5) + 3];
         int[] tab2 = new int[rand.nextInt(5) + 3];
         int[] tab3 = new int[rand.nextInt(5) + 3];
+
+        fillWithRandom(tab1, rand);
+        fillWithRandom(tab2, rand);
+        fillWithRandom(tab3, rand);
