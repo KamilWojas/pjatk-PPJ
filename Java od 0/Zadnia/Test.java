@@ -1224,3 +1224,13 @@ public class TabliceDwuwymiarowe {
 
         int[][] wszystkieTablice = { tab1, tab2, tab3 };
 
+        System.out.println("Wartości z tablic dwuwymiarowych:");
+        for (int i = 0; i < wszystkieTablice.length; i++) {
+            System.out.print("Tablica " + (i + 1) + ": ");
+            for (int j = 0; j < wszystkieTablice[i].length; j++) {
+                System.out.print(wszystkieTablice[i][j] + " ");
+            }
+            System.out.println();
+        }
+    }
+
