@@ -1266,3 +1266,6 @@ public class Przekatne8x8 {
         for (int i = 0; i < 8; i++) {
             int liczba1 = tablica[i][i];
             int liczba2 = tablica[i][7 - i];
+
+            licznik.put(liczba1, licznik.getOrDefault(liczba1, 0) + 1);
+            if (i != 7 - i) { 
