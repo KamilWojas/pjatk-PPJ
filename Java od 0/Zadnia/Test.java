@@ -1248,3 +1248,7 @@ public class TabliceDwuwymiarowe {
 //Utwórz dwuwymiarową tablicę o rozmiarach 8×8 i wypełnij ją losowymi wartościami z przedziału od 0 do 10.
 // Następnie sprawdź, czy na przekątnych tej tablicy (łącznie) występują przynajmniej 3 takie same liczby.
 
+public class Przekatne8x8 {
+    public static void main(String[] args) {
+        int[][] tablica = new int[8][8];
+        Random rand = new Random();
