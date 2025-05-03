@@ -1256,4 +1256,5 @@ public class Przekatne8x8 {
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8; j++) {
                 tablica[i][j] = rand.nextInt(11);
+                System.out.print(tablica[i][j] + "\t");
             }
