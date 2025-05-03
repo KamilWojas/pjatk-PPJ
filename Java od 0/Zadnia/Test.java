@@ -1234,3 +1234,10 @@ public class TabliceDwuwymiarowe {
         }
     }
 
+    private static void fillWithRandom(int[] tab, Random rand) {
+        for (int i = 0; i < tab.length; i++) {
+            tab[i] = rand.nextInt(100) + 1;
+        }
+    }
+}
+
