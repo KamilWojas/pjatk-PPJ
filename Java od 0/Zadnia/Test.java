@@ -1209,3 +1209,7 @@ public class LiczbaCyfr {
 //Utwórz trzy tablice zmiennych typu int o losowych rozmiarach i wypełnij je losowymi wartościami.
 // Następnie utwórz tablicę, której elementami będą przygotowane wcześniej tablice.
 // Wyświetl wszystkie wylosowane wartości wykorzystując utworzoną tablicę dwuwymiarową.
+
+public class TabliceDwuwymiarowe {
+    public static void main(String[] args) {
+        Random rand = new Random();
