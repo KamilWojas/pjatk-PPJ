@@ -1258,3 +1258,7 @@ public class Przekatne8x8 {
                 tablica[i][j] = rand.nextInt(11);
                 System.out.print(tablica[i][j] + "\t");
             }
+            System.out.println();
+        }
+
+        Map<Integer, Integer> licznik = new HashMap<>();
