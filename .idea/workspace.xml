@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Rysowanie prostokąta z gwiazdek (*)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Rysowanie prostokąta z gwiazdek (*)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,55 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="11026000" />
-    </task>
-    <task id="LOCAL-01914" summary="Liczba parzysta/nieparzysta z wyjątkiem">
-      <option name="closed" value="true" />
-      <created>1745948464027</created>
-      <option name="number" value="01914" />
-      <option name="presentableId" value="LOCAL-01914" />
-      <option name="project" value="LOCAL" />
-      <updated>1745948464027</updated>
-    </task>
-    <task id="LOCAL-01915" summary="Liczba parzysta/nieparzysta z wyjątkiem">
-      <option name="closed" value="true" />
-      <created>1745948487726</created>
-      <option name="number" value="01915" />
-      <option name="presentableId" value="LOCAL-01915" />
-      <option name="project" value="LOCAL" />
-      <updated>1745948487726</updated>
-    </task>
-    <task id="LOCAL-01916" summary="Kasa w sklepie – prosta symulacja z klasami i metodami">
-      <option name="closed" value="true" />
-      <created>1745954861899</created>
-      <option name="number" value="01916" />
-      <option name="presentableId" value="LOCAL-01916" />
-      <option name="project" value="LOCAL" />
-      <updated>1745954861899</updated>
-    </task>
-    <task id="LOCAL-01917" summary="Kasa w sklepie – prosta symulacja z klasami i metodami">
-      <option name="closed" value="true" />
-      <created>1745954871250</created>
-      <option name="number" value="01917" />
-      <option name="presentableId" value="LOCAL-01917" />
-      <option name="project" value="LOCAL" />
-      <updated>1745954871250</updated>
-    </task>
-    <task id="LOCAL-01918" summary="Kasa w sklepie – prosta symulacja z klasami i metodami">
-      <option name="closed" value="true" />
-      <created>1745954879896</created>
-      <option name="number" value="01918" />
-      <option name="presentableId" value="LOCAL-01918" />
-      <option name="project" value="LOCAL" />
-      <updated>1745954879896</updated>
-    </task>
-    <task id="LOCAL-01919" summary="Kasa w sklepie – prosta symulacja z klasami i metodami">
-      <option name="closed" value="true" />
-      <created>1745963258726</created>
-      <option name="number" value="01919" />
-      <option name="presentableId" value="LOCAL-01919" />
-      <option name="project" value="LOCAL" />
-      <updated>1745963258726</updated>
+      <workItem from="1745779601674" duration="11779000" />
     </task>
     <task id="LOCAL-01920" summary="Kasa w sklepie – prosta symulacja z klasami i metodami">
       <option name="closed" value="true" />
@@ -556,7 +506,55 @@
       <option name="project" value="LOCAL" />
       <updated>1746227859271</updated>
     </task>
-    <option name="localTasksCounter" value="1963" />
+    <task id="LOCAL-01963" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746228688728</created>
+      <option name="number" value="01963" />
+      <option name="presentableId" value="LOCAL-01963" />
+      <option name="project" value="LOCAL" />
+      <updated>1746228688728</updated>
+    </task>
+    <task id="LOCAL-01964" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746228711124</created>
+      <option name="number" value="01964" />
+      <option name="presentableId" value="LOCAL-01964" />
+      <option name="project" value="LOCAL" />
+      <updated>1746228711124</updated>
+    </task>
+    <task id="LOCAL-01965" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746228731779</created>
+      <option name="number" value="01965" />
+      <option name="presentableId" value="LOCAL-01965" />
+      <option name="project" value="LOCAL" />
+      <updated>1746228731779</updated>
+    </task>
+    <task id="LOCAL-01966" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746228763608</created>
+      <option name="number" value="01966" />
+      <option name="presentableId" value="LOCAL-01966" />
+      <option name="project" value="LOCAL" />
+      <updated>1746228763609</updated>
+    </task>
+    <task id="LOCAL-01967" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746230577860</created>
+      <option name="number" value="01967" />
+      <option name="presentableId" value="LOCAL-01967" />
+      <option name="project" value="LOCAL" />
+      <updated>1746230577860</updated>
+    </task>
+    <task id="LOCAL-01968" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746230614119</created>
+      <option name="number" value="01968" />
+      <option name="presentableId" value="LOCAL-01968" />
+      <option name="project" value="LOCAL" />
+      <updated>1746230614119</updated>
+    </task>
+    <option name="localTasksCounter" value="1969" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
