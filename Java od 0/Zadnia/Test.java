@@ -1149,3 +1149,9 @@ public class RysujProstokat {
 
 
 ==========================================================================================
+//Sprawdź, czy liczba jest liczbą pierwszą
+
+
+public class LiczbaPierwsza {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);

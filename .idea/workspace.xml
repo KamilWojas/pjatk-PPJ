@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Rysowanie prostokąta z gwiazdek (*)" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Rysowanie prostokąta z gwiazdek (*)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,15 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="12936000" />
-    </task>
-    <task id="LOCAL-01922" summary="Odwracanie tekstu – manipulacja String i pętle">
-      <option name="closed" value="true" />
-      <created>1745963312603</created>
-      <option name="number" value="01922" />
-      <option name="presentableId" value="LOCAL-01922" />
-      <option name="project" value="LOCAL" />
-      <updated>1745963312603</updated>
+      <workItem from="1745779601674" duration="13780000" />
     </task>
     <task id="LOCAL-01923" summary="Odwracanie tekstu – manipulacja String i pętle">
       <option name="closed" value="true" />
@@ -554,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746285598331</updated>
     </task>
-    <option name="localTasksCounter" value="1971" />
+    <task id="LOCAL-01971" summary="Rysowanie prostokąta z gwiazdek (*)">
+      <option name="closed" value="true" />
+      <created>1746285641234</created>
+      <option name="number" value="01971" />
+      <option name="presentableId" value="LOCAL-01971" />
+      <option name="project" value="LOCAL" />
+      <updated>1746285641234</updated>
+    </task>
+    <option name="localTasksCounter" value="1972" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
