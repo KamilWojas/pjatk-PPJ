@@ -1278,3 +1278,9 @@ public class Przekatne8x8 {
             znaleziono = true;
         }
     }
+        
+        if (!znaleziono) {
+        System.out.println("Żadna liczba nie występuje co najmniej 3 razy na przekątnych.");
+    }
+}
+}
