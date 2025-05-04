@@ -1270,4 +1270,11 @@ public class Przekatne8x8 {
             licznik.put(liczba2, licznik.getOrDefault(liczba2, 0) + 1);
         }
     }
-
+    
+    boolean znaleziono = false;
+        for (Map.Entry<Integer, Integer> entry : licznik.entrySet()) {
+        if (entry.getValue() >= 3) {
+            System.out.println("Liczba " + entry.getKey() + " występuje " + entry.getValue() + " razy na przekątnych.");
+            znaleziono = true;
+        }
+    }
