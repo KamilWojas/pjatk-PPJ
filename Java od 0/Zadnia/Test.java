@@ -1267,5 +1267,7 @@ public class Przekatne8x8 {
             int liczba1 = tablica[i][i];
             int liczba2 = tablica[i][7 - i];
 
-            licznik.put(liczba1, licznik.getOrDefault(liczba1, 0) + 1);
-            if (i != 7 - i) { 
+            licznik.put(liczba2, licznik.getOrDefault(liczba2, 0) + 1);
+        }
+    }
+

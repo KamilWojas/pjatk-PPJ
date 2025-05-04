@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="unikamy podwójnego zliczenia środka">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="unikamy podwójnego zliczenia środka" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,15 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="16485000" />
-    </task>
-    <task id="LOCAL-01949" summary="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
-      <option name="closed" value="true" />
-      <created>1746125350502</created>
-      <option name="number" value="01949" />
-      <option name="presentableId" value="LOCAL-01949" />
-      <option name="project" value="LOCAL" />
-      <updated>1746125350502</updated>
+      <workItem from="1745779601674" duration="17487000" />
     </task>
     <task id="LOCAL-01950" summary="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
       <option name="closed" value="true" />
@@ -556,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746366373917</updated>
     </task>
-    <option name="localTasksCounter" value="1998" />
+    <task id="LOCAL-01998" summary="unikamy podwójnego zliczenia środka">
+      <option name="closed" value="true" />
+      <created>1746372125917</created>
+      <option name="number" value="01998" />
+      <option name="presentableId" value="LOCAL-01998" />
+      <option name="project" value="LOCAL" />
+      <updated>1746372125917</updated>
+    </task>
+    <option name="localTasksCounter" value="1999" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
