@@ -1295,3 +1295,9 @@ public class PrzekatneTablicy {
     public static void main(String[] args) {
         int[][] tablica = new int[8][8];
         Random rand = new Random();
+
+        for (int i = 0; i < 8; i++) {
+            for (int j = 0; j < 8; j++) {
+                tablica[i][j] = rand.nextInt(11);
+            }
+        }
