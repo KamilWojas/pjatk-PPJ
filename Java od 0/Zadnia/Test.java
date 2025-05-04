@@ -1301,3 +1301,11 @@ public class PrzekatneTablicy {
                 tablica[i][j] = rand.nextInt(11);
             }
         }
+
+        System.out.println("Tablica 8x8:");
+        for (int[] wiersz : tablica) {
+            for (int liczba : wiersz) {
+                System.out.printf("%2d ", liczba);
+            }
+            System.out.println();
+        }
