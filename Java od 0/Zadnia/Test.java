@@ -1327,3 +1327,9 @@ public class PrzekatneTablicy {
             }
         }
 
+        if (!znaleziono) {
+            System.out.println("\nNa przekątnych nie znaleziono liczby, która występuje co najmniej 3 razy.");
+        }
+    }
+}
+
