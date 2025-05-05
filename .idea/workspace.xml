@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="unikamy podwójnego zliczenia środka">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlamy całą tablicę" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,55 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="17692000" />
-    </task>
-    <task id="LOCAL-01951" summary="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
-      <option name="closed" value="true" />
-      <created>1746218156536</created>
-      <option name="number" value="01951" />
-      <option name="presentableId" value="LOCAL-01951" />
-      <option name="project" value="LOCAL" />
-      <updated>1746218156536</updated>
-    </task>
-    <task id="LOCAL-01952" summary="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?">
-      <option name="closed" value="true" />
-      <created>1746218231371</created>
-      <option name="number" value="01952" />
-      <option name="presentableId" value="LOCAL-01952" />
-      <option name="project" value="LOCAL" />
-      <updated>1746218231372</updated>
-    </task>
-    <task id="LOCAL-01953" summary="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100">
-      <option name="closed" value="true" />
-      <created>1746221352490</created>
-      <option name="number" value="01953" />
-      <option name="presentableId" value="LOCAL-01953" />
-      <option name="project" value="LOCAL" />
-      <updated>1746221352490</updated>
-    </task>
-    <task id="LOCAL-01954" summary="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100">
-      <option name="closed" value="true" />
-      <created>1746221362292</created>
-      <option name="number" value="01954" />
-      <option name="presentableId" value="LOCAL-01954" />
-      <option name="project" value="LOCAL" />
-      <updated>1746221362292</updated>
-    </task>
-    <task id="LOCAL-01955" summary="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100">
-      <option name="closed" value="true" />
-      <created>1746221377991</created>
-      <option name="number" value="01955" />
-      <option name="presentableId" value="LOCAL-01955" />
-      <option name="project" value="LOCAL" />
-      <updated>1746221377992</updated>
-    </task>
-    <task id="LOCAL-01956" summary="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100">
-      <option name="closed" value="true" />
-      <created>1746221387990</created>
-      <option name="number" value="01956" />
-      <option name="presentableId" value="LOCAL-01956" />
-      <option name="project" value="LOCAL" />
-      <updated>1746221387990</updated>
+      <workItem from="1745779601674" duration="18518000" />
     </task>
     <task id="LOCAL-01957" summary="Rysowanie prostokąta z gwiazdek (*)">
       <option name="closed" value="true" />
@@ -557,7 +506,55 @@
       <option name="project" value="LOCAL" />
       <updated>1746386045182</updated>
     </task>
-    <option name="localTasksCounter" value="2000" />
+    <task id="LOCAL-02000" summary="Sprawdzamy czy jakaś liczba występuje co najmniej 3 razy">
+      <option name="closed" value="true" />
+      <created>1746386069980</created>
+      <option name="number" value="02000" />
+      <option name="presentableId" value="LOCAL-02000" />
+      <option name="project" value="LOCAL" />
+      <updated>1746386069980</updated>
+    </task>
+    <task id="LOCAL-02001" summary="Sprawdzamy czy jakaś liczba występuje co najmniej 3 razy">
+      <option name="closed" value="true" />
+      <created>1746386106928</created>
+      <option name="number" value="02001" />
+      <option name="presentableId" value="LOCAL-02001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746386106928</updated>
+    </task>
+    <task id="LOCAL-02002" summary="Utwórz dwuwymiarową tablicę o rozmiarach 8×8 i wypełnij ją losowymi wartościami z przedziału od 0 do 10. Następnie sprawdź, czy na przekątnych tej tablicy (łącznie) występują przynajmniej 3 takie same liczby.">
+      <option name="closed" value="true" />
+      <created>1746386205551</created>
+      <option name="number" value="02002" />
+      <option name="presentableId" value="LOCAL-02002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746386205551</updated>
+    </task>
+    <task id="LOCAL-02003" summary="Utwórz dwuwymiarową tablicę o rozmiarach 8×8 i wypełnij ją losowymi wartościami z przedziału od 0 do 10. Następnie sprawdź, czy na przekątnych tej tablicy (łącznie) występują przynajmniej 3 takie same liczby.">
+      <option name="closed" value="true" />
+      <created>1746386225684</created>
+      <option name="number" value="02003" />
+      <option name="presentableId" value="LOCAL-02003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746386225684</updated>
+    </task>
+    <task id="LOCAL-02004" summary="Wypełniamy tablicę losowymi wartościami z zakresu 0–10">
+      <option name="closed" value="true" />
+      <created>1746386243202</created>
+      <option name="number" value="02004" />
+      <option name="presentableId" value="LOCAL-02004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746386243202</updated>
+    </task>
+    <task id="LOCAL-02005" summary="Wyświetlamy całą tablicę">
+      <option name="closed" value="true" />
+      <created>1746386276367</created>
+      <option name="number" value="02005" />
+      <option name="presentableId" value="LOCAL-02005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746386276367</updated>
+    </task>
+    <option name="localTasksCounter" value="2006" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -575,9 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Liczba parzysta/nieparzysta z wyjątkiem" />
-    <MESSAGE value="Kasa w sklepie – prosta symulacja z klasami i metodami" />
-    <MESSAGE value="Odwracanie tekstu – manipulacja String i pętle" />
     <MESSAGE value="Sprawdź, czy tekst jest palindromem" />
     <MESSAGE value="Czy liczba jest doskonała?" />
     <MESSAGE value="Usuwanie duplikatów z tablicy liczb całkowitych" />
@@ -592,7 +586,6 @@
     <MESSAGE value="Tworzymy tablicę dwuwymiarową i przypisujemy do niej nasze tablice" />
     <MESSAGE value="Wyświetlamy wszystkie wartości" />
     <MESSAGE value="Metoda pomocnicza do wypełniania tablicy losowymi wartościami" />
-    <MESSAGE value="Utwórz dwuwymiarową tablicę o rozmiarach 8×8 i wypełnij ją losowymi wartościami z przedziału od 0 do 10. Następnie sprawdź, czy na przekątnych tej tablicy (łącznie) występują przynajmniej 3 takie same liczby." />
     <MESSAGE value="Wypełniamy tablicę losowymi wartościami od 0 do 10" />
     <MESSAGE value="losowa liczba 0–10" />
     <MESSAGE value="wypisanie wartości" />
@@ -600,6 +593,10 @@
     <MESSAGE value="główna przekątna" />
     <MESSAGE value="przekątna pomocnicza" />
     <MESSAGE value="unikamy podwójnego zliczenia środka" />
-    <option name="LAST_COMMIT_MESSAGE" value="unikamy podwójnego zliczenia środka" />
+    <MESSAGE value="Sprawdzamy czy jakaś liczba występuje co najmniej 3 razy" />
+    <MESSAGE value="Utwórz dwuwymiarową tablicę o rozmiarach 8×8 i wypełnij ją losowymi wartościami z przedziału od 0 do 10. Następnie sprawdź, czy na przekątnych tej tablicy (łącznie) występują przynajmniej 3 takie same liczby." />
+    <MESSAGE value="Wypełniamy tablicę losowymi wartościami z zakresu 0–10" />
+    <MESSAGE value="Wyświetlamy całą tablicę" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wyświetlamy całą tablicę" />
   </component>
 </project>
