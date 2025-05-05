@@ -1311,3 +1311,5 @@ public class PrzekatneTablicy {
         }
 
         Map<Integer, Integer> licznik = new HashMap<>();
+        for (int i = 0; i < 8; i++) {
+            int liczba1 = tablica[i][i]; 
