@@ -1313,4 +1313,9 @@ public class PrzekatneTablicy {
         Map<Integer, Integer> licznik = new HashMap<>();
         for (int i = 0; i < 8; i++) {
             int liczba1 = tablica[i][i];
-            int liczba2 = tablica[i][7 - i]; 
+            int liczba2 = tablica[i][7 - i];
+
+            licznik.put(liczba1, licznik.getOrDefault(liczba1, 0) + 1);
+            licznik.put(liczba2, licznik.getOrDefault(liczba2, 0) + 1);
+        }
+
