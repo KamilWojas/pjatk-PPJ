@@ -1332,4 +1332,4 @@ public class PrzekatneTablicy {
         }
     }
 }   
-
+ 
