@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlamy całą tablicę" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlamy całą tablicę">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,15 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="18518000" />
-    </task>
-    <task id="LOCAL-01957" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746221409574</created>
-      <option name="number" value="01957" />
-      <option name="presentableId" value="LOCAL-01957" />
-      <option name="project" value="LOCAL" />
-      <updated>1746221409574</updated>
+      <workItem from="1745779601674" duration="19119000" />
     </task>
     <task id="LOCAL-01958" summary="Rysowanie prostokąta z gwiazdek (*)">
       <option name="closed" value="true" />
@@ -554,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746386276367</updated>
     </task>
-    <option name="localTasksCounter" value="2006" />
+    <task id="LOCAL-02006" summary="Wyświetlamy całą tablicę">
+      <option name="closed" value="true" />
+      <created>1746480453516</created>
+      <option name="number" value="02006" />
+      <option name="presentableId" value="LOCAL-02006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480453516</updated>
+    </task>
+    <option name="localTasksCounter" value="2007" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

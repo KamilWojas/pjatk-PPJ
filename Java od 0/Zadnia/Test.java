@@ -1309,3 +1309,5 @@ public class PrzekatneTablicy {
             }
             System.out.println();
         }
+
+        Map<Integer, Integer> licznik = new HashMap<>();
