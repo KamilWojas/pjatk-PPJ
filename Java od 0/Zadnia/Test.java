@@ -1319,3 +1319,11 @@ public class PrzekatneTablicy {
             licznik.put(liczba2, licznik.getOrDefault(liczba2, 0) + 1);
         }
 
+        boolean znaleziono = false;
+        for (Map.Entry<Integer, Integer> entry : licznik.entrySet()) {
+            if (entry.getValue() >= 3) {
+                System.out.println("\nNa przekątnych liczba " + entry.getKey() + " występuje " + entry.getValue() + " razy.");
+                znaleziono = true;
+            }
+        }
+
