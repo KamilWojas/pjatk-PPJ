@@ -1395,3 +1395,6 @@ public class SumaWiekszych {
         }
         return suma;
     }
+
+
+    
