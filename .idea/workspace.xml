@@ -162,15 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="19850000" />
-    </task>
-    <task id="LOCAL-01969" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746272518948</created>
-      <option name="number" value="01969" />
-      <option name="presentableId" value="LOCAL-01969" />
-      <option name="project" value="LOCAL" />
-      <updated>1746272518948</updated>
+      <workItem from="1745779601674" duration="21057000" />
     </task>
     <task id="LOCAL-01970" summary="Rysowanie prostokąta z gwiazdek (*)">
       <option name="closed" value="true" />
@@ -556,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746548026934</updated>
     </task>
-    <option name="localTasksCounter" value="2018" />
+    <task id="LOCAL-02018" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
+      <option name="closed" value="true" />
+      <created>1746555284152</created>
+      <option name="number" value="02018" />
+      <option name="presentableId" value="LOCAL-02018" />
+      <option name="project" value="LOCAL" />
+      <updated>1746555284152</updated>
+    </task>
+    <option name="localTasksCounter" value="2019" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
