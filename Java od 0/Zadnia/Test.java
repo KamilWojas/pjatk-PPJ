@@ -1349,4 +1349,11 @@ public class Main {
     ublic static void show(int number) {
         System.out.println("Przekazana wartość to: " + number);
     }
+
+    public static void main(String[] args) {
+
+        show(5);
+        show(42);
+        show(-3);
+    }
 }
