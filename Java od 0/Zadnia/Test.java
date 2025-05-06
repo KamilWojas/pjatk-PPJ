@@ -1374,3 +1374,8 @@ public class Parzystosc {
         int liczba = 7;
         if (isEven(liczba)) {
             System.out.println(liczba + " jest parzysta.");
+        } else {
+            System.out.println(liczba + " jest nieparzysta.");
+        }
+    }
+}

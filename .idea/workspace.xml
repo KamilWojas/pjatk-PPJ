@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda sprawdzająca parzystość">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,55 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="21057000" />
-    </task>
-    <task id="LOCAL-01970" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746285598331</created>
-      <option name="number" value="01970" />
-      <option name="presentableId" value="LOCAL-01970" />
-      <option name="project" value="LOCAL" />
-      <updated>1746285598331</updated>
-    </task>
-    <task id="LOCAL-01971" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746285641234</created>
-      <option name="number" value="01971" />
-      <option name="presentableId" value="LOCAL-01971" />
-      <option name="project" value="LOCAL" />
-      <updated>1746285641234</updated>
-    </task>
-    <task id="LOCAL-01972" summary="Sprawdź, czy liczba jest liczbą pierwszą">
-      <option name="closed" value="true" />
-      <created>1746287223703</created>
-      <option name="number" value="01972" />
-      <option name="presentableId" value="LOCAL-01972" />
-      <option name="project" value="LOCAL" />
-      <updated>1746287223703</updated>
-    </task>
-    <task id="LOCAL-01973" summary="Sprawdź, czy liczba jest liczbą pierwszą">
-      <option name="closed" value="true" />
-      <created>1746287247826</created>
-      <option name="number" value="01973" />
-      <option name="presentableId" value="LOCAL-01973" />
-      <option name="project" value="LOCAL" />
-      <updated>1746287247826</updated>
-    </task>
-    <task id="LOCAL-01974" summary="Sprawdź, czy liczba jest liczbą pierwszą">
-      <option name="closed" value="true" />
-      <created>1746287262120</created>
-      <option name="number" value="01974" />
-      <option name="presentableId" value="LOCAL-01974" />
-      <option name="project" value="LOCAL" />
-      <updated>1746287262120</updated>
-    </task>
-    <task id="LOCAL-01975" summary="Sprawdź, czy liczba jest liczbą pierwszą">
-      <option name="closed" value="true" />
-      <created>1746287277929</created>
-      <option name="number" value="01975" />
-      <option name="presentableId" value="LOCAL-01975" />
-      <option name="project" value="LOCAL" />
-      <updated>1746287277929</updated>
+      <workItem from="1745779601674" duration="21354000" />
     </task>
     <task id="LOCAL-01976" summary="Ile cyfr zawiera liczba?">
       <option name="closed" value="true" />
@@ -556,7 +508,55 @@
       <option name="project" value="LOCAL" />
       <updated>1746555284152</updated>
     </task>
-    <option name="localTasksCounter" value="2019" />
+    <task id="LOCAL-02019" summary="Utwórz bezrezultatową metodę show, przyjmującą parametr typu int, której celem będzie wyświetlenie na ekran dostarczonej wartości. Działanie utworzonej metody przedstaw w programie.">
+      <option name="closed" value="true" />
+      <created>1746564509605</created>
+      <option name="number" value="02019" />
+      <option name="presentableId" value="LOCAL-02019" />
+      <option name="project" value="LOCAL" />
+      <updated>1746564509605</updated>
+    </task>
+    <task id="LOCAL-02020" summary="Metoda show – przyjmuje liczbę całkowitą i ją wyświetla">
+      <option name="closed" value="true" />
+      <created>1746564538025</created>
+      <option name="number" value="02020" />
+      <option name="presentableId" value="LOCAL-02020" />
+      <option name="project" value="LOCAL" />
+      <updated>1746564538025</updated>
+    </task>
+    <task id="LOCAL-02021" summary="Wywołanie metody show z różnymi wartościami">
+      <option name="closed" value="true" />
+      <created>1746564566574</created>
+      <option name="number" value="02021" />
+      <option name="presentableId" value="LOCAL-02021" />
+      <option name="project" value="LOCAL" />
+      <updated>1746564566574</updated>
+    </task>
+    <task id="LOCAL-02022" summary="Napisz metodę isEven(int number), która sprawdza, czy przekazana liczba jest parzysta.&#10;Wyświetl informację, czy liczba jest parzysta, czy nie.">
+      <option name="closed" value="true" />
+      <created>1746564736483</created>
+      <option name="number" value="02022" />
+      <option name="presentableId" value="LOCAL-02022" />
+      <option name="project" value="LOCAL" />
+      <updated>1746564736483</updated>
+    </task>
+    <task id="LOCAL-02023" summary="Metoda sprawdzająca parzystość">
+      <option name="closed" value="true" />
+      <created>1746564762900</created>
+      <option name="number" value="02023" />
+      <option name="presentableId" value="LOCAL-02023" />
+      <option name="project" value="LOCAL" />
+      <updated>1746564762900</updated>
+    </task>
+    <task id="LOCAL-02024" summary="Metoda sprawdzająca parzystość">
+      <option name="closed" value="true" />
+      <created>1746564779502</created>
+      <option name="number" value="02024" />
+      <option name="presentableId" value="LOCAL-02024" />
+      <option name="project" value="LOCAL" />
+      <updated>1746564779502</updated>
+    </task>
+    <option name="localTasksCounter" value="2025" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,11 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?" />
-    <MESSAGE value="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100" />
-    <MESSAGE value="Rysowanie prostokąta z gwiazdek (*)" />
-    <MESSAGE value="Sprawdź, czy liczba jest liczbą pierwszą" />
-    <MESSAGE value="Ile cyfr zawiera liczba?" />
     <MESSAGE value="Utwórz trzy tablice zmiennych typu int o losowych rozmiarach i wypełnij je losowymi wartościami. Następnie utwórz tablicę, której elementami będą przygotowane wcześniej tablice. Wyświetl wszystkie wylosowane wartości wykorzystując utworzoną tablicę dwuwymiarową." />
     <MESSAGE value="worzymy 3 tablice o losowych rozmiarach (od 3 do 7)" />
     <MESSAGE value="Wypełniamy każdą tablicę losowymi liczbami od 1 do 100" />
@@ -599,6 +594,11 @@
     <MESSAGE value="przekątna główna" />
     <MESSAGE value="przekątna przeciwna" />
     <MESSAGE value="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy" />
+    <MESSAGE value="Utwórz bezrezultatową metodę show, przyjmującą parametr typu int, której celem będzie wyświetlenie na ekran dostarczonej wartości. Działanie utworzonej metody przedstaw w programie." />
+    <MESSAGE value="Metoda show – przyjmuje liczbę całkowitą i ją wyświetla" />
+    <MESSAGE value="Wywołanie metody show z różnymi wartościami" />
+    <MESSAGE value="Napisz metodę isEven(int number), która sprawdza, czy przekazana liczba jest parzysta.&#10;Wyświetl informację, czy liczba jest parzysta, czy nie." />
+    <MESSAGE value="Metoda sprawdzająca parzystość" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metoda sprawdzająca parzystość" />
   </component>
 </project>
