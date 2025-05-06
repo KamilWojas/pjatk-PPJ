@@ -1383,3 +1383,15 @@ public class Parzystosc {
 
 ==========================================================================================
 //Stwórz metodę, która przyjmie tablicę int[] i zwróci sumę tylko tych elementów, które są większe niż 10.
+
+public class SumaWiekszych {
+
+    public static int sumaWiekszychNiz10(int[] tablica) {
+        int suma = 0;
+        for (int liczba : tablica) {
+            if (liczba > 10) {
+                suma += liczba;
+            }
+        }
+        return suma;
+    }
