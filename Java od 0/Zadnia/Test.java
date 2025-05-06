@@ -1342,3 +1342,11 @@ public class PrzekatneTablicy {
 //Utwórz bezrezultatową metodę show, przyjmującą parametr typu int,
 // której celem będzie wyświetlenie na ekran dostarczonej wartości.
 // Działanie utworzonej metody przedstaw w programie.
+
+
+public class Main {
+
+    ublic static void show(int number) {
+        System.out.println("Przekazana wartość to: " + number);
+    }
+}
