@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlamy całą tablicę">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,87 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="19119000" />
-    </task>
-    <task id="LOCAL-01958" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746221419474</created>
-      <option name="number" value="01958" />
-      <option name="presentableId" value="LOCAL-01958" />
-      <option name="project" value="LOCAL" />
-      <updated>1746221419474</updated>
-    </task>
-    <task id="LOCAL-01959" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746221435119</created>
-      <option name="number" value="01959" />
-      <option name="presentableId" value="LOCAL-01959" />
-      <option name="project" value="LOCAL" />
-      <updated>1746221435119</updated>
-    </task>
-    <task id="LOCAL-01960" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746221447808</created>
-      <option name="number" value="01960" />
-      <option name="presentableId" value="LOCAL-01960" />
-      <option name="project" value="LOCAL" />
-      <updated>1746221447808</updated>
-    </task>
-    <task id="LOCAL-01961" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746221460212</created>
-      <option name="number" value="01961" />
-      <option name="presentableId" value="LOCAL-01961" />
-      <option name="project" value="LOCAL" />
-      <updated>1746221460212</updated>
-    </task>
-    <task id="LOCAL-01962" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746227859271</created>
-      <option name="number" value="01962" />
-      <option name="presentableId" value="LOCAL-01962" />
-      <option name="project" value="LOCAL" />
-      <updated>1746227859271</updated>
-    </task>
-    <task id="LOCAL-01963" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746228688728</created>
-      <option name="number" value="01963" />
-      <option name="presentableId" value="LOCAL-01963" />
-      <option name="project" value="LOCAL" />
-      <updated>1746228688728</updated>
-    </task>
-    <task id="LOCAL-01964" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746228711124</created>
-      <option name="number" value="01964" />
-      <option name="presentableId" value="LOCAL-01964" />
-      <option name="project" value="LOCAL" />
-      <updated>1746228711124</updated>
-    </task>
-    <task id="LOCAL-01965" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746228731779</created>
-      <option name="number" value="01965" />
-      <option name="presentableId" value="LOCAL-01965" />
-      <option name="project" value="LOCAL" />
-      <updated>1746228731779</updated>
-    </task>
-    <task id="LOCAL-01966" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746228763608</created>
-      <option name="number" value="01966" />
-      <option name="presentableId" value="LOCAL-01966" />
-      <option name="project" value="LOCAL" />
-      <updated>1746228763609</updated>
-    </task>
-    <task id="LOCAL-01967" summary="Rysowanie prostokąta z gwiazdek (*)">
-      <option name="closed" value="true" />
-      <created>1746230577860</created>
-      <option name="number" value="01967" />
-      <option name="presentableId" value="LOCAL-01967" />
-      <option name="project" value="LOCAL" />
-      <updated>1746230577860</updated>
+      <workItem from="1745779601674" duration="19845000" />
     </task>
     <task id="LOCAL-01968" summary="Rysowanie prostokąta z gwiazdek (*)">
       <option name="closed" value="true" />
@@ -556,7 +474,87 @@
       <option name="project" value="LOCAL" />
       <updated>1746480453516</updated>
     </task>
-    <option name="localTasksCounter" value="2007" />
+    <task id="LOCAL-02007" summary="Zbieramy liczby z obu przekątnych">
+      <option name="closed" value="true" />
+      <created>1746480478034</created>
+      <option name="number" value="02007" />
+      <option name="presentableId" value="LOCAL-02007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480478034</updated>
+    </task>
+    <task id="LOCAL-02008" summary="przekątna główna">
+      <option name="closed" value="true" />
+      <created>1746480494772</created>
+      <option name="number" value="02008" />
+      <option name="presentableId" value="LOCAL-02008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480494772</updated>
+    </task>
+    <task id="LOCAL-02009" summary="przekątna przeciwna">
+      <option name="closed" value="true" />
+      <created>1746480511775</created>
+      <option name="number" value="02009" />
+      <option name="presentableId" value="LOCAL-02009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480511775</updated>
+    </task>
+    <task id="LOCAL-02010" summary="przekątna przeciwna">
+      <option name="closed" value="true" />
+      <created>1746480521653</created>
+      <option name="number" value="02010" />
+      <option name="presentableId" value="LOCAL-02010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480521653</updated>
+    </task>
+    <task id="LOCAL-02011" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
+      <option name="closed" value="true" />
+      <created>1746480537787</created>
+      <option name="number" value="02011" />
+      <option name="presentableId" value="LOCAL-02011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480537787</updated>
+    </task>
+    <task id="LOCAL-02012" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
+      <option name="closed" value="true" />
+      <created>1746480549836</created>
+      <option name="number" value="02012" />
+      <option name="presentableId" value="LOCAL-02012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480549837</updated>
+    </task>
+    <task id="LOCAL-02013" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
+      <option name="closed" value="true" />
+      <created>1746480560586</created>
+      <option name="number" value="02013" />
+      <option name="presentableId" value="LOCAL-02013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480560586</updated>
+    </task>
+    <task id="LOCAL-02014" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
+      <option name="closed" value="true" />
+      <created>1746480568358</created>
+      <option name="number" value="02014" />
+      <option name="presentableId" value="LOCAL-02014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480568358</updated>
+    </task>
+    <task id="LOCAL-02015" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
+      <option name="closed" value="true" />
+      <created>1746480582955</created>
+      <option name="number" value="02015" />
+      <option name="presentableId" value="LOCAL-02015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480582955</updated>
+    </task>
+    <task id="LOCAL-02016" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
+      <option name="closed" value="true" />
+      <created>1746480590287</created>
+      <option name="number" value="02016" />
+      <option name="presentableId" value="LOCAL-02016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480590287</updated>
+    </task>
+    <option name="localTasksCounter" value="2017" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,9 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sprawdź, czy tekst jest palindromem" />
-    <MESSAGE value="Czy liczba jest doskonała?" />
-    <MESSAGE value="Usuwanie duplikatów z tablicy liczb całkowitych" />
     <MESSAGE value="Ile razy wykona się pętla do-while, jeśli warunek od razu jest fałszywy?" />
     <MESSAGE value="Suma liczb podzielnych przez 3 i 5 z zakresu 1–100" />
     <MESSAGE value="Rysowanie prostokąta z gwiazdek (*)" />
@@ -591,7 +586,6 @@
     <MESSAGE value="Wypełniamy tablicę losowymi wartościami od 0 do 10" />
     <MESSAGE value="losowa liczba 0–10" />
     <MESSAGE value="wypisanie wartości" />
-    <MESSAGE value="Zbieramy liczby z obu przekątnych" />
     <MESSAGE value="główna przekątna" />
     <MESSAGE value="przekątna pomocnicza" />
     <MESSAGE value="unikamy podwójnego zliczenia środka" />
@@ -599,6 +593,10 @@
     <MESSAGE value="Utwórz dwuwymiarową tablicę o rozmiarach 8×8 i wypełnij ją losowymi wartościami z przedziału od 0 do 10. Następnie sprawdź, czy na przekątnych tej tablicy (łącznie) występują przynajmniej 3 takie same liczby." />
     <MESSAGE value="Wypełniamy tablicę losowymi wartościami z zakresu 0–10" />
     <MESSAGE value="Wyświetlamy całą tablicę" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wyświetlamy całą tablicę" />
+    <MESSAGE value="Zbieramy liczby z obu przekątnych" />
+    <MESSAGE value="przekątna główna" />
+    <MESSAGE value="przekątna przeciwna" />
+    <MESSAGE value="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy" />
   </component>
 </project>
