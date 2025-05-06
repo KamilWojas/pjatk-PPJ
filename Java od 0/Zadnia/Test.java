@@ -1369,3 +1369,8 @@ public class Parzystosc {
     public static boolean isEven(int number) {
         return number % 2 == 0;
     }
+
+    public static void main(String[] args) {
+        int liczba = 7;
+        if (isEven(liczba)) {
+            System.out.println(liczba + " jest parzysta.");
