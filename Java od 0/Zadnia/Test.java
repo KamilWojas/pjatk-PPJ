@@ -1395,6 +1395,10 @@ public class SumaWiekszych {
         }
         return suma;
     }
+    public static void main(String[] args) {
+        int[] dane = {5, 12, 7, 20, 3, 18};
+        int wynik = sumaWiekszychNiz10(dane);
+        System.out.println("Suma liczb większych niż 10: " + wynik);
+    }
+}
 
-
-    
