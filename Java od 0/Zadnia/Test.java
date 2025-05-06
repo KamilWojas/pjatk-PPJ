@@ -1379,3 +1379,7 @@ public class Parzystosc {
         }
     }
 }
+
+
+==========================================================================================
+//Stwórz metodę, która przyjmie tablicę int[] i zwróci sumę tylko tych elementów, które są większe niż 10.
