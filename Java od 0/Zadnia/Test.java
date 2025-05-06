@@ -1357,3 +1357,9 @@ public class Main {
         show(-3);
     }
 }
+
+
+==========================================================================================
+//Napisz metodę isEven(int number), która sprawdza, czy przekazana liczba jest parzysta.
+//Wyświetl informację, czy liczba jest parzysta, czy nie.
+
