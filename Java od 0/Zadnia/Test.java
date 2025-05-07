@@ -1457,3 +1457,11 @@ public class OperacjeNaTablicach {
 
         int[] tab1 = new int[rand.nextInt(6) + 5]; 
         int[] tab2 = new int[rand.nextInt(6) + 5];
+
+        for (int i = 0; i < tab1.length; i++) {
+            tab1[i] = rand.nextInt(100);
+        }
+
+        for (int i = 0; i < tab2.length; i++) {
+            tab2[i] = rand.nextInt(100);
+        }
