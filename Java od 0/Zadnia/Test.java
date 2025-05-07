@@ -1470,3 +1470,4 @@ public class OperacjeNaTablicach {
         System.out.println("Tablica 2: " + Arrays.toString(tab2));
 
         int[] wynik = operujNaTablicach(tab1, tab2, -5); 
+ 
