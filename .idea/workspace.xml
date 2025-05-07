@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda sprawdzająca parzystość">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Dodajemy tylko te wartości, które są większe niż 10.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,47 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="21354000" />
-    </task>
-    <task id="LOCAL-01976" summary="Ile cyfr zawiera liczba?">
-      <option name="closed" value="true" />
-      <created>1746287319778</created>
-      <option name="number" value="01976" />
-      <option name="presentableId" value="LOCAL-01976" />
-      <option name="project" value="LOCAL" />
-      <updated>1746287319778</updated>
-    </task>
-    <task id="LOCAL-01977" summary="Ile cyfr zawiera liczba?">
-      <option name="closed" value="true" />
-      <created>1746287334173</created>
-      <option name="number" value="01977" />
-      <option name="presentableId" value="LOCAL-01977" />
-      <option name="project" value="LOCAL" />
-      <updated>1746287334173</updated>
-    </task>
-    <task id="LOCAL-01978" summary="Ile cyfr zawiera liczba?">
-      <option name="closed" value="true" />
-      <created>1746287350043</created>
-      <option name="number" value="01978" />
-      <option name="presentableId" value="LOCAL-01978" />
-      <option name="project" value="LOCAL" />
-      <updated>1746287350043</updated>
-    </task>
-    <task id="LOCAL-01979" summary="Ile cyfr zawiera liczba?">
-      <option name="closed" value="true" />
-      <created>1746287382529</created>
-      <option name="number" value="01979" />
-      <option name="presentableId" value="LOCAL-01979" />
-      <option name="project" value="LOCAL" />
-      <updated>1746287382529</updated>
-    </task>
-    <task id="LOCAL-01980" summary="Utwórz trzy tablice zmiennych typu int o losowych rozmiarach i wypełnij je losowymi wartościami. Następnie utwórz tablicę, której elementami będą przygotowane wcześniej tablice. Wyświetl wszystkie wylosowane wartości wykorzystując utworzoną tablicę dwuwymiarową.">
-      <option name="closed" value="true" />
-      <created>1746287548156</created>
-      <option name="number" value="01980" />
-      <option name="presentableId" value="LOCAL-01980" />
-      <option name="project" value="LOCAL" />
-      <updated>1746287548156</updated>
+      <workItem from="1745779601674" duration="22821000" />
     </task>
     <task id="LOCAL-01981" summary="Utwórz trzy tablice zmiennych typu int o losowych rozmiarach i wypełnij je losowymi wartościami. Następnie utwórz tablicę, której elementami będą przygotowane wcześniej tablice. Wyświetl wszystkie wylosowane wartości wykorzystując utworzoną tablicę dwuwymiarową.">
       <option name="closed" value="true" />
@@ -556,7 +516,47 @@
       <option name="project" value="LOCAL" />
       <updated>1746564779502</updated>
     </task>
-    <option name="localTasksCounter" value="2025" />
+    <task id="LOCAL-02025" summary="Metoda sprawdzająca parzystość">
+      <option name="closed" value="true" />
+      <created>1746564794351</created>
+      <option name="number" value="02025" />
+      <option name="presentableId" value="LOCAL-02025" />
+      <option name="project" value="LOCAL" />
+      <updated>1746564794352</updated>
+    </task>
+    <task id="LOCAL-02026" summary="Stwórz metodę, która przyjmie tablicę int[] i zwróci sumę tylko tych elementów, które są większe niż 10.">
+      <option name="closed" value="true" />
+      <created>1746564964094</created>
+      <option name="number" value="02026" />
+      <option name="presentableId" value="LOCAL-02026" />
+      <option name="project" value="LOCAL" />
+      <updated>1746564964094</updated>
+    </task>
+    <task id="LOCAL-02027" summary="Stwórz metodę, która przyjmie tablicę int[] i zwróci sumę tylko tych elementów, które są większe niż 10.">
+      <option name="closed" value="true" />
+      <created>1746564984698</created>
+      <option name="number" value="02027" />
+      <option name="presentableId" value="LOCAL-02027" />
+      <option name="project" value="LOCAL" />
+      <updated>1746564984698</updated>
+    </task>
+    <task id="LOCAL-02028" summary="Przechodzimy przez tablicę pętlą for-each.">
+      <option name="closed" value="true" />
+      <created>1746565015273</created>
+      <option name="number" value="02028" />
+      <option name="presentableId" value="LOCAL-02028" />
+      <option name="project" value="LOCAL" />
+      <updated>1746565015273</updated>
+    </task>
+    <task id="LOCAL-02029" summary="Dodajemy tylko te wartości, które są większe niż 10.">
+      <option name="closed" value="true" />
+      <created>1746565032322</created>
+      <option name="number" value="02029" />
+      <option name="presentableId" value="LOCAL-02029" />
+      <option name="project" value="LOCAL" />
+      <updated>1746565032322</updated>
+    </task>
+    <option name="localTasksCounter" value="2030" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,9 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Utwórz trzy tablice zmiennych typu int o losowych rozmiarach i wypełnij je losowymi wartościami. Następnie utwórz tablicę, której elementami będą przygotowane wcześniej tablice. Wyświetl wszystkie wylosowane wartości wykorzystując utworzoną tablicę dwuwymiarową." />
-    <MESSAGE value="worzymy 3 tablice o losowych rozmiarach (od 3 do 7)" />
-    <MESSAGE value="Wypełniamy każdą tablicę losowymi liczbami od 1 do 100" />
     <MESSAGE value="Tworzymy tablicę dwuwymiarową i przypisujemy do niej nasze tablice" />
     <MESSAGE value="Wyświetlamy wszystkie wartości" />
     <MESSAGE value="Metoda pomocnicza do wypełniania tablicy losowymi wartościami" />
@@ -599,6 +596,9 @@
     <MESSAGE value="Wywołanie metody show z różnymi wartościami" />
     <MESSAGE value="Napisz metodę isEven(int number), która sprawdza, czy przekazana liczba jest parzysta.&#10;Wyświetl informację, czy liczba jest parzysta, czy nie." />
     <MESSAGE value="Metoda sprawdzająca parzystość" />
-    <option name="LAST_COMMIT_MESSAGE" value="Metoda sprawdzająca parzystość" />
+    <MESSAGE value="Stwórz metodę, która przyjmie tablicę int[] i zwróci sumę tylko tych elementów, które są większe niż 10." />
+    <MESSAGE value="Przechodzimy przez tablicę pętlą for-each." />
+    <MESSAGE value="Dodajemy tylko te wartości, które są większe niż 10." />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodajemy tylko te wartości, które są większe niż 10." />
   </component>
 </project>
