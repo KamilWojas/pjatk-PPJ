@@ -1435,3 +1435,17 @@ public class LiczenieZnakow {
         System.out.println("Znaleziono " + wynik + " pasujących znaków.");
     }
 }
+
+
+
+
+
+
+==========================================================================================
+//Treść zadania:
+//Utwórz i wypełnij losowymi wartościami dwie tablice typu int[],
+//Utwórz metodę, która przyjmie obie tablice oraz dodatkowy argument int sterowanie,
+//W zależności od wartości sterowanie:
+//jeśli < 0 → zwróć tablicę sum elementów na tych samych indeksach (gdzie istnieją pary),
+//jeśli > 0 → zwróć tablicę z elementami, które nie mają pary,
+//jeśli == 0 → zwróć null.
