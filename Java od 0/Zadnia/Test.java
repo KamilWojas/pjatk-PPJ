@@ -1413,3 +1413,10 @@ public class SumaWiekszych {
 public class LiczenieZnakow {
     public static int policzZnaki(char[] tablica, String wzorzec) {
         int licznik = 0;
+
+
+        for (char znakZTablicy : tablica) {
+            for (char znakZWzorca : wzorzec.toCharArray()) {
+                if (znakZTablicy == znakZWzorca) {
+                    licznik++;
+                    break;
