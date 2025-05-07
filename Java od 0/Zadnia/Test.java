@@ -1465,3 +1465,6 @@ public class OperacjeNaTablicach {
         for (int i = 0; i < tab2.length; i++) {
             tab2[i] = rand.nextInt(100);
         }
+
+        System.out.println("Tablica 1: " + Arrays.toString(tab1));
+        System.out.println("Tablica 2: " + Arrays.toString(tab2));
