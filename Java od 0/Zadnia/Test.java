@@ -1449,3 +1449,8 @@ public class LiczenieZnakow {
 //jeśli < 0 → zwróć tablicę sum elementów na tych samych indeksach (gdzie istnieją pary),
 //jeśli > 0 → zwróć tablicę z elementami, które nie mają pary,
 //jeśli == 0 → zwróć null.
+
+public class OperacjeNaTablicach {
+
+    public static void main(String[] args) {
+        Random rand = new Random();
