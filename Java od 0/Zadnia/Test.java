@@ -1454,3 +1454,6 @@ public class OperacjeNaTablicach {
 
     public static void main(String[] args) {
         Random rand = new Random();
+
+        int[] tab1 = new int[rand.nextInt(6) + 5]; 
+        int[] tab2 = new int[rand.nextInt(6) + 5];
