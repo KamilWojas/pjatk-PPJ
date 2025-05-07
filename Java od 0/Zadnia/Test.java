@@ -1429,4 +1429,9 @@ public class LiczenieZnakow {
     public static void main(String[] args) {
         char[] tekst = "Ala ma kota".toCharArray();
 
+        tring szukaneZnaki = "ak";
+
+        int wynik = policzZnaki(tekst, szukaneZnaki);
+        System.out.println("Znaleziono " + wynik + " pasujących znaków.");
     }
+}
