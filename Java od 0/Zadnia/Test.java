@@ -1420,3 +1420,13 @@ public class LiczenieZnakow {
                 if (znakZTablicy == znakZWzorca) {
                     licznik++;
                     break;
+                }
+            }
+        }
+
+        return licznik;
+    }
+    public static void main(String[] args) {
+        char[] tekst = "Ala ma kota".toCharArray();
+
+    }
