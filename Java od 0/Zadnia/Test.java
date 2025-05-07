@@ -1402,3 +1402,9 @@ public class SumaWiekszych {
     }
 }
 
+
+
+
+==========================================================================================
+//Dana jest tablica zmiennych typu char przechowująca napis "Ala ma kota". 
+// Napisz metodę, która policzy, ile razy wystąpiły znaki składające się na ciąg dostarczony jako argument.
