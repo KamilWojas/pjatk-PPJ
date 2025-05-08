@@ -1517,3 +1517,6 @@ public class KwadratXO {
     public static void wypiszKwadrat(int rozmiar, char start) {
         char znak1 = (start == 'x') ? 'x' : 'o';
         char znak2 = (znak1 == 'x') ? 'o' : 'x';
+
+        for (int i = 0; i < rozmiar; i++) {
+            for (int j = 0; j < rozmiar; j++) {
