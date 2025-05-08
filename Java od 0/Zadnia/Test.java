@@ -1527,4 +1527,6 @@ public class KwadratXO {
                     System.out.print(znak2);
                 }
             }
-            
+            System.out.println(); 
+        }
+    }
