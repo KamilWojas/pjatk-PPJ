@@ -1481,3 +1481,10 @@ public class OperacjeNaTablicach {
     public static int[] operujNaTablicach(int[] t1, int[] t2, int sterowanie) {
         int min = Math.min(t1.length, t2.length);
         int max = Math.max(t1.length, t2.length);
+
+        if (sterowanie < 0) {
+            int[] suma = new int[min];
+            for (int i = 0; i < min; i++) {
+                suma[i] = t1[i] + t2[i];
+            }
+            return suma;
