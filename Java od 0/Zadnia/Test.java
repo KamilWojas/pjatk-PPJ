@@ -1520,3 +1520,11 @@ public class KwadratXO {
 
         for (int i = 0; i < rozmiar; i++) {
             for (int j = 0; j < rozmiar; j++) {
+
+                if ((i + j) % 2 == 0) {
+                    System.out.print(znak1);
+                } else {
+                    System.out.print(znak2);
+                }
+            }
+            
