@@ -1504,4 +1504,10 @@ public class OperacjeNaTablicach {
         }
     }
 }
-            
+
+
+
+==========================================================================================
+//Utwórz bezrezultatową metodę wypisującą na ekranie kwadrat z naprzemiennie występujących znaków x i o.
+//Pierwszy argument metody: rozmiar boku kwadratu,
+//Drugi argument: znak, od którego zacząć (x lub o).
