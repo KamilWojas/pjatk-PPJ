@@ -1477,4 +1477,7 @@ public class OperacjeNaTablicach {
             System.out.println("Zwrócono null.");
         }
     }
- 
+
+    public static int[] operujNaTablicach(int[] t1, int[] t2, int sterowanie) {
+        int min = Math.min(t1.length, t2.length);
+        int max = Math.max(t1.length, t2.length);
