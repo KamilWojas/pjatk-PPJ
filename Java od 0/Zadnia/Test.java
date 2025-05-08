@@ -1488,3 +1488,9 @@ public class OperacjeNaTablicach {
                 suma[i] = t1[i] + t2[i];
             }
             return suma;
+            
+        } else if (sterowanie > 0) {
+            int[] dluzsza;
+            if (t1.length > t2.length) {
+                dluzsza = Arrays.copyOfRange(t1, min, t1.length);
+            } else {
