@@ -1494,3 +1494,14 @@ public class OperacjeNaTablicach {
             if (t1.length > t2.length) {
                 dluzsza = Arrays.copyOfRange(t1, min, t1.length);
             } else {
+
+                dluzsza = Arrays.copyOfRange(t2, min, t2.length);
+            }
+            return dluzsza;
+
+        } else {
+            return null;
+        }
+    }
+}
+            
