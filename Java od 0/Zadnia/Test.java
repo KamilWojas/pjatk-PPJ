@@ -1533,3 +1533,10 @@ public class KwadratXO {
 
     public static void main(String[] args) {
 
+        wypiszKwadrat(5, 'x');
+        System.out.println();
+        wypiszKwadrat(4, 'o');
+    }
+}
+    
+
