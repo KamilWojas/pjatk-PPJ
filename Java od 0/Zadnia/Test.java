@@ -1511,3 +1511,9 @@ public class OperacjeNaTablicach {
 //Utwórz bezrezultatową metodę wypisującą na ekranie kwadrat z naprzemiennie występujących znaków x i o.
 //Pierwszy argument metody: rozmiar boku kwadratu,
 //Drugi argument: znak, od którego zacząć (x lub o).
+
+public class KwadratXO {
+
+    public static void wypiszKwadrat(int rozmiar, char start) {
+        char znak1 = (start == 'x') ? 'x' : 'o';
+        char znak2 = (znak1 == 'x') ? 'o' : 'x';
