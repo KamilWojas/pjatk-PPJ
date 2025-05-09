@@ -1536,7 +1536,7 @@ public class KwadratXO {
         wypiszKwadrat(5, 'x');
         System.out.println();
         wypiszKwadrat(4, 'o');
-    } 
+    }  
 }
     
 
