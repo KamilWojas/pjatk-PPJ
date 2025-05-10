@@ -1562,6 +1562,7 @@ public class TablicaZeroJeden {
 
 
 
+
 ==========================================================================================
 //Dla każdej nazwy zapisanej w postaci tablicy char[]:
 //Sprawdź, czy:
