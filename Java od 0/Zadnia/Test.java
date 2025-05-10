@@ -1559,3 +1559,12 @@ public class TablicaZeroJeden {
         System.out.println("Tablica: " + Arrays.toString(tablica));
     }
 }
+
+
+//Dla każdej nazwy zapisanej w postaci tablicy char[]:
+//Sprawdź, czy:
+//Zawiera przynajmniej dwie takie same litery (niezależnie od wielkości),
+//Suma wartości znaków (ASCII) przekracza 255,
+//Zawiera przynajmniej jedną literę 'i',
+//Zawiera przynajmniej dwa identyczne znaki (rozróżniając wielkość liter),
+//Wypisz nazwy, które spełniają co najmniej 3 z powyższych warunków.
