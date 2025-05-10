@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przykład użycia" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment=" pomocnicza metoda do konwersji tablicy znaków na String" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,127 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="27268000" />
-    </task>
-    <task id="LOCAL-02011" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
-      <option name="closed" value="true" />
-      <created>1746480537787</created>
-      <option name="number" value="02011" />
-      <option name="presentableId" value="LOCAL-02011" />
-      <option name="project" value="LOCAL" />
-      <updated>1746480537787</updated>
-    </task>
-    <task id="LOCAL-02012" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
-      <option name="closed" value="true" />
-      <created>1746480549836</created>
-      <option name="number" value="02012" />
-      <option name="presentableId" value="LOCAL-02012" />
-      <option name="project" value="LOCAL" />
-      <updated>1746480549837</updated>
-    </task>
-    <task id="LOCAL-02013" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
-      <option name="closed" value="true" />
-      <created>1746480560586</created>
-      <option name="number" value="02013" />
-      <option name="presentableId" value="LOCAL-02013" />
-      <option name="project" value="LOCAL" />
-      <updated>1746480560586</updated>
-    </task>
-    <task id="LOCAL-02014" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
-      <option name="closed" value="true" />
-      <created>1746480568358</created>
-      <option name="number" value="02014" />
-      <option name="presentableId" value="LOCAL-02014" />
-      <option name="project" value="LOCAL" />
-      <updated>1746480568358</updated>
-    </task>
-    <task id="LOCAL-02015" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
-      <option name="closed" value="true" />
-      <created>1746480582955</created>
-      <option name="number" value="02015" />
-      <option name="presentableId" value="LOCAL-02015" />
-      <option name="project" value="LOCAL" />
-      <updated>1746480582955</updated>
-    </task>
-    <task id="LOCAL-02016" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
-      <option name="closed" value="true" />
-      <created>1746480590287</created>
-      <option name="number" value="02016" />
-      <option name="presentableId" value="LOCAL-02016" />
-      <option name="project" value="LOCAL" />
-      <updated>1746480590287</updated>
-    </task>
-    <task id="LOCAL-02017" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
-      <option name="closed" value="true" />
-      <created>1746548026934</created>
-      <option name="number" value="02017" />
-      <option name="presentableId" value="LOCAL-02017" />
-      <option name="project" value="LOCAL" />
-      <updated>1746548026934</updated>
-    </task>
-    <task id="LOCAL-02018" summary="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy">
-      <option name="closed" value="true" />
-      <created>1746555284152</created>
-      <option name="number" value="02018" />
-      <option name="presentableId" value="LOCAL-02018" />
-      <option name="project" value="LOCAL" />
-      <updated>1746555284152</updated>
-    </task>
-    <task id="LOCAL-02019" summary="Utwórz bezrezultatową metodę show, przyjmującą parametr typu int, której celem będzie wyświetlenie na ekran dostarczonej wartości. Działanie utworzonej metody przedstaw w programie.">
-      <option name="closed" value="true" />
-      <created>1746564509605</created>
-      <option name="number" value="02019" />
-      <option name="presentableId" value="LOCAL-02019" />
-      <option name="project" value="LOCAL" />
-      <updated>1746564509605</updated>
-    </task>
-    <task id="LOCAL-02020" summary="Metoda show – przyjmuje liczbę całkowitą i ją wyświetla">
-      <option name="closed" value="true" />
-      <created>1746564538025</created>
-      <option name="number" value="02020" />
-      <option name="presentableId" value="LOCAL-02020" />
-      <option name="project" value="LOCAL" />
-      <updated>1746564538025</updated>
-    </task>
-    <task id="LOCAL-02021" summary="Wywołanie metody show z różnymi wartościami">
-      <option name="closed" value="true" />
-      <created>1746564566574</created>
-      <option name="number" value="02021" />
-      <option name="presentableId" value="LOCAL-02021" />
-      <option name="project" value="LOCAL" />
-      <updated>1746564566574</updated>
-    </task>
-    <task id="LOCAL-02022" summary="Napisz metodę isEven(int number), która sprawdza, czy przekazana liczba jest parzysta.&#10;Wyświetl informację, czy liczba jest parzysta, czy nie.">
-      <option name="closed" value="true" />
-      <created>1746564736483</created>
-      <option name="number" value="02022" />
-      <option name="presentableId" value="LOCAL-02022" />
-      <option name="project" value="LOCAL" />
-      <updated>1746564736483</updated>
-    </task>
-    <task id="LOCAL-02023" summary="Metoda sprawdzająca parzystość">
-      <option name="closed" value="true" />
-      <created>1746564762900</created>
-      <option name="number" value="02023" />
-      <option name="presentableId" value="LOCAL-02023" />
-      <option name="project" value="LOCAL" />
-      <updated>1746564762900</updated>
-    </task>
-    <task id="LOCAL-02024" summary="Metoda sprawdzająca parzystość">
-      <option name="closed" value="true" />
-      <created>1746564779502</created>
-      <option name="number" value="02024" />
-      <option name="presentableId" value="LOCAL-02024" />
-      <option name="project" value="LOCAL" />
-      <updated>1746564779502</updated>
-    </task>
-    <task id="LOCAL-02025" summary="Metoda sprawdzająca parzystość">
-      <option name="closed" value="true" />
-      <created>1746564794351</created>
-      <option name="number" value="02025" />
-      <option name="presentableId" value="LOCAL-02025" />
-      <option name="project" value="LOCAL" />
-      <updated>1746564794352</updated>
+      <workItem from="1745779601674" duration="30050000" />
     </task>
     <task id="LOCAL-02026" summary="Stwórz metodę, która przyjmie tablicę int[] i zwróci sumę tylko tych elementów, które są większe niż 10.">
       <option name="closed" value="true" />
@@ -554,7 +434,127 @@
       <option name="project" value="LOCAL" />
       <updated>1746887005318</updated>
     </task>
-    <option name="localTasksCounter" value="2060" />
+    <task id="LOCAL-02060" summary="Przykład użycia">
+      <option name="closed" value="true" />
+      <created>1746890991783</created>
+      <option name="number" value="02060" />
+      <option name="presentableId" value="LOCAL-02060" />
+      <option name="project" value="LOCAL" />
+      <updated>1746890991783</updated>
+    </task>
+    <task id="LOCAL-02061" summary="Przykład użycia">
+      <option name="closed" value="true" />
+      <created>1746910324481</created>
+      <option name="number" value="02061" />
+      <option name="presentableId" value="LOCAL-02061" />
+      <option name="project" value="LOCAL" />
+      <updated>1746910324481</updated>
+    </task>
+    <task id="LOCAL-02062" summary="Zadeklaruj jednowymiarową tablicę zmiennych typu int o rozmiarze 10 elementów i wypełnij ją losowymi wartościami 0 lub 1.">
+      <option name="closed" value="true" />
+      <created>1746911002212</created>
+      <option name="number" value="02062" />
+      <option name="presentableId" value="LOCAL-02062" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911002212</updated>
+    </task>
+    <task id="LOCAL-02063" summary="Zadeklaruj jednowymiarową tablicę zmiennych typu int o rozmiarze 10 elementów i wypełnij ją losowymi wartościami 0 lub 1.">
+      <option name="closed" value="true" />
+      <created>1746911033064</created>
+      <option name="number" value="02063" />
+      <option name="presentableId" value="LOCAL-02063" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911033064</updated>
+    </task>
+    <task id="LOCAL-02064" summary="losowo 0 lub 1">
+      <option name="closed" value="true" />
+      <created>1746911054019</created>
+      <option name="number" value="02064" />
+      <option name="presentableId" value="LOCAL-02064" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911054019</updated>
+    </task>
+    <task id="LOCAL-02065" summary="Wyświetlenie tablicy">
+      <option name="closed" value="true" />
+      <created>1746911077500</created>
+      <option name="number" value="02065" />
+      <option name="presentableId" value="LOCAL-02065" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911077500</updated>
+    </task>
+    <task id="LOCAL-02066" summary="Dla każdej nazwy zapisanej w postaci tablicy char[]:&#10;&#10;Sprawdź, czy:&#10;&#10;Zawiera przynajmniej dwie takie same litery (niezależnie od wielkości),&#10;&#10;Suma wartości znaków (ASCII) przekracza 255,&#10;&#10;Zawiera przynajmniej jedną literę 'i',&#10;&#10;Zawiera przynajmniej dwa identyczne znaki (rozróżniając wielkość liter),&#10;Wypisz nazwy, które spełniają co najmniej 3 z powyższych warunków.">
+      <option name="closed" value="true" />
+      <created>1746911190875</created>
+      <option name="number" value="02066" />
+      <option name="presentableId" value="LOCAL-02066" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911190875</updated>
+    </task>
+    <task id="LOCAL-02067" summary="Dla każdej nazwy zapisanej w postaci tablicy char[]:&#10;&#10;Sprawdź, czy:&#10;&#10;Zawiera przynajmniej dwie takie same litery (niezależnie od wielkości),&#10;&#10;Suma wartości znaków (ASCII) przekracza 255,&#10;&#10;Zawiera przynajmniej jedną literę 'i',&#10;&#10;Zawiera przynajmniej dwa identyczne znaki (rozróżniając wielkość liter),&#10;Wypisz nazwy, które spełniają co najmniej 3 z powyższych warunków.">
+      <option name="closed" value="true" />
+      <created>1746911214588</created>
+      <option name="number" value="02067" />
+      <option name="presentableId" value="LOCAL-02067" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911214588</updated>
+    </task>
+    <task id="LOCAL-02068" summary="Dla każdej nazwy zapisanej w postaci tablicy char[]:&#10;&#10;Sprawdź, czy:&#10;&#10;Zawiera przynajmniej dwie takie same litery (niezależnie od wielkości),&#10;&#10;Suma wartości znaków (ASCII) przekracza 255,&#10;&#10;Zawiera przynajmniej jedną literę 'i',&#10;&#10;Zawiera przynajmniej dwa identyczne znaki (rozróżniając wielkość liter),&#10;Wypisz nazwy, które spełniają co najmniej 3 z powyższych warunków.">
+      <option name="closed" value="true" />
+      <created>1746911238540</created>
+      <option name="number" value="02068" />
+      <option name="presentableId" value="LOCAL-02068" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911238540</updated>
+    </task>
+    <task id="LOCAL-02069" summary="warunek 1: przynajmniej dwie takie same litery (bez względu na wielkość)">
+      <option name="closed" value="true" />
+      <created>1746911260206</created>
+      <option name="number" value="02069" />
+      <option name="presentableId" value="LOCAL-02069" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911260206</updated>
+    </task>
+    <task id="LOCAL-02070" summary="warunek 2: suma znaków &gt; 255">
+      <option name="closed" value="true" />
+      <created>1746911289359</created>
+      <option name="number" value="02070" />
+      <option name="presentableId" value="LOCAL-02070" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911289359</updated>
+    </task>
+    <task id="LOCAL-02071" summary="warunek 3: przynajmniej jeden znak 'i'">
+      <option name="closed" value="true" />
+      <created>1746911307375</created>
+      <option name="number" value="02071" />
+      <option name="presentableId" value="LOCAL-02071" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911307375</updated>
+    </task>
+    <task id="LOCAL-02072" summary="warunek 4: przynajmniej dwa identyczne znaki (rozróżniając wielkość)">
+      <option name="closed" value="true" />
+      <created>1746911324678</created>
+      <option name="number" value="02072" />
+      <option name="presentableId" value="LOCAL-02072" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911324678</updated>
+    </task>
+    <task id="LOCAL-02073" summary=" wypisanie nazw spełniających co najmniej 3 warunki">
+      <option name="closed" value="true" />
+      <created>1746911342097</created>
+      <option name="number" value="02073" />
+      <option name="presentableId" value="LOCAL-02073" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911342097</updated>
+    </task>
+    <task id="LOCAL-02074" summary=" pomocnicza metoda do konwersji tablicy znaków na String">
+      <option name="closed" value="true" />
+      <created>1746911359395</created>
+      <option name="number" value="02074" />
+      <option name="presentableId" value="LOCAL-02074" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911359395</updated>
+    </task>
+    <option name="localTasksCounter" value="2075" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,16 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sprawdzamy, czy jakaś liczba wystąpiła na przekątnych ≥ 3 razy" />
-    <MESSAGE value="Utwórz bezrezultatową metodę show, przyjmującą parametr typu int, której celem będzie wyświetlenie na ekran dostarczonej wartości. Działanie utworzonej metody przedstaw w programie." />
-    <MESSAGE value="Metoda show – przyjmuje liczbę całkowitą i ją wyświetla" />
-    <MESSAGE value="Wywołanie metody show z różnymi wartościami" />
-    <MESSAGE value="Napisz metodę isEven(int number), która sprawdza, czy przekazana liczba jest parzysta.&#10;Wyświetl informację, czy liczba jest parzysta, czy nie." />
-    <MESSAGE value="Metoda sprawdzająca parzystość" />
-    <MESSAGE value="Stwórz metodę, która przyjmie tablicę int[] i zwróci sumę tylko tych elementów, które są większe niż 10." />
-    <MESSAGE value="Przechodzimy przez tablicę pętlą for-each." />
-    <MESSAGE value="Dodajemy tylko te wartości, które są większe niż 10." />
-    <MESSAGE value="Dana jest tablica zmiennych typu char przechowująca napis &quot;Ala ma kota&quot;. Napisz metodę, która policzy, ile razy wystąpiły znaki składające się na ciąg dostarczony jako argument." />
     <MESSAGE value="Metoda zliczająca wystąpienia znaków z tekstu w tablicy znaków" />
     <MESSAGE value="znak pasuje, nie trzeba dalej sprawdzać tego znaku z tablicy" />
     <MESSAGE value="Tablica znaków z napisem &quot;Ala ma kota&quot;" />
@@ -597,6 +587,16 @@
     <MESSAGE value="Suma indeksów parzysta → znak1, nieparzysta → znak2" />
     <MESSAGE value="Nowa linia po każdym wierszu" />
     <MESSAGE value="Przykład użycia" />
-    <option name="LAST_COMMIT_MESSAGE" value="Przykład użycia" />
+    <MESSAGE value="Zadeklaruj jednowymiarową tablicę zmiennych typu int o rozmiarze 10 elementów i wypełnij ją losowymi wartościami 0 lub 1." />
+    <MESSAGE value="losowo 0 lub 1" />
+    <MESSAGE value="Wyświetlenie tablicy" />
+    <MESSAGE value="Dla każdej nazwy zapisanej w postaci tablicy char[]:&#10;&#10;Sprawdź, czy:&#10;&#10;Zawiera przynajmniej dwie takie same litery (niezależnie od wielkości),&#10;&#10;Suma wartości znaków (ASCII) przekracza 255,&#10;&#10;Zawiera przynajmniej jedną literę 'i',&#10;&#10;Zawiera przynajmniej dwa identyczne znaki (rozróżniając wielkość liter),&#10;Wypisz nazwy, które spełniają co najmniej 3 z powyższych warunków." />
+    <MESSAGE value="warunek 1: przynajmniej dwie takie same litery (bez względu na wielkość)" />
+    <MESSAGE value="warunek 2: suma znaków &gt; 255" />
+    <MESSAGE value="warunek 3: przynajmniej jeden znak 'i'" />
+    <MESSAGE value="warunek 4: przynajmniej dwa identyczne znaki (rozróżniając wielkość)" />
+    <MESSAGE value=" wypisanie nazw spełniających co najmniej 3 warunki" />
+    <MESSAGE value=" pomocnicza metoda do konwersji tablicy znaków na String" />
+    <option name="LAST_COMMIT_MESSAGE" value=" pomocnicza metoda do konwersji tablicy znaków na String" />
   </component>
 </project>
