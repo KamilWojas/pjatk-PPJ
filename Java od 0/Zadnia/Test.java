@@ -1600,3 +1600,7 @@ public class SprawdzanieNazw {
                 }
             }
             if (duplikatBezWielkosci) warunki++;
+
+            int suma = 0;
+            for (char c : nazwa) suma += c;
+            if (suma > 255) warunki++;
