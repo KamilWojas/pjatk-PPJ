@@ -1589,3 +1589,14 @@ public class SprawdzanieNazw {
 
         for (char[] nazwa : tab) {
             int warunki = 0;
+
+            Set<Character> unikalneMale = new HashSet<>();
+            boolean duplikatBezWielkosci = false;
+            for (char c : nazwa) {
+                char lower = Character.toLowerCase(c);
+                if (!unikalneMale.add(lower)) {
+                    duplikatBezWielkosci = true;
+                    break;
+                }
+            }
+            if (duplikatBezWielkosci) warunki++;
