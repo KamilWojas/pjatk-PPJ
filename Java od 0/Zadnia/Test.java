@@ -1586,3 +1586,6 @@ public class SprawdzanieNazw {
                 {'X', 'i', 'a', 'o', 'm', 'i'},
                 {'j', 'o', 'l', 'l', 'a'}
         };
+
+        for (char[] nazwa : tab) {
+            int warunki = 0;
