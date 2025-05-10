@@ -1630,3 +1630,11 @@ public class SprawdzanieNazw {
         }
     }
 
+    public static String nazwaToString(char[] nazwa) {
+        StringBuilder sb = new StringBuilder();
+        for (char c : nazwa) {
+            sb.append(c);
+        }
+        return sb.toString();
+    }
+}
