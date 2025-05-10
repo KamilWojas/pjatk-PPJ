@@ -1623,3 +1623,10 @@ public class SprawdzanieNazw {
                 }
             }
             if (duplikat) warunki++;
+
+            if (warunki >= 3) {
+                System.out.println(nazwaToString(nazwa));
+            }
+        }
+    }
+
