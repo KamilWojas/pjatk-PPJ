@@ -1538,5 +1538,5 @@ public class KwadratXO {
         wypiszKwadrat(4, 'o');
     }  
 } 
-    
+     
 
