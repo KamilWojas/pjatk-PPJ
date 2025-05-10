@@ -1544,3 +1544,9 @@ public class KwadratXO {
 ==========================================================================================
 //Zadeklaruj jednowymiarową tablicę zmiennych typu int o rozmiarze 10 elementów i wypełnij 
 // ją losowymi wartościami 0 lub 1.
+
+
+public class TablicaZeroJeden {
+    public static void main(String[] args) {
+        int[] tablica = new int[10];
+        Random rand = new Random();
