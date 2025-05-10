@@ -1604,3 +1604,12 @@ public class SprawdzanieNazw {
             int suma = 0;
             for (char c : nazwa) suma += c;
             if (suma > 255) warunki++;
+
+            boolean zawieraI = false;
+            for (char c : nazwa) {
+                if (c == 'i') {
+                    zawieraI = true;
+                    break;
+                }
+            }
+            if (zawieraI) warunki++;
