@@ -1613,3 +1613,13 @@ public class SprawdzanieNazw {
                 }
             }
             if (zawieraI) warunki++;
+
+            Set<Character> unikalneZRozroznieniem = new HashSet<>();
+            boolean duplikat = false;
+            for (char c : nazwa) {
+                if (!unikalneZRozroznieniem.add(c)) {
+                    duplikat = true;
+                    break;
+                }
+            }
+            if (duplikat) warunki++;
