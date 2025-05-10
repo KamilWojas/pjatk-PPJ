@@ -1540,3 +1540,7 @@ public class KwadratXO {
 } 
      
 
+
+==========================================================================================
+//Zadeklaruj jednowymiarową tablicę zmiennych typu int o rozmiarze 10 elementów i wypełnij 
+// ją losowymi wartościami 0 lub 1.
