@@ -1561,6 +1561,8 @@ public class TablicaZeroJeden {
 }
 
 
+
+==========================================================================================
 //Dla każdej nazwy zapisanej w postaci tablicy char[]:
 //Sprawdź, czy:
 //Zawiera przynajmniej dwie takie same litery (niezależnie od wielkości),
@@ -1568,3 +1570,19 @@ public class TablicaZeroJeden {
 //Zawiera przynajmniej jedną literę 'i',
 //Zawiera przynajmniej dwa identyczne znaki (rozróżniając wielkość liter),
 //Wypisz nazwy, które spełniają co najmniej 3 z powyższych warunków.
+
+
+public class SprawdzanieNazw {
+
+    public static void main(String[] args) {
+        char[][] tab = {
+                {'S', 'a', 'a', 'm', 'u', 'n', 'g'},
+                {'N', 'o', 'k', 'i', 'a'},
+                {'A', 'p', 'p', 'l', 'e'},
+                {'O', 'p', 'p', 'o'},
+                {'H', 'u', 'a', 'w', 'e', 'i'},
+                {'B', 'l', 'a', 'c', 'k', 'B', 'e', 'r', 'r', 'y'},
+                {'S', 'o', 'n', 'y'},
+                {'X', 'i', 'a', 'o', 'm', 'i'},
+                {'j', 'o', 'l', 'l', 'a'}
+        };
