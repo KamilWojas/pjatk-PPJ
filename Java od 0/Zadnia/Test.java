@@ -1645,3 +1645,8 @@ public class SprawdzanieNazw {
 ==========================================================================================
 //Utwórz dwuwymiarową tablicę typu int o wymiarach 10×10, wypełnij 
 //ją losowymi liczbami i posortuj rosnąco każdy wiersz tej tablicy.
+
+public class SortowanieWierszyTablicy {
+    public static void main(String[] args) {
+        int[][] tablica = new int[10][10];
+        Random rand = new Random();
