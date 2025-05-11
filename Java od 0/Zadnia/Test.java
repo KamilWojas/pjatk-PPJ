@@ -1712,5 +1712,16 @@ public class LicznikZerIJedynek {
 
         System.out.println("Tablica: " + Arrays.toString(tablica));
 
+        int licznikZer = 0;
+        int licznikJedynek = 0;
+
+        for (int liczba : tablica) {
+            if (liczba == 0) {
+                licznikZer++;
+            } else if (liczba == 1) {
+                licznikJedynek++;
+            }
+        }
+
 
 
