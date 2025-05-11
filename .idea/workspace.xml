@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment=" pomocnicza metoda do konwersji tablicy znaków na String" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Metoda pomocnicza do wyświetlania tablicy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,79 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="30050000" />
-    </task>
-    <task id="LOCAL-02026" summary="Stwórz metodę, która przyjmie tablicę int[] i zwróci sumę tylko tych elementów, które są większe niż 10.">
-      <option name="closed" value="true" />
-      <created>1746564964094</created>
-      <option name="number" value="02026" />
-      <option name="presentableId" value="LOCAL-02026" />
-      <option name="project" value="LOCAL" />
-      <updated>1746564964094</updated>
-    </task>
-    <task id="LOCAL-02027" summary="Stwórz metodę, która przyjmie tablicę int[] i zwróci sumę tylko tych elementów, które są większe niż 10.">
-      <option name="closed" value="true" />
-      <created>1746564984698</created>
-      <option name="number" value="02027" />
-      <option name="presentableId" value="LOCAL-02027" />
-      <option name="project" value="LOCAL" />
-      <updated>1746564984698</updated>
-    </task>
-    <task id="LOCAL-02028" summary="Przechodzimy przez tablicę pętlą for-each.">
-      <option name="closed" value="true" />
-      <created>1746565015273</created>
-      <option name="number" value="02028" />
-      <option name="presentableId" value="LOCAL-02028" />
-      <option name="project" value="LOCAL" />
-      <updated>1746565015273</updated>
-    </task>
-    <task id="LOCAL-02029" summary="Dodajemy tylko te wartości, które są większe niż 10.">
-      <option name="closed" value="true" />
-      <created>1746565032322</created>
-      <option name="number" value="02029" />
-      <option name="presentableId" value="LOCAL-02029" />
-      <option name="project" value="LOCAL" />
-      <updated>1746565032322</updated>
-    </task>
-    <task id="LOCAL-02030" summary="Dodajemy tylko te wartości, które są większe niż 10.">
-      <option name="closed" value="true" />
-      <created>1746645047734</created>
-      <option name="number" value="02030" />
-      <option name="presentableId" value="LOCAL-02030" />
-      <option name="project" value="LOCAL" />
-      <updated>1746645047735</updated>
-    </task>
-    <task id="LOCAL-02031" summary="Dana jest tablica zmiennych typu char przechowująca napis &quot;Ala ma kota&quot;. Napisz metodę, która policzy, ile razy wystąpiły znaki składające się na ciąg dostarczony jako argument.">
-      <option name="closed" value="true" />
-      <created>1746647877651</created>
-      <option name="number" value="02031" />
-      <option name="presentableId" value="LOCAL-02031" />
-      <option name="project" value="LOCAL" />
-      <updated>1746647877651</updated>
-    </task>
-    <task id="LOCAL-02032" summary="Metoda zliczająca wystąpienia znaków z tekstu w tablicy znaków">
-      <option name="closed" value="true" />
-      <created>1746647910034</created>
-      <option name="number" value="02032" />
-      <option name="presentableId" value="LOCAL-02032" />
-      <option name="project" value="LOCAL" />
-      <updated>1746647910034</updated>
-    </task>
-    <task id="LOCAL-02033" summary="znak pasuje, nie trzeba dalej sprawdzać tego znaku z tablicy">
-      <option name="closed" value="true" />
-      <created>1746647935851</created>
-      <option name="number" value="02033" />
-      <option name="presentableId" value="LOCAL-02033" />
-      <option name="project" value="LOCAL" />
-      <updated>1746647935851</updated>
-    </task>
-    <task id="LOCAL-02034" summary="Tablica znaków z napisem &quot;Ala ma kota&quot;">
-      <option name="closed" value="true" />
-      <created>1746647972784</created>
-      <option name="number" value="02034" />
-      <option name="presentableId" value="LOCAL-02034" />
-      <option name="project" value="LOCAL" />
-      <updated>1746647972784</updated>
+      <workItem from="1745779601674" duration="31515000" />
     </task>
     <task id="LOCAL-02035" summary="Przykładowe wyszukiwanie – ile razy występują znaki 'a' i 'k'">
       <option name="closed" value="true" />
@@ -554,7 +482,79 @@
       <option name="project" value="LOCAL" />
       <updated>1746911359395</updated>
     </task>
-    <option name="localTasksCounter" value="2075" />
+    <task id="LOCAL-02075" summary=" pomocnicza metoda do konwersji tablicy znaków na String">
+      <option name="closed" value="true" />
+      <created>1746911379296</created>
+      <option name="number" value="02075" />
+      <option name="presentableId" value="LOCAL-02075" />
+      <option name="project" value="LOCAL" />
+      <updated>1746911379296</updated>
+    </task>
+    <task id="LOCAL-02076" summary=" pomocnicza metoda do konwersji tablicy znaków na String">
+      <option name="closed" value="true" />
+      <created>1746912641563</created>
+      <option name="number" value="02076" />
+      <option name="presentableId" value="LOCAL-02076" />
+      <option name="project" value="LOCAL" />
+      <updated>1746912641563</updated>
+    </task>
+    <task id="LOCAL-02077" summary="Utwórz dwuwymiarową tablicę typu int o wymiarach 10×10, wypełnij ją losowymi liczbami i posortuj rosnąco każdy wiersz tej tablicy.">
+      <option name="closed" value="true" />
+      <created>1746996089681</created>
+      <option name="number" value="02077" />
+      <option name="presentableId" value="LOCAL-02077" />
+      <option name="project" value="LOCAL" />
+      <updated>1746996089681</updated>
+    </task>
+    <task id="LOCAL-02078" summary="Utwórz dwuwymiarową tablicę typu int o wymiarach 10×10, wypełnij ją losowymi liczbami i posortuj rosnąco każdy wiersz tej tablicy.">
+      <option name="closed" value="true" />
+      <created>1746996107815</created>
+      <option name="number" value="02078" />
+      <option name="presentableId" value="LOCAL-02078" />
+      <option name="project" value="LOCAL" />
+      <updated>1746996107815</updated>
+    </task>
+    <task id="LOCAL-02079" summary="Wypełnianie tablicy losowymi liczbami z zakresu 0–99">
+      <option name="closed" value="true" />
+      <created>1746996127132</created>
+      <option name="number" value="02079" />
+      <option name="presentableId" value="LOCAL-02079" />
+      <option name="project" value="LOCAL" />
+      <updated>1746996127132</updated>
+    </task>
+    <task id="LOCAL-02080" summary="Wyświetlenie oryginalnej tablicy">
+      <option name="closed" value="true" />
+      <created>1746996144005</created>
+      <option name="number" value="02080" />
+      <option name="presentableId" value="LOCAL-02080" />
+      <option name="project" value="LOCAL" />
+      <updated>1746996144006</updated>
+    </task>
+    <task id="LOCAL-02081" summary="Sortowanie każdego wiersza">
+      <option name="closed" value="true" />
+      <created>1746996162902</created>
+      <option name="number" value="02081" />
+      <option name="presentableId" value="LOCAL-02081" />
+      <option name="project" value="LOCAL" />
+      <updated>1746996162902</updated>
+    </task>
+    <task id="LOCAL-02082" summary="Sortowanie każdego wiersza">
+      <option name="closed" value="true" />
+      <created>1746996174675</created>
+      <option name="number" value="02082" />
+      <option name="presentableId" value="LOCAL-02082" />
+      <option name="project" value="LOCAL" />
+      <updated>1746996174675</updated>
+    </task>
+    <task id="LOCAL-02083" summary="Metoda pomocnicza do wyświetlania tablicy">
+      <option name="closed" value="true" />
+      <created>1746996193383</created>
+      <option name="number" value="02083" />
+      <option name="presentableId" value="LOCAL-02083" />
+      <option name="project" value="LOCAL" />
+      <updated>1746996193383</updated>
+    </task>
+    <option name="localTasksCounter" value="2084" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,11 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Metoda zliczająca wystąpienia znaków z tekstu w tablicy znaków" />
-    <MESSAGE value="znak pasuje, nie trzeba dalej sprawdzać tego znaku z tablicy" />
-    <MESSAGE value="Tablica znaków z napisem &quot;Ala ma kota&quot;" />
-    <MESSAGE value="Przykładowe wyszukiwanie – ile razy występują znaki 'a' i 'k'" />
-    <MESSAGE value="Treść zadania:&#10;Utwórz i wypełnij losowymi wartościami dwie tablice typu int[],&#10;&#10;Utwórz metodę, która przyjmie obie tablice oraz dodatkowy argument int sterowanie,&#10;&#10;W zależności od wartości sterowanie:&#10;&#10;jeśli &lt; 0 → zwróć tablicę sum elementów na tych samych indeksach (gdzie istnieją pary),&#10;&#10;jeśli &gt; 0 → zwróć tablicę z elementami, które nie mają pary,&#10;&#10;jeśli == 0 → zwróć null." />
     <MESSAGE value="długość 5–10" />
     <MESSAGE value="Wypełniamy losowymi wartościami" />
     <MESSAGE value="Wyświetlamy oryginalne tablice" />
@@ -597,6 +592,11 @@
     <MESSAGE value="warunek 4: przynajmniej dwa identyczne znaki (rozróżniając wielkość)" />
     <MESSAGE value=" wypisanie nazw spełniających co najmniej 3 warunki" />
     <MESSAGE value=" pomocnicza metoda do konwersji tablicy znaków na String" />
-    <option name="LAST_COMMIT_MESSAGE" value=" pomocnicza metoda do konwersji tablicy znaków na String" />
+    <MESSAGE value="Utwórz dwuwymiarową tablicę typu int o wymiarach 10×10, wypełnij ją losowymi liczbami i posortuj rosnąco każdy wiersz tej tablicy." />
+    <MESSAGE value="Wypełnianie tablicy losowymi liczbami z zakresu 0–99" />
+    <MESSAGE value="Wyświetlenie oryginalnej tablicy" />
+    <MESSAGE value="Sortowanie każdego wiersza" />
+    <MESSAGE value="Metoda pomocnicza do wyświetlania tablicy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metoda pomocnicza do wyświetlania tablicy" />
   </component>
 </project>
