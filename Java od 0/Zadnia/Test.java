@@ -1659,3 +1659,7 @@ public class SortowanieWierszyTablicy {
 
         System.out.println("Tablica przed sortowaniem:");
         wyswietl(tablica);
+
+        for (int[] wiersz : tablica) {
+            Arrays.sort(wiersz);
+        }
