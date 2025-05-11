@@ -1656,3 +1656,6 @@ public class SortowanieWierszyTablicy {
                 tablica[i][j] = rand.nextInt(100);
             }
         }
+
+        System.out.println("Tablica przed sortowaniem:");
+        wyswietl(tablica);
