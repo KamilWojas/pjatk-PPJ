@@ -1650,3 +1650,9 @@ public class SortowanieWierszyTablicy {
     public static void main(String[] args) {
         int[][] tablica = new int[10][10];
         Random rand = new Random();
+
+        for (int i = 0; i < tablica.length; i++) {
+            for (int j = 0; j < tablica[i].length; j++) {
+                tablica[i][j] = rand.nextInt(100);
+            }
+        }
