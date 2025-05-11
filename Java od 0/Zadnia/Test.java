@@ -1663,3 +1663,7 @@ public class SortowanieWierszyTablicy {
         for (int[] wiersz : tablica) {
             Arrays.sort(wiersz);
         }
+
+        System.out.println("\nTablica po sortowaniu wierszy:");
+        wyswietl(tablica);
+    }
