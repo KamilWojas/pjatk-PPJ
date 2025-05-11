@@ -1639,3 +1639,9 @@ public class SprawdzanieNazw {
         return sb.toString();
     }
 }
+
+
+
+==========================================================================================
+//Utwórz dwuwymiarową tablicę typu int o wymiarach 10×10, wypełnij 
+//ją losowymi liczbami i posortuj rosnąco każdy wiersz tej tablicy.
