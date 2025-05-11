@@ -1723,5 +1723,10 @@ public class LicznikZerIJedynek {
             }
         }
 
+        System.out.println("Liczba zer: " + licznikZer);
+        System.out.println("Liczba jedynek: " + licznikJedynek);
+    }
+}
+
 
 
