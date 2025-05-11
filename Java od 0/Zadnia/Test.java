@@ -1694,3 +1694,10 @@ char[][] chars = new char['z' - 'a']['z' - 'a'];
         for (int i = 0, step = 1; i < chars.length; step = (step << 1) % chars[i].length, i++) {
         System.out.println(chars[i][step]);
         }
+
+
+
+==========================================================================================
+//Zlicza ile zer i jedynek znajduje się w tablicy 1D z poprzedniego zadania, 
+// w której losowo wstawiane były tylko 0 i 1.
+
