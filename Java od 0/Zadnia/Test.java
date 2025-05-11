@@ -1667,3 +1667,13 @@ public class SortowanieWierszyTablicy {
         System.out.println("\nTablica po sortowaniu wierszy:");
         wyswietl(tablica);
     }
+
+    public static void wyswietl(int[][] tablica) {
+        for (int[] wiersz : tablica) {
+            for (int liczba : wiersz) {
+                System.out.printf("%3d ", liczba);
+            }
+            System.out.println();
+        }
+    }
+}
