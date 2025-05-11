@@ -1701,3 +1701,8 @@ char[][] chars = new char['z' - 'a']['z' - 'a'];
 //Zlicza ile zer i jedynek znajduje się w tablicy 1D z poprzedniego zadania, 
 // w której losowo wstawiane były tylko 0 i 1.
 
+public class LicznikZerIJedynek {
+    public static void main(String[] args) {
+        int[] tablica = new int[10];
+        Random rand = new Random();
+
