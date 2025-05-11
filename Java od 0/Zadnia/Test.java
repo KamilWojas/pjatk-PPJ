@@ -1707,7 +1707,10 @@ public class LicznikZerIJedynek {
         Random rand = new Random();
 
         for (int i = 0; i < tablica.length; i++) {
-            tablica[i] = rand.nextInt(2); 
+            tablica[i] = rand.nextInt(2);
         }
+
+        System.out.println("Tablica: " + Arrays.toString(tablica));
+
 
 
