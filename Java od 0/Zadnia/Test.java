@@ -1727,6 +1727,6 @@ public class LicznikZerIJedynek {
         System.out.println("Liczba jedynek: " + licznikJedynek);
     }
 }
-
+ 
 
 
