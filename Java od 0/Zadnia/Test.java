@@ -1751,5 +1751,10 @@ public class Main {
         osoba.nazwisko = "Kowalski";
         osoba.rokUrodzenia = 1990;
 
+        System.out.println("Imię: " + osoba.imie);
+        System.out.println("Nazwisko: " + osoba.nazwisko);
+        System.out.println("Rok urodzenia: " + osoba.rokUrodzenia);
+    }
+}
 
     }
