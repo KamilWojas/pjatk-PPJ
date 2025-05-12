@@ -1747,4 +1747,9 @@ public class Main {
 
         Osoba osoba = new Osoba();
 
+        osoba.imie = "Jan";
+        osoba.nazwisko = "Kowalski";
+        osoba.rokUrodzenia = 1990;
+
+
     }
