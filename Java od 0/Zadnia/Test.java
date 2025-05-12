@@ -1778,3 +1778,6 @@ public class Osoba {
         System.out.println("Rok urodzenia: " + rokUrodzenia);
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
