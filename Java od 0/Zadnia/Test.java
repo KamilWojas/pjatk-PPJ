@@ -1782,5 +1782,5 @@ public class Osoba {
 public class Main {
     public static void main(String[] args) {
 
-        Osoba osoba = new Osoba("Anna", "Nowak", 1985);
+        Osoba osoba = new Osoba("Anna", "Nowak", 1985); 
     }
