@@ -1730,3 +1730,13 @@ public class LicznikZerIJedynek {
  
 
 
+
+==========================================================================================
+//Definicja klasy Osoba z publicznymi polami:
+
+public class Osoba {
+    public String imie;
+    public String nazwisko;
+    public int rokUrodzenia;
+}
+
