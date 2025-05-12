@@ -1740,3 +1740,7 @@ public class Osoba {
     public int rokUrodzenia;
 }
 
+
+//Użycie klasy – tworzenie obiektu i przypisanie danych:
+public class Main {
+    public static void main(String[] args) {
