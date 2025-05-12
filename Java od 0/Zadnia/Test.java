@@ -1771,3 +1771,10 @@ public class Osoba {
         this.nazwisko = nazwisko;
         this.rokUrodzenia = rokUrodzenia;
     }
+
+    public void show() {
+        System.out.println("Imię: " + imie);
+        System.out.println("Nazwisko: " + nazwisko);
+        System.out.println("Rok urodzenia: " + rokUrodzenia);
+    }
+}
