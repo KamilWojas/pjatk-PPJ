@@ -1808,4 +1808,9 @@ public class LustroTablicy {
         for (int i = 0; i < rozmiar; i++) {
             lustro[i] = oryginal[rozmiar - 1 - i];
         }
+
+        System.out.println("Tablica oryginalna:        " + Arrays.toString(oryginal));
+        System.out.println("Tablica lustrzana (mirror): " + Arrays.toString(lustro));
+    }
+}
         
