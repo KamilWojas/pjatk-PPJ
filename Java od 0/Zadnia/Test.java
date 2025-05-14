@@ -1845,4 +1845,13 @@ public class TablicaDoubleZadanie {
         }
         System.out.println();
 
+        System.out.println("Elementy, które po konwersji do int są nieparzyste:");
+        for (double liczba : tablica) {
+            if (((int) liczba) % 2 != 0) {
+                System.out.printf("%.2f (int: %d)%n", liczba, (int) liczba);
+            }
+        }
+    }
+}
+
         
