@@ -1742,7 +1742,7 @@ public class Osoba {
 
 
 //Użycie klasy – tworzenie obiektu i przypisanie danych:
-public class Main {
+public class Main { 
     public static void main(String[] args) {
 
         Osoba osoba = new Osoba();
