@@ -1839,4 +1839,10 @@ public class TablicaDoubleZadanie {
         }
         System.out.println("\n");
 
+        System.out.println("Elementy o parzystym indeksie:");
+        for (int i = 0; i < tablica.length; i += 2) {
+            System.out.printf("Index %d: %.2f%n", i, tablica[i]);
+        }
+        System.out.println();
+
         
