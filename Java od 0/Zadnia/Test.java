@@ -1833,4 +1833,10 @@ public class TablicaDoubleZadanie {
             tablica[i] = rand.nextDouble() * 100;
         }
 
+        System.out.println("Cała tablica:");
+        for (double liczba : tablica) {
+            System.out.printf("%.2f ", liczba);
+        }
+        System.out.println("\n");
+
         
