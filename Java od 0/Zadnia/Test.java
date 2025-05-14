@@ -1813,4 +1813,15 @@ public class LustroTablicy {
         System.out.println("Tablica lustrzana (mirror): " + Arrays.toString(lustro));
     }
 }
+
+
+
+==========================================================================================
+//Zadeklaruj tablicę double[10], wypełnioną zerami,
+//Wypełnij ją losowymi liczbami,
+//Wyświetl:
+//Całą tablicę,
+//Tylko elementy o parzystym indeksie,
+//Tylko te elementy, które po rzutowaniu na int są nieparzyste.
+
         
