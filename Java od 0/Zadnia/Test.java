@@ -1824,4 +1824,9 @@ public class LustroTablicy {
 //Tylko elementy o parzystym indeksie,
 //Tylko te elementy, które po rzutowaniu na int są nieparzyste.
 
+public class TablicaDoubleZadanie {
+    public static void main(String[] args) {
+        double[] tablica = new double[10];
+        Random rand = new Random();
+
         
