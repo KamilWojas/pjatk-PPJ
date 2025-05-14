@@ -1830,5 +1830,7 @@ public class TablicaDoubleZadanie {
         Random rand = new Random();
 
         for (int i = 0; i < tablica.length; i++) {
+            tablica[i] = rand.nextDouble() * 100;
+        }
 
         
