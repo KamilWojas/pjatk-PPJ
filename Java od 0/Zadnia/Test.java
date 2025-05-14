@@ -1793,3 +1793,9 @@ public class Main {
 ==========================================================================================
 //Dana jest tablica typu char[] zawierająca losowe znaki z przedziału 'A' do 'Z'.
 //Napisz program, który tworzy nową tablicę — lustrzane odbicie tej pierwszej.
+
+public class LustroTablicy {
+    public static void main(String[] args) {
+        Random rand = new Random();
+        int rozmiar = 10;
+        
