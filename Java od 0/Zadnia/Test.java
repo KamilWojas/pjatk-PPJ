@@ -1829,4 +1829,6 @@ public class TablicaDoubleZadanie {
         double[] tablica = new double[10];
         Random rand = new Random();
 
+        for (int i = 0; i < tablica.length; i++) {
+
         
