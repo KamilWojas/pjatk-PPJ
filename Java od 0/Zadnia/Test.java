@@ -1787,4 +1787,9 @@ public class Main {
         osoba.show();
     }
 }
-    
+
+
+
+==========================================================================================
+//Dana jest tablica typu char[] zawierająca losowe znaki z przedziału 'A' do 'Z'.
+//Napisz program, który tworzy nową tablicę — lustrzane odbicie tej pierwszej.
