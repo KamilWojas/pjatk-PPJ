@@ -1798,4 +1798,9 @@ public class LustroTablicy {
     public static void main(String[] args) {
         Random rand = new Random();
         int rozmiar = 10;
+
+        char[] oryginal = new char[rozmiar];
+        for (int i = 0; i < rozmiar; i++) {
+            oryginal[i] = (char) ('A' + rand.nextInt(26));
+        }
         
