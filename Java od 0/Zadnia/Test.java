@@ -1886,3 +1886,7 @@ public class MethodCurrier {
     public void setValue(int x) {
         System.out.println("Wywołano setValue(int): " + x);
     }
+
+    public void setValue(float x) {
+        System.out.println("Wywołano setValue(float): " + x);
+    }
