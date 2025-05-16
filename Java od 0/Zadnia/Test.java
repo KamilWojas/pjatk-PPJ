@@ -1865,3 +1865,10 @@ public class TablicaDoubleZadanie {
 public class ZdanieZTabeli {
     public static void main(String[] args) {
         String[] slowa = { "Ala", "kota", "na", "ma", "a", "kot", "Ale" };
+
+        String wynik = slowa[0] + " " + slowa[3] + " " + slowa[1] + " " +
+                slowa[4] + " " + slowa[5] + " " + slowa[3] + " " + slowa[6];
+
+        System.out.println(wynik);
+    }
+}
