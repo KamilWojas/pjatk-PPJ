@@ -1854,4 +1854,11 @@ public class TablicaDoubleZadanie {
     }
 }   
 
+
+
+
+==========================================================================================
+//Wykorzystując tablicę slowa,
+//Wypisuje zdanie:
+//Ala ma kota a kot ma Ale
         
