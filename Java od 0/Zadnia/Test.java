@@ -1899,4 +1899,5 @@ public class MethodCurrier {
         char c = 'A';   
         byte b = 10;
 
-        mc.setValue(i); 
+        mc.setValue(i);
+        mc.setValue(f);
