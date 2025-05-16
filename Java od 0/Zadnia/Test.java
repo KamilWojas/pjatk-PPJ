@@ -1890,3 +1890,11 @@ public class MethodCurrier {
     public void setValue(float x) {
         System.out.println("Wywołano setValue(float): " + x);
     }
+
+    public static void main(String[] args) {
+        MethodCurrier mc = new MethodCurrier();
+
+        int i = 42;
+        float f = 42.42f;
+        char c = 'A';   
+        byte b = 10;
