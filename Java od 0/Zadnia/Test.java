@@ -1898,3 +1898,5 @@ public class MethodCurrier {
         float f = 42.42f;
         char c = 'A';   
         byte b = 10;
+
+        mc.setValue(i); 
