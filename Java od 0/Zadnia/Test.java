@@ -1872,3 +1872,14 @@ public class ZdanieZTabeli {
         System.out.println(wynik);
     }
 }
+
+
+
+==========================================================================================
+//Utwórz klasę MethodCurrier z przeciążonymi metodami:
+//setValue(int x)
+//setValue(float x)
+//Wywołaj te metody z literałami typu: int, float, char, byte.
+
+public class MethodCurrier {
+
