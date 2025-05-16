@@ -1901,3 +1901,4 @@ public class MethodCurrier {
 
         mc.setValue(i);
         mc.setValue(f);
+        mc.setValue(c);
