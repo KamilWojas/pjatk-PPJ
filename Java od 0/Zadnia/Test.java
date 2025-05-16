@@ -1852,6 +1852,6 @@ public class TablicaDoubleZadanie {
             }
         }
     }
-}  
+}   
 
         
