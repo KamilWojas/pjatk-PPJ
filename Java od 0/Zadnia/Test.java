@@ -1861,4 +1861,7 @@ public class TablicaDoubleZadanie {
 //Wykorzystując tablicę slowa,
 //Wypisuje zdanie:
 //Ala ma kota a kot ma Ale
-        
+
+public class ZdanieZTabeli {
+    public static void main(String[] args) {
+        String[] slowa = { "Ala", "kota", "na", "ma", "a", "kot", "Ale" };
