@@ -1923,3 +1923,7 @@ public class LustroTablicyChar {
         char[] lustro = new char[rozmiar];
 
         Random rand = new Random();
+
+        for (int i = 0; i < rozmiar; i++) {
+            oryginal[i] = (char) ('A' + rand.nextInt(26));
+        }
