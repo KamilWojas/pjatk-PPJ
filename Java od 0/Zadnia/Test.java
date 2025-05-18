@@ -1904,3 +1904,14 @@ public class MethodCurrier {
         mc.setValue(c);\mc.setValue(b); 
     }
 }  
+        
+        
+        
+        
+==========================================================================================
+//Dana jest jednowymiarowa tablica typu char zawierająca losowe znaki z zakresu 'A' do 'Z'.
+//Napisz program, który:
+//
+//Tworzy drugą tablicę o tym samym rozmiarze,
+//
+//Wypełnia ją tak, aby stanowiła lustrzane odbicie pierwszej.
