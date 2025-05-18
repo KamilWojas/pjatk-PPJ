@@ -1935,4 +1935,4 @@ public class LustroTablicyChar {
         System.out.println("Oryginalna tablica: " + Arrays.toString(oryginal));
         System.out.println("Lustrzane odbicie:  " + Arrays.toString(lustro));
     }
-}
+} 
