@@ -1936,3 +1936,6 @@ public class LustroTablicyChar {
         System.out.println("Lustrzane odbicie:  " + Arrays.toString(lustro));
     }
 } 
+        
+        
+==========================================================================================
