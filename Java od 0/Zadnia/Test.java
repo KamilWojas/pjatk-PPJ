@@ -1961,3 +1961,8 @@ public class ZliczanieZerIJedynek {
                 liczbaJedynek++;
             }
         }
+
+        System.out.println("Liczba zer: " + liczbaZer);
+        System.out.println("Liczba jedynek: " + liczbaJedynek);
+    }
+}
