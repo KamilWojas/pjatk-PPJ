@@ -1919,3 +1919,7 @@ public class MethodCurrier {
 public class LustroTablicyChar {
     public static void main(String[] args) {
         int rozmiar = 10;
+        char[] oryginal = new char[rozmiar];
+        char[] lustro = new char[rozmiar];
+
+        Random rand = new Random();
