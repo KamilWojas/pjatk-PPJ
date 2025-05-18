@@ -1948,4 +1948,5 @@ public class ZliczanieZerIJedynek {
         for (int i = 0; i < tablica.length; i++) {
             tablica[i] = rand.nextInt(2); // 0 lub 1
         }
-    
+
+        System.out.println("Tablica: " + Arrays.toString(tablica));
