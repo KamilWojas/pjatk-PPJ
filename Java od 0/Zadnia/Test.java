@@ -1950,3 +1950,14 @@ public class ZliczanieZerIJedynek {
         }
 
         System.out.println("Tablica: " + Arrays.toString(tablica));
+
+        int liczbaZer = 0;
+        int liczbaJedynek = 0;
+
+        for (int liczba : tablica) {
+            if (liczba == 0) {
+                liczbaZer++;
+            } else if (liczba == 1) {
+                liczbaJedynek++;
+            }
+        }
