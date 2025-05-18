@@ -1927,3 +1927,7 @@ public class LustroTablicyChar {
         for (int i = 0; i < rozmiar; i++) {
             oryginal[i] = (char) ('A' + rand.nextInt(26));
         }
+
+        for (int i = 0; i < rozmiar; i++) {
+            lustro[i] = oryginal[rozmiar - 1 - i];
+        }
