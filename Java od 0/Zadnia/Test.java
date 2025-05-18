@@ -1939,3 +1939,6 @@ public class LustroTablicyChar {
         
         
 ==========================================================================================
+
+public class ZliczanieZerIJedynek {
+    public static void main(String[] args) {
