@@ -1931,3 +1931,8 @@ public class LustroTablicyChar {
         for (int i = 0; i < rozmiar; i++) {
             lustro[i] = oryginal[rozmiar - 1 - i];
         }
+
+        System.out.println("Oryginalna tablica: " + Arrays.toString(oryginal));
+        System.out.println("Lustrzane odbicie:  " + Arrays.toString(lustro));
+    }
+}
