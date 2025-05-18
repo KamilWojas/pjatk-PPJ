@@ -1915,3 +1915,7 @@ public class MethodCurrier {
 //Tworzy drugą tablicę o tym samym rozmiarze,
 //
 //Wypełnia ją tak, aby stanowiła lustrzane odbicie pierwszej.
+
+public class LustroTablicyChar {
+    public static void main(String[] args) {
+        int rozmiar = 10;
