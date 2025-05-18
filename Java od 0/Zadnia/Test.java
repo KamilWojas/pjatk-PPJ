@@ -1942,3 +1942,10 @@ public class LustroTablicyChar {
 
 public class ZliczanieZerIJedynek {
     public static void main(String[] args) {
+        int[] tablica = new int[10];
+        Random rand = new Random();
+
+        for (int i = 0; i < tablica.length; i++) {
+            tablica[i] = rand.nextInt(2); // 0 lub 1
+        }
+    
