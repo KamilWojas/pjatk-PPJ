@@ -1984,3 +1984,7 @@ public class ZliczanieZerIJedynek {
 
 public class Kwadrat {
     private double bok;
+
+    public Kwadrat(double bok) {
+        this.bok = bok;
+    }
