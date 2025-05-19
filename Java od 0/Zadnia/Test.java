@@ -1966,3 +1966,7 @@ public class ZliczanieZerIJedynek {
         System.out.println("Liczba jedynek: " + liczbaJedynek);
     }
 }
+        
+        
+        
+==========================================================================================
