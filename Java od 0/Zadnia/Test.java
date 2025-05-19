@@ -2025,3 +2025,9 @@ public class Main {
 public class Walec {
     private double promien;
     private double wysokosc;
+
+    public Walec(double promien, double wysokosc) {
+        this.promien = promien;
+        this.wysokosc = wysokosc;
+    }
+
