@@ -2034,3 +2034,10 @@ public class Walec {
     public void show() {
         double polePodstawy = Math.PI * promien * promien;
         double objetosc = polePodstawy * wysokosc;
+
+        System.out.printf("Promień: %.2f\n", promien);
+        System.out.printf("Wysokość: %.2f\n", wysokosc);
+        System.out.printf("Pole podstawy: %.2f\n", polePodstawy);
+        System.out.printf("Objętość walca: %.2f\n", objetosc);
+    }
+}
