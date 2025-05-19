@@ -2020,3 +2020,8 @@ public class Main {
 //wypisuje objętość walca: π * r² * h,
 //
 //Pokaż przykład użycia klasy.
+
+
+public class Walec {
+    private double promien;
+    private double wysokosc;
