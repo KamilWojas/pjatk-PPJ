@@ -1981,3 +1981,6 @@ public class ZliczanieZerIJedynek {
 //wypisze objętość sześcianu utworzonego na jego podstawie,
 //
 //Pokaż przykład użycia klasy.
+
+public class Kwadrat {
+    private double bok;
