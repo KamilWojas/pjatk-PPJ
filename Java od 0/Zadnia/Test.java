@@ -2041,3 +2041,6 @@ public class Walec {
         System.out.printf("Objętość walca: %.2f\n", objetosc);
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
