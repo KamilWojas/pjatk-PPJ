@@ -1988,3 +1988,6 @@ public class Kwadrat {
     public Kwadrat(double bok) {
         this.bok = bok;
     }
+    public void show() {
+        double pole = bok * bok;
+        double objetosc = bok * bok * bok;
