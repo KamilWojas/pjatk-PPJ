@@ -2031,3 +2031,6 @@ public class Walec {
         this.wysokosc = wysokosc;
     }
 
+    public void show() {
+        double polePodstawy = Math.PI * promien * promien;
+        double objetosc = polePodstawy * wysokosc;
