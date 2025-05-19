@@ -1970,3 +1970,14 @@ public class ZliczanieZerIJedynek {
         
         
 ==========================================================================================
+//Utwórz klasę Kwadrat z prywatnym polem bok,
+//
+//Zainicjalizuj to pole w konstruktorze,
+//
+//Dodaj metodę show(), która:
+//
+//wypisze pole powierzchni kwadratu,
+//
+//wypisze objętość sześcianu utworzonego na jego podstawie,
+//
+//Pokaż przykład użycia klasy.
