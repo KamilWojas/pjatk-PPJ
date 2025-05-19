@@ -1997,3 +1997,10 @@ public class Kwadrat {
         System.out.println("Objętość sześcianu: " + objetosc);
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
+        Kwadrat k = new Kwadrat(5.0);
+        k.show();
+    }
+}     
