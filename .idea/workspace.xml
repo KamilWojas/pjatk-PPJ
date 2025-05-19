@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wyświetlenie wyników" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przykład użycia klasy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,111 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="39640000" />
-    </task>
-    <task id="LOCAL-02094" summary="Użycie klasy – tworzenie obiektu i przypisanie danych">
-      <option name="closed" value="true" />
-      <created>1747085272334</created>
-      <option name="number" value="02094" />
-      <option name="presentableId" value="LOCAL-02094" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085272334</updated>
-    </task>
-    <task id="LOCAL-02095" summary="Tworzymy obiekt klasy Osoba">
-      <option name="closed" value="true" />
-      <created>1747085290421</created>
-      <option name="number" value="02095" />
-      <option name="presentableId" value="LOCAL-02095" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085290421</updated>
-    </task>
-    <task id="LOCAL-02096" summary="Przypisujemy wartości do publicznych pól">
-      <option name="closed" value="true" />
-      <created>1747085306037</created>
-      <option name="number" value="02096" />
-      <option name="presentableId" value="LOCAL-02096" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085306037</updated>
-    </task>
-    <task id="LOCAL-02097" summary="Wyświetlamy dane osoby">
-      <option name="closed" value="true" />
-      <created>1747085321353</created>
-      <option name="number" value="02097" />
-      <option name="presentableId" value="LOCAL-02097" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085321353</updated>
-    </task>
-    <task id="LOCAL-02098" summary="Zadanie:&#10;Utwórz klasę Osoba z konstruktorem, który inicjalizuje wszystkie pola: imie, nazwisko, rokUrodzenia.&#10;&#10;Dodaj metodę show(), która wypisuje wszystkie informacje.&#10;&#10;Przedstaw działanie w klasie Main.">
-      <option name="closed" value="true" />
-      <created>1747085390056</created>
-      <option name="number" value="02098" />
-      <option name="presentableId" value="LOCAL-02098" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085390056</updated>
-    </task>
-    <task id="LOCAL-02099" summary="Zadanie:&#10;Utwórz klasę Osoba z konstruktorem, który inicjalizuje wszystkie pola: imie, nazwisko, rokUrodzenia.&#10;&#10;Dodaj metodę show(), która wypisuje wszystkie informacje.&#10;&#10;Przedstaw działanie w klasie Main.">
-      <option name="closed" value="true" />
-      <created>1747085403604</created>
-      <option name="number" value="02099" />
-      <option name="presentableId" value="LOCAL-02099" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085403604</updated>
-    </task>
-    <task id="LOCAL-02100" summary="Konstruktor inicjalizujący wszystkie pola">
-      <option name="closed" value="true" />
-      <created>1747085423957</created>
-      <option name="number" value="02100" />
-      <option name="presentableId" value="LOCAL-02100" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085423957</updated>
-    </task>
-    <task id="LOCAL-02101" summary="Metoda show wypisująca stan obiektu">
-      <option name="closed" value="true" />
-      <created>1747085444058</created>
-      <option name="number" value="02101" />
-      <option name="presentableId" value="LOCAL-02101" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085444058</updated>
-    </task>
-    <task id="LOCAL-02102" summary="Klasa Main – użycie klasy Osoba">
-      <option name="closed" value="true" />
-      <created>1747085464893</created>
-      <option name="number" value="02102" />
-      <option name="presentableId" value="LOCAL-02102" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085464893</updated>
-    </task>
-    <task id="LOCAL-02103" summary="Klasa Main – użycie klasy Osoba">
-      <option name="closed" value="true" />
-      <created>1747085479342</created>
-      <option name="number" value="02103" />
-      <option name="presentableId" value="LOCAL-02103" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085479342</updated>
-    </task>
-    <task id="LOCAL-02104" summary="Tworzymy obiekt z użyciem konstruktora">
-      <option name="closed" value="true" />
-      <created>1747085491526</created>
-      <option name="number" value="02104" />
-      <option name="presentableId" value="LOCAL-02104" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085491526</updated>
-    </task>
-    <task id="LOCAL-02105" summary="Wywołanie metody show">
-      <option name="closed" value="true" />
-      <created>1747085512081</created>
-      <option name="number" value="02105" />
-      <option name="presentableId" value="LOCAL-02105" />
-      <option name="project" value="LOCAL" />
-      <updated>1747085512081</updated>
-    </task>
-    <task id="LOCAL-02106" summary="Wywołanie metody show">
-      <option name="closed" value="true" />
-      <created>1747170332420</created>
-      <option name="number" value="02106" />
-      <option name="presentableId" value="LOCAL-02106" />
-      <option name="project" value="LOCAL" />
-      <updated>1747170332420</updated>
+      <workItem from="1745779601674" duration="40568000" />
     </task>
     <task id="LOCAL-02107" summary="Wywołanie metody show">
       <option name="closed" value="true" />
@@ -554,7 +450,111 @@
       <option name="project" value="LOCAL" />
       <updated>1747590714968</updated>
     </task>
-    <option name="localTasksCounter" value="2143" />
+    <task id="LOCAL-02143" summary="Wyświetlenie wyników">
+      <option name="closed" value="true" />
+      <created>1747590765418</created>
+      <option name="number" value="02143" />
+      <option name="presentableId" value="LOCAL-02143" />
+      <option name="project" value="LOCAL" />
+      <updated>1747590765418</updated>
+    </task>
+    <task id="LOCAL-02144" summary="Wyświetlenie wyników">
+      <option name="closed" value="true" />
+      <created>1747590809653</created>
+      <option name="number" value="02144" />
+      <option name="presentableId" value="LOCAL-02144" />
+      <option name="project" value="LOCAL" />
+      <updated>1747590809653</updated>
+    </task>
+    <task id="LOCAL-02145" summary="Tworzymy tablicę z losowymi wartościami 0 lub 1">
+      <option name="closed" value="true" />
+      <created>1747590830504</created>
+      <option name="number" value="02145" />
+      <option name="presentableId" value="LOCAL-02145" />
+      <option name="project" value="LOCAL" />
+      <updated>1747590830504</updated>
+    </task>
+    <task id="LOCAL-02146" summary="Wyświetlamy tablicę">
+      <option name="closed" value="true" />
+      <created>1747590845153</created>
+      <option name="number" value="02146" />
+      <option name="presentableId" value="LOCAL-02146" />
+      <option name="project" value="LOCAL" />
+      <updated>1747590845153</updated>
+    </task>
+    <task id="LOCAL-02147" summary="Liczniki">
+      <option name="closed" value="true" />
+      <created>1747590870252</created>
+      <option name="number" value="02147" />
+      <option name="presentableId" value="LOCAL-02147" />
+      <option name="project" value="LOCAL" />
+      <updated>1747590870252</updated>
+    </task>
+    <task id="LOCAL-02148" summary="Wynik">
+      <option name="closed" value="true" />
+      <created>1747590885454</created>
+      <option name="number" value="02148" />
+      <option name="presentableId" value="LOCAL-02148" />
+      <option name="project" value="LOCAL" />
+      <updated>1747590885454</updated>
+    </task>
+    <task id="LOCAL-02149" summary="Wynik">
+      <option name="closed" value="true" />
+      <created>1747690522116</created>
+      <option name="number" value="02149" />
+      <option name="presentableId" value="LOCAL-02149" />
+      <option name="project" value="LOCAL" />
+      <updated>1747690522116</updated>
+    </task>
+    <task id="LOCAL-02150" summary="Utwórz klasę Kwadrat z prywatnym polem bok,&#10;&#10;Zainicjalizuj to pole w konstruktorze,&#10;&#10;Dodaj metodę show(), która:&#10;&#10;wypisze pole powierzchni kwadratu,&#10;&#10;wypisze objętość sześcianu utworzonego na jego podstawie,&#10;&#10;Pokaż przykład użycia klasy.">
+      <option name="closed" value="true" />
+      <created>1747690535013</created>
+      <option name="number" value="02150" />
+      <option name="presentableId" value="LOCAL-02150" />
+      <option name="project" value="LOCAL" />
+      <updated>1747690535013</updated>
+    </task>
+    <task id="LOCAL-02151" summary="Utwórz klasę Kwadrat z prywatnym polem bok,&#10;&#10;Zainicjalizuj to pole w konstruktorze,&#10;&#10;Dodaj metodę show(), która:&#10;&#10;wypisze pole powierzchni kwadratu,&#10;&#10;wypisze objętość sześcianu utworzonego na jego podstawie,&#10;&#10;Pokaż przykład użycia klasy.">
+      <option name="closed" value="true" />
+      <created>1747690553515</created>
+      <option name="number" value="02151" />
+      <option name="presentableId" value="LOCAL-02151" />
+      <option name="project" value="LOCAL" />
+      <updated>1747690553515</updated>
+    </task>
+    <task id="LOCAL-02152" summary="Konstruktor">
+      <option name="closed" value="true" />
+      <created>1747690569718</created>
+      <option name="number" value="02152" />
+      <option name="presentableId" value="LOCAL-02152" />
+      <option name="project" value="LOCAL" />
+      <updated>1747690569718</updated>
+    </task>
+    <task id="LOCAL-02153" summary="Metoda show">
+      <option name="closed" value="true" />
+      <created>1747690589556</created>
+      <option name="number" value="02153" />
+      <option name="presentableId" value="LOCAL-02153" />
+      <option name="project" value="LOCAL" />
+      <updated>1747690589556</updated>
+    </task>
+    <task id="LOCAL-02154" summary="Metoda show">
+      <option name="closed" value="true" />
+      <created>1747690603204</created>
+      <option name="number" value="02154" />
+      <option name="presentableId" value="LOCAL-02154" />
+      <option name="project" value="LOCAL" />
+      <updated>1747690603204</updated>
+    </task>
+    <task id="LOCAL-02155" summary="Przykład użycia klasy">
+      <option name="closed" value="true" />
+      <created>1747690626054</created>
+      <option name="number" value="02155" />
+      <option name="presentableId" value="LOCAL-02155" />
+      <option name="project" value="LOCAL" />
+      <updated>1747690626054</updated>
+    </task>
+    <option name="localTasksCounter" value="2156" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,14 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tworzymy obiekt z użyciem konstruktora" />
-    <MESSAGE value="Wywołanie metody show" />
-    <MESSAGE value="Dana jest tablica typu char[] zawierająca losowe znaki z przedziału 'A' do 'Z'. Napisz program, który tworzy nową tablicę — lustrzane odbicie tej pierwszej." />
-    <MESSAGE value="Tablica oryginalna z losowymi znakami od 'A' do 'Z'" />
-    <MESSAGE value="Tworzenie lustrzanego odbicia" />
-    <MESSAGE value="Zadeklaruj tablicę double[10], wypełnioną zerami,&#10;&#10;Wypełnij ją losowymi liczbami,&#10;&#10;Wyświetl:&#10;&#10;Całą tablicę,&#10;&#10;Tylko elementy o parzystym indeksie,&#10;&#10;Tylko te elementy, które po rzutowaniu na int są nieparzyste." />
-    <MESSAGE value="Wypełnianie tablicy losowymi liczbami z zakresu 0–100" />
-    <MESSAGE value="liczby zmiennoprzecinkowe" />
     <MESSAGE value=" Wyświetlenie całej tablicy" />
     <MESSAGE value="Wyświetlenie elementów o parzystym indeksie" />
     <MESSAGE value="Wyświetlenie elementów, których int-wartość jest nieparzysta" />
@@ -597,6 +589,14 @@
     <MESSAGE value="Wypełnienie tablicy oryginalnej losowymi literami od 'A' do 'Z'" />
     <MESSAGE value="Tworzenie tablicy będącej lustrzanym odbiciem" />
     <MESSAGE value="Wyświetlenie wyników" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wyświetlenie wyników" />
+    <MESSAGE value="Tworzymy tablicę z losowymi wartościami 0 lub 1" />
+    <MESSAGE value="Wyświetlamy tablicę" />
+    <MESSAGE value="Liczniki" />
+    <MESSAGE value="Wynik" />
+    <MESSAGE value="Utwórz klasę Kwadrat z prywatnym polem bok,&#10;&#10;Zainicjalizuj to pole w konstruktorze,&#10;&#10;Dodaj metodę show(), która:&#10;&#10;wypisze pole powierzchni kwadratu,&#10;&#10;wypisze objętość sześcianu utworzonego na jego podstawie,&#10;&#10;Pokaż przykład użycia klasy." />
+    <MESSAGE value="Konstruktor" />
+    <MESSAGE value="Metoda show" />
+    <MESSAGE value="Przykład użycia klasy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Przykład użycia klasy" />
   </component>
 </project>
