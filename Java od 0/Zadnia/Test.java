@@ -2003,4 +2003,20 @@ public class Main {
         Kwadrat k = new Kwadrat(5.0);
         k.show();
     }
-}     
+}
+        
+        
+        
+        
+==========================================================================================
+//Utwórz klasę Walec z prywatnymi polami promien i wysokosc,
+//
+//Zainicjalizuj je w konstruktorze,
+//
+//Dodaj metodę show(), która:
+//
+//wypisuje pole powierzchni podstawy: π * r²,
+//
+//wypisuje objętość walca: π * r² * h,
+//
+//Pokaż przykład użycia klasy.
