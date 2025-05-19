@@ -2044,3 +2044,8 @@ public class Walec {
 
 public class Main {
     public static void main(String[] args) {
+        Walec walec = new Walec(3.0, 10.0);
+        walec.show();
+    }
+}
+    
