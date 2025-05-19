@@ -1991,3 +1991,9 @@ public class Kwadrat {
     public void show() {
         double pole = bok * bok;
         double objetosc = bok * bok * bok;
+
+        System.out.println("Bok kwadratu: " + bok);
+        System.out.println("Pole powierzchni kwadratu: " + pole);
+        System.out.println("Objętość sześcianu: " + objetosc);
+    }
+}
