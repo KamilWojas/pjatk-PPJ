@@ -2061,6 +2061,8 @@ public class Prostokat {
         this.a = a;
         this.b = b;
     }
-
+    public double polePowierzchni() {
+        return a * b;
+    }
      
         
