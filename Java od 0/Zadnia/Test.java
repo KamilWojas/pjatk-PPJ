@@ -2077,3 +2077,7 @@ public class Prostopadloscian extends Prostokat {
         super(a, b);
         this.wysokosc = h;
     }
+
+    public double objetosc() {
+        return polePowierzchni() * wysokosc;
+    }
