@@ -2087,3 +2087,10 @@ public class Prostopadloscian extends Prostokat {
         System.out.printf("Objętość prostopadłościanu: %.2f\n", objetosc());
     }
 }
+
+public class Trojkat {
+    private double bok;
+
+    public Trojkat(double bok) {
+        this.bok = bok;
+    }
