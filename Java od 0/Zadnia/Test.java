@@ -2069,4 +2069,7 @@ public class Prostokat {
         System.out.printf("Pole prostokąta: %.2f\n", polePowierzchni());
     }
 }
-        
+
+public class Prostopadloscian extends Prostokat {
+    private double wysokosc;
+
