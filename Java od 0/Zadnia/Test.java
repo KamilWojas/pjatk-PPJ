@@ -2081,3 +2081,9 @@ public class Prostopadloscian extends Prostokat {
     public double objetosc() {
         return polePowierzchni() * wysokosc;
     }
+
+    public void show() {
+        System.out.printf("Pole podstawy: %.2f\n", polePowierzchni());
+        System.out.printf("Objętość prostopadłościanu: %.2f\n", objetosc());
+    }
+}
