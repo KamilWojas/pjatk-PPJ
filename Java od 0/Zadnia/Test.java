@@ -2094,3 +2094,6 @@ public class Trojkat {
     public Trojkat(double bok) {
         this.bok = bok;
     }
+    public double polePowierzchni() {
+        return (Math.sqrt(3) / 4) * bok * bok;
+    }
