@@ -2064,5 +2064,9 @@ public class Prostokat {
     public double polePowierzchni() {
         return a * b;
     }
-     
+
+    public void show() {
+        System.out.printf("Pole prostokąta: %.2f\n", polePowierzchni());
+    }
+}
         
