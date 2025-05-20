@@ -2073,3 +2073,7 @@ public class Prostokat {
 public class Prostopadloscian extends Prostokat {
     private double wysokosc;
 
+    public Prostopadloscian(double a, double b, double h) {
+        super(a, b);
+        this.wysokosc = h;
+    }
