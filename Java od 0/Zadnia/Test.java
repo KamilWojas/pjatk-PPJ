@@ -2049,6 +2049,13 @@ public class Main {
         walec.show();
     }
 } 
-        
+
+
+
+==========================================================================================
+public class Prostokat {
+    private double a;
+    private double b;
+
      
         
