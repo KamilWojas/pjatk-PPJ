@@ -2109,3 +2109,7 @@ public class Ostroslup extends Trojkat {
         super(bok);
         this.wysokosc = wysokosc;
     }
+
+    public double objetosc() {
+        return (polePowierzchni() * wysokosc) / 3;
+    }
