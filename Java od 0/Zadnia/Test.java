@@ -2142,3 +2142,6 @@ public class Main {
     public static void main(String[] args) {
         Prostokat p = new Prostokat(4, 5);
         p.show();
+
+        Prostopadloscian pp = new Prostopadloscian(4, 5, 3);
+        pp.show();
