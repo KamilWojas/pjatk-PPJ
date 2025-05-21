@@ -2148,3 +2148,6 @@ public class Main {
 
         Trojkat t = new Trojkat(6);
         t.show();
+
+        Ostroslup o = new Ostroslup(6, 10);
+        o.show();
