@@ -2113,3 +2113,9 @@ public class Ostroslup extends Trojkat {
     public double objetosc() {
         return (polePowierzchni() * wysokosc) / 3;
     }
+
+    public void show() {
+        System.out.printf("Pole podstawy: %.2f\n", polePowierzchni());
+        System.out.printf("Objętość ostrosłupa: %.2f\n", objetosc());
+    }
+}
