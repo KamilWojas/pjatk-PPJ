@@ -2127,3 +2127,7 @@ public class Graniastoslup extends Trojkat {
         super(bok);
         this.wysokosc = wysokosc;
     }
+
+    public double objetosc() {
+        return polePowierzchni() * wysokosc;
+    }
