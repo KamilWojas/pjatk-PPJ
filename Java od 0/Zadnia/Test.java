@@ -2104,3 +2104,8 @@ public class Trojkat {
 
 public class Ostroslup extends Trojkat {
     private double wysokosc;
+
+    public Ostroslup(double bok, double wysokosc) {
+        super(bok);
+        this.wysokosc = wysokosc;
+    }
