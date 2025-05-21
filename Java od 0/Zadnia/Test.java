@@ -2100,4 +2100,7 @@ public class Trojkat {
     public void show() {
         System.out.printf("Pole trójkąta równobocznego: %.2f\n", polePowierzchni());
     }
-} 
+}
+
+public class Ostroslup extends Trojkat {
+    private double wysokosc;
