@@ -2151,3 +2151,8 @@ public class Main {
 
         Ostroslup o = new Ostroslup(6, 10);
         o.show();
+
+        Graniastoslup g = new Graniastoslup(6, 10);
+        g.show();
+    }
+}
