@@ -2145,3 +2145,6 @@ public class Main {
 
         Prostopadloscian pp = new Prostopadloscian(4, 5, 3);
         pp.show();
+
+        Trojkat t = new Trojkat(6);
+        t.show();
