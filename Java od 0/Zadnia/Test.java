@@ -2137,3 +2137,8 @@ public class Graniastoslup extends Trojkat {
         System.out.printf("Objętość graniastosłupa: %.2f\n", objetosc());
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
+        Prostokat p = new Prostokat(4, 5);
+        p.show();
