@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Trojkat (równoboczny): pole powierzchni" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przykład użycia – Main.java:" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,127 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="42868000" />
-    </task>
-    <task id="LOCAL-02130" summary="int">
-      <option name="closed" value="true" />
-      <created>1747431076794</created>
-      <option name="number" value="02130" />
-      <option name="presentableId" value="LOCAL-02130" />
-      <option name="project" value="LOCAL" />
-      <updated>1747431076794</updated>
-    </task>
-    <task id="LOCAL-02131" summary="float">
-      <option name="closed" value="true" />
-      <created>1747431096977</created>
-      <option name="number" value="02131" />
-      <option name="presentableId" value="LOCAL-02131" />
-      <option name="project" value="LOCAL" />
-      <updated>1747431096977</updated>
-    </task>
-    <task id="LOCAL-02132" summary="char (implicit cast to int)">
-      <option name="closed" value="true" />
-      <created>1747431116280</created>
-      <option name="number" value="02132" />
-      <option name="presentableId" value="LOCAL-02132" />
-      <option name="project" value="LOCAL" />
-      <updated>1747431116280</updated>
-    </task>
-    <task id="LOCAL-02133" summary="byte (implicit cast to int)">
-      <option name="closed" value="true" />
-      <created>1747431145320</created>
-      <option name="number" value="02133" />
-      <option name="presentableId" value="LOCAL-02133" />
-      <option name="project" value="LOCAL" />
-      <updated>1747431145320</updated>
-    </task>
-    <task id="LOCAL-02134" summary="byte (implicit cast to int)">
-      <option name="closed" value="true" />
-      <created>1747431162299</created>
-      <option name="number" value="02134" />
-      <option name="presentableId" value="LOCAL-02134" />
-      <option name="project" value="LOCAL" />
-      <updated>1747431162299</updated>
-    </task>
-    <task id="LOCAL-02135" summary="byte (implicit cast to int)">
-      <option name="closed" value="true" />
-      <created>1747507079622</created>
-      <option name="number" value="02135" />
-      <option name="presentableId" value="LOCAL-02135" />
-      <option name="project" value="LOCAL" />
-      <updated>1747507079622</updated>
-    </task>
-    <task id="LOCAL-02136" summary="Dana jest jednowymiarowa tablica typu char zawierająca losowe znaki z zakresu 'A' do 'Z'.&#10;Napisz program, który:&#10;&#10;Tworzy drugą tablicę o tym samym rozmiarze,&#10;&#10;Wypełnia ją tak, aby stanowiła lustrzane odbicie pierwszej.">
-      <option name="closed" value="true" />
-      <created>1747590595781</created>
-      <option name="number" value="02136" />
-      <option name="presentableId" value="LOCAL-02136" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590595781</updated>
-    </task>
-    <task id="LOCAL-02137" summary="Dana jest jednowymiarowa tablica typu char zawierająca losowe znaki z zakresu 'A' do 'Z'.&#10;Napisz program, który:&#10;&#10;Tworzy drugą tablicę o tym samym rozmiarze,&#10;&#10;Wypełnia ją tak, aby stanowiła lustrzane odbicie pierwszej.">
-      <option name="closed" value="true" />
-      <created>1747590607329</created>
-      <option name="number" value="02137" />
-      <option name="presentableId" value="LOCAL-02137" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590607329</updated>
-    </task>
-    <task id="LOCAL-02138" summary="Dana jest jednowymiarowa tablica typu char zawierająca losowe znaki z zakresu 'A' do 'Z'.&#10;Napisz program, który:&#10;&#10;Tworzy drugą tablicę o tym samym rozmiarze,&#10;&#10;Wypełnia ją tak, aby stanowiła lustrzane odbicie pierwszej.">
-      <option name="closed" value="true" />
-      <created>1747590619666</created>
-      <option name="number" value="02138" />
-      <option name="presentableId" value="LOCAL-02138" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590619666</updated>
-    </task>
-    <task id="LOCAL-02139" summary="Wypełnienie tablicy oryginalnej losowymi literami od 'A' do 'Z'">
-      <option name="closed" value="true" />
-      <created>1747590642331</created>
-      <option name="number" value="02139" />
-      <option name="presentableId" value="LOCAL-02139" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590642331</updated>
-    </task>
-    <task id="LOCAL-02140" summary="Tworzenie tablicy będącej lustrzanym odbiciem">
-      <option name="closed" value="true" />
-      <created>1747590673649</created>
-      <option name="number" value="02140" />
-      <option name="presentableId" value="LOCAL-02140" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590673649</updated>
-    </task>
-    <task id="LOCAL-02141" summary="Wyświetlenie wyników">
-      <option name="closed" value="true" />
-      <created>1747590691716</created>
-      <option name="number" value="02141" />
-      <option name="presentableId" value="LOCAL-02141" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590691716</updated>
-    </task>
-    <task id="LOCAL-02142" summary="Wyświetlenie wyników">
-      <option name="closed" value="true" />
-      <created>1747590714968</created>
-      <option name="number" value="02142" />
-      <option name="presentableId" value="LOCAL-02142" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590714968</updated>
-    </task>
-    <task id="LOCAL-02143" summary="Wyświetlenie wyników">
-      <option name="closed" value="true" />
-      <created>1747590765418</created>
-      <option name="number" value="02143" />
-      <option name="presentableId" value="LOCAL-02143" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590765418</updated>
-    </task>
-    <task id="LOCAL-02144" summary="Wyświetlenie wyników">
-      <option name="closed" value="true" />
-      <created>1747590809653</created>
-      <option name="number" value="02144" />
-      <option name="presentableId" value="LOCAL-02144" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590809653</updated>
+      <workItem from="1745779601674" duration="44318000" />
     </task>
     <task id="LOCAL-02145" summary="Tworzymy tablicę z losowymi wartościami 0 lub 1">
       <option name="closed" value="true" />
@@ -554,7 +434,127 @@
       <option name="project" value="LOCAL" />
       <updated>1747775723154</updated>
     </task>
-    <option name="localTasksCounter" value="2179" />
+    <task id="LOCAL-02179" summary="Trojkat (równoboczny): pole powierzchni">
+      <option name="closed" value="true" />
+      <created>1747775744475</created>
+      <option name="number" value="02179" />
+      <option name="presentableId" value="LOCAL-02179" />
+      <option name="project" value="LOCAL" />
+      <updated>1747775744475</updated>
+    </task>
+    <task id="LOCAL-02180" summary="Trojkat (równoboczny): pole powierzchni">
+      <option name="closed" value="true" />
+      <created>1747853013973</created>
+      <option name="number" value="02180" />
+      <option name="presentableId" value="LOCAL-02180" />
+      <option name="project" value="LOCAL" />
+      <updated>1747853013973</updated>
+    </task>
+    <task id="LOCAL-02181" summary="Ostroslup dziedziczy po Trojkat: pole + objętość">
+      <option name="closed" value="true" />
+      <created>1747862681038</created>
+      <option name="number" value="02181" />
+      <option name="presentableId" value="LOCAL-02181" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862681038</updated>
+    </task>
+    <task id="LOCAL-02182" summary="Ostroslup dziedziczy po Trojkat: pole + objętość">
+      <option name="closed" value="true" />
+      <created>1747862725437</created>
+      <option name="number" value="02182" />
+      <option name="presentableId" value="LOCAL-02182" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862725437</updated>
+    </task>
+    <task id="LOCAL-02183" summary="Ostroslup dziedziczy po Trojkat: pole + objętość">
+      <option name="closed" value="true" />
+      <created>1747862735785</created>
+      <option name="number" value="02183" />
+      <option name="presentableId" value="LOCAL-02183" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862735785</updated>
+    </task>
+    <task id="LOCAL-02184" summary="Ostroslup dziedziczy po Trojkat: pole + objętość">
+      <option name="closed" value="true" />
+      <created>1747862746687</created>
+      <option name="number" value="02184" />
+      <option name="presentableId" value="LOCAL-02184" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862746688</updated>
+    </task>
+    <task id="LOCAL-02185" summary="Graniastoslup dziedziczy po Trojkat: pole + objętość">
+      <option name="closed" value="true" />
+      <created>1747862779238</created>
+      <option name="number" value="02185" />
+      <option name="presentableId" value="LOCAL-02185" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862779238</updated>
+    </task>
+    <task id="LOCAL-02186" summary="Graniastoslup dziedziczy po Trojkat: pole + objętość">
+      <option name="closed" value="true" />
+      <created>1747862790623</created>
+      <option name="number" value="02186" />
+      <option name="presentableId" value="LOCAL-02186" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862790623</updated>
+    </task>
+    <task id="LOCAL-02187" summary="Graniastoslup dziedziczy po Trojkat: pole + objętość">
+      <option name="closed" value="true" />
+      <created>1747862802577</created>
+      <option name="number" value="02187" />
+      <option name="presentableId" value="LOCAL-02187" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862802577</updated>
+    </task>
+    <task id="LOCAL-02188" summary="Graniastoslup dziedziczy po Trojkat: pole + objętość">
+      <option name="closed" value="true" />
+      <created>1747862812748</created>
+      <option name="number" value="02188" />
+      <option name="presentableId" value="LOCAL-02188" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862812748</updated>
+    </task>
+    <task id="LOCAL-02189" summary="Przykład użycia – Main.java:">
+      <option name="closed" value="true" />
+      <created>1747862839342</created>
+      <option name="number" value="02189" />
+      <option name="presentableId" value="LOCAL-02189" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862839342</updated>
+    </task>
+    <task id="LOCAL-02190" summary="Przykład użycia – Main.java:">
+      <option name="closed" value="true" />
+      <created>1747862849908</created>
+      <option name="number" value="02190" />
+      <option name="presentableId" value="LOCAL-02190" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862849908</updated>
+    </task>
+    <task id="LOCAL-02191" summary="Przykład użycia – Main.java:">
+      <option name="closed" value="true" />
+      <created>1747862860342</created>
+      <option name="number" value="02191" />
+      <option name="presentableId" value="LOCAL-02191" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862860342</updated>
+    </task>
+    <task id="LOCAL-02192" summary="Przykład użycia – Main.java:">
+      <option name="closed" value="true" />
+      <created>1747862871224</created>
+      <option name="number" value="02192" />
+      <option name="presentableId" value="LOCAL-02192" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862871224</updated>
+    </task>
+    <task id="LOCAL-02193" summary="Przykład użycia – Main.java:">
+      <option name="closed" value="true" />
+      <created>1747862881960</created>
+      <option name="number" value="02193" />
+      <option name="presentableId" value="LOCAL-02193" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862881960</updated>
+    </task>
+    <option name="localTasksCounter" value="2194" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,9 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Metoda dla int" />
-    <MESSAGE value="Metoda dla float" />
-    <MESSAGE value="wartość ASCII = 65" />
     <MESSAGE value="int" />
     <MESSAGE value="float" />
     <MESSAGE value="char (implicit cast to int)" />
@@ -597,6 +594,9 @@
     <MESSAGE value="Prostokat: pole powierzchni" />
     <MESSAGE value="Prostopadloscian dziedziczy po Prostokat: pole + objętość" />
     <MESSAGE value="Trojkat (równoboczny): pole powierzchni" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trojkat (równoboczny): pole powierzchni" />
+    <MESSAGE value="Ostroslup dziedziczy po Trojkat: pole + objętość" />
+    <MESSAGE value="Graniastoslup dziedziczy po Trojkat: pole + objętość" />
+    <MESSAGE value="Przykład użycia – Main.java:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Przykład użycia – Main.java:" />
   </component>
 </project>
