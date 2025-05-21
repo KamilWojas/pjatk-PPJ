@@ -2100,4 +2100,4 @@ public class Trojkat {
     public void show() {
         System.out.printf("Pole trójkąta równobocznego: %.2f\n", polePowierzchni());
     }
-}
+} 
