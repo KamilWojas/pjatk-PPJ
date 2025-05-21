@@ -2119,3 +2119,6 @@ public class Ostroslup extends Trojkat {
         System.out.printf("Objętość ostrosłupa: %.2f\n", objetosc());
     }
 }
+
+public class Graniastoslup extends Trojkat {
+    private double wysokosc;
