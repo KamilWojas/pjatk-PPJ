@@ -2168,4 +2168,8 @@ public class Main {
 //Obie klasy posiadają metodę String wyswietl(),
 //
 //Klasa Spawacz używa super.wyswietl() do rozszerzenia informacji z klasy bazowej.
+
+
+public class Osoba {
+    private String imie;
         
