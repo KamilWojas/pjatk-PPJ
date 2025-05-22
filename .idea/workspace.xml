@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przykład użycia – Main.java:" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przykład użycia (Main.java)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,103 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="44318000" />
-    </task>
-    <task id="LOCAL-02145" summary="Tworzymy tablicę z losowymi wartościami 0 lub 1">
-      <option name="closed" value="true" />
-      <created>1747590830504</created>
-      <option name="number" value="02145" />
-      <option name="presentableId" value="LOCAL-02145" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590830504</updated>
-    </task>
-    <task id="LOCAL-02146" summary="Wyświetlamy tablicę">
-      <option name="closed" value="true" />
-      <created>1747590845153</created>
-      <option name="number" value="02146" />
-      <option name="presentableId" value="LOCAL-02146" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590845153</updated>
-    </task>
-    <task id="LOCAL-02147" summary="Liczniki">
-      <option name="closed" value="true" />
-      <created>1747590870252</created>
-      <option name="number" value="02147" />
-      <option name="presentableId" value="LOCAL-02147" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590870252</updated>
-    </task>
-    <task id="LOCAL-02148" summary="Wynik">
-      <option name="closed" value="true" />
-      <created>1747590885454</created>
-      <option name="number" value="02148" />
-      <option name="presentableId" value="LOCAL-02148" />
-      <option name="project" value="LOCAL" />
-      <updated>1747590885454</updated>
-    </task>
-    <task id="LOCAL-02149" summary="Wynik">
-      <option name="closed" value="true" />
-      <created>1747690522116</created>
-      <option name="number" value="02149" />
-      <option name="presentableId" value="LOCAL-02149" />
-      <option name="project" value="LOCAL" />
-      <updated>1747690522116</updated>
-    </task>
-    <task id="LOCAL-02150" summary="Utwórz klasę Kwadrat z prywatnym polem bok,&#10;&#10;Zainicjalizuj to pole w konstruktorze,&#10;&#10;Dodaj metodę show(), która:&#10;&#10;wypisze pole powierzchni kwadratu,&#10;&#10;wypisze objętość sześcianu utworzonego na jego podstawie,&#10;&#10;Pokaż przykład użycia klasy.">
-      <option name="closed" value="true" />
-      <created>1747690535013</created>
-      <option name="number" value="02150" />
-      <option name="presentableId" value="LOCAL-02150" />
-      <option name="project" value="LOCAL" />
-      <updated>1747690535013</updated>
-    </task>
-    <task id="LOCAL-02151" summary="Utwórz klasę Kwadrat z prywatnym polem bok,&#10;&#10;Zainicjalizuj to pole w konstruktorze,&#10;&#10;Dodaj metodę show(), która:&#10;&#10;wypisze pole powierzchni kwadratu,&#10;&#10;wypisze objętość sześcianu utworzonego na jego podstawie,&#10;&#10;Pokaż przykład użycia klasy.">
-      <option name="closed" value="true" />
-      <created>1747690553515</created>
-      <option name="number" value="02151" />
-      <option name="presentableId" value="LOCAL-02151" />
-      <option name="project" value="LOCAL" />
-      <updated>1747690553515</updated>
-    </task>
-    <task id="LOCAL-02152" summary="Konstruktor">
-      <option name="closed" value="true" />
-      <created>1747690569718</created>
-      <option name="number" value="02152" />
-      <option name="presentableId" value="LOCAL-02152" />
-      <option name="project" value="LOCAL" />
-      <updated>1747690569718</updated>
-    </task>
-    <task id="LOCAL-02153" summary="Metoda show">
-      <option name="closed" value="true" />
-      <created>1747690589556</created>
-      <option name="number" value="02153" />
-      <option name="presentableId" value="LOCAL-02153" />
-      <option name="project" value="LOCAL" />
-      <updated>1747690589556</updated>
-    </task>
-    <task id="LOCAL-02154" summary="Metoda show">
-      <option name="closed" value="true" />
-      <created>1747690603204</created>
-      <option name="number" value="02154" />
-      <option name="presentableId" value="LOCAL-02154" />
-      <option name="project" value="LOCAL" />
-      <updated>1747690603204</updated>
-    </task>
-    <task id="LOCAL-02155" summary="Przykład użycia klasy">
-      <option name="closed" value="true" />
-      <created>1747690626054</created>
-      <option name="number" value="02155" />
-      <option name="presentableId" value="LOCAL-02155" />
-      <option name="project" value="LOCAL" />
-      <updated>1747690626054</updated>
-    </task>
-    <task id="LOCAL-02156" summary="Przykład użycia klasy">
-      <option name="closed" value="true" />
-      <created>1747690641103</created>
-      <option name="number" value="02156" />
-      <option name="presentableId" value="LOCAL-02156" />
-      <option name="project" value="LOCAL" />
-      <updated>1747690641103</updated>
+      <workItem from="1745779601674" duration="45729000" />
     </task>
     <task id="LOCAL-02157" summary="Utwórz klasę Walec z prywatnymi polami promien i wysokosc,&#10;&#10;Zainicjalizuj je w konstruktorze,&#10;&#10;Dodaj metodę show(), która:&#10;&#10;wypisuje pole powierzchni podstawy: π * r²,&#10;&#10;wypisuje objętość walca: π * r² * h,&#10;&#10;Pokaż przykład użycia klasy.">
       <option name="closed" value="true" />
@@ -554,7 +458,103 @@
       <option name="project" value="LOCAL" />
       <updated>1747862881960</updated>
     </task>
-    <option name="localTasksCounter" value="2194" />
+    <task id="LOCAL-02194" summary="Przykład użycia – Main.java:">
+      <option name="closed" value="true" />
+      <created>1747862895663</created>
+      <option name="number" value="02194" />
+      <option name="presentableId" value="LOCAL-02194" />
+      <option name="project" value="LOCAL" />
+      <updated>1747862895663</updated>
+    </task>
+    <task id="LOCAL-02195" summary="Przykład użycia – Main.java:">
+      <option name="closed" value="true" />
+      <created>1747929212726</created>
+      <option name="number" value="02195" />
+      <option name="presentableId" value="LOCAL-02195" />
+      <option name="project" value="LOCAL" />
+      <updated>1747929212726</updated>
+    </task>
+    <task id="LOCAL-02196" summary="Zadanie:&#10;Osoba ma prywatne pole String imie,&#10;&#10;Spawacz dziedziczy po Osoba, ma pole int stazPracy,&#10;&#10;Obie klasy posiadają metodę String wyswietl(),&#10;&#10;Klasa Spawacz używa super.wyswietl() do rozszerzenia informacji z klasy bazowej.">
+      <option name="closed" value="true" />
+      <created>1747949651562</created>
+      <option name="number" value="02196" />
+      <option name="presentableId" value="LOCAL-02196" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949651562</updated>
+    </task>
+    <task id="LOCAL-02197" summary="Zadanie:&#10;Osoba ma prywatne pole String imie,&#10;&#10;Spawacz dziedziczy po Osoba, ma pole int stazPracy,&#10;&#10;Obie klasy posiadają metodę String wyswietl(),&#10;&#10;Klasa Spawacz używa super.wyswietl() do rozszerzenia informacji z klasy bazowej.">
+      <option name="closed" value="true" />
+      <created>1747949662479</created>
+      <option name="number" value="02197" />
+      <option name="presentableId" value="LOCAL-02197" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949662479</updated>
+    </task>
+    <task id="LOCAL-02198" summary="Kod klasy Osoba">
+      <option name="closed" value="true" />
+      <created>1747949692067</created>
+      <option name="number" value="02198" />
+      <option name="presentableId" value="LOCAL-02198" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949692067</updated>
+    </task>
+    <task id="LOCAL-02199" summary="Kod klasy Osoba">
+      <option name="closed" value="true" />
+      <created>1747949705800</created>
+      <option name="number" value="02199" />
+      <option name="presentableId" value="LOCAL-02199" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949705800</updated>
+    </task>
+    <task id="LOCAL-02200" summary="Kod klasy Osoba">
+      <option name="closed" value="true" />
+      <created>1747949720199</created>
+      <option name="number" value="02200" />
+      <option name="presentableId" value="LOCAL-02200" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949720199</updated>
+    </task>
+    <task id="LOCAL-02201" summary="Kod klasy Spawacz">
+      <option name="closed" value="true" />
+      <created>1747949753482</created>
+      <option name="number" value="02201" />
+      <option name="presentableId" value="LOCAL-02201" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949753482</updated>
+    </task>
+    <task id="LOCAL-02202" summary="Kod klasy Spawacz">
+      <option name="closed" value="true" />
+      <created>1747949767868</created>
+      <option name="number" value="02202" />
+      <option name="presentableId" value="LOCAL-02202" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949767868</updated>
+    </task>
+    <task id="LOCAL-02203" summary="Kod klasy Spawacz">
+      <option name="closed" value="true" />
+      <created>1747949780701</created>
+      <option name="number" value="02203" />
+      <option name="presentableId" value="LOCAL-02203" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949780701</updated>
+    </task>
+    <task id="LOCAL-02204" summary="Przykład użycia (Main.java)">
+      <option name="closed" value="true" />
+      <created>1747949803837</created>
+      <option name="number" value="02204" />
+      <option name="presentableId" value="LOCAL-02204" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949803837</updated>
+    </task>
+    <task id="LOCAL-02205" summary="Przykład użycia (Main.java)">
+      <option name="closed" value="true" />
+      <created>1747949816486</created>
+      <option name="number" value="02205" />
+      <option name="presentableId" value="LOCAL-02205" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949816486</updated>
+    </task>
+    <option name="localTasksCounter" value="2206" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,10 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="int" />
-    <MESSAGE value="float" />
-    <MESSAGE value="char (implicit cast to int)" />
-    <MESSAGE value="byte (implicit cast to int)" />
     <MESSAGE value="Dana jest jednowymiarowa tablica typu char zawierająca losowe znaki z zakresu 'A' do 'Z'.&#10;Napisz program, który:&#10;&#10;Tworzy drugą tablicę o tym samym rozmiarze,&#10;&#10;Wypełnia ją tak, aby stanowiła lustrzane odbicie pierwszej." />
     <MESSAGE value="Wypełnienie tablicy oryginalnej losowymi literami od 'A' do 'Z'" />
     <MESSAGE value="Tworzenie tablicy będącej lustrzanym odbiciem" />
@@ -597,6 +593,10 @@
     <MESSAGE value="Ostroslup dziedziczy po Trojkat: pole + objętość" />
     <MESSAGE value="Graniastoslup dziedziczy po Trojkat: pole + objętość" />
     <MESSAGE value="Przykład użycia – Main.java:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Przykład użycia – Main.java:" />
+    <MESSAGE value="Zadanie:&#10;Osoba ma prywatne pole String imie,&#10;&#10;Spawacz dziedziczy po Osoba, ma pole int stazPracy,&#10;&#10;Obie klasy posiadają metodę String wyswietl(),&#10;&#10;Klasa Spawacz używa super.wyswietl() do rozszerzenia informacji z klasy bazowej." />
+    <MESSAGE value="Kod klasy Osoba" />
+    <MESSAGE value="Kod klasy Spawacz" />
+    <MESSAGE value="Przykład użycia (Main.java)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Przykład użycia (Main.java)" />
   </component>
 </project>
