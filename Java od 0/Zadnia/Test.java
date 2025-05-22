@@ -2190,5 +2190,9 @@ public class Spawacz extends Osoba {
         this.stazPracy = stazPracy;
     }
 
-
+    @Override
+    public String wyswietl() {
+        return super.wyswietl() + ", Staż pracy: " + stazPracy + " lat";
+    }
+}
         
