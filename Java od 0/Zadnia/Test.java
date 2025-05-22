@@ -2198,4 +2198,10 @@ public class Spawacz extends Osoba {
 
 public class Main {
     public static void main(String[] args) {
+
+        Spawacz s = new Spawacz("Jan", 12);
+        System.out.println(s.wyswietl());
+    }
+}
+    
         
