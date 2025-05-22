@@ -2195,4 +2195,7 @@ public class Spawacz extends Osoba {
         return super.wyswietl() + ", Staż pracy: " + stazPracy + " lat";
     }
 }
+
+public class Main {
+    public static void main(String[] args) {
         
