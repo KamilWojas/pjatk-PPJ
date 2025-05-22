@@ -2181,4 +2181,8 @@ public class Osoba {
         return "Imię: " + imie;
     }
 }
+
+public class Spawacz extends Osoba {
+    private int stazPracy;
+
         
