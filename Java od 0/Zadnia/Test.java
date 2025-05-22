@@ -2161,5 +2161,11 @@ public class Main {
 
 
 ==========================================================================================
+//Osoba ma prywatne pole String imie,
 //
+//Spawacz dziedziczy po Osoba, ma pole int stazPracy,
+//
+//Obie klasy posiadają metodę String wyswietl(),
+//
+//Klasa Spawacz używa super.wyswietl() do rozszerzenia informacji z klasy bazowej.
         
