@@ -2176,4 +2176,9 @@ public class Osoba {
     public Osoba(String imie) {
         this.imie = imie;
     }
+
+    public String wyswietl() {
+        return "Imię: " + imie;
+    }
+}
         
