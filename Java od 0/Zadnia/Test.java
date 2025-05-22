@@ -2185,4 +2185,10 @@ public class Osoba {
 public class Spawacz extends Osoba {
     private int stazPracy;
 
+    public Spawacz(String imie, int stazPracy) {
+        super(imie);
+        this.stazPracy = stazPracy;
+    }
+
+
         
