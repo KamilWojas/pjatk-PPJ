@@ -2201,7 +2201,7 @@ public class Main {
 
         Spawacz s = new Spawacz("Jan", 12);
         System.out.println(s.wyswietl());
-    }
+    } 
 }
     
         
