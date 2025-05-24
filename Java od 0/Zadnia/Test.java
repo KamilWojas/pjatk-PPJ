@@ -2212,4 +2212,8 @@ public class Main {
 public class Cplx {
     private double re; 
     private double im;
-        
+
+    public Cplx(double re, double im) {
+        this.re = re;
+        this.im = im;
+    }
