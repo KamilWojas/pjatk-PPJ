@@ -2217,3 +2217,7 @@ public class Cplx {
         this.re = re;
         this.im = im;
     }
+
+    public Cplx add(Cplx other) {
+        return new Cplx(this.re + other.re, this.im + other.im);
+    }
