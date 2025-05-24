@@ -2247,6 +2247,9 @@ public class Main {
         Cplx z1 = new Cplx(4, 5);
         Cplx z2 = new Cplx(-2, 3);
         Cplx z3 = new Cplx(1, -7);
-    
+        
+        System.out.print("z1 = "); z1.show();
+        System.out.print("z2 = "); z2.show();
+        System.out.print("z3 = "); z3.show();
 
 
