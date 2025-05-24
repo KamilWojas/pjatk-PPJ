@@ -2221,3 +2221,7 @@ public class Cplx {
     public Cplx add(Cplx other) {
         return new Cplx(this.re + other.re, this.im + other.im);
     }
+
+    public Cplx sub(Cplx other) {
+        return new Cplx(this.re - other.re, this.im - other.im);
+    }
