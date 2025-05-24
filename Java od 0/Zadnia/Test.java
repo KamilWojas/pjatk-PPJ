@@ -2256,3 +2256,9 @@ public class Main {
         System.out.print("z1 - z3 = "); z1.sub(z3).show();
         System.out.print("z2 * z3 = "); z2.mul(z3).show();
 
+        z1.inc();
+        System.out.print("\nz1 po inkrementacji części rzeczywistej: ");
+        z1.show();
+    }
+}
+
