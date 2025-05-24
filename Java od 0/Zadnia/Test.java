@@ -2225,3 +2225,5 @@ public class Cplx {
     public Cplx sub(Cplx other) {
         return new Cplx(this.re - other.re, this.im - other.im);
     }
+
+    public Cplx mul(Cplx other) {
