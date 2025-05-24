@@ -2244,4 +2244,9 @@ public class Cplx {
 public class Main {
     public static void main(String[] args) {
 
+        Cplx z1 = new Cplx(4, 5);
+        Cplx z2 = new Cplx(-2, 3);
+        Cplx z3 = new Cplx(1, -7);
+    
+
 
