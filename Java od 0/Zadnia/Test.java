@@ -2227,3 +2227,9 @@ public class Cplx {
     }
 
     public Cplx mul(Cplx other) {
+        double real = this.re * other.re - this.im * other.im;
+        double imag = this.re * other.im + this.im * other.re;
+        return new Cplx(real, imag);
+    }
+
+
