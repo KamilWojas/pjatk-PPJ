@@ -2236,4 +2236,9 @@ public class Cplx {
         this.re += 1;
     }
 
+    public void show() {
+        System.out.printf("%.2f %c %.2fi\n", re, (im >= 0 ? '+' : '-'), Math.abs(im));
+    }
+}
+
 
