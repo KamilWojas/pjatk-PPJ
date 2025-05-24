@@ -2210,5 +2210,6 @@ public class Main {
 
 ==========================================================================================
 public class Cplx {
-
+    private double re; 
+    private double im;
         
