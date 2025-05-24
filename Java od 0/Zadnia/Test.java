@@ -2232,4 +2232,8 @@ public class Cplx {
         return new Cplx(real, imag);
     }
 
+    public void inc() {
+        this.re += 1;
+    }
+
 
