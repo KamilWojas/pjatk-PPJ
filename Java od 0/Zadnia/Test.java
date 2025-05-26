@@ -2282,3 +2282,8 @@ public class Drzewo {
                 ", przekrój: " + przekrojDrzewa + "]";
     }
 }
+
+public class DrzewoIglaste extends Drzewo {
+    int iloscIgiel;
+    double dlugoscSzczytki;
+       
