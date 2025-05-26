@@ -2310,3 +2310,10 @@ public class DrzewoLisciaste extends Drzewo {
         super(wiecznieZielone, wysokosc, przekrojDrzewa);
         this.ksztaltLiscia = ksztaltLiscia;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() +
+                ", DrzewoLisciaste [kształt liścia: " + ksztaltLiscia + "]";
+    }
+}
