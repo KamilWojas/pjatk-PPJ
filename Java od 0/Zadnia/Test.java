@@ -2293,3 +2293,11 @@ public class DrzewoIglaste extends Drzewo {
         this.iloscIgiel = iloscIgiel;
         this.dlugoscSzczytki = dlugoscSzczytki;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() +
+                ", DrzewoIglaste [ilość igieł: " + iloscIgiel +
+                ", długość szczytki: " + dlugoscSzczytki + "]";
+    }
+}
