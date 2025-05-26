@@ -2317,3 +2317,6 @@ public class DrzewoLisciaste extends Drzewo {
                 ", DrzewoLisciaste [kształt liścia: " + ksztaltLiscia + "]";
     }
 }
+
+public class DrzewoOwocowe extends DrzewoLisciaste {
+    String nazwaOwoca;
