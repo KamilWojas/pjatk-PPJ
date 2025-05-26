@@ -2275,3 +2275,10 @@ public class Drzewo {
         this.wysokosc = wysokosc;
         this.przekrojDrzewa = przekrojDrzewa;
     }
+
+    public String toString() {
+        return "Drzewo [" + (wiecznieZielone ? "wiecznie zielone" : "liściaste") +
+                ", wysokość: " + wysokosc +
+                ", przekrój: " + przekrojDrzewa + "]";
+    }
+}
