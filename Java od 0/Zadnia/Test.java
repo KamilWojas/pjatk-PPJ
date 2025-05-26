@@ -2333,3 +2333,6 @@ public class DrzewoOwocowe extends DrzewoLisciaste {
                 ", DrzewoOwocowe [nazwa owocu: " + nazwaOwoca + "]";
     }
 }
+
+public class LasDemo {
+    public static void main(String[] args) {
