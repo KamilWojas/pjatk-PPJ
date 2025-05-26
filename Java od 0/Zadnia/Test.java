@@ -2342,4 +2342,9 @@ public class LasDemo {
         las[1] = new DrzewoLisciaste(false, 20, "walcowaty", "sercowaty");
         las[2] = new DrzewoOwocowe(false, 12, "stożkowy", "eliptyczny", "jabłko");
         las[3] = new Drzewo(false, 15, "kulisty");
+
+        for (Drzewo drzewo : las) {
+            System.out.println(drzewo.toString());
+        }
     }
+}
