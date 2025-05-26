@@ -2326,3 +2326,10 @@ public class DrzewoOwocowe extends DrzewoLisciaste {
         super(wiecznieZielone, wysokosc, przekrojDrzewa, ksztaltLiscia);
         this.nazwaOwoca = nazwaOwoca;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() +
+                ", DrzewoOwocowe [nazwa owocu: " + nazwaOwoca + "]";
+    }
+}
