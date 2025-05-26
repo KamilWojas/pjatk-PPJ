@@ -2336,3 +2336,10 @@ public class DrzewoOwocowe extends DrzewoLisciaste {
 
 public class LasDemo {
     public static void main(String[] args) {
+        Drzewo[] las = new Drzewo[4];
+
+        las[0] = new DrzewoIglaste(true, 30, "stożkowy", 100000, 15.0);
+        las[1] = new DrzewoLisciaste(false, 20, "walcowaty", "sercowaty");
+        las[2] = new DrzewoOwocowe(false, 12, "stożkowy", "eliptyczny", "jabłko");
+        las[3] = new Drzewo(false, 15, "kulisty");
+    }
