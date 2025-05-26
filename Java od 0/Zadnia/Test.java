@@ -2286,4 +2286,10 @@ public class Drzewo {
 public class DrzewoIglaste extends Drzewo {
     int iloscIgiel;
     double dlugoscSzczytki;
-       
+
+    public DrzewoIglaste(boolean wiecznieZielone, int wysokosc, String przekrojDrzewa,
+                         int iloscIgiel, double dlugoscSzczytki) {
+        super(wiecznieZielone, wysokosc, przekrojDrzewa);
+        this.iloscIgiel = iloscIgiel;
+        this.dlugoscSzczytki = dlugoscSzczytki;
+    }
