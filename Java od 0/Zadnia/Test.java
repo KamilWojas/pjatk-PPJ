@@ -2262,4 +2262,10 @@ public class Main {
     }
 }
 
- 
+
+
+==========================================================================================
+public class Drzewo {
+    boolean wiecznieZielone;
+    int wysokosc;
+    String przekrojDrzewa;
