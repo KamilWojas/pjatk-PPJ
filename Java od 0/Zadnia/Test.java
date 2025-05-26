@@ -2301,3 +2301,6 @@ public class DrzewoIglaste extends Drzewo {
                 ", długość szczytki: " + dlugoscSzczytki + "]";
     }
 }
+
+public class DrzewoLisciaste extends Drzewo {
+    String ksztaltLiscia;
