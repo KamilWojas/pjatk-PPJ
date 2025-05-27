@@ -2383,3 +2383,9 @@ public class Pomarancza extends Owoc {
         super("Pomarancza");
     }
 }
+
+public class Gruszka extends Owoc {
+    public Gruszka() {
+        super("Gruszka");
+    }
+}
