@@ -2392,3 +2392,13 @@ public class Gruszka extends Owoc {
 
 public class Drzewo {
     private Random rand = new Random();
+
+    public Owoc zerwijOwoc() {
+        int wylosowane = rand.nextInt(3); 
+        switch(wylosowane) {
+            case 0: return new Jablko();
+            case 1: return new Pomarancza();
+            default: return new Gruszka();
+        }
+    }
+}
