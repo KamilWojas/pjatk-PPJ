@@ -2389,3 +2389,6 @@ public class Gruszka extends Owoc {
         super("Gruszka");
     }
 }
+
+public class Drzewo {
+    private Random rand = new Random();
