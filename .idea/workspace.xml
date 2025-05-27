@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przykład użycia – wszystko razem" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment=" Klasa Drzewo z metodą zrywającą owoc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,87 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="49992000" />
-    </task>
-    <task id="LOCAL-02189" summary="Przykład użycia – Main.java:">
-      <option name="closed" value="true" />
-      <created>1747862839342</created>
-      <option name="number" value="02189" />
-      <option name="presentableId" value="LOCAL-02189" />
-      <option name="project" value="LOCAL" />
-      <updated>1747862839342</updated>
-    </task>
-    <task id="LOCAL-02190" summary="Przykład użycia – Main.java:">
-      <option name="closed" value="true" />
-      <created>1747862849908</created>
-      <option name="number" value="02190" />
-      <option name="presentableId" value="LOCAL-02190" />
-      <option name="project" value="LOCAL" />
-      <updated>1747862849908</updated>
-    </task>
-    <task id="LOCAL-02191" summary="Przykład użycia – Main.java:">
-      <option name="closed" value="true" />
-      <created>1747862860342</created>
-      <option name="number" value="02191" />
-      <option name="presentableId" value="LOCAL-02191" />
-      <option name="project" value="LOCAL" />
-      <updated>1747862860342</updated>
-    </task>
-    <task id="LOCAL-02192" summary="Przykład użycia – Main.java:">
-      <option name="closed" value="true" />
-      <created>1747862871224</created>
-      <option name="number" value="02192" />
-      <option name="presentableId" value="LOCAL-02192" />
-      <option name="project" value="LOCAL" />
-      <updated>1747862871224</updated>
-    </task>
-    <task id="LOCAL-02193" summary="Przykład użycia – Main.java:">
-      <option name="closed" value="true" />
-      <created>1747862881960</created>
-      <option name="number" value="02193" />
-      <option name="presentableId" value="LOCAL-02193" />
-      <option name="project" value="LOCAL" />
-      <updated>1747862881960</updated>
-    </task>
-    <task id="LOCAL-02194" summary="Przykład użycia – Main.java:">
-      <option name="closed" value="true" />
-      <created>1747862895663</created>
-      <option name="number" value="02194" />
-      <option name="presentableId" value="LOCAL-02194" />
-      <option name="project" value="LOCAL" />
-      <updated>1747862895663</updated>
-    </task>
-    <task id="LOCAL-02195" summary="Przykład użycia – Main.java:">
-      <option name="closed" value="true" />
-      <created>1747929212726</created>
-      <option name="number" value="02195" />
-      <option name="presentableId" value="LOCAL-02195" />
-      <option name="project" value="LOCAL" />
-      <updated>1747929212726</updated>
-    </task>
-    <task id="LOCAL-02196" summary="Zadanie:&#10;Osoba ma prywatne pole String imie,&#10;&#10;Spawacz dziedziczy po Osoba, ma pole int stazPracy,&#10;&#10;Obie klasy posiadają metodę String wyswietl(),&#10;&#10;Klasa Spawacz używa super.wyswietl() do rozszerzenia informacji z klasy bazowej.">
-      <option name="closed" value="true" />
-      <created>1747949651562</created>
-      <option name="number" value="02196" />
-      <option name="presentableId" value="LOCAL-02196" />
-      <option name="project" value="LOCAL" />
-      <updated>1747949651562</updated>
-    </task>
-    <task id="LOCAL-02197" summary="Zadanie:&#10;Osoba ma prywatne pole String imie,&#10;&#10;Spawacz dziedziczy po Osoba, ma pole int stazPracy,&#10;&#10;Obie klasy posiadają metodę String wyswietl(),&#10;&#10;Klasa Spawacz używa super.wyswietl() do rozszerzenia informacji z klasy bazowej.">
-      <option name="closed" value="true" />
-      <created>1747949662479</created>
-      <option name="number" value="02197" />
-      <option name="presentableId" value="LOCAL-02197" />
-      <option name="project" value="LOCAL" />
-      <updated>1747949662479</updated>
-    </task>
-    <task id="LOCAL-02198" summary="Kod klasy Osoba">
-      <option name="closed" value="true" />
-      <created>1747949692067</created>
-      <option name="number" value="02198" />
-      <option name="presentableId" value="LOCAL-02198" />
-      <option name="project" value="LOCAL" />
-      <updated>1747949692067</updated>
+      <workItem from="1745779601674" duration="51809000" />
     </task>
     <task id="LOCAL-02199" summary="Kod klasy Osoba">
       <option name="closed" value="true" />
@@ -554,7 +474,87 @@
       <option name="project" value="LOCAL" />
       <updated>1748292578692</updated>
     </task>
-    <option name="localTasksCounter" value="2238" />
+    <task id="LOCAL-02238" summary="Przykład użycia – wszystko razem">
+      <option name="closed" value="true" />
+      <created>1748292625347</created>
+      <option name="number" value="02238" />
+      <option name="presentableId" value="LOCAL-02238" />
+      <option name="project" value="LOCAL" />
+      <updated>1748292625347</updated>
+    </task>
+    <task id="LOCAL-02239" summary="Przykład użycia – wszystko razem">
+      <option name="closed" value="true" />
+      <created>1748380194690</created>
+      <option name="number" value="02239" />
+      <option name="presentableId" value="LOCAL-02239" />
+      <option name="project" value="LOCAL" />
+      <updated>1748380194690</updated>
+    </task>
+    <task id="LOCAL-02240" summary="Klasa bazowa Owoc">
+      <option name="closed" value="true" />
+      <created>1748380628762</created>
+      <option name="number" value="02240" />
+      <option name="presentableId" value="LOCAL-02240" />
+      <option name="project" value="LOCAL" />
+      <updated>1748380628762</updated>
+    </task>
+    <task id="LOCAL-02241" summary="losujemy masę od 100 do 250 gramów">
+      <option name="closed" value="true" />
+      <created>1748380658119</created>
+      <option name="number" value="02241" />
+      <option name="presentableId" value="LOCAL-02241" />
+      <option name="project" value="LOCAL" />
+      <updated>1748380658119</updated>
+    </task>
+    <task id="LOCAL-02242" summary="gettery">
+      <option name="closed" value="true" />
+      <created>1748380687722</created>
+      <option name="number" value="02242" />
+      <option name="presentableId" value="LOCAL-02242" />
+      <option name="project" value="LOCAL" />
+      <updated>1748380687722</updated>
+    </task>
+    <task id="LOCAL-02243" summary="Podklasy: Jablko">
+      <option name="closed" value="true" />
+      <created>1748380717753</created>
+      <option name="number" value="02243" />
+      <option name="presentableId" value="LOCAL-02243" />
+      <option name="project" value="LOCAL" />
+      <updated>1748380717753</updated>
+    </task>
+    <task id="LOCAL-02244" summary="Podklasy: Pomarancza">
+      <option name="closed" value="true" />
+      <created>1748380740027</created>
+      <option name="number" value="02244" />
+      <option name="presentableId" value="LOCAL-02244" />
+      <option name="project" value="LOCAL" />
+      <updated>1748380740027</updated>
+    </task>
+    <task id="LOCAL-02245" summary="Podklasy: Gruszka">
+      <option name="closed" value="true" />
+      <created>1748380756028</created>
+      <option name="number" value="02245" />
+      <option name="presentableId" value="LOCAL-02245" />
+      <option name="project" value="LOCAL" />
+      <updated>1748380756028</updated>
+    </task>
+    <task id="LOCAL-02246" summary=" Klasa Drzewo z metodą zrywającą owoc">
+      <option name="closed" value="true" />
+      <created>1748380778209</created>
+      <option name="number" value="02246" />
+      <option name="presentableId" value="LOCAL-02246" />
+      <option name="project" value="LOCAL" />
+      <updated>1748380778209</updated>
+    </task>
+    <task id="LOCAL-02247" summary=" Klasa Drzewo z metodą zrywającą owoc">
+      <option name="closed" value="true" />
+      <created>1748380798627</created>
+      <option name="number" value="02247" />
+      <option name="presentableId" value="LOCAL-02247" />
+      <option name="project" value="LOCAL" />
+      <updated>1748380798627</updated>
+    </task>
+    <option name="localTasksCounter" value="2248" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,13 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Prostopadloscian dziedziczy po Prostokat: pole + objętość" />
-    <MESSAGE value="Trojkat (równoboczny): pole powierzchni" />
-    <MESSAGE value="Ostroslup dziedziczy po Trojkat: pole + objętość" />
-    <MESSAGE value="Graniastoslup dziedziczy po Trojkat: pole + objętość" />
-    <MESSAGE value="Przykład użycia – Main.java:" />
-    <MESSAGE value="Zadanie:&#10;Osoba ma prywatne pole String imie,&#10;&#10;Spawacz dziedziczy po Osoba, ma pole int stazPracy,&#10;&#10;Obie klasy posiadają metodę String wyswietl(),&#10;&#10;Klasa Spawacz używa super.wyswietl() do rozszerzenia informacji z klasy bazowej." />
-    <MESSAGE value="Kod klasy Osoba" />
     <MESSAGE value="Kod klasy Spawacz" />
     <MESSAGE value="Przykład użycia (Main.java)" />
     <MESSAGE value="Cplx" />
@@ -597,6 +590,13 @@
     <MESSAGE value="Klasa DrzewoLisciaste" />
     <MESSAGE value=" Klasa DrzewoOwocowe" />
     <MESSAGE value="Przykład użycia – wszystko razem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Przykład użycia – wszystko razem" />
+    <MESSAGE value="Klasa bazowa Owoc" />
+    <MESSAGE value="losujemy masę od 100 do 250 gramów" />
+    <MESSAGE value="gettery" />
+    <MESSAGE value="Podklasy: Jablko" />
+    <MESSAGE value="Podklasy: Pomarancza" />
+    <MESSAGE value="Podklasy: Gruszka" />
+    <MESSAGE value=" Klasa Drzewo z metodą zrywającą owoc" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Klasa Drzewo z metodą zrywającą owoc" />
   </component>
 </project>
