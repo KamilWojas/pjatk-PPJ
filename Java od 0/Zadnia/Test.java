@@ -2356,3 +2356,9 @@ public class LasDemo {
 public class Owoc {
     private String nazwa;
     private double masa;
+
+    public Owoc(String nazwa) {
+        this.nazwa = nazwa;
+        
+        this.masa = 100 + new Random().nextInt(151); 
+    }
