@@ -2347,4 +2347,12 @@ public class LasDemo {
             System.out.println(drzewo.toString());
         }
     }
-} 
+}
+
+
+
+
+==========================================================================================
+public class Owoc {
+    private String nazwa;
+    private double masa;
