@@ -2371,3 +2371,9 @@ public class Owoc {
         return masa;
     }
 }
+
+public class Jablko extends Owoc {
+    public Jablko() {
+        super("Jablko");
+    }
+}
