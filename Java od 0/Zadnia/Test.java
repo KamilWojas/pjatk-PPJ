@@ -2347,4 +2347,4 @@ public class LasDemo {
             System.out.println(drzewo.toString());
         }
     }
-}
+} 
