@@ -2362,3 +2362,12 @@ public class Owoc {
         
         this.masa = 100 + new Random().nextInt(151); 
     }
+
+    public String getNazwa() {
+        return nazwa;
+    }
+
+    public double getMasa() {
+        return masa;
+    }
+}
