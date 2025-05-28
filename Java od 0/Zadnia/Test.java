@@ -2421,3 +2421,6 @@ public class SadDemo {
         }
 
         int liczbaJablek = 0, liczbaPomaranczy = 0, liczbaGruszek = 0;
+
+        for (int i = 0; i < licznik; i++) {
+            String nazwa = koszyk[i].getNazwa();
