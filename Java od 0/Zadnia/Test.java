@@ -2406,3 +2406,6 @@ public class Drzewo {
         }
     }
 }
+
+public class SadDemo {
+    public static void main(String[] args) {
