@@ -2396,9 +2396,12 @@ public class Drzewo {
     public Owoc zerwijOwoc() {
         int wylosowane = rand.nextInt(3); 
         switch(wylosowane) {
-            case 0: return new Jablko();
-            case 1: return new Pomarancza();
-            default: return new Gruszka();
+            case 0:
+                return new Jablko();
+            case 1: 
+                return new Pomarancza();
+            default: 
+                return new Gruszka();
         }
     }
 }
