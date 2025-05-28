@@ -2424,3 +2424,5 @@ public class SadDemo {
 
         for (int i = 0; i < licznik; i++) {
             String nazwa = koszyk[i].getNazwa();
+            if(nazwa.equals("Jablko")) liczbaJablek++;
+            else if(nazwa.equals("Pomarancza")) liczbaPomaranczy++;
