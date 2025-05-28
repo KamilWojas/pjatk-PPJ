@@ -2409,3 +2409,8 @@ public class Drzewo {
 
 public class SadDemo {
     public static void main(String[] args) {
+        Drzewo drzewo = new Drzewo();
+        Owoc[] koszyk = new Owoc[100]; 
+        double masaCalkowita = 0;
+        int licznik = 0;
+    }
