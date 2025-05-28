@@ -2413,4 +2413,9 @@ public class SadDemo {
         Owoc[] koszyk = new Owoc[100]; 
         double masaCalkowita = 0;
         int licznik = 0;
-    }
+
+        while(masaCalkowita < 5000 && licznik < koszyk.length) {
+            Owoc owoc = drzewo.zerwijOwoc();
+            koszyk[licznik++] = owoc;
+            masaCalkowita += owoc.getMasa();
+        }
