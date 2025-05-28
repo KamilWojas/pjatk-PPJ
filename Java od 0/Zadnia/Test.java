@@ -2428,3 +2428,6 @@ public class SadDemo {
             else if(nazwa.equals("Pomarancza")) liczbaPomaranczy++;
             else if(nazwa.equals("Gruszka")) liczbaGruszek++;
         }
+
+        System.out.println("Zebrano owoce o łącznej masie: " + masaCalkowita + " gramów.");
+        System.out.println("Liczba jabłek: " + liczbaJablek);
