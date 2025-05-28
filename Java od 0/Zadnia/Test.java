@@ -2419,3 +2419,5 @@ public class SadDemo {
             koszyk[licznik++] = owoc;
             masaCalkowita += owoc.getMasa();
         }
+
+        int liczbaJablek = 0, liczbaPomaranczy = 0, liczbaGruszek = 0;
