@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment=" Klasa Drzewo z metodą zrywającą owoc" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Liczymy, ile jest każdego rodzaju" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,111 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="51809000" />
-    </task>
-    <task id="LOCAL-02199" summary="Kod klasy Osoba">
-      <option name="closed" value="true" />
-      <created>1747949705800</created>
-      <option name="number" value="02199" />
-      <option name="presentableId" value="LOCAL-02199" />
-      <option name="project" value="LOCAL" />
-      <updated>1747949705800</updated>
-    </task>
-    <task id="LOCAL-02200" summary="Kod klasy Osoba">
-      <option name="closed" value="true" />
-      <created>1747949720199</created>
-      <option name="number" value="02200" />
-      <option name="presentableId" value="LOCAL-02200" />
-      <option name="project" value="LOCAL" />
-      <updated>1747949720199</updated>
-    </task>
-    <task id="LOCAL-02201" summary="Kod klasy Spawacz">
-      <option name="closed" value="true" />
-      <created>1747949753482</created>
-      <option name="number" value="02201" />
-      <option name="presentableId" value="LOCAL-02201" />
-      <option name="project" value="LOCAL" />
-      <updated>1747949753482</updated>
-    </task>
-    <task id="LOCAL-02202" summary="Kod klasy Spawacz">
-      <option name="closed" value="true" />
-      <created>1747949767868</created>
-      <option name="number" value="02202" />
-      <option name="presentableId" value="LOCAL-02202" />
-      <option name="project" value="LOCAL" />
-      <updated>1747949767868</updated>
-    </task>
-    <task id="LOCAL-02203" summary="Kod klasy Spawacz">
-      <option name="closed" value="true" />
-      <created>1747949780701</created>
-      <option name="number" value="02203" />
-      <option name="presentableId" value="LOCAL-02203" />
-      <option name="project" value="LOCAL" />
-      <updated>1747949780701</updated>
-    </task>
-    <task id="LOCAL-02204" summary="Przykład użycia (Main.java)">
-      <option name="closed" value="true" />
-      <created>1747949803837</created>
-      <option name="number" value="02204" />
-      <option name="presentableId" value="LOCAL-02204" />
-      <option name="project" value="LOCAL" />
-      <updated>1747949803837</updated>
-    </task>
-    <task id="LOCAL-02205" summary="Przykład użycia (Main.java)">
-      <option name="closed" value="true" />
-      <created>1747949816486</created>
-      <option name="number" value="02205" />
-      <option name="presentableId" value="LOCAL-02205" />
-      <option name="project" value="LOCAL" />
-      <updated>1747949816486</updated>
-    </task>
-    <task id="LOCAL-02206" summary="Przykład użycia (Main.java)">
-      <option name="closed" value="true" />
-      <created>1747949830571</created>
-      <option name="number" value="02206" />
-      <option name="presentableId" value="LOCAL-02206" />
-      <option name="project" value="LOCAL" />
-      <updated>1747949830571</updated>
-    </task>
-    <task id="LOCAL-02207" summary="Przykład użycia (Main.java)">
-      <option name="closed" value="true" />
-      <created>1748032977390</created>
-      <option name="number" value="02207" />
-      <option name="presentableId" value="LOCAL-02207" />
-      <option name="project" value="LOCAL" />
-      <updated>1748032977391</updated>
-    </task>
-    <task id="LOCAL-02208" summary="Cplx">
-      <option name="closed" value="true" />
-      <created>1748121115267</created>
-      <option name="number" value="02208" />
-      <option name="presentableId" value="LOCAL-02208" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121115267</updated>
-    </task>
-    <task id="LOCAL-02209" summary="część rzeczywista&#10;część urojona">
-      <option name="closed" value="true" />
-      <created>1748121141357</created>
-      <option name="number" value="02209" />
-      <option name="presentableId" value="LOCAL-02209" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121141357</updated>
-    </task>
-    <task id="LOCAL-02210" summary="Dwupamarametrowy konstruktor">
-      <option name="closed" value="true" />
-      <created>1748121159376</created>
-      <option name="number" value="02210" />
-      <option name="presentableId" value="LOCAL-02210" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121159376</updated>
-    </task>
-    <task id="LOCAL-02211" summary=" Funkcja dodawania">
-      <option name="closed" value="true" />
-      <created>1748121177195</created>
-      <option name="number" value="02211" />
-      <option name="presentableId" value="LOCAL-02211" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121177195</updated>
+      <workItem from="1745779601674" duration="53211000" />
     </task>
     <task id="LOCAL-02212" summary="Funkcja odejmowania">
       <option name="closed" value="true" />
@@ -554,7 +450,111 @@
       <option name="project" value="LOCAL" />
       <updated>1748380798627</updated>
     </task>
-    <option name="localTasksCounter" value="2248" />
+    <task id="LOCAL-02248" summary=" Klasa Drzewo z metodą zrywającą owoc">
+      <option name="closed" value="true" />
+      <created>1748380814095</created>
+      <option name="number" value="02248" />
+      <option name="presentableId" value="LOCAL-02248" />
+      <option name="project" value="LOCAL" />
+      <updated>1748380814095</updated>
+    </task>
+    <task id="LOCAL-02249" summary=" Klasa Drzewo z metodą zrywającą owoc">
+      <option name="closed" value="true" />
+      <created>1748448126304</created>
+      <option name="number" value="02249" />
+      <option name="presentableId" value="LOCAL-02249" />
+      <option name="project" value="LOCAL" />
+      <updated>1748448126304</updated>
+    </task>
+    <task id="LOCAL-02250" summary=" Klasa Drzewo z metodą zrywającą owoc">
+      <option name="closed" value="true" />
+      <created>1748448133888</created>
+      <option name="number" value="02250" />
+      <option name="presentableId" value="LOCAL-02250" />
+      <option name="project" value="LOCAL" />
+      <updated>1748448133888</updated>
+    </task>
+    <task id="LOCAL-02251" summary=" Program zbierający owoce&#10;Musimy zrywać owoce i wrzucać je do tablicy, aż uzbieramy 5 kg (czyli 5000 gramów).">
+      <option name="closed" value="true" />
+      <created>1748448163901</created>
+      <option name="number" value="02251" />
+      <option name="presentableId" value="LOCAL-02251" />
+      <option name="project" value="LOCAL" />
+      <updated>1748448163901</updated>
+    </task>
+    <task id="LOCAL-02252" summary="max 100 owoców (więcej nie potrzeba)">
+      <option name="closed" value="true" />
+      <created>1748448188488</created>
+      <option name="number" value="02252" />
+      <option name="presentableId" value="LOCAL-02252" />
+      <option name="project" value="LOCAL" />
+      <updated>1748448188488</updated>
+    </task>
+    <task id="LOCAL-02253" summary="Zrywamy owoce aż uzbieramy 5000g">
+      <option name="closed" value="true" />
+      <created>1748448210140</created>
+      <option name="number" value="02253" />
+      <option name="presentableId" value="LOCAL-02253" />
+      <option name="project" value="LOCAL" />
+      <updated>1748448210140</updated>
+    </task>
+    <task id="LOCAL-02254" summary="Liczymy, ile jest każdego rodzaju">
+      <option name="closed" value="true" />
+      <created>1748448227305</created>
+      <option name="number" value="02254" />
+      <option name="presentableId" value="LOCAL-02254" />
+      <option name="project" value="LOCAL" />
+      <updated>1748448227305</updated>
+    </task>
+    <task id="LOCAL-02255" summary="Liczymy, ile jest każdego rodzaju">
+      <option name="closed" value="true" />
+      <created>1748448245309</created>
+      <option name="number" value="02255" />
+      <option name="presentableId" value="LOCAL-02255" />
+      <option name="project" value="LOCAL" />
+      <updated>1748448245309</updated>
+    </task>
+    <task id="LOCAL-02256" summary="Liczymy, ile jest każdego rodzaju">
+      <option name="closed" value="true" />
+      <created>1748448258044</created>
+      <option name="number" value="02256" />
+      <option name="presentableId" value="LOCAL-02256" />
+      <option name="project" value="LOCAL" />
+      <updated>1748448258044</updated>
+    </task>
+    <task id="LOCAL-02257" summary="Liczymy, ile jest każdego rodzaju">
+      <option name="closed" value="true" />
+      <created>1748448271109</created>
+      <option name="number" value="02257" />
+      <option name="presentableId" value="LOCAL-02257" />
+      <option name="project" value="LOCAL" />
+      <updated>1748448271109</updated>
+    </task>
+    <task id="LOCAL-02258" summary="Liczymy, ile jest każdego rodzaju">
+      <option name="closed" value="true" />
+      <created>1748452388377</created>
+      <option name="number" value="02258" />
+      <option name="presentableId" value="LOCAL-02258" />
+      <option name="project" value="LOCAL" />
+      <updated>1748452388377</updated>
+    </task>
+    <task id="LOCAL-02259" summary="Liczymy, ile jest każdego rodzaju">
+      <option name="closed" value="true" />
+      <created>1748452401622</created>
+      <option name="number" value="02259" />
+      <option name="presentableId" value="LOCAL-02259" />
+      <option name="project" value="LOCAL" />
+      <updated>1748452401622</updated>
+    </task>
+    <task id="LOCAL-02260" summary="Liczymy, ile jest każdego rodzaju">
+      <option name="closed" value="true" />
+      <created>1748452412074</created>
+      <option name="number" value="02260" />
+      <option name="presentableId" value="LOCAL-02260" />
+      <option name="project" value="LOCAL" />
+      <updated>1748452412074</updated>
+    </task>
+    <option name="localTasksCounter" value="2261" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,10 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Kod klasy Spawacz" />
-    <MESSAGE value="Przykład użycia (Main.java)" />
-    <MESSAGE value="Cplx" />
-    <MESSAGE value="część rzeczywista&#10;część urojona" />
     <MESSAGE value="Dwupamarametrowy konstruktor" />
     <MESSAGE value=" Funkcja dodawania" />
     <MESSAGE value="Funkcja odejmowania" />
@@ -597,6 +593,10 @@
     <MESSAGE value="Podklasy: Pomarancza" />
     <MESSAGE value="Podklasy: Gruszka" />
     <MESSAGE value=" Klasa Drzewo z metodą zrywającą owoc" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Klasa Drzewo z metodą zrywającą owoc" />
+    <MESSAGE value=" Program zbierający owoce&#10;Musimy zrywać owoce i wrzucać je do tablicy, aż uzbieramy 5 kg (czyli 5000 gramów)." />
+    <MESSAGE value="max 100 owoców (więcej nie potrzeba)" />
+    <MESSAGE value="Zrywamy owoce aż uzbieramy 5000g" />
+    <MESSAGE value="Liczymy, ile jest każdego rodzaju" />
+    <option name="LAST_COMMIT_MESSAGE" value="Liczymy, ile jest każdego rodzaju" />
   </component>
 </project>
