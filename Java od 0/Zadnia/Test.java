@@ -2426,3 +2426,5 @@ public class SadDemo {
             String nazwa = koszyk[i].getNazwa();
             if(nazwa.equals("Jablko")) liczbaJablek++;
             else if(nazwa.equals("Pomarancza")) liczbaPomaranczy++;
+            else if(nazwa.equals("Gruszka")) liczbaGruszek++;
+        }
