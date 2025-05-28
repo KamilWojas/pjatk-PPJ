@@ -2431,3 +2431,7 @@ public class SadDemo {
 
         System.out.println("Zebrano owoce o łącznej masie: " + masaCalkowita + " gramów.");
         System.out.println("Liczba jabłek: " + liczbaJablek);
+        System.out.println("Liczba pomarańczy: " + liczbaPomaranczy);
+        System.out.println("Liczba gruszek: " + liczbaGruszek);
+    }
+}
