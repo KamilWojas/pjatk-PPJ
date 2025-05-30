@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Liczymy, ile jest każdego rodzaju" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Podklasa Krowa dziedzicząca po klasie Animal" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,103 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="53824000" />
-    </task>
-    <task id="LOCAL-02213" summary="Funkcja mnożenia">
-      <option name="closed" value="true" />
-      <created>1748121213306</created>
-      <option name="number" value="02213" />
-      <option name="presentableId" value="LOCAL-02213" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121213306</updated>
-    </task>
-    <task id="LOCAL-02214" summary="(a + bi)*(c + di) = (ac - bd) + (ad + bc)i">
-      <option name="closed" value="true" />
-      <created>1748121233244</created>
-      <option name="number" value="02214" />
-      <option name="presentableId" value="LOCAL-02214" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121233244</updated>
-    </task>
-    <task id="LOCAL-02215" summary="Funkcja zwiększająca część rzeczywistą o 1">
-      <option name="closed" value="true" />
-      <created>1748121252702</created>
-      <option name="number" value="02215" />
-      <option name="presentableId" value="LOCAL-02215" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121252702</updated>
-    </task>
-    <task id="LOCAL-02216" summary=" Funkcja show">
-      <option name="closed" value="true" />
-      <created>1748121270094</created>
-      <option name="number" value="02216" />
-      <option name="presentableId" value="LOCAL-02216" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121270094</updated>
-    </task>
-    <task id="LOCAL-02217" summary="Przykład użycia – Main.java">
-      <option name="closed" value="true" />
-      <created>1748121336328</created>
-      <option name="number" value="02217" />
-      <option name="presentableId" value="LOCAL-02217" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121336328</updated>
-    </task>
-    <task id="LOCAL-02218" summary="Trzy liczby zespolone">
-      <option name="closed" value="true" />
-      <created>1748121358912</created>
-      <option name="number" value="02218" />
-      <option name="presentableId" value="LOCAL-02218" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121358912</updated>
-    </task>
-    <task id="LOCAL-02219" summary="Trzy liczby zespolone">
-      <option name="closed" value="true" />
-      <created>1748121371809</created>
-      <option name="number" value="02219" />
-      <option name="presentableId" value="LOCAL-02219" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121371809</updated>
-    </task>
-    <task id="LOCAL-02220" summary="Trzy liczby zespolone">
-      <option name="closed" value="true" />
-      <created>1748121388040</created>
-      <option name="number" value="02220" />
-      <option name="presentableId" value="LOCAL-02220" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121388040</updated>
-    </task>
-    <task id="LOCAL-02221" summary="Trzy liczby zespolone">
-      <option name="closed" value="true" />
-      <created>1748121402826</created>
-      <option name="number" value="02221" />
-      <option name="presentableId" value="LOCAL-02221" />
-      <option name="project" value="LOCAL" />
-      <updated>1748121402826</updated>
-    </task>
-    <task id="LOCAL-02222" summary="Trzy liczby zespolone">
-      <option name="closed" value="true" />
-      <created>1748190295918</created>
-      <option name="number" value="02222" />
-      <option name="presentableId" value="LOCAL-02222" />
-      <option name="project" value="LOCAL" />
-      <updated>1748190295918</updated>
-    </task>
-    <task id="LOCAL-02223" summary="Klasa Drzewo (bazowa)">
-      <option name="closed" value="true" />
-      <created>1748292331278</created>
-      <option name="number" value="02223" />
-      <option name="presentableId" value="LOCAL-02223" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292331278</updated>
-    </task>
-    <task id="LOCAL-02224" summary="Klasa Drzewo (bazowa)">
-      <option name="closed" value="true" />
-      <created>1748292342431</created>
-      <option name="number" value="02224" />
-      <option name="presentableId" value="LOCAL-02224" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292342431</updated>
+      <workItem from="1745779601674" duration="55258000" />
     </task>
     <task id="LOCAL-02225" summary="Klasa Drzewo (bazowa)">
       <option name="closed" value="true" />
@@ -554,7 +458,103 @@
       <option name="project" value="LOCAL" />
       <updated>1748452429472</updated>
     </task>
-    <option name="localTasksCounter" value="2262" />
+    <task id="LOCAL-02262" summary="Liczymy, ile jest każdego rodzaju">
+      <option name="closed" value="true" />
+      <created>1748549634499</created>
+      <option name="number" value="02262" />
+      <option name="presentableId" value="LOCAL-02262" />
+      <option name="project" value="LOCAL" />
+      <updated>1748549634499</updated>
+    </task>
+    <task id="LOCAL-02263" summary="Liczymy, ile jest każdego rodzaju">
+      <option name="closed" value="true" />
+      <created>1748637371794</created>
+      <option name="number" value="02263" />
+      <option name="presentableId" value="LOCAL-02263" />
+      <option name="project" value="LOCAL" />
+      <updated>1748637371794</updated>
+    </task>
+    <task id="LOCAL-02264" summary=" Bazowa klasa Animal">
+      <option name="closed" value="true" />
+      <created>1748640170072</created>
+      <option name="number" value="02264" />
+      <option name="presentableId" value="LOCAL-02264" />
+      <option name="project" value="LOCAL" />
+      <updated>1748640170072</updated>
+    </task>
+    <task id="LOCAL-02265" summary=" Bazowa klasa Animal">
+      <option name="closed" value="true" />
+      <created>1748640183673</created>
+      <option name="number" value="02265" />
+      <option name="presentableId" value="LOCAL-02265" />
+      <option name="project" value="LOCAL" />
+      <updated>1748640183673</updated>
+    </task>
+    <task id="LOCAL-02266" summary=" Bazowa klasa Animal">
+      <option name="closed" value="true" />
+      <created>1748640194490</created>
+      <option name="number" value="02266" />
+      <option name="presentableId" value="LOCAL-02266" />
+      <option name="project" value="LOCAL" />
+      <updated>1748640194490</updated>
+    </task>
+    <task id="LOCAL-02267" summary="Podklasa dziedzicząca po klasie Animal">
+      <option name="closed" value="true" />
+      <created>1748640237509</created>
+      <option name="number" value="02267" />
+      <option name="presentableId" value="LOCAL-02267" />
+      <option name="project" value="LOCAL" />
+      <updated>1748640237509</updated>
+    </task>
+    <task id="LOCAL-02268" summary="Ustawia species na &quot;Cat&quot;">
+      <option name="closed" value="true" />
+      <created>1748640267080</created>
+      <option name="number" value="02268" />
+      <option name="presentableId" value="LOCAL-02268" />
+      <option name="project" value="LOCAL" />
+      <updated>1748640267080</updated>
+    </task>
+    <task id="LOCAL-02269" summary="Podklasa dziedzicząca po klasie Animal">
+      <option name="closed" value="true" />
+      <created>1748640281209</created>
+      <option name="number" value="02269" />
+      <option name="presentableId" value="LOCAL-02269" />
+      <option name="project" value="LOCAL" />
+      <updated>1748640281209</updated>
+    </task>
+    <task id="LOCAL-02270" summary="Podklasa Dog dziedzicząca po klasie Animal">
+      <option name="closed" value="true" />
+      <created>1748640309129</created>
+      <option name="number" value="02270" />
+      <option name="presentableId" value="LOCAL-02270" />
+      <option name="project" value="LOCAL" />
+      <updated>1748640309129</updated>
+    </task>
+    <task id="LOCAL-02271" summary="Podklasa Dog dziedzicząca po klasie Animal">
+      <option name="closed" value="true" />
+      <created>1748640321449</created>
+      <option name="number" value="02271" />
+      <option name="presentableId" value="LOCAL-02271" />
+      <option name="project" value="LOCAL" />
+      <updated>1748640321449</updated>
+    </task>
+    <task id="LOCAL-02272" summary="Podklasa Krowa dziedzicząca po klasie Animal">
+      <option name="closed" value="true" />
+      <created>1748640340793</created>
+      <option name="number" value="02272" />
+      <option name="presentableId" value="LOCAL-02272" />
+      <option name="project" value="LOCAL" />
+      <updated>1748640340793</updated>
+    </task>
+    <task id="LOCAL-02273" summary="Podklasa Krowa dziedzicząca po klasie Animal">
+      <option name="closed" value="true" />
+      <created>1748640350503</created>
+      <option name="number" value="02273" />
+      <option name="presentableId" value="LOCAL-02273" />
+      <option name="project" value="LOCAL" />
+      <updated>1748640350503</updated>
+    </task>
+    <option name="localTasksCounter" value="2274" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,11 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dwupamarametrowy konstruktor" />
-    <MESSAGE value=" Funkcja dodawania" />
-    <MESSAGE value="Funkcja odejmowania" />
-    <MESSAGE value="Funkcja mnożenia" />
-    <MESSAGE value="(a + bi)*(c + di) = (ac - bd) + (ad + bc)i" />
     <MESSAGE value="Funkcja zwiększająca część rzeczywistą o 1" />
     <MESSAGE value=" Funkcja show" />
     <MESSAGE value="Przykład użycia – Main.java" />
@@ -597,6 +592,11 @@
     <MESSAGE value="max 100 owoców (więcej nie potrzeba)" />
     <MESSAGE value="Zrywamy owoce aż uzbieramy 5000g" />
     <MESSAGE value="Liczymy, ile jest każdego rodzaju" />
-    <option name="LAST_COMMIT_MESSAGE" value="Liczymy, ile jest każdego rodzaju" />
+    <MESSAGE value=" Bazowa klasa Animal" />
+    <MESSAGE value="Ustawia species na &quot;Cat&quot;" />
+    <MESSAGE value="Podklasa dziedzicząca po klasie Animal" />
+    <MESSAGE value="Podklasa Dog dziedzicząca po klasie Animal" />
+    <MESSAGE value="Podklasa Krowa dziedzicząca po klasie Animal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Podklasa Krowa dziedzicząca po klasie Animal" />
   </component>
 </project>
