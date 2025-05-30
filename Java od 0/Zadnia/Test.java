@@ -2453,3 +2453,6 @@ class Animal {
 
 class Cat extends Animal {
     public Cat() {
+        super("Cat"); 
+    }
+    
