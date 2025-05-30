@@ -2450,3 +2450,6 @@ class Animal {
         System.out.println("Unknown");
     }
 }
+
+class Cat extends Animal {
+    public Cat() {
