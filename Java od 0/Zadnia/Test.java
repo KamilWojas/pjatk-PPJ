@@ -2434,4 +2434,10 @@ public class SadDemo {
         System.out.println("Liczba pomarańczy: " + liczbaPomaranczy);
         System.out.println("Liczba gruszek: " + liczbaGruszek);
     }
-} 
+}
+
+
+
+==========================================================================================
+class Animal {
+    protected String species;
