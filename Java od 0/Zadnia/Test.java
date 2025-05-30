@@ -2460,4 +2460,9 @@ class Cat extends Animal {
         System.out.println("Meow");
     }
 }
+
+class Dog extends Animal {
+    public Dog() {
+        super("Dog");
+    }
     
