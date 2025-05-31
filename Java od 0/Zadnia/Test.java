@@ -2488,11 +2488,10 @@ public class ZooDemo {
         zoo[0] = new Cat();
         zoo[1] = new Dog();
         zoo[2] = new Cow();
-    }
 
-    for (Animal animal : zoo) {
-        System.out.print(animal.species + " says: ");
-        animal.makeSound();
+        for (Animal animal : zoo) {
+            System.out.print(animal.species + " says: ");
+            animal.makeSound();
+        }
     }
-}
 }
