@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Podklasa Krowa dziedzicząca po klasie Animal" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wywołujemy makeSound() na każdym zwierzęciu" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,47 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="55258000" />
-    </task>
-    <task id="LOCAL-02225" summary="Klasa Drzewo (bazowa)">
-      <option name="closed" value="true" />
-      <created>1748292354013</created>
-      <option name="number" value="02225" />
-      <option name="presentableId" value="LOCAL-02225" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292354013</updated>
-    </task>
-    <task id="LOCAL-02226" summary="Klasa DrzewoIglaste">
-      <option name="closed" value="true" />
-      <created>1748292391899</created>
-      <option name="number" value="02226" />
-      <option name="presentableId" value="LOCAL-02226" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292391899</updated>
-    </task>
-    <task id="LOCAL-02227" summary="Klasa DrzewoIglaste">
-      <option name="closed" value="true" />
-      <created>1748292403868</created>
-      <option name="number" value="02227" />
-      <option name="presentableId" value="LOCAL-02227" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292403868</updated>
-    </task>
-    <task id="LOCAL-02228" summary="Klasa DrzewoIglaste">
-      <option name="closed" value="true" />
-      <created>1748292416219</created>
-      <option name="number" value="02228" />
-      <option name="presentableId" value="LOCAL-02228" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292416219</updated>
-    </task>
-    <task id="LOCAL-02229" summary="Klasa DrzewoLisciaste">
-      <option name="closed" value="true" />
-      <created>1748292434202</created>
-      <option name="number" value="02229" />
-      <option name="presentableId" value="LOCAL-02229" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292434202</updated>
+      <workItem from="1745779601674" duration="55942000" />
     </task>
     <task id="LOCAL-02230" summary="Klasa DrzewoLisciaste">
       <option name="closed" value="true" />
@@ -554,7 +514,47 @@
       <option name="project" value="LOCAL" />
       <updated>1748640350503</updated>
     </task>
-    <option name="localTasksCounter" value="2274" />
+    <task id="LOCAL-02274" summary="Podklasa Krowa dziedzicząca po klasie Animal">
+      <option name="closed" value="true" />
+      <created>1748640378135</created>
+      <option name="number" value="02274" />
+      <option name="presentableId" value="LOCAL-02274" />
+      <option name="project" value="LOCAL" />
+      <updated>1748640378135</updated>
+    </task>
+    <task id="LOCAL-02275" summary="Tablicę/zbiór zwierząt różnych gatunków,">
+      <option name="closed" value="true" />
+      <created>1748725867127</created>
+      <option name="number" value="02275" />
+      <option name="presentableId" value="LOCAL-02275" />
+      <option name="project" value="LOCAL" />
+      <updated>1748725867127</updated>
+    </task>
+    <task id="LOCAL-02276" summary="Tworzymy różne zwierzęta">
+      <option name="closed" value="true" />
+      <created>1748725884419</created>
+      <option name="number" value="02276" />
+      <option name="presentableId" value="LOCAL-02276" />
+      <option name="project" value="LOCAL" />
+      <updated>1748725884419</updated>
+    </task>
+    <task id="LOCAL-02277" summary="Wywołujemy makeSound() na każdym zwierzęciu">
+      <option name="closed" value="true" />
+      <created>1748725902036</created>
+      <option name="number" value="02277" />
+      <option name="presentableId" value="LOCAL-02277" />
+      <option name="project" value="LOCAL" />
+      <updated>1748725902036</updated>
+    </task>
+    <task id="LOCAL-02278" summary="Wywołujemy makeSound() na każdym zwierzęciu">
+      <option name="closed" value="true" />
+      <created>1748725923532</created>
+      <option name="number" value="02278" />
+      <option name="presentableId" value="LOCAL-02278" />
+      <option name="project" value="LOCAL" />
+      <updated>1748725923533</updated>
+    </task>
+    <option name="localTasksCounter" value="2279" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,9 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Funkcja zwiększająca część rzeczywistą o 1" />
-    <MESSAGE value=" Funkcja show" />
-    <MESSAGE value="Przykład użycia – Main.java" />
     <MESSAGE value="Trzy liczby zespolone" />
     <MESSAGE value="Klasa Drzewo (bazowa)" />
     <MESSAGE value="Klasa DrzewoIglaste" />
@@ -597,6 +594,9 @@
     <MESSAGE value="Podklasa dziedzicząca po klasie Animal" />
     <MESSAGE value="Podklasa Dog dziedzicząca po klasie Animal" />
     <MESSAGE value="Podklasa Krowa dziedzicząca po klasie Animal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Podklasa Krowa dziedzicząca po klasie Animal" />
+    <MESSAGE value="Tablicę/zbiór zwierząt różnych gatunków," />
+    <MESSAGE value="Tworzymy różne zwierzęta" />
+    <MESSAGE value="Wywołujemy makeSound() na każdym zwierzęciu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wywołujemy makeSound() na każdym zwierzęciu" />
   </component>
 </project>
