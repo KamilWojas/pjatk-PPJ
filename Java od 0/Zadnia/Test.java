@@ -2480,4 +2480,6 @@ class Cow extends Animal {
         System.out.println("Moo");
     }
 }
-    
+
+public class ZooDemo {
+    public static void main(String[] args) {
