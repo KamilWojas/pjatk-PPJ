@@ -2530,3 +2530,7 @@ class Bike extends Vehicle {
         System.out.println("The bike " + name + " is pedaling");
     }
 }
+class Boat extends Vehicle {
+    public Boat(String name) {
+        super(name);
+    }
