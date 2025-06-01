@@ -2505,3 +2505,8 @@ class Vehicle {
     public Vehicle(String name) {
         this.name = name;
     }
+
+    public void move() {
+        System.out.println("The vehicle is moving");
+    }
+}
