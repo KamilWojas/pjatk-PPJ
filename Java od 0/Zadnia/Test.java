@@ -2510,3 +2510,8 @@ class Vehicle {
         System.out.println("The vehicle is moving");
     }
 }
+
+class Car extends Vehicle {
+    public Car(String name) {
+        super(name);
+    }
