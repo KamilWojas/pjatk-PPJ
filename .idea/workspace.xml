@@ -160,15 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="55942000" />
-    </task>
-    <task id="LOCAL-02230" summary="Klasa DrzewoLisciaste">
-      <option name="closed" value="true" />
-      <created>1748292445142</created>
-      <option name="number" value="02230" />
-      <option name="presentableId" value="LOCAL-02230" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292445142</updated>
+      <workItem from="1745779601674" duration="56548000" />
     </task>
     <task id="LOCAL-02231" summary="Klasa DrzewoLisciaste">
       <option name="closed" value="true" />
@@ -554,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748725923533</updated>
     </task>
-    <option name="localTasksCounter" value="2279" />
+    <task id="LOCAL-02279" summary="Wywołujemy makeSound() na każdym zwierzęciu">
+      <option name="closed" value="true" />
+      <created>1748725936283</created>
+      <option name="number" value="02279" />
+      <option name="presentableId" value="LOCAL-02279" />
+      <option name="project" value="LOCAL" />
+      <updated>1748725936283</updated>
+    </task>
+    <option name="localTasksCounter" value="2280" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
