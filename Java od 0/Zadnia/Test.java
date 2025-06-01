@@ -2534,3 +2534,9 @@ class Boat extends Vehicle {
     public Boat(String name) {
         super(name);
     }
+
+    @Override
+    public void move() {
+        System.out.println("The boat " + name + " is sailing");
+    }
+}
