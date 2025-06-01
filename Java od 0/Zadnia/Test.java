@@ -2540,3 +2540,17 @@ class Boat extends Vehicle {
         System.out.println("The boat " + name + " is sailing");
     }
 }
+
+public class VehicleDemo {
+    public static void main(String[] args) {
+        Vehicle[] vehicles = {
+                new Car("Toyota"),
+                new Bike("BMX"),
+                new Boat("Titanic")
+        };
+
+        for (Vehicle v : vehicles) {
+            v.move();
+        }
+    }
+}
