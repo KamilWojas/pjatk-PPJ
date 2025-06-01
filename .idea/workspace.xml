@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wywołujemy makeSound() na każdym zwierzęciu" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wywołanie metody" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,95 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="56548000" />
-    </task>
-    <task id="LOCAL-02231" summary="Klasa DrzewoLisciaste">
-      <option name="closed" value="true" />
-      <created>1748292459132</created>
-      <option name="number" value="02231" />
-      <option name="presentableId" value="LOCAL-02231" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292459132</updated>
-    </task>
-    <task id="LOCAL-02232" summary=" Klasa DrzewoOwocowe">
-      <option name="closed" value="true" />
-      <created>1748292495969</created>
-      <option name="number" value="02232" />
-      <option name="presentableId" value="LOCAL-02232" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292495969</updated>
-    </task>
-    <task id="LOCAL-02233" summary=" Klasa DrzewoOwocowe">
-      <option name="closed" value="true" />
-      <created>1748292507250</created>
-      <option name="number" value="02233" />
-      <option name="presentableId" value="LOCAL-02233" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292507250</updated>
-    </task>
-    <task id="LOCAL-02234" summary=" Klasa DrzewoOwocowe">
-      <option name="closed" value="true" />
-      <created>1748292525338</created>
-      <option name="number" value="02234" />
-      <option name="presentableId" value="LOCAL-02234" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292525338</updated>
-    </task>
-    <task id="LOCAL-02235" summary="Przykład użycia – wszystko razem">
-      <option name="closed" value="true" />
-      <created>1748292549858</created>
-      <option name="number" value="02235" />
-      <option name="presentableId" value="LOCAL-02235" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292549858</updated>
-    </task>
-    <task id="LOCAL-02236" summary="Przykład użycia – wszystko razem">
-      <option name="closed" value="true" />
-      <created>1748292561190</created>
-      <option name="number" value="02236" />
-      <option name="presentableId" value="LOCAL-02236" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292561190</updated>
-    </task>
-    <task id="LOCAL-02237" summary="Przykład użycia – wszystko razem">
-      <option name="closed" value="true" />
-      <created>1748292578692</created>
-      <option name="number" value="02237" />
-      <option name="presentableId" value="LOCAL-02237" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292578692</updated>
-    </task>
-    <task id="LOCAL-02238" summary="Przykład użycia – wszystko razem">
-      <option name="closed" value="true" />
-      <created>1748292625347</created>
-      <option name="number" value="02238" />
-      <option name="presentableId" value="LOCAL-02238" />
-      <option name="project" value="LOCAL" />
-      <updated>1748292625347</updated>
-    </task>
-    <task id="LOCAL-02239" summary="Przykład użycia – wszystko razem">
-      <option name="closed" value="true" />
-      <created>1748380194690</created>
-      <option name="number" value="02239" />
-      <option name="presentableId" value="LOCAL-02239" />
-      <option name="project" value="LOCAL" />
-      <updated>1748380194690</updated>
-    </task>
-    <task id="LOCAL-02240" summary="Klasa bazowa Owoc">
-      <option name="closed" value="true" />
-      <created>1748380628762</created>
-      <option name="number" value="02240" />
-      <option name="presentableId" value="LOCAL-02240" />
-      <option name="project" value="LOCAL" />
-      <updated>1748380628762</updated>
-    </task>
-    <task id="LOCAL-02241" summary="losujemy masę od 100 do 250 gramów">
-      <option name="closed" value="true" />
-      <created>1748380658119</created>
-      <option name="number" value="02241" />
-      <option name="presentableId" value="LOCAL-02241" />
-      <option name="project" value="LOCAL" />
-      <updated>1748380658119</updated>
+      <workItem from="1745779601674" duration="57458000" />
     </task>
     <task id="LOCAL-02242" summary="gettery">
       <option name="closed" value="true" />
@@ -554,7 +466,95 @@
       <option name="project" value="LOCAL" />
       <updated>1748725936283</updated>
     </task>
-    <option name="localTasksCounter" value="2280" />
+    <task id="LOCAL-02280" summary="Wywołujemy makeSound() na każdym zwierzęciu">
+      <option name="closed" value="true" />
+      <created>1748791211061</created>
+      <option name="number" value="02280" />
+      <option name="presentableId" value="LOCAL-02280" />
+      <option name="project" value="LOCAL" />
+      <updated>1748791211061</updated>
+    </task>
+    <task id="LOCAL-02281" summary="Zadanie: Hierarchia pojazdów&#10;Treść:&#10;&#10;Utwórz klasę bazową Vehicle z polem String name oraz metodą move(), która wypisuje na ekranie &quot;The vehicle is moving&quot;.&#10;&#10;Utwórz klasy dziedziczące: Car, Bike, Boat. Każda z nich nadpisuje metodę move() tak, by wypisywała własny komunikat, np. &quot;The car is driving&quot;, &quot;The bike is pedaling&quot;, &quot;The boat is sailing&quot;.&#10;&#10;W metodzie main utwórz tablicę obiektów typu Vehicle i dodaj po jednym obiekcie każdego typu. Przeiteruj przez tablicę i wywołaj metodę move() na każdym obiekcie.">
+      <option name="closed" value="true" />
+      <created>1748814186969</created>
+      <option name="number" value="02281" />
+      <option name="presentableId" value="LOCAL-02281" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814186969</updated>
+    </task>
+    <task id="LOCAL-02282" summary="Klasa Vehicle">
+      <option name="closed" value="true" />
+      <created>1748814208183</created>
+      <option name="number" value="02282" />
+      <option name="presentableId" value="LOCAL-02282" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814208183</updated>
+    </task>
+    <task id="LOCAL-02283" summary="Metoda move">
+      <option name="closed" value="true" />
+      <created>1748814232328</created>
+      <option name="number" value="02283" />
+      <option name="presentableId" value="LOCAL-02283" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814232328</updated>
+    </task>
+    <task id="LOCAL-02284" summary="Klasa Car dziedzicząca po Vehicle">
+      <option name="closed" value="true" />
+      <created>1748814257912</created>
+      <option name="number" value="02284" />
+      <option name="presentableId" value="LOCAL-02284" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814257912</updated>
+    </task>
+    <task id="LOCAL-02285" summary="Przeciążenie metody move">
+      <option name="closed" value="true" />
+      <created>1748814280268</created>
+      <option name="number" value="02285" />
+      <option name="presentableId" value="LOCAL-02285" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814280268</updated>
+    </task>
+    <task id="LOCAL-02286" summary="Klasa Bike dziedzicząca po Vehicle">
+      <option name="closed" value="true" />
+      <created>1748814314851</created>
+      <option name="number" value="02286" />
+      <option name="presentableId" value="LOCAL-02286" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814314851</updated>
+    </task>
+    <task id="LOCAL-02287" summary="Przeciążenie metedy move">
+      <option name="closed" value="true" />
+      <created>1748814340601</created>
+      <option name="number" value="02287" />
+      <option name="presentableId" value="LOCAL-02287" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814340601</updated>
+    </task>
+    <task id="LOCAL-02288" summary="Klasa Boat dziedzicząca po Vehicle">
+      <option name="closed" value="true" />
+      <created>1748814371434</created>
+      <option name="number" value="02288" />
+      <option name="presentableId" value="LOCAL-02288" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814371434</updated>
+    </task>
+    <task id="LOCAL-02289" summary="Przeciążenie">
+      <option name="closed" value="true" />
+      <created>1748814388048</created>
+      <option name="number" value="02289" />
+      <option name="presentableId" value="LOCAL-02289" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814388048</updated>
+    </task>
+    <task id="LOCAL-02290" summary="Wywołanie metody">
+      <option name="closed" value="true" />
+      <created>1748814409971</created>
+      <option name="number" value="02290" />
+      <option name="presentableId" value="LOCAL-02290" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814409971</updated>
+    </task>
+    <option name="localTasksCounter" value="2291" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,16 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Trzy liczby zespolone" />
-    <MESSAGE value="Klasa Drzewo (bazowa)" />
-    <MESSAGE value="Klasa DrzewoIglaste" />
-    <MESSAGE value="Klasa DrzewoLisciaste" />
-    <MESSAGE value=" Klasa DrzewoOwocowe" />
-    <MESSAGE value="Przykład użycia – wszystko razem" />
-    <MESSAGE value="Klasa bazowa Owoc" />
-    <MESSAGE value="losujemy masę od 100 do 250 gramów" />
-    <MESSAGE value="gettery" />
-    <MESSAGE value="Podklasy: Jablko" />
     <MESSAGE value="Podklasy: Pomarancza" />
     <MESSAGE value="Podklasy: Gruszka" />
     <MESSAGE value=" Klasa Drzewo z metodą zrywającą owoc" />
@@ -597,6 +587,16 @@
     <MESSAGE value="Tablicę/zbiór zwierząt różnych gatunków," />
     <MESSAGE value="Tworzymy różne zwierzęta" />
     <MESSAGE value="Wywołujemy makeSound() na każdym zwierzęciu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wywołujemy makeSound() na każdym zwierzęciu" />
+    <MESSAGE value="Zadanie: Hierarchia pojazdów&#10;Treść:&#10;&#10;Utwórz klasę bazową Vehicle z polem String name oraz metodą move(), która wypisuje na ekranie &quot;The vehicle is moving&quot;.&#10;&#10;Utwórz klasy dziedziczące: Car, Bike, Boat. Każda z nich nadpisuje metodę move() tak, by wypisywała własny komunikat, np. &quot;The car is driving&quot;, &quot;The bike is pedaling&quot;, &quot;The boat is sailing&quot;.&#10;&#10;W metodzie main utwórz tablicę obiektów typu Vehicle i dodaj po jednym obiekcie każdego typu. Przeiteruj przez tablicę i wywołaj metodę move() na każdym obiekcie." />
+    <MESSAGE value="Klasa Vehicle" />
+    <MESSAGE value="Metoda move" />
+    <MESSAGE value="Klasa Car dziedzicząca po Vehicle" />
+    <MESSAGE value="Przeciążenie metody move" />
+    <MESSAGE value="Klasa Bike dziedzicząca po Vehicle" />
+    <MESSAGE value="Przeciążenie metedy move" />
+    <MESSAGE value="Klasa Boat dziedzicząca po Vehicle" />
+    <MESSAGE value="Przeciążenie" />
+    <MESSAGE value="Wywołanie metody" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wywołanie metody" />
   </component>
 </project>
