@@ -2515,3 +2515,7 @@ class Car extends Vehicle {
     public Car(String name) {
         super(name);
     }
+    public void move() {
+        System.out.println("The car " + name + " is driving");
+    }
+}
