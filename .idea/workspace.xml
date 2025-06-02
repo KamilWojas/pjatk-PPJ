@@ -160,15 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="57458000" />
-    </task>
-    <task id="LOCAL-02242" summary="gettery">
-      <option name="closed" value="true" />
-      <created>1748380687722</created>
-      <option name="number" value="02242" />
-      <option name="presentableId" value="LOCAL-02242" />
-      <option name="project" value="LOCAL" />
-      <updated>1748380687722</updated>
+      <workItem from="1745779601674" duration="58061000" />
     </task>
     <task id="LOCAL-02243" summary="Podklasy: Jablko">
       <option name="closed" value="true" />
@@ -554,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748814409971</updated>
     </task>
-    <option name="localTasksCounter" value="2291" />
+    <task id="LOCAL-02291" summary="Wywołanie metody">
+      <option name="closed" value="true" />
+      <created>1748814423611</created>
+      <option name="number" value="02291" />
+      <option name="presentableId" value="LOCAL-02291" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814423611</updated>
+    </task>
+    <option name="localTasksCounter" value="2292" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
