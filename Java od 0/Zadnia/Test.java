@@ -2560,3 +2560,7 @@ public class VehicleDemo {
 
 ==========================================================================================
 public class TablicaWarunek {
+
+    public static void sprawdzTablice(int[][] tab) throws Exception {
+        List<String> blednePozycje = new ArrayList<>();
+        int n = tab.length;
