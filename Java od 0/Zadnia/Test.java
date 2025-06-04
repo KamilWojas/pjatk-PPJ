@@ -2589,4 +2589,8 @@ public class TablicaWarunek {
                 tab[i][j] = rand.nextInt(6);
             }
         }
-        
+
+        System.out.println("Tablica:");
+        for (int[] wiersz : tab) {
+            System.out.println(Arrays.toString(wiersz));
+        }
