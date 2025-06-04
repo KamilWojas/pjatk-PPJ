@@ -2578,3 +2578,5 @@ public class TablicaWarunek {
             );
         }
     }
+
+    public static void main(String[] args) {
