@@ -2564,3 +2564,6 @@ public class TablicaWarunek {
     public static void sprawdzTablice(int[][] tab) throws Exception {
         List<String> blednePozycje = new ArrayList<>();
         int n = tab.length;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i != j && tab[i][j] != 0) {
