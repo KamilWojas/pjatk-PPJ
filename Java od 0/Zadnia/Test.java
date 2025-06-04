@@ -2598,3 +2598,8 @@ public class TablicaWarunek {
         try {
             sprawdzTablice(tab);
             System.out.println("Tablica spelnia wymagania.");
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        }
+    }
+}
