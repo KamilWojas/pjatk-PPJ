@@ -2580,3 +2580,6 @@ public class TablicaWarunek {
     }
 
     public static void main(String[] args) {
+        int n = 3;
+        int[][] tab = new int[n][n];
+        Random rand = new Random();
