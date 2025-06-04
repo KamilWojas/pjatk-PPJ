@@ -2594,3 +2594,7 @@ public class TablicaWarunek {
         for (int[] wiersz : tab) {
             System.out.println(Arrays.toString(wiersz));
         }
+
+        try {
+            sprawdzTablice(tab);
+            System.out.println("Tablica spelnia wymagania.");
