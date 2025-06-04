@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wywołanie metody" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Sprawdzamy warunek" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,119 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="58668000" />
-    </task>
-    <task id="LOCAL-02244" summary="Podklasy: Pomarancza">
-      <option name="closed" value="true" />
-      <created>1748380740027</created>
-      <option name="number" value="02244" />
-      <option name="presentableId" value="LOCAL-02244" />
-      <option name="project" value="LOCAL" />
-      <updated>1748380740027</updated>
-    </task>
-    <task id="LOCAL-02245" summary="Podklasy: Gruszka">
-      <option name="closed" value="true" />
-      <created>1748380756028</created>
-      <option name="number" value="02245" />
-      <option name="presentableId" value="LOCAL-02245" />
-      <option name="project" value="LOCAL" />
-      <updated>1748380756028</updated>
-    </task>
-    <task id="LOCAL-02246" summary=" Klasa Drzewo z metodą zrywającą owoc">
-      <option name="closed" value="true" />
-      <created>1748380778209</created>
-      <option name="number" value="02246" />
-      <option name="presentableId" value="LOCAL-02246" />
-      <option name="project" value="LOCAL" />
-      <updated>1748380778209</updated>
-    </task>
-    <task id="LOCAL-02247" summary=" Klasa Drzewo z metodą zrywającą owoc">
-      <option name="closed" value="true" />
-      <created>1748380798627</created>
-      <option name="number" value="02247" />
-      <option name="presentableId" value="LOCAL-02247" />
-      <option name="project" value="LOCAL" />
-      <updated>1748380798627</updated>
-    </task>
-    <task id="LOCAL-02248" summary=" Klasa Drzewo z metodą zrywającą owoc">
-      <option name="closed" value="true" />
-      <created>1748380814095</created>
-      <option name="number" value="02248" />
-      <option name="presentableId" value="LOCAL-02248" />
-      <option name="project" value="LOCAL" />
-      <updated>1748380814095</updated>
-    </task>
-    <task id="LOCAL-02249" summary=" Klasa Drzewo z metodą zrywającą owoc">
-      <option name="closed" value="true" />
-      <created>1748448126304</created>
-      <option name="number" value="02249" />
-      <option name="presentableId" value="LOCAL-02249" />
-      <option name="project" value="LOCAL" />
-      <updated>1748448126304</updated>
-    </task>
-    <task id="LOCAL-02250" summary=" Klasa Drzewo z metodą zrywającą owoc">
-      <option name="closed" value="true" />
-      <created>1748448133888</created>
-      <option name="number" value="02250" />
-      <option name="presentableId" value="LOCAL-02250" />
-      <option name="project" value="LOCAL" />
-      <updated>1748448133888</updated>
-    </task>
-    <task id="LOCAL-02251" summary=" Program zbierający owoce&#10;Musimy zrywać owoce i wrzucać je do tablicy, aż uzbieramy 5 kg (czyli 5000 gramów).">
-      <option name="closed" value="true" />
-      <created>1748448163901</created>
-      <option name="number" value="02251" />
-      <option name="presentableId" value="LOCAL-02251" />
-      <option name="project" value="LOCAL" />
-      <updated>1748448163901</updated>
-    </task>
-    <task id="LOCAL-02252" summary="max 100 owoców (więcej nie potrzeba)">
-      <option name="closed" value="true" />
-      <created>1748448188488</created>
-      <option name="number" value="02252" />
-      <option name="presentableId" value="LOCAL-02252" />
-      <option name="project" value="LOCAL" />
-      <updated>1748448188488</updated>
-    </task>
-    <task id="LOCAL-02253" summary="Zrywamy owoce aż uzbieramy 5000g">
-      <option name="closed" value="true" />
-      <created>1748448210140</created>
-      <option name="number" value="02253" />
-      <option name="presentableId" value="LOCAL-02253" />
-      <option name="project" value="LOCAL" />
-      <updated>1748448210140</updated>
-    </task>
-    <task id="LOCAL-02254" summary="Liczymy, ile jest każdego rodzaju">
-      <option name="closed" value="true" />
-      <created>1748448227305</created>
-      <option name="number" value="02254" />
-      <option name="presentableId" value="LOCAL-02254" />
-      <option name="project" value="LOCAL" />
-      <updated>1748448227305</updated>
-    </task>
-    <task id="LOCAL-02255" summary="Liczymy, ile jest każdego rodzaju">
-      <option name="closed" value="true" />
-      <created>1748448245309</created>
-      <option name="number" value="02255" />
-      <option name="presentableId" value="LOCAL-02255" />
-      <option name="project" value="LOCAL" />
-      <updated>1748448245309</updated>
-    </task>
-    <task id="LOCAL-02256" summary="Liczymy, ile jest każdego rodzaju">
-      <option name="closed" value="true" />
-      <created>1748448258044</created>
-      <option name="number" value="02256" />
-      <option name="presentableId" value="LOCAL-02256" />
-      <option name="project" value="LOCAL" />
-      <updated>1748448258044</updated>
-    </task>
-    <task id="LOCAL-02257" summary="Liczymy, ile jest każdego rodzaju">
-      <option name="closed" value="true" />
-      <created>1748448271109</created>
-      <option name="number" value="02257" />
-      <option name="presentableId" value="LOCAL-02257" />
-      <option name="project" value="LOCAL" />
-      <updated>1748448271109</updated>
+      <workItem from="1745779601674" duration="60324000" />
     </task>
     <task id="LOCAL-02258" summary="Liczymy, ile jest każdego rodzaju">
       <option name="closed" value="true" />
@@ -554,7 +442,119 @@
       <option name="project" value="LOCAL" />
       <updated>1748894707114</updated>
     </task>
-    <option name="localTasksCounter" value="2293" />
+    <task id="LOCAL-02293" summary="Wywołanie metody">
+      <option name="closed" value="true" />
+      <created>1748983818393</created>
+      <option name="number" value="02293" />
+      <option name="presentableId" value="LOCAL-02293" />
+      <option name="project" value="LOCAL" />
+      <updated>1748983818393</updated>
+    </task>
+    <task id="LOCAL-02294" summary="Wywołanie metody">
+      <option name="closed" value="true" />
+      <created>1748990405716</created>
+      <option name="number" value="02294" />
+      <option name="presentableId" value="LOCAL-02294" />
+      <option name="project" value="LOCAL" />
+      <updated>1748990405716</updated>
+    </task>
+    <task id="LOCAL-02295" summary="Metoda sprawdzająca warunek tablicy">
+      <option name="closed" value="true" />
+      <created>1749070437834</created>
+      <option name="number" value="02295" />
+      <option name="presentableId" value="LOCAL-02295" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070437834</updated>
+    </task>
+    <task id="LOCAL-02296" summary="Metoda sprawdzająca warunek tablicy">
+      <option name="closed" value="true" />
+      <created>1749070465451</created>
+      <option name="number" value="02296" />
+      <option name="presentableId" value="LOCAL-02296" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070465451</updated>
+    </task>
+    <task id="LOCAL-02297" summary="Metoda sprawdzająca warunek tablicy">
+      <option name="closed" value="true" />
+      <created>1749070476400</created>
+      <option name="number" value="02297" />
+      <option name="presentableId" value="LOCAL-02297" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070476400</updated>
+    </task>
+    <task id="LOCAL-02298" summary="Zapamiętaj pozycję z błędem">
+      <option name="closed" value="true" />
+      <created>1749070504204</created>
+      <option name="number" value="02298" />
+      <option name="presentableId" value="LOCAL-02298" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070504204</updated>
+    </task>
+    <task id="LOCAL-02299" summary="Zapamiętaj pozycję z błędem">
+      <option name="closed" value="true" />
+      <created>1749070518535</created>
+      <option name="number" value="02299" />
+      <option name="presentableId" value="LOCAL-02299" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070518535</updated>
+    </task>
+    <task id="LOCAL-02300" summary="rozmiar tablicy (3x3)">
+      <option name="closed" value="true" />
+      <created>1749070560823</created>
+      <option name="number" value="02300" />
+      <option name="presentableId" value="LOCAL-02300" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070560823</updated>
+    </task>
+    <task id="LOCAL-02301" summary="Wypełniamy losowymi wartościami 0–5">
+      <option name="closed" value="true" />
+      <created>1749070576623</created>
+      <option name="number" value="02301" />
+      <option name="presentableId" value="LOCAL-02301" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070576623</updated>
+    </task>
+    <task id="LOCAL-02302" summary="Wypełniamy losowymi wartościami 0–5">
+      <option name="closed" value="true" />
+      <created>1749070588858</created>
+      <option name="number" value="02302" />
+      <option name="presentableId" value="LOCAL-02302" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070588858</updated>
+    </task>
+    <task id="LOCAL-02303" summary="Wyświetlamy tablicę">
+      <option name="closed" value="true" />
+      <created>1749070604823</created>
+      <option name="number" value="02303" />
+      <option name="presentableId" value="LOCAL-02303" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070604823</updated>
+    </task>
+    <task id="LOCAL-02304" summary="Sprawdzamy warunek">
+      <option name="closed" value="true" />
+      <created>1749070623526</created>
+      <option name="number" value="02304" />
+      <option name="presentableId" value="LOCAL-02304" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070623526</updated>
+    </task>
+    <task id="LOCAL-02305" summary="Sprawdzamy warunek">
+      <option name="closed" value="true" />
+      <created>1749070634578</created>
+      <option name="number" value="02305" />
+      <option name="presentableId" value="LOCAL-02305" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070634578</updated>
+    </task>
+    <task id="LOCAL-02306" summary="Sprawdzamy warunek">
+      <option name="closed" value="true" />
+      <created>1749070645377</created>
+      <option name="number" value="02306" />
+      <option name="presentableId" value="LOCAL-02306" />
+      <option name="project" value="LOCAL" />
+      <updated>1749070645377</updated>
+    </task>
+    <option name="localTasksCounter" value="2307" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,12 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Podklasy: Pomarancza" />
-    <MESSAGE value="Podklasy: Gruszka" />
-    <MESSAGE value=" Klasa Drzewo z metodą zrywającą owoc" />
-    <MESSAGE value=" Program zbierający owoce&#10;Musimy zrywać owoce i wrzucać je do tablicy, aż uzbieramy 5 kg (czyli 5000 gramów)." />
-    <MESSAGE value="max 100 owoców (więcej nie potrzeba)" />
-    <MESSAGE value="Zrywamy owoce aż uzbieramy 5000g" />
     <MESSAGE value="Liczymy, ile jest każdego rodzaju" />
     <MESSAGE value=" Bazowa klasa Animal" />
     <MESSAGE value="Ustawia species na &quot;Cat&quot;" />
@@ -597,6 +591,12 @@
     <MESSAGE value="Klasa Boat dziedzicząca po Vehicle" />
     <MESSAGE value="Przeciążenie" />
     <MESSAGE value="Wywołanie metody" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wywołanie metody" />
+    <MESSAGE value="Metoda sprawdzająca warunek tablicy" />
+    <MESSAGE value="Zapamiętaj pozycję z błędem" />
+    <MESSAGE value="rozmiar tablicy (3x3)" />
+    <MESSAGE value="Wypełniamy losowymi wartościami 0–5" />
+    <MESSAGE value="Wyświetlamy tablicę" />
+    <MESSAGE value="Sprawdzamy warunek" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprawdzamy warunek" />
   </component>
 </project>
