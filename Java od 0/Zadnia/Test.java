@@ -2567,3 +2567,14 @@ public class TablicaWarunek {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 if (i != j && tab[i][j] != 0) {
+
+                    blednePozycje.add("[" + i + ", " + j + "]");
+                }
+            }
+        }
+        if (!blednePozycje.isEmpty()) {
+            throw new Exception(
+                    "Tablica nie spelnia wymagan, bledy na pozycjach " + String.join(", ", blednePozycje)
+            );
+        }
+    }
