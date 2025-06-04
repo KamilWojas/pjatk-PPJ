@@ -2602,4 +2602,4 @@ public class TablicaWarunek {
             System.out.println(e.getMessage());
         }
     }
-}
+} 
