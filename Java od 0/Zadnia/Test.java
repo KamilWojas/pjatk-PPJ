@@ -2635,6 +2635,11 @@ public class CiagnikSiodlowy extends PojazdKolowy{
        }
 
        public void rozpocznijJazde()throws Exception{
-           
+           double nacisk = masa/ getIloscOsi();
+           if (nacisk > 11.0){
+               throw new Exception("Jazda niebezpieczna, odmowa uruchomienia silnika");
+           }else {
+               System.out.println("Jazda dozwolna, silnik uruchomiony");
+           }
        }
 }
