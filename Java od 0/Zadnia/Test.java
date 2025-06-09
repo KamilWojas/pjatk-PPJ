@@ -2625,3 +2625,7 @@ public class PojazdKolowy extends Pojazd{
           this.iloscOsi = iloscOsi;
       }
 }
+
+public class CiagnikSiodlowy extends PojazdKolowy{
+       private double masa;
+}
