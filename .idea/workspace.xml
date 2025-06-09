@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Sprawdzamy warunek" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,95 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="62902000" />
-    </task>
-    <task id="LOCAL-02262" summary="Liczymy, ile jest każdego rodzaju">
-      <option name="closed" value="true" />
-      <created>1748549634499</created>
-      <option name="number" value="02262" />
-      <option name="presentableId" value="LOCAL-02262" />
-      <option name="project" value="LOCAL" />
-      <updated>1748549634499</updated>
-    </task>
-    <task id="LOCAL-02263" summary="Liczymy, ile jest każdego rodzaju">
-      <option name="closed" value="true" />
-      <created>1748637371794</created>
-      <option name="number" value="02263" />
-      <option name="presentableId" value="LOCAL-02263" />
-      <option name="project" value="LOCAL" />
-      <updated>1748637371794</updated>
-    </task>
-    <task id="LOCAL-02264" summary=" Bazowa klasa Animal">
-      <option name="closed" value="true" />
-      <created>1748640170072</created>
-      <option name="number" value="02264" />
-      <option name="presentableId" value="LOCAL-02264" />
-      <option name="project" value="LOCAL" />
-      <updated>1748640170072</updated>
-    </task>
-    <task id="LOCAL-02265" summary=" Bazowa klasa Animal">
-      <option name="closed" value="true" />
-      <created>1748640183673</created>
-      <option name="number" value="02265" />
-      <option name="presentableId" value="LOCAL-02265" />
-      <option name="project" value="LOCAL" />
-      <updated>1748640183673</updated>
-    </task>
-    <task id="LOCAL-02266" summary=" Bazowa klasa Animal">
-      <option name="closed" value="true" />
-      <created>1748640194490</created>
-      <option name="number" value="02266" />
-      <option name="presentableId" value="LOCAL-02266" />
-      <option name="project" value="LOCAL" />
-      <updated>1748640194490</updated>
-    </task>
-    <task id="LOCAL-02267" summary="Podklasa dziedzicząca po klasie Animal">
-      <option name="closed" value="true" />
-      <created>1748640237509</created>
-      <option name="number" value="02267" />
-      <option name="presentableId" value="LOCAL-02267" />
-      <option name="project" value="LOCAL" />
-      <updated>1748640237509</updated>
-    </task>
-    <task id="LOCAL-02268" summary="Ustawia species na &quot;Cat&quot;">
-      <option name="closed" value="true" />
-      <created>1748640267080</created>
-      <option name="number" value="02268" />
-      <option name="presentableId" value="LOCAL-02268" />
-      <option name="project" value="LOCAL" />
-      <updated>1748640267080</updated>
-    </task>
-    <task id="LOCAL-02269" summary="Podklasa dziedzicząca po klasie Animal">
-      <option name="closed" value="true" />
-      <created>1748640281209</created>
-      <option name="number" value="02269" />
-      <option name="presentableId" value="LOCAL-02269" />
-      <option name="project" value="LOCAL" />
-      <updated>1748640281209</updated>
-    </task>
-    <task id="LOCAL-02270" summary="Podklasa Dog dziedzicząca po klasie Animal">
-      <option name="closed" value="true" />
-      <created>1748640309129</created>
-      <option name="number" value="02270" />
-      <option name="presentableId" value="LOCAL-02270" />
-      <option name="project" value="LOCAL" />
-      <updated>1748640309129</updated>
-    </task>
-    <task id="LOCAL-02271" summary="Podklasa Dog dziedzicząca po klasie Animal">
-      <option name="closed" value="true" />
-      <created>1748640321449</created>
-      <option name="number" value="02271" />
-      <option name="presentableId" value="LOCAL-02271" />
-      <option name="project" value="LOCAL" />
-      <updated>1748640321449</updated>
-    </task>
-    <task id="LOCAL-02272" summary="Podklasa Krowa dziedzicząca po klasie Animal">
-      <option name="closed" value="true" />
-      <created>1748640340793</created>
-      <option name="number" value="02272" />
-      <option name="presentableId" value="LOCAL-02272" />
-      <option name="project" value="LOCAL" />
-      <updated>1748640340793</updated>
+      <workItem from="1745779601674" duration="64796000" />
     </task>
     <task id="LOCAL-02273" summary="Podklasa Krowa dziedzicząca po klasie Animal">
       <option name="closed" value="true" />
@@ -554,7 +466,95 @@
       <option name="project" value="LOCAL" />
       <updated>1749326532002</updated>
     </task>
-    <option name="localTasksCounter" value="2311" />
+    <task id="LOCAL-02311" summary="Sprawdzamy warunek">
+      <option name="closed" value="true" />
+      <created>1749394013527</created>
+      <option name="number" value="02311" />
+      <option name="presentableId" value="LOCAL-02311" />
+      <option name="project" value="LOCAL" />
+      <updated>1749394013527</updated>
+    </task>
+    <task id="LOCAL-02312" summary="Klasa bazowa Pojazd">
+      <option name="closed" value="true" />
+      <created>1749502009125</created>
+      <option name="number" value="02312" />
+      <option name="presentableId" value="LOCAL-02312" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502009125</updated>
+    </task>
+    <task id="LOCAL-02313" summary="konstruktor ustawia kolor">
+      <option name="closed" value="true" />
+      <created>1749502029205</created>
+      <option name="number" value="02313" />
+      <option name="presentableId" value="LOCAL-02313" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502029205</updated>
+    </task>
+    <task id="LOCAL-02314" summary="ile osi ma pojazd (prywatne pole)">
+      <option name="closed" value="true" />
+      <created>1749502086460</created>
+      <option name="number" value="02314" />
+      <option name="presentableId" value="LOCAL-02314" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502086460</updated>
+    </task>
+    <task id="LOCAL-02315" summary="wywołuje konstruktor z klasy Pojazd">
+      <option name="closed" value="true" />
+      <created>1749502140074</created>
+      <option name="number" value="02315" />
+      <option name="presentableId" value="LOCAL-02315" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502140074</updated>
+    </task>
+    <task id="LOCAL-02316" summary="masa pojazdu w tonach">
+      <option name="closed" value="true" />
+      <created>1749502219959</created>
+      <option name="number" value="02316" />
+      <option name="presentableId" value="LOCAL-02316" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502219959</updated>
+    </task>
+    <task id="LOCAL-02317" summary="wywołuje konstruktor z klasy nadrzędnej">
+      <option name="closed" value="true" />
+      <created>1749502374556</created>
+      <option name="number" value="02317" />
+      <option name="presentableId" value="LOCAL-02317" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502374556</updated>
+    </task>
+    <task id="LOCAL-02318" summary="Metoda sprawdzająca nacisk na oś">
+      <option name="closed" value="true" />
+      <created>1749502430789</created>
+      <option name="number" value="02318" />
+      <option name="presentableId" value="LOCAL-02318" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502430789</updated>
+    </task>
+    <task id="LOCAL-02319" summary="Metoda sprawdzająca nacisk na oś">
+      <option name="closed" value="true" />
+      <created>1749502546062</created>
+      <option name="number" value="02319" />
+      <option name="presentableId" value="LOCAL-02319" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502546062</updated>
+    </task>
+    <task id="LOCAL-02320" summary="Dodajemy getter do ilości osi (bo pole iloscOsi jest prywatne)">
+      <option name="closed" value="true" />
+      <created>1749502579079</created>
+      <option name="number" value="02320" />
+      <option name="presentableId" value="LOCAL-02320" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502579079</updated>
+    </task>
+    <task id="LOCAL-02321" summary="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej">
+      <option name="closed" value="true" />
+      <created>1749502608294</created>
+      <option name="number" value="02321" />
+      <option name="presentableId" value="LOCAL-02321" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502608294</updated>
+    </task>
+    <option name="localTasksCounter" value="2322" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,15 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Liczymy, ile jest każdego rodzaju" />
-    <MESSAGE value=" Bazowa klasa Animal" />
-    <MESSAGE value="Ustawia species na &quot;Cat&quot;" />
-    <MESSAGE value="Podklasa dziedzicząca po klasie Animal" />
-    <MESSAGE value="Podklasa Dog dziedzicząca po klasie Animal" />
-    <MESSAGE value="Podklasa Krowa dziedzicząca po klasie Animal" />
-    <MESSAGE value="Tablicę/zbiór zwierząt różnych gatunków," />
-    <MESSAGE value="Tworzymy różne zwierzęta" />
-    <MESSAGE value="Wywołujemy makeSound() na każdym zwierzęciu" />
     <MESSAGE value="Zadanie: Hierarchia pojazdów&#10;Treść:&#10;&#10;Utwórz klasę bazową Vehicle z polem String name oraz metodą move(), która wypisuje na ekranie &quot;The vehicle is moving&quot;.&#10;&#10;Utwórz klasy dziedziczące: Car, Bike, Boat. Każda z nich nadpisuje metodę move() tak, by wypisywała własny komunikat, np. &quot;The car is driving&quot;, &quot;The bike is pedaling&quot;, &quot;The boat is sailing&quot;.&#10;&#10;W metodzie main utwórz tablicę obiektów typu Vehicle i dodaj po jednym obiekcie każdego typu. Przeiteruj przez tablicę i wywołaj metodę move() na każdym obiekcie." />
     <MESSAGE value="Klasa Vehicle" />
     <MESSAGE value="Metoda move" />
@@ -597,6 +588,15 @@
     <MESSAGE value="Wypełniamy losowymi wartościami 0–5" />
     <MESSAGE value="Wyświetlamy tablicę" />
     <MESSAGE value="Sprawdzamy warunek" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprawdzamy warunek" />
+    <MESSAGE value="Klasa bazowa Pojazd" />
+    <MESSAGE value="konstruktor ustawia kolor" />
+    <MESSAGE value="ile osi ma pojazd (prywatne pole)" />
+    <MESSAGE value="wywołuje konstruktor z klasy Pojazd" />
+    <MESSAGE value="masa pojazdu w tonach" />
+    <MESSAGE value="wywołuje konstruktor z klasy nadrzędnej" />
+    <MESSAGE value="Metoda sprawdzająca nacisk na oś" />
+    <MESSAGE value="Dodajemy getter do ilości osi (bo pole iloscOsi jest prywatne)" />
+    <MESSAGE value="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej" />
   </component>
 </project>
