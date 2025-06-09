@@ -2642,4 +2642,8 @@ public class CiagnikSiodlowy extends PojazdKolowy{
                System.out.println("Jazda dozwolna, silnik uruchomiony");
            }
        }
+
+       public int getIloscOsi(){
+           
+       }
 }
