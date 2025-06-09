@@ -2603,3 +2603,16 @@ public class TablicaWarunek {
         }
     }
 } 
+        
+        
+        
+        
+==========================================================================================
+
+public class Pojazd{ 
+     String color;
+     
+     public Pojazd(String color){
+         
+     }
+}
