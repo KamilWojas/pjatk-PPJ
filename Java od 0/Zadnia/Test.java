@@ -2631,5 +2631,10 @@ public class CiagnikSiodlowy extends PojazdKolowy{
 
        public CiagnikSiodlowy(String color, int iloscOsi, double masa){
            super(color, iloscOsi);
+           this.masa = masa;
+       }
+
+       public void rozpocznijJazde()throws Exception{
+           
        }
 }
