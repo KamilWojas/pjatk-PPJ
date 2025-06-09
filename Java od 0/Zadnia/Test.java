@@ -2616,3 +2616,7 @@ public class Pojazd{
          this.color = color;
      }
 }
+
+public class PojazdKolowy extends Pojazd{
+      private int iloscOsi;
+}
