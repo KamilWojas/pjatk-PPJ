@@ -2628,4 +2628,8 @@ public class PojazdKolowy extends Pojazd{
 
 public class CiagnikSiodlowy extends PojazdKolowy{
        private double masa;
+
+       public CiagnikSiodlowy(String color, int iloscOsi, double masa){
+           super(color, iloscOsi);
+       }
 }
