@@ -2672,4 +2672,5 @@ public class BitowyZapis {
     public static void main(String[] args) {
         String inputFile = "bity.txt";
         String outputFile = "dane.bin";
+        int bitowaLiczba = 0;
     }
