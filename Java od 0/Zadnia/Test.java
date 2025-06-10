@@ -2651,3 +2651,8 @@ public class CiagnikSiodlowy extends PojazdKolowy{
 
 public class TestPojazdow {
     public static void main(String[] args) {
+        CiagnikSiodlowy tir = new CiagnikSiodlowy("czerwony", 2, 25);
+
+        try {
+            tir.rozpocznijJazde();
+    }
