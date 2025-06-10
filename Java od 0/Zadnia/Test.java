@@ -2695,3 +2695,5 @@ public class BitowyZapis {
             System.out.println("Rozmiar pliku tekstowego: " + plikTekstowy.length() + " bajtów");
             System.out.println("Rozmiar pliku binarnego: " + plikBinarny.length() + " bajtów");
 
+        } catch (IOException e) {
+            e.printStackTrace();
