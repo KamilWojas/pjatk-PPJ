@@ -2647,4 +2647,7 @@ public class CiagnikSiodlowy extends PojazdKolowy{
 
            return super.iloscOsi;
        }
-} 
+}
+
+public class TestPojazdow {
+    public static void main(String[] args) {
