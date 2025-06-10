@@ -2697,3 +2697,6 @@ public class BitowyZapis {
 
         } catch (IOException e) {
             e.printStackTrace();
+        }
+    }
+}
