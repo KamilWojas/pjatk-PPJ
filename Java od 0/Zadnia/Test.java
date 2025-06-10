@@ -2678,3 +2678,8 @@ public class BitowyZapis {
             int znak;
             while ((znak = reader.read()) != -1) {
                 if (znak == '0' || znak == '1') {
+
+                    bitowaLiczba = (bitowaLiczba << 1) | (znak - '0');
+                }
+            }
+                }
