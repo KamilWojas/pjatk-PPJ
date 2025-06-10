@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wywołanie" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przechowuje wartość binarną">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,55 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="66085000" />
-    </task>
-    <task id="LOCAL-02279" summary="Wywołujemy makeSound() na każdym zwierzęciu">
-      <option name="closed" value="true" />
-      <created>1748725936283</created>
-      <option name="number" value="02279" />
-      <option name="presentableId" value="LOCAL-02279" />
-      <option name="project" value="LOCAL" />
-      <updated>1748725936283</updated>
-    </task>
-    <task id="LOCAL-02280" summary="Wywołujemy makeSound() na każdym zwierzęciu">
-      <option name="closed" value="true" />
-      <created>1748791211061</created>
-      <option name="number" value="02280" />
-      <option name="presentableId" value="LOCAL-02280" />
-      <option name="project" value="LOCAL" />
-      <updated>1748791211061</updated>
-    </task>
-    <task id="LOCAL-02281" summary="Zadanie: Hierarchia pojazdów&#10;Treść:&#10;&#10;Utwórz klasę bazową Vehicle z polem String name oraz metodą move(), która wypisuje na ekranie &quot;The vehicle is moving&quot;.&#10;&#10;Utwórz klasy dziedziczące: Car, Bike, Boat. Każda z nich nadpisuje metodę move() tak, by wypisywała własny komunikat, np. &quot;The car is driving&quot;, &quot;The bike is pedaling&quot;, &quot;The boat is sailing&quot;.&#10;&#10;W metodzie main utwórz tablicę obiektów typu Vehicle i dodaj po jednym obiekcie każdego typu. Przeiteruj przez tablicę i wywołaj metodę move() na każdym obiekcie.">
-      <option name="closed" value="true" />
-      <created>1748814186969</created>
-      <option name="number" value="02281" />
-      <option name="presentableId" value="LOCAL-02281" />
-      <option name="project" value="LOCAL" />
-      <updated>1748814186969</updated>
-    </task>
-    <task id="LOCAL-02282" summary="Klasa Vehicle">
-      <option name="closed" value="true" />
-      <created>1748814208183</created>
-      <option name="number" value="02282" />
-      <option name="presentableId" value="LOCAL-02282" />
-      <option name="project" value="LOCAL" />
-      <updated>1748814208183</updated>
-    </task>
-    <task id="LOCAL-02283" summary="Metoda move">
-      <option name="closed" value="true" />
-      <created>1748814232328</created>
-      <option name="number" value="02283" />
-      <option name="presentableId" value="LOCAL-02283" />
-      <option name="project" value="LOCAL" />
-      <updated>1748814232328</updated>
-    </task>
-    <task id="LOCAL-02284" summary="Klasa Car dziedzicząca po Vehicle">
-      <option name="closed" value="true" />
-      <created>1748814257912</created>
-      <option name="number" value="02284" />
-      <option name="presentableId" value="LOCAL-02284" />
-      <option name="project" value="LOCAL" />
-      <updated>1748814257912</updated>
+      <workItem from="1745779601674" duration="68907000" />
     </task>
     <task id="LOCAL-02285" summary="Przeciążenie metody move">
       <option name="closed" value="true" />
@@ -554,7 +508,55 @@
       <option name="project" value="LOCAL" />
       <updated>1749591290235</updated>
     </task>
-    <option name="localTasksCounter" value="2328" />
+    <task id="LOCAL-02328" summary="Wywołanie">
+      <option name="closed" value="true" />
+      <created>1749591300522</created>
+      <option name="number" value="02328" />
+      <option name="presentableId" value="LOCAL-02328" />
+      <option name="project" value="LOCAL" />
+      <updated>1749591300522</updated>
+    </task>
+    <task id="LOCAL-02329" summary="Przygotuj w notatniku plik zawierajacy 31 zer i jedynek opisujacych liczbe. Nastep-nie napisz program, który odczyta znak po znaku warlysci z pliku i wykorzystujac operacje bitowe przechowa je w zmiennej. Nastepnie zapisz ta zmienna w postaci bajtowej do innego pliku i porównaj wielkosci obu plików.">
+      <option name="closed" value="true" />
+      <created>1749591450699</created>
+      <option name="number" value="02329" />
+      <option name="presentableId" value="LOCAL-02329" />
+      <option name="project" value="LOCAL" />
+      <updated>1749591450699</updated>
+    </task>
+    <task id="LOCAL-02330" summary="Przygotuj w notatniku plik zawierajacy 31 zer i jedynek opisujacych liczbe. Nastep-nie napisz program, który odczyta znak po znaku warlysci z pliku i wykorzystujac operacje bitowe przechowa je w zmiennej. Nastepnie zapisz ta zmienna w postaci bajtowej do innego pliku i porównaj wielkosci obu plików.">
+      <option name="closed" value="true" />
+      <created>1749591470116</created>
+      <option name="number" value="02330" />
+      <option name="presentableId" value="LOCAL-02330" />
+      <option name="project" value="LOCAL" />
+      <updated>1749591470116</updated>
+    </task>
+    <task id="LOCAL-02331" summary="Plik wejściowy (z bitami)">
+      <option name="closed" value="true" />
+      <created>1749591493849</created>
+      <option name="number" value="02331" />
+      <option name="presentableId" value="LOCAL-02331" />
+      <option name="project" value="LOCAL" />
+      <updated>1749591493849</updated>
+    </task>
+    <task id="LOCAL-02332" summary="Plik wyjściowy (binarny)">
+      <option name="closed" value="true" />
+      <created>1749591509299</created>
+      <option name="number" value="02332" />
+      <option name="presentableId" value="LOCAL-02332" />
+      <option name="project" value="LOCAL" />
+      <updated>1749591509299</updated>
+    </task>
+    <task id="LOCAL-02333" summary="Przechowuje wartość binarną">
+      <option name="closed" value="true" />
+      <created>1749591529367</created>
+      <option name="number" value="02333" />
+      <option name="presentableId" value="LOCAL-02333" />
+      <option name="project" value="LOCAL" />
+      <updated>1749591529367</updated>
+    </task>
+    <option name="localTasksCounter" value="2334" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,10 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Klasa Vehicle" />
-    <MESSAGE value="Metoda move" />
-    <MESSAGE value="Klasa Car dziedzicząca po Vehicle" />
-    <MESSAGE value="Przeciążenie metody move" />
     <MESSAGE value="Klasa Bike dziedzicząca po Vehicle" />
     <MESSAGE value="Przeciążenie metedy move" />
     <MESSAGE value="Klasa Boat dziedzicząca po Vehicle" />
@@ -597,6 +595,10 @@
     <MESSAGE value="Dodajemy getter do ilości osi (bo pole iloscOsi jest prywatne)" />
     <MESSAGE value="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej" />
     <MESSAGE value="Wywołanie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wywołanie" />
+    <MESSAGE value="Przygotuj w notatniku plik zawierajacy 31 zer i jedynek opisujacych liczbe. Nastep-nie napisz program, który odczyta znak po znaku warlysci z pliku i wykorzystujac operacje bitowe przechowa je w zmiennej. Nastepnie zapisz ta zmienna w postaci bajtowej do innego pliku i porównaj wielkosci obu plików." />
+    <MESSAGE value="Plik wejściowy (z bitami)" />
+    <MESSAGE value="Plik wyjściowy (binarny)" />
+    <MESSAGE value="Przechowuje wartość binarną" />
+    <option name="LAST_COMMIT_MESSAGE" value="Przechowuje wartość binarną" />
   </component>
 </project>

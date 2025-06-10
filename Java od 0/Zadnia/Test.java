@@ -2676,3 +2676,5 @@ public class BitowyZapis {
 
         try (BufferedReader reader = new BufferedReader(new FileReader(inputFile))) {
             int znak;
+            while ((znak = reader.read()) != -1) {
+                if (znak == '0' || znak == '1') {
