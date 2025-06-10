@@ -2682,4 +2682,5 @@ public class BitowyZapis {
                     bitowaLiczba = (bitowaLiczba << 1) | (znak - '0');
                 }
             }
-                }
+
+            System.out.println("Wartość liczby w systemie dziesiętnym: " + bitowaLiczba);
