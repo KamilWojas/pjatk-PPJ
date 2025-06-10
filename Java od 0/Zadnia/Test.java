@@ -2673,4 +2673,6 @@ public class BitowyZapis {
         String inputFile = "bity.txt";
         String outputFile = "dane.bin";
         int bitowaLiczba = 0;
-    }
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(inputFile))) {
+            int znak;
