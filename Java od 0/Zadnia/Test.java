@@ -2667,3 +2667,6 @@ public class TestPojazdow {
 // Nastep-nie napisz program, który odczyta znak po znaku 
 // warlysci z pliku i wykorzystujac operacje bitowe przechowa je w zmiennej. 
 // Nastepnie zapisz ta zmienna w postaci bajtowej do innego pliku i porównaj wielkosci obu plików.
+
+public class BitowyZapis {
+    public static void main(String[] args) {
