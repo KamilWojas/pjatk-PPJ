@@ -2688,3 +2688,5 @@ public class BitowyZapis {
             try (DataOutputStream out = new DataOutputStream(new FileOutputStream(outputFile))) {
                 out.writeInt(bitowaLiczba);
             }
+
+            File plikTekstowy = new File(inputFile);
