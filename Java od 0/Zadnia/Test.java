@@ -2647,4 +2647,4 @@ public class CiagnikSiodlowy extends PojazdKolowy{
 
            return super.iloscOsi;
        }
-}
+} 
