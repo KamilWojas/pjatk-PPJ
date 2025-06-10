@@ -2691,3 +2691,5 @@ public class BitowyZapis {
 
             File plikTekstowy = new File(inputFile);
             File plikBinarny = new File(outputFile);
+
+            System.out.println("Rozmiar pliku tekstowego: " + plikTekstowy.length() + " bajtów");
