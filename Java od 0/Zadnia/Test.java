@@ -2684,3 +2684,7 @@ public class BitowyZapis {
             }
 
             System.out.println("Wartość liczby w systemie dziesiętnym: " + bitowaLiczba);
+
+            try (DataOutputStream out = new DataOutputStream(new FileOutputStream(outputFile))) {
+                out.writeInt(bitowaLiczba);
+            }
