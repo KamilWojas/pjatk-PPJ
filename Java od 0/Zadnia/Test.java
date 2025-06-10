@@ -2655,4 +2655,5 @@ public class TestPojazdow {
 
         try {
             tir.rozpocznijJazde();
+        } catch (Exception e) {
     }
