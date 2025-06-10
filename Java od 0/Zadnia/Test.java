@@ -2670,3 +2670,5 @@ public class TestPojazdow {
 
 public class BitowyZapis {
     public static void main(String[] args) {
+        String inputFile = "bity.txt";
+    }
