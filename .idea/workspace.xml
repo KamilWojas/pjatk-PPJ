@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Wywołanie" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,55 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="64796000" />
-    </task>
-    <task id="LOCAL-02273" summary="Podklasa Krowa dziedzicząca po klasie Animal">
-      <option name="closed" value="true" />
-      <created>1748640350503</created>
-      <option name="number" value="02273" />
-      <option name="presentableId" value="LOCAL-02273" />
-      <option name="project" value="LOCAL" />
-      <updated>1748640350503</updated>
-    </task>
-    <task id="LOCAL-02274" summary="Podklasa Krowa dziedzicząca po klasie Animal">
-      <option name="closed" value="true" />
-      <created>1748640378135</created>
-      <option name="number" value="02274" />
-      <option name="presentableId" value="LOCAL-02274" />
-      <option name="project" value="LOCAL" />
-      <updated>1748640378135</updated>
-    </task>
-    <task id="LOCAL-02275" summary="Tablicę/zbiór zwierząt różnych gatunków,">
-      <option name="closed" value="true" />
-      <created>1748725867127</created>
-      <option name="number" value="02275" />
-      <option name="presentableId" value="LOCAL-02275" />
-      <option name="project" value="LOCAL" />
-      <updated>1748725867127</updated>
-    </task>
-    <task id="LOCAL-02276" summary="Tworzymy różne zwierzęta">
-      <option name="closed" value="true" />
-      <created>1748725884419</created>
-      <option name="number" value="02276" />
-      <option name="presentableId" value="LOCAL-02276" />
-      <option name="project" value="LOCAL" />
-      <updated>1748725884419</updated>
-    </task>
-    <task id="LOCAL-02277" summary="Wywołujemy makeSound() na każdym zwierzęciu">
-      <option name="closed" value="true" />
-      <created>1748725902036</created>
-      <option name="number" value="02277" />
-      <option name="presentableId" value="LOCAL-02277" />
-      <option name="project" value="LOCAL" />
-      <updated>1748725902036</updated>
-    </task>
-    <task id="LOCAL-02278" summary="Wywołujemy makeSound() na każdym zwierzęciu">
-      <option name="closed" value="true" />
-      <created>1748725923532</created>
-      <option name="number" value="02278" />
-      <option name="presentableId" value="LOCAL-02278" />
-      <option name="project" value="LOCAL" />
-      <updated>1748725923533</updated>
+      <workItem from="1745779601674" duration="66085000" />
     </task>
     <task id="LOCAL-02279" summary="Wywołujemy makeSound() na każdym zwierzęciu">
       <option name="closed" value="true" />
@@ -554,7 +506,55 @@
       <option name="project" value="LOCAL" />
       <updated>1749502608294</updated>
     </task>
-    <option name="localTasksCounter" value="2322" />
+    <task id="LOCAL-02322" summary="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej">
+      <option name="closed" value="true" />
+      <created>1749502630412</created>
+      <option name="number" value="02322" />
+      <option name="presentableId" value="LOCAL-02322" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502630412</updated>
+    </task>
+    <task id="LOCAL-02323" summary="Wywołanie">
+      <option name="closed" value="true" />
+      <created>1749591221766</created>
+      <option name="number" value="02323" />
+      <option name="presentableId" value="LOCAL-02323" />
+      <option name="project" value="LOCAL" />
+      <updated>1749591221766</updated>
+    </task>
+    <task id="LOCAL-02324" summary="Wywołanie">
+      <option name="closed" value="true" />
+      <created>1749591234801</created>
+      <option name="number" value="02324" />
+      <option name="presentableId" value="LOCAL-02324" />
+      <option name="project" value="LOCAL" />
+      <updated>1749591234801</updated>
+    </task>
+    <task id="LOCAL-02325" summary="Wywołanie">
+      <option name="closed" value="true" />
+      <created>1749591264801</created>
+      <option name="number" value="02325" />
+      <option name="presentableId" value="LOCAL-02325" />
+      <option name="project" value="LOCAL" />
+      <updated>1749591264801</updated>
+    </task>
+    <task id="LOCAL-02326" summary="Wywołanie">
+      <option name="closed" value="true" />
+      <created>1749591276732</created>
+      <option name="number" value="02326" />
+      <option name="presentableId" value="LOCAL-02326" />
+      <option name="project" value="LOCAL" />
+      <updated>1749591276732</updated>
+    </task>
+    <task id="LOCAL-02327" summary="Wywołanie">
+      <option name="closed" value="true" />
+      <created>1749591290235</created>
+      <option name="number" value="02327" />
+      <option name="presentableId" value="LOCAL-02327" />
+      <option name="project" value="LOCAL" />
+      <updated>1749591290235</updated>
+    </task>
+    <option name="localTasksCounter" value="2328" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie: Hierarchia pojazdów&#10;Treść:&#10;&#10;Utwórz klasę bazową Vehicle z polem String name oraz metodą move(), która wypisuje na ekranie &quot;The vehicle is moving&quot;.&#10;&#10;Utwórz klasy dziedziczące: Car, Bike, Boat. Każda z nich nadpisuje metodę move() tak, by wypisywała własny komunikat, np. &quot;The car is driving&quot;, &quot;The bike is pedaling&quot;, &quot;The boat is sailing&quot;.&#10;&#10;W metodzie main utwórz tablicę obiektów typu Vehicle i dodaj po jednym obiekcie każdego typu. Przeiteruj przez tablicę i wywołaj metodę move() na każdym obiekcie." />
     <MESSAGE value="Klasa Vehicle" />
     <MESSAGE value="Metoda move" />
     <MESSAGE value="Klasa Car dziedzicząca po Vehicle" />
@@ -597,6 +596,7 @@
     <MESSAGE value="Metoda sprawdzająca nacisk na oś" />
     <MESSAGE value="Dodajemy getter do ilości osi (bo pole iloscOsi jest prywatne)" />
     <MESSAGE value="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej" />
+    <MESSAGE value="Wywołanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wywołanie" />
   </component>
 </project>
