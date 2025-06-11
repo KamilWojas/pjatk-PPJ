@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Przechowuje wartość binarną">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Zadnia/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Porównaj rozmiary plików" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,95 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="68907000" />
-    </task>
-    <task id="LOCAL-02285" summary="Przeciążenie metody move">
-      <option name="closed" value="true" />
-      <created>1748814280268</created>
-      <option name="number" value="02285" />
-      <option name="presentableId" value="LOCAL-02285" />
-      <option name="project" value="LOCAL" />
-      <updated>1748814280268</updated>
-    </task>
-    <task id="LOCAL-02286" summary="Klasa Bike dziedzicząca po Vehicle">
-      <option name="closed" value="true" />
-      <created>1748814314851</created>
-      <option name="number" value="02286" />
-      <option name="presentableId" value="LOCAL-02286" />
-      <option name="project" value="LOCAL" />
-      <updated>1748814314851</updated>
-    </task>
-    <task id="LOCAL-02287" summary="Przeciążenie metedy move">
-      <option name="closed" value="true" />
-      <created>1748814340601</created>
-      <option name="number" value="02287" />
-      <option name="presentableId" value="LOCAL-02287" />
-      <option name="project" value="LOCAL" />
-      <updated>1748814340601</updated>
-    </task>
-    <task id="LOCAL-02288" summary="Klasa Boat dziedzicząca po Vehicle">
-      <option name="closed" value="true" />
-      <created>1748814371434</created>
-      <option name="number" value="02288" />
-      <option name="presentableId" value="LOCAL-02288" />
-      <option name="project" value="LOCAL" />
-      <updated>1748814371434</updated>
-    </task>
-    <task id="LOCAL-02289" summary="Przeciążenie">
-      <option name="closed" value="true" />
-      <created>1748814388048</created>
-      <option name="number" value="02289" />
-      <option name="presentableId" value="LOCAL-02289" />
-      <option name="project" value="LOCAL" />
-      <updated>1748814388048</updated>
-    </task>
-    <task id="LOCAL-02290" summary="Wywołanie metody">
-      <option name="closed" value="true" />
-      <created>1748814409971</created>
-      <option name="number" value="02290" />
-      <option name="presentableId" value="LOCAL-02290" />
-      <option name="project" value="LOCAL" />
-      <updated>1748814409971</updated>
-    </task>
-    <task id="LOCAL-02291" summary="Wywołanie metody">
-      <option name="closed" value="true" />
-      <created>1748814423611</created>
-      <option name="number" value="02291" />
-      <option name="presentableId" value="LOCAL-02291" />
-      <option name="project" value="LOCAL" />
-      <updated>1748814423611</updated>
-    </task>
-    <task id="LOCAL-02292" summary="Wywołanie metody">
-      <option name="closed" value="true" />
-      <created>1748894707114</created>
-      <option name="number" value="02292" />
-      <option name="presentableId" value="LOCAL-02292" />
-      <option name="project" value="LOCAL" />
-      <updated>1748894707114</updated>
-    </task>
-    <task id="LOCAL-02293" summary="Wywołanie metody">
-      <option name="closed" value="true" />
-      <created>1748983818393</created>
-      <option name="number" value="02293" />
-      <option name="presentableId" value="LOCAL-02293" />
-      <option name="project" value="LOCAL" />
-      <updated>1748983818393</updated>
-    </task>
-    <task id="LOCAL-02294" summary="Wywołanie metody">
-      <option name="closed" value="true" />
-      <created>1748990405716</created>
-      <option name="number" value="02294" />
-      <option name="presentableId" value="LOCAL-02294" />
-      <option name="project" value="LOCAL" />
-      <updated>1748990405716</updated>
-    </task>
-    <task id="LOCAL-02295" summary="Metoda sprawdzająca warunek tablicy">
-      <option name="closed" value="true" />
-      <created>1749070437834</created>
-      <option name="number" value="02295" />
-      <option name="presentableId" value="LOCAL-02295" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070437834</updated>
+      <workItem from="1745779601674" duration="69673000" />
     </task>
     <task id="LOCAL-02296" summary="Metoda sprawdzająca warunek tablicy">
       <option name="closed" value="true" />
@@ -556,7 +466,95 @@
       <option name="project" value="LOCAL" />
       <updated>1749591529367</updated>
     </task>
-    <option name="localTasksCounter" value="2334" />
+    <task id="LOCAL-02334" summary="Przechowuje wartość binarną">
+      <option name="closed" value="true" />
+      <created>1749594799425</created>
+      <option name="number" value="02334" />
+      <option name="presentableId" value="LOCAL-02334" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594799425</updated>
+    </task>
+    <task id="LOCAL-02335" summary="Przechowuje wartość binarną">
+      <option name="closed" value="true" />
+      <created>1749594811281</created>
+      <option name="number" value="02335" />
+      <option name="presentableId" value="LOCAL-02335" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594811281</updated>
+    </task>
+    <task id="LOCAL-02336" summary="Przesuń bity w lewo i dodaj bieżący bit">
+      <option name="closed" value="true" />
+      <created>1749594835480</created>
+      <option name="number" value="02336" />
+      <option name="presentableId" value="LOCAL-02336" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594835480</updated>
+    </task>
+    <task id="LOCAL-02337" summary="Przesuń bity w lewo i dodaj bieżący bit">
+      <option name="closed" value="true" />
+      <created>1749594848283</created>
+      <option name="number" value="02337" />
+      <option name="presentableId" value="LOCAL-02337" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594848283</updated>
+    </task>
+    <task id="LOCAL-02338" summary="Zapisz liczbę do pliku binarnego (jako 4 bajty = 32 bity)">
+      <option name="closed" value="true" />
+      <created>1749594865382</created>
+      <option name="number" value="02338" />
+      <option name="presentableId" value="LOCAL-02338" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594865382</updated>
+    </task>
+    <task id="LOCAL-02339" summary="Porównaj rozmiary plików">
+      <option name="closed" value="true" />
+      <created>1749594887019</created>
+      <option name="number" value="02339" />
+      <option name="presentableId" value="LOCAL-02339" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594887019</updated>
+    </task>
+    <task id="LOCAL-02340" summary="Porównaj rozmiary plików">
+      <option name="closed" value="true" />
+      <created>1749594896771</created>
+      <option name="number" value="02340" />
+      <option name="presentableId" value="LOCAL-02340" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594896771</updated>
+    </task>
+    <task id="LOCAL-02341" summary="Porównaj rozmiary plików">
+      <option name="closed" value="true" />
+      <created>1749594908868</created>
+      <option name="number" value="02341" />
+      <option name="presentableId" value="LOCAL-02341" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594908868</updated>
+    </task>
+    <task id="LOCAL-02342" summary="Porównaj rozmiary plików">
+      <option name="closed" value="true" />
+      <created>1749594919700</created>
+      <option name="number" value="02342" />
+      <option name="presentableId" value="LOCAL-02342" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594919700</updated>
+    </task>
+    <task id="LOCAL-02343" summary="Porównaj rozmiary plików">
+      <option name="closed" value="true" />
+      <created>1749594930203</created>
+      <option name="number" value="02343" />
+      <option name="presentableId" value="LOCAL-02343" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594930203</updated>
+    </task>
+    <task id="LOCAL-02344" summary="Porównaj rozmiary plików">
+      <option name="closed" value="true" />
+      <created>1749594941769</created>
+      <option name="number" value="02344" />
+      <option name="presentableId" value="LOCAL-02344" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594941769</updated>
+    </task>
+    <option name="localTasksCounter" value="2345" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,9 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Klasa Bike dziedzicząca po Vehicle" />
-    <MESSAGE value="Przeciążenie metedy move" />
-    <MESSAGE value="Klasa Boat dziedzicząca po Vehicle" />
     <MESSAGE value="Przeciążenie" />
     <MESSAGE value="Wywołanie metody" />
     <MESSAGE value="Metoda sprawdzająca warunek tablicy" />
@@ -599,6 +594,9 @@
     <MESSAGE value="Plik wejściowy (z bitami)" />
     <MESSAGE value="Plik wyjściowy (binarny)" />
     <MESSAGE value="Przechowuje wartość binarną" />
-    <option name="LAST_COMMIT_MESSAGE" value="Przechowuje wartość binarną" />
+    <MESSAGE value="Przesuń bity w lewo i dodaj bieżący bit" />
+    <MESSAGE value="Zapisz liczbę do pliku binarnego (jako 4 bajty = 32 bity)" />
+    <MESSAGE value="Porównaj rozmiary plików" />
+    <option name="LAST_COMMIT_MESSAGE" value="Porównaj rozmiary plików" />
   </component>
 </project>
