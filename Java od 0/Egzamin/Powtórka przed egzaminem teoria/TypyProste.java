@@ -38,5 +38,10 @@ public class TypyProste {
         double maxDouble = 1.7e308;
 
         //char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535
+        char znakMinimalny = 0;            // kod Unicode 0
+        char znakMaksymalny = 65535;       // kod Unicode max
+        char hexChar = 0xFFFF;             // 65535 w hex
+        char litera = 'A';                 // można też bezpośrednio literę
+
     }
 }
