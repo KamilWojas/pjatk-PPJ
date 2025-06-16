@@ -23,5 +23,7 @@ public class TypyProste {
         int maxInt = 2147483647;
         int hexInt = 0x7FFFFFFF;
         int binInt = 0b01111111111111111111111111111111;
+
+        // long: -2^63 do 2^63-1
     }
 }
