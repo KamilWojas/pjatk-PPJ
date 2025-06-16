@@ -19,5 +19,9 @@ public class TypyProste {
         short octShort = 0777777; //32767 (ósemkowy)
 
         //int: -2_147_483_648 do 2_147_483_647
+        int minInt = -2147483648;
+        int maxInt = 2147483647;
+        int hexInt = 0x7FFFFFFF;
+        int binInt = 0b01111111111111111111111111111111;
     }
 }
