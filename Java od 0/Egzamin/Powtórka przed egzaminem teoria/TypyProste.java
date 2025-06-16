@@ -32,5 +32,7 @@ public class TypyProste {
         // float – liczby zmiennoprzecinkowe (z f na końcu)
         float minFloat = -3.4e38f;
         float maxFloat = 3.4e38f;
+
+        // double – większy zakres niż float
     }
 }
