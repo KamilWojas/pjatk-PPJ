@@ -36,5 +36,7 @@ public class TypyProste {
         //double – większy zakres niż float
         double minDouble = -1.7e308;
         double maxDouble = 1.7e308;
+
+        //char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535
     }
 }
