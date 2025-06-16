@@ -43,5 +43,10 @@ public class TypyProste {
         char hexChar = 0xFFFF;             // 65535 w hex
         char litera = 'A';                 // można też bezpośrednio literę
 
+        System.out.println("Największy byte (binarnie): " + binarnyByte);
+        System.out.println("Największy short (hex): " + hexShort);
+        System.out.println("Największy int (bin): " + binInt);
+        System.out.println("Największy long (hex): " + hexLong);
+        System.out.println("Litera: " + litera);
     }
 }
