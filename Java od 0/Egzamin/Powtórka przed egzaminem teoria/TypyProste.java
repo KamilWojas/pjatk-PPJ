@@ -25,5 +25,8 @@ public class TypyProste {
         int binInt = 0b01111111111111111111111111111111;
 
         // long: -2^63 do 2^63-1
+        long minLong = -9223372036854775808L; //musimy dodać L
+        long maxLong = 9223372036854775807L;
+        long hexLong = 0x7FFFFFFFFFFFFFFFL;
     }
 }
