@@ -28,5 +28,9 @@ public class TypyProste {
         long minLong = -9223372036854775808L; //musimy dodać L
         long maxLong = 9223372036854775807L;
         long hexLong = 0x7FFFFFFFFFFFFFFFL;
+
+        // float – liczby zmiennoprzecinkowe (z f na końcu)
+        float minFloat = -3.4e38f;
+        float maxFloat = 3.4e38f;
     }
 }
