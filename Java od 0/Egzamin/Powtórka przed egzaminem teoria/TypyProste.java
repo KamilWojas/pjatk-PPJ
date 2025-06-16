@@ -24,15 +24,17 @@ public class TypyProste {
         int hexInt = 0x7FFFFFFF;
         int binInt = 0b01111111111111111111111111111111;
 
-        // long: -2^63 do 2^63-1
+        //long: -2^63 do 2^63-1
         long minLong = -9223372036854775808L; //musimy dodać L
         long maxLong = 9223372036854775807L;
         long hexLong = 0x7FFFFFFFFFFFFFFFL;
 
-        // float – liczby zmiennoprzecinkowe (z f na końcu)
+        //float – liczby zmiennoprzecinkowe (z f na końcu)
         float minFloat = -3.4e38f;
         float maxFloat = 3.4e38f;
 
-        // double – większy zakres niż float
+        //double – większy zakres niż float
+        double minDouble = -1.7e308;
+        double maxDouble = 1.7e308;
     }
 }
