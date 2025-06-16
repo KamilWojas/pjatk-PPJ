@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Porównaj rozmiary plików" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Porównaj rozmiary plików">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Powtórka przed egzaminem teoria/TypyProste.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,47 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="69673000" />
-    </task>
-    <task id="LOCAL-02296" summary="Metoda sprawdzająca warunek tablicy">
-      <option name="closed" value="true" />
-      <created>1749070465451</created>
-      <option name="number" value="02296" />
-      <option name="presentableId" value="LOCAL-02296" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070465451</updated>
-    </task>
-    <task id="LOCAL-02297" summary="Metoda sprawdzająca warunek tablicy">
-      <option name="closed" value="true" />
-      <created>1749070476400</created>
-      <option name="number" value="02297" />
-      <option name="presentableId" value="LOCAL-02297" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070476400</updated>
-    </task>
-    <task id="LOCAL-02298" summary="Zapamiętaj pozycję z błędem">
-      <option name="closed" value="true" />
-      <created>1749070504204</created>
-      <option name="number" value="02298" />
-      <option name="presentableId" value="LOCAL-02298" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070504204</updated>
-    </task>
-    <task id="LOCAL-02299" summary="Zapamiętaj pozycję z błędem">
-      <option name="closed" value="true" />
-      <created>1749070518535</created>
-      <option name="number" value="02299" />
-      <option name="presentableId" value="LOCAL-02299" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070518535</updated>
-    </task>
-    <task id="LOCAL-02300" summary="rozmiar tablicy (3x3)">
-      <option name="closed" value="true" />
-      <created>1749070560823</created>
-      <option name="number" value="02300" />
-      <option name="presentableId" value="LOCAL-02300" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070560823</updated>
+      <workItem from="1745779601674" duration="74640000" />
     </task>
     <task id="LOCAL-02301" summary="Wypełniamy losowymi wartościami 0–5">
       <option name="closed" value="true" />
@@ -554,7 +516,47 @@
       <option name="project" value="LOCAL" />
       <updated>1749594941769</updated>
     </task>
-    <option name="localTasksCounter" value="2345" />
+    <task id="LOCAL-02345" summary="Porównaj rozmiary plików">
+      <option name="closed" value="true" />
+      <created>1749678970565</created>
+      <option name="number" value="02345" />
+      <option name="presentableId" value="LOCAL-02345" />
+      <option name="project" value="LOCAL" />
+      <updated>1749678970565</updated>
+    </task>
+    <task id="LOCAL-02346" summary="Porównaj rozmiary plików">
+      <option name="closed" value="true" />
+      <created>1749759895717</created>
+      <option name="number" value="02346" />
+      <option name="presentableId" value="LOCAL-02346" />
+      <option name="project" value="LOCAL" />
+      <updated>1749759895717</updated>
+    </task>
+    <task id="LOCAL-02347" summary="Porównaj rozmiary plików">
+      <option name="closed" value="true" />
+      <created>1749833926381</created>
+      <option name="number" value="02347" />
+      <option name="presentableId" value="LOCAL-02347" />
+      <option name="project" value="LOCAL" />
+      <updated>1749833926381</updated>
+    </task>
+    <task id="LOCAL-02348" summary="Porównaj rozmiary plików">
+      <option name="closed" value="true" />
+      <created>1749936545795</created>
+      <option name="number" value="02348" />
+      <option name="presentableId" value="LOCAL-02348" />
+      <option name="project" value="LOCAL" />
+      <updated>1749936545795</updated>
+    </task>
+    <task id="LOCAL-02349" summary="Porównaj rozmiary plików">
+      <option name="closed" value="true" />
+      <created>1750020823242</created>
+      <option name="number" value="02349" />
+      <option name="presentableId" value="LOCAL-02349" />
+      <option name="project" value="LOCAL" />
+      <updated>1750020823242</updated>
+    </task>
+    <option name="localTasksCounter" value="2350" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
