@@ -13,5 +13,9 @@ public class TypyProste {
         byte osemkowyByte = 0177; //127 w ósemkowym
 
         //short: -32_768 do 32_767
+        short minShort = -32768;
+        short maxShort = 32767;
+        short hexShort = 0x7FFF; //32767
+        short octShort = 0777777; //32767 (ósemkowy)
     }
 }
