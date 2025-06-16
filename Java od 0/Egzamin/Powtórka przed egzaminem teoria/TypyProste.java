@@ -4,5 +4,12 @@ public class TypyProste {
         //boolean: tylko true/false
         boolean wartoscLogiczna1 = true;
         boolean wartoscLogiczna2 = false;
+
+        //byte: -128 do 127
+        byte namniejszyByte = -128;
+        byte najwieszkyByte = 127;
+        byte binarnyByte = 0b01111111; //127 w binarnym
+        byte szesnastkowyByte = 0x7F; //127 w szesnastkowym
+        byte osemkowyByte = 0177; //127 w ósemkowym
     }
 }
