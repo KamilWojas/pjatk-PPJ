@@ -11,5 +11,7 @@ public class TypyProste {
         byte binarnyByte = 0b01111111; //127 w binarnym
         byte szesnastkowyByte = 0x7F; //127 w szesnastkowym
         byte osemkowyByte = 0177; //127 w ósemkowym
+
+        //short: -32_768 do 32_767
     }
 }
