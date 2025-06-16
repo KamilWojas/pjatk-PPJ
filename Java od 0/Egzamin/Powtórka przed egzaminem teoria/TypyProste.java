@@ -17,5 +17,7 @@ public class TypyProste {
         short maxShort = 32767;
         short hexShort = 0x7FFF; //32767
         short octShort = 0777777; //32767 (ósemkowy)
+
+        //int: -2_147_483_648 do 2_147_483_647
     }
 }
