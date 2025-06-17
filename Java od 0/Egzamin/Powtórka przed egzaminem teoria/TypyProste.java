@@ -49,4 +49,4 @@ public class TypyProste {
         System.out.println("Największy long (hex): " + hexLong);
         System.out.println("Litera: " + litera);
     }
-}
+} 
