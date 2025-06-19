@@ -14,4 +14,9 @@ public class PorownaniaTypow {
         //Liczby rzeczywiste (float, double)
         float liczbaFloat = 10.0f;
         double liczbaDouble = 10.0;
+
+        //Znak (char)
+        char znak = 'A';  // Unicode 65
+        char znak2 = 65;  // też 'A'
+
     }
