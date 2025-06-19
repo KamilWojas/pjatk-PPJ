@@ -36,6 +36,6 @@ public class PorownaniaTypow {
         System.out.println("znak == 65: " + (znak == 65)); // true
         System.out.println("znak == liczbaCalkowita: " + (znak == liczbaCalkowita)); // false, bo 'A' (65) != 10
 
-
+        System.out.println("znak == znak2: " + (znak == znak2)); // true
     }
 }
