@@ -22,5 +22,10 @@ public class PorownaniaTypow {
         //Wypiszmy wartości
         System.out.println("char znak: " + znak);
         System.out.println("char znak2 (65): " + znak2);
+
+        //Możliwe porównania:
+        System.out.println("liczbaCalkowita == liczbaByte: " + (liczbaCalkowita == liczbaByte)); // true
+        System.out.println("liczbaCalkowita == liczbaShort: " + (liczbaCalkowita == liczbaShort)); // true
+        System.out.println("liczbaCalkowita == liczbaLong: " + (liczbaCalkowita == liczbaLong)); // true
     }
 }
