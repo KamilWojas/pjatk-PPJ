@@ -32,5 +32,10 @@ public class PorownaniaTypow {
 
         System.out.println("liczbaCalkowita == liczbaFloat: " + (liczbaCalkowita == liczbaFloat)); // true
         System.out.println("liczbaCalkowita == liczbaDouble: " + (liczbaCalkowita == liczbaDouble)); // true
+
+        System.out.println("znak == 65: " + (znak == 65)); // true
+        System.out.println("znak == liczbaCalkowita: " + (znak == liczbaCalkowita)); // false, bo 'A' (65) != 10
+
+
     }
 }
