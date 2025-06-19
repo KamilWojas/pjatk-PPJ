@@ -27,5 +27,8 @@ public class PorownaniaTypow {
         System.out.println("liczbaCalkowita == liczbaByte: " + (liczbaCalkowita == liczbaByte)); // true
         System.out.println("liczbaCalkowita == liczbaShort: " + (liczbaCalkowita == liczbaShort)); // true
         System.out.println("liczbaCalkowita == liczbaLong: " + (liczbaCalkowita == liczbaLong)); // true
+
+        System.out.println("liczbaFloat == liczbaDouble: " + (liczbaFloat == liczbaDouble)); // true (w tym przypadku, bo 10.0 == 10.0)
+
     }
 }
