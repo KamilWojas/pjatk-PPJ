@@ -10,4 +10,8 @@ public class PorownaniaTypow {
         byte liczbaByte = 10;
         short liczbaShort = 10;
         long liczbaLong = 10L;
+
+        //Liczby rzeczywiste (float, double)
+        float liczbaFloat = 10.0f;
+        double liczbaDouble = 10.0;
     }
