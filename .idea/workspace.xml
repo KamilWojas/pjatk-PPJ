@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Powtórka przed egzaminem teoria/PorownaniaTypow.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Możliwe porównania:" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,71 +160,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="77079000" />
-    </task>
-    <task id="LOCAL-02317" summary="wywołuje konstruktor z klasy nadrzędnej">
-      <option name="closed" value="true" />
-      <created>1749502374556</created>
-      <option name="number" value="02317" />
-      <option name="presentableId" value="LOCAL-02317" />
-      <option name="project" value="LOCAL" />
-      <updated>1749502374556</updated>
-    </task>
-    <task id="LOCAL-02318" summary="Metoda sprawdzająca nacisk na oś">
-      <option name="closed" value="true" />
-      <created>1749502430789</created>
-      <option name="number" value="02318" />
-      <option name="presentableId" value="LOCAL-02318" />
-      <option name="project" value="LOCAL" />
-      <updated>1749502430789</updated>
-    </task>
-    <task id="LOCAL-02319" summary="Metoda sprawdzająca nacisk na oś">
-      <option name="closed" value="true" />
-      <created>1749502546062</created>
-      <option name="number" value="02319" />
-      <option name="presentableId" value="LOCAL-02319" />
-      <option name="project" value="LOCAL" />
-      <updated>1749502546062</updated>
-    </task>
-    <task id="LOCAL-02320" summary="Dodajemy getter do ilości osi (bo pole iloscOsi jest prywatne)">
-      <option name="closed" value="true" />
-      <created>1749502579079</created>
-      <option name="number" value="02320" />
-      <option name="presentableId" value="LOCAL-02320" />
-      <option name="project" value="LOCAL" />
-      <updated>1749502579079</updated>
-    </task>
-    <task id="LOCAL-02321" summary="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej">
-      <option name="closed" value="true" />
-      <created>1749502608294</created>
-      <option name="number" value="02321" />
-      <option name="presentableId" value="LOCAL-02321" />
-      <option name="project" value="LOCAL" />
-      <updated>1749502608294</updated>
-    </task>
-    <task id="LOCAL-02322" summary="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej">
-      <option name="closed" value="true" />
-      <created>1749502630412</created>
-      <option name="number" value="02322" />
-      <option name="presentableId" value="LOCAL-02322" />
-      <option name="project" value="LOCAL" />
-      <updated>1749502630412</updated>
-    </task>
-    <task id="LOCAL-02323" summary="Wywołanie">
-      <option name="closed" value="true" />
-      <created>1749591221766</created>
-      <option name="number" value="02323" />
-      <option name="presentableId" value="LOCAL-02323" />
-      <option name="project" value="LOCAL" />
-      <updated>1749591221766</updated>
-    </task>
-    <task id="LOCAL-02324" summary="Wywołanie">
-      <option name="closed" value="true" />
-      <created>1749591234801</created>
-      <option name="number" value="02324" />
-      <option name="presentableId" value="LOCAL-02324" />
-      <option name="project" value="LOCAL" />
-      <updated>1749591234801</updated>
+      <workItem from="1745779601674" duration="77885000" />
     </task>
     <task id="LOCAL-02325" summary="Wywołanie">
       <option name="closed" value="true" />
@@ -556,7 +490,71 @@
       <option name="project" value="LOCAL" />
       <updated>1750280442781</updated>
     </task>
-    <option name="localTasksCounter" value="2366" />
+    <task id="LOCAL-02366" summary="Typ logiczny (boolean)">
+      <option name="closed" value="true" />
+      <created>1750368012191</created>
+      <option name="number" value="02366" />
+      <option name="presentableId" value="LOCAL-02366" />
+      <option name="project" value="LOCAL" />
+      <updated>1750368012191</updated>
+    </task>
+    <task id="LOCAL-02367" summary="Liczby całkowite (int, byte, short, long)">
+      <option name="closed" value="true" />
+      <created>1750368053702</created>
+      <option name="number" value="02367" />
+      <option name="presentableId" value="LOCAL-02367" />
+      <option name="project" value="LOCAL" />
+      <updated>1750368053702</updated>
+    </task>
+    <task id="LOCAL-02368" summary="Liczby rzeczywiste (float, double)">
+      <option name="closed" value="true" />
+      <created>1750368080550</created>
+      <option name="number" value="02368" />
+      <option name="presentableId" value="LOCAL-02368" />
+      <option name="project" value="LOCAL" />
+      <updated>1750368080550</updated>
+    </task>
+    <task id="LOCAL-02369" summary="Znak (char)">
+      <option name="closed" value="true" />
+      <created>1750368112110</created>
+      <option name="number" value="02369" />
+      <option name="presentableId" value="LOCAL-02369" />
+      <option name="project" value="LOCAL" />
+      <updated>1750368112110</updated>
+    </task>
+    <task id="LOCAL-02370" summary="Znak (char)">
+      <option name="closed" value="true" />
+      <created>1750368139486</created>
+      <option name="number" value="02370" />
+      <option name="presentableId" value="LOCAL-02370" />
+      <option name="project" value="LOCAL" />
+      <updated>1750368139486</updated>
+    </task>
+    <task id="LOCAL-02371" summary="Możliwe porównania:">
+      <option name="closed" value="true" />
+      <created>1750370113695</created>
+      <option name="number" value="02371" />
+      <option name="presentableId" value="LOCAL-02371" />
+      <option name="project" value="LOCAL" />
+      <updated>1750370113695</updated>
+    </task>
+    <task id="LOCAL-02372" summary="Możliwe porównania:">
+      <option name="closed" value="true" />
+      <created>1750370130679</created>
+      <option name="number" value="02372" />
+      <option name="presentableId" value="LOCAL-02372" />
+      <option name="project" value="LOCAL" />
+      <updated>1750370130679</updated>
+    </task>
+    <task id="LOCAL-02373" summary="Możliwe porównania:">
+      <option name="closed" value="true" />
+      <created>1750370144907</created>
+      <option name="number" value="02373" />
+      <option name="presentableId" value="LOCAL-02373" />
+      <option name="project" value="LOCAL" />
+      <updated>1750370144908</updated>
+    </task>
+    <option name="localTasksCounter" value="2374" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,11 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Klasa bazowa Pojazd" />
-    <MESSAGE value="konstruktor ustawia kolor" />
-    <MESSAGE value="ile osi ma pojazd (prywatne pole)" />
-    <MESSAGE value="wywołuje konstruktor z klasy Pojazd" />
-    <MESSAGE value="masa pojazdu w tonach" />
     <MESSAGE value="wywołuje konstruktor z klasy nadrzędnej" />
     <MESSAGE value="Metoda sprawdzająca nacisk na oś" />
     <MESSAGE value="Dodajemy getter do ilości osi (bo pole iloscOsi jest prywatne)" />
@@ -599,6 +592,11 @@
     <MESSAGE value="float – liczby zmiennoprzecinkowe (z f na końcu)" />
     <MESSAGE value="double – większy zakres niż float" />
     <MESSAGE value="char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535" />
-    <option name="LAST_COMMIT_MESSAGE" value="char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535" />
+    <MESSAGE value="Typ logiczny (boolean)" />
+    <MESSAGE value="Liczby całkowite (int, byte, short, long)" />
+    <MESSAGE value="Liczby rzeczywiste (float, double)" />
+    <MESSAGE value="Znak (char)" />
+    <MESSAGE value="Możliwe porównania:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Możliwe porównania:" />
   </component>
 </project>
