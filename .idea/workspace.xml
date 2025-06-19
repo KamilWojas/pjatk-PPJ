@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Porównaj rozmiary plików">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Powtórka przed egzaminem teoria/TypyProste.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535">
+      <change afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Powtórka przed egzaminem teoria/PorownaniaTypow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,135 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="74640000" />
-    </task>
-    <task id="LOCAL-02301" summary="Wypełniamy losowymi wartościami 0–5">
-      <option name="closed" value="true" />
-      <created>1749070576623</created>
-      <option name="number" value="02301" />
-      <option name="presentableId" value="LOCAL-02301" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070576623</updated>
-    </task>
-    <task id="LOCAL-02302" summary="Wypełniamy losowymi wartościami 0–5">
-      <option name="closed" value="true" />
-      <created>1749070588858</created>
-      <option name="number" value="02302" />
-      <option name="presentableId" value="LOCAL-02302" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070588858</updated>
-    </task>
-    <task id="LOCAL-02303" summary="Wyświetlamy tablicę">
-      <option name="closed" value="true" />
-      <created>1749070604823</created>
-      <option name="number" value="02303" />
-      <option name="presentableId" value="LOCAL-02303" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070604823</updated>
-    </task>
-    <task id="LOCAL-02304" summary="Sprawdzamy warunek">
-      <option name="closed" value="true" />
-      <created>1749070623526</created>
-      <option name="number" value="02304" />
-      <option name="presentableId" value="LOCAL-02304" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070623526</updated>
-    </task>
-    <task id="LOCAL-02305" summary="Sprawdzamy warunek">
-      <option name="closed" value="true" />
-      <created>1749070634578</created>
-      <option name="number" value="02305" />
-      <option name="presentableId" value="LOCAL-02305" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070634578</updated>
-    </task>
-    <task id="LOCAL-02306" summary="Sprawdzamy warunek">
-      <option name="closed" value="true" />
-      <created>1749070645377</created>
-      <option name="number" value="02306" />
-      <option name="presentableId" value="LOCAL-02306" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070645377</updated>
-    </task>
-    <task id="LOCAL-02307" summary="Sprawdzamy warunek">
-      <option name="closed" value="true" />
-      <created>1749070657094</created>
-      <option name="number" value="02307" />
-      <option name="presentableId" value="LOCAL-02307" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070657094</updated>
-    </task>
-    <task id="LOCAL-02308" summary="Sprawdzamy warunek">
-      <option name="closed" value="true" />
-      <created>1749153361823</created>
-      <option name="number" value="02308" />
-      <option name="presentableId" value="LOCAL-02308" />
-      <option name="project" value="LOCAL" />
-      <updated>1749153361823</updated>
-    </task>
-    <task id="LOCAL-02309" summary="Sprawdzamy warunek">
-      <option name="closed" value="true" />
-      <created>1749242660644</created>
-      <option name="number" value="02309" />
-      <option name="presentableId" value="LOCAL-02309" />
-      <option name="project" value="LOCAL" />
-      <updated>1749242660644</updated>
-    </task>
-    <task id="LOCAL-02310" summary="Sprawdzamy warunek">
-      <option name="closed" value="true" />
-      <created>1749326532002</created>
-      <option name="number" value="02310" />
-      <option name="presentableId" value="LOCAL-02310" />
-      <option name="project" value="LOCAL" />
-      <updated>1749326532002</updated>
-    </task>
-    <task id="LOCAL-02311" summary="Sprawdzamy warunek">
-      <option name="closed" value="true" />
-      <created>1749394013527</created>
-      <option name="number" value="02311" />
-      <option name="presentableId" value="LOCAL-02311" />
-      <option name="project" value="LOCAL" />
-      <updated>1749394013527</updated>
-    </task>
-    <task id="LOCAL-02312" summary="Klasa bazowa Pojazd">
-      <option name="closed" value="true" />
-      <created>1749502009125</created>
-      <option name="number" value="02312" />
-      <option name="presentableId" value="LOCAL-02312" />
-      <option name="project" value="LOCAL" />
-      <updated>1749502009125</updated>
-    </task>
-    <task id="LOCAL-02313" summary="konstruktor ustawia kolor">
-      <option name="closed" value="true" />
-      <created>1749502029205</created>
-      <option name="number" value="02313" />
-      <option name="presentableId" value="LOCAL-02313" />
-      <option name="project" value="LOCAL" />
-      <updated>1749502029205</updated>
-    </task>
-    <task id="LOCAL-02314" summary="ile osi ma pojazd (prywatne pole)">
-      <option name="closed" value="true" />
-      <created>1749502086460</created>
-      <option name="number" value="02314" />
-      <option name="presentableId" value="LOCAL-02314" />
-      <option name="project" value="LOCAL" />
-      <updated>1749502086460</updated>
-    </task>
-    <task id="LOCAL-02315" summary="wywołuje konstruktor z klasy Pojazd">
-      <option name="closed" value="true" />
-      <created>1749502140074</created>
-      <option name="number" value="02315" />
-      <option name="presentableId" value="LOCAL-02315" />
-      <option name="project" value="LOCAL" />
-      <updated>1749502140074</updated>
-    </task>
-    <task id="LOCAL-02316" summary="masa pojazdu w tonach">
-      <option name="closed" value="true" />
-      <created>1749502219959</created>
-      <option name="number" value="02316" />
-      <option name="presentableId" value="LOCAL-02316" />
-      <option name="project" value="LOCAL" />
-      <updated>1749502219959</updated>
+      <workItem from="1745779601674" duration="77079000" />
     </task>
     <task id="LOCAL-02317" summary="wywołuje konstruktor z klasy nadrzędnej">
       <option name="closed" value="true" />
@@ -556,7 +428,135 @@
       <option name="project" value="LOCAL" />
       <updated>1750020823242</updated>
     </task>
-    <option name="localTasksCounter" value="2350" />
+    <task id="LOCAL-02350" summary="boolean: tylko true/false">
+      <option name="closed" value="true" />
+      <created>1750110113407</created>
+      <option name="number" value="02350" />
+      <option name="presentableId" value="LOCAL-02350" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110113407</updated>
+    </task>
+    <task id="LOCAL-02351" summary="byte: -128 do 127">
+      <option name="closed" value="true" />
+      <created>1750110292715</created>
+      <option name="number" value="02351" />
+      <option name="presentableId" value="LOCAL-02351" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110292715</updated>
+    </task>
+    <task id="LOCAL-02352" summary="short: -32_768 do 32_767">
+      <option name="closed" value="true" />
+      <created>1750110333777</created>
+      <option name="number" value="02352" />
+      <option name="presentableId" value="LOCAL-02352" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110333777</updated>
+    </task>
+    <task id="LOCAL-02353" summary="short: -32_768 do 32_767">
+      <option name="closed" value="true" />
+      <created>1750110448280</created>
+      <option name="number" value="02353" />
+      <option name="presentableId" value="LOCAL-02353" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110448280</updated>
+    </task>
+    <task id="LOCAL-02354" summary="int: -2_147_483_648 do 2_147_483_647">
+      <option name="closed" value="true" />
+      <created>1750110504654</created>
+      <option name="number" value="02354" />
+      <option name="presentableId" value="LOCAL-02354" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110504654</updated>
+    </task>
+    <task id="LOCAL-02355" summary="int: -2_147_483_648 do 2_147_483_647">
+      <option name="closed" value="true" />
+      <created>1750110517981</created>
+      <option name="number" value="02355" />
+      <option name="presentableId" value="LOCAL-02355" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110517981</updated>
+    </task>
+    <task id="LOCAL-02356" summary="long: -2^63 do 2^63-1">
+      <option name="closed" value="true" />
+      <created>1750110538297</created>
+      <option name="number" value="02356" />
+      <option name="presentableId" value="LOCAL-02356" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110538297</updated>
+    </task>
+    <task id="LOCAL-02357" summary="long: -2^63 do 2^63-1">
+      <option name="closed" value="true" />
+      <created>1750110566926</created>
+      <option name="number" value="02357" />
+      <option name="presentableId" value="LOCAL-02357" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110566926</updated>
+    </task>
+    <task id="LOCAL-02358" summary="float – liczby zmiennoprzecinkowe (z f na końcu)">
+      <option name="closed" value="true" />
+      <created>1750110600002</created>
+      <option name="number" value="02358" />
+      <option name="presentableId" value="LOCAL-02358" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110600002</updated>
+    </task>
+    <task id="LOCAL-02359" summary="double – większy zakres niż float">
+      <option name="closed" value="true" />
+      <created>1750110618653</created>
+      <option name="number" value="02359" />
+      <option name="presentableId" value="LOCAL-02359" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110618653</updated>
+    </task>
+    <task id="LOCAL-02360" summary="double – większy zakres niż float">
+      <option name="closed" value="true" />
+      <created>1750110640450</created>
+      <option name="number" value="02360" />
+      <option name="presentableId" value="LOCAL-02360" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110640450</updated>
+    </task>
+    <task id="LOCAL-02361" summary="char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535">
+      <option name="closed" value="true" />
+      <created>1750110666638</created>
+      <option name="number" value="02361" />
+      <option name="presentableId" value="LOCAL-02361" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110666638</updated>
+    </task>
+    <task id="LOCAL-02362" summary="char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535">
+      <option name="closed" value="true" />
+      <created>1750110682147</created>
+      <option name="number" value="02362" />
+      <option name="presentableId" value="LOCAL-02362" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110682147</updated>
+    </task>
+    <task id="LOCAL-02363" summary="char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535">
+      <option name="closed" value="true" />
+      <created>1750110697184</created>
+      <option name="number" value="02363" />
+      <option name="presentableId" value="LOCAL-02363" />
+      <option name="project" value="LOCAL" />
+      <updated>1750110697184</updated>
+    </task>
+    <task id="LOCAL-02364" summary="char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535">
+      <option name="closed" value="true" />
+      <created>1750192253447</created>
+      <option name="number" value="02364" />
+      <option name="presentableId" value="LOCAL-02364" />
+      <option name="project" value="LOCAL" />
+      <updated>1750192253447</updated>
+    </task>
+    <task id="LOCAL-02365" summary="char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535">
+      <option name="closed" value="true" />
+      <created>1750280442781</created>
+      <option name="number" value="02365" />
+      <option name="presentableId" value="LOCAL-02365" />
+      <option name="project" value="LOCAL" />
+      <updated>1750280442781</updated>
+    </task>
+    <option name="localTasksCounter" value="2366" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,14 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Przeciążenie" />
-    <MESSAGE value="Wywołanie metody" />
-    <MESSAGE value="Metoda sprawdzająca warunek tablicy" />
-    <MESSAGE value="Zapamiętaj pozycję z błędem" />
-    <MESSAGE value="rozmiar tablicy (3x3)" />
-    <MESSAGE value="Wypełniamy losowymi wartościami 0–5" />
-    <MESSAGE value="Wyświetlamy tablicę" />
-    <MESSAGE value="Sprawdzamy warunek" />
     <MESSAGE value="Klasa bazowa Pojazd" />
     <MESSAGE value="konstruktor ustawia kolor" />
     <MESSAGE value="ile osi ma pojazd (prywatne pole)" />
@@ -599,6 +591,14 @@
     <MESSAGE value="Przesuń bity w lewo i dodaj bieżący bit" />
     <MESSAGE value="Zapisz liczbę do pliku binarnego (jako 4 bajty = 32 bity)" />
     <MESSAGE value="Porównaj rozmiary plików" />
-    <option name="LAST_COMMIT_MESSAGE" value="Porównaj rozmiary plików" />
+    <MESSAGE value="boolean: tylko true/false" />
+    <MESSAGE value="byte: -128 do 127" />
+    <MESSAGE value="short: -32_768 do 32_767" />
+    <MESSAGE value="int: -2_147_483_648 do 2_147_483_647" />
+    <MESSAGE value="long: -2^63 do 2^63-1" />
+    <MESSAGE value="float – liczby zmiennoprzecinkowe (z f na końcu)" />
+    <MESSAGE value="double – większy zakres niż float" />
+    <MESSAGE value="char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535" />
+    <option name="LAST_COMMIT_MESSAGE" value="char – znak Unicode (np. 'A') – przechowuje liczby z przedziału 0–65535" />
   </component>
 </project>
