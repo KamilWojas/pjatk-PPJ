@@ -30,5 +30,7 @@ public class PorownaniaTypow {
 
         System.out.println("liczbaFloat == liczbaDouble: " + (liczbaFloat == liczbaDouble)); // true (w tym przypadku, bo 10.0 == 10.0)
 
+        System.out.println("liczbaCalkowita == liczbaFloat: " + (liczbaCalkowita == liczbaFloat)); // true
+        System.out.println("liczbaCalkowita == liczbaDouble: " + (liczbaCalkowita == liczbaDouble)); // true
     }
 }
