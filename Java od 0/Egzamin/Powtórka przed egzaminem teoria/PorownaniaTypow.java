@@ -19,4 +19,8 @@ public class PorownaniaTypow {
         char znak = 'A';  // Unicode 65
         char znak2 = 65;  // też 'A'
 
+        //Wypiszmy wartości
+        System.out.println("char znak: " + znak);
+        System.out.println("char znak2 (65): " + znak2);
     }
+}
