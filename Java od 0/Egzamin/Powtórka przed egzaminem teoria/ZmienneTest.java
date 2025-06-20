@@ -7,5 +7,6 @@ public class ZmienneTest {
     public static void main(String[] args) {
 
         int a123 = 5; //1. Pierwszy znak to litera, kolejne to cyfry
-
+        // Pierwszy znak to cyfra
+        // int 1abc = 10;
     }
