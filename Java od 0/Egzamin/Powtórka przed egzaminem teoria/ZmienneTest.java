@@ -7,6 +7,7 @@ public class ZmienneTest {
     public static void main(String[] args) {
 
         int a123 = 5; //1. Pierwszy znak to litera, kolejne to cyfry
+        
         // Pierwszy znak to cyfra
         // int 1abc = 10;
 
@@ -18,4 +19,7 @@ public class ZmienneTest {
 
         // Zmienna o nazwie "null"
         // int null = 30;
+
+        // poprawna zmienna z literami ułożonymi w słowo "null", ale nie dokładnie "null"
+        int n_ull = 99;
     }
