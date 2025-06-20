@@ -12,4 +12,7 @@ public class ZmienneTest {
 
         // Pierwszy znak to znak specjalny @
         // int @nazwa = 15;
+
+        // Nazwa zmiennej to "main" (słowo specjalne)
+        // int main = 20;
     }
