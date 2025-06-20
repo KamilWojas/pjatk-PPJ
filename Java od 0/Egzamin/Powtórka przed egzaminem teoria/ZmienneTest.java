@@ -24,4 +24,7 @@ public class ZmienneTest {
         int n_ull = 99;
 
         int nazwa123 = 55;
+        
+        System.out.println("Działa! Poprawne zmienne się kompilują.");
     }
+}
