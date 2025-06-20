@@ -9,4 +9,7 @@ public class ZmienneTest {
         int a123 = 5; //1. Pierwszy znak to litera, kolejne to cyfry
         // Pierwszy znak to cyfra
         // int 1abc = 10;
+
+        // Pierwszy znak to znak specjalny @
+        // int @nazwa = 15;
     }
