@@ -15,4 +15,7 @@ public class ZmienneTest {
 
         // Nazwa zmiennej to "main" (słowo specjalne)
         // int main = 20;
+
+        // Zmienna o nazwie "null"
+        // int null = 30;
     }
