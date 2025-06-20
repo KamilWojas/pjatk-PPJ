@@ -22,4 +22,6 @@ public class ZmienneTest {
 
         // poprawna zmienna z literami ułożonymi w słowo "null", ale nie dokładnie "null"
         int n_ull = 99;
+
+        int nazwa123 = 55;
     }
