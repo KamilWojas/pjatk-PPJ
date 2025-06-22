@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="Możliwe porównania:">
-      <change afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Powtórka przed egzaminem teoria/ZmienneTest.java" afterDir="false" />
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="poprawna zmienna">
+      <change beforePath="$PROJECT_DIR$/Java od 0/Egzamin/Analiza_Kodu/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Analiza_Kodu/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,87 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="79164000" />
-    </task>
-    <task id="LOCAL-02328" summary="Wywołanie">
-      <option name="closed" value="true" />
-      <created>1749591300522</created>
-      <option name="number" value="02328" />
-      <option name="presentableId" value="LOCAL-02328" />
-      <option name="project" value="LOCAL" />
-      <updated>1749591300522</updated>
-    </task>
-    <task id="LOCAL-02329" summary="Przygotuj w notatniku plik zawierajacy 31 zer i jedynek opisujacych liczbe. Nastep-nie napisz program, który odczyta znak po znaku warlysci z pliku i wykorzystujac operacje bitowe przechowa je w zmiennej. Nastepnie zapisz ta zmienna w postaci bajtowej do innego pliku i porównaj wielkosci obu plików.">
-      <option name="closed" value="true" />
-      <created>1749591450699</created>
-      <option name="number" value="02329" />
-      <option name="presentableId" value="LOCAL-02329" />
-      <option name="project" value="LOCAL" />
-      <updated>1749591450699</updated>
-    </task>
-    <task id="LOCAL-02330" summary="Przygotuj w notatniku plik zawierajacy 31 zer i jedynek opisujacych liczbe. Nastep-nie napisz program, który odczyta znak po znaku warlysci z pliku i wykorzystujac operacje bitowe przechowa je w zmiennej. Nastepnie zapisz ta zmienna w postaci bajtowej do innego pliku i porównaj wielkosci obu plików.">
-      <option name="closed" value="true" />
-      <created>1749591470116</created>
-      <option name="number" value="02330" />
-      <option name="presentableId" value="LOCAL-02330" />
-      <option name="project" value="LOCAL" />
-      <updated>1749591470116</updated>
-    </task>
-    <task id="LOCAL-02331" summary="Plik wejściowy (z bitami)">
-      <option name="closed" value="true" />
-      <created>1749591493849</created>
-      <option name="number" value="02331" />
-      <option name="presentableId" value="LOCAL-02331" />
-      <option name="project" value="LOCAL" />
-      <updated>1749591493849</updated>
-    </task>
-    <task id="LOCAL-02332" summary="Plik wyjściowy (binarny)">
-      <option name="closed" value="true" />
-      <created>1749591509299</created>
-      <option name="number" value="02332" />
-      <option name="presentableId" value="LOCAL-02332" />
-      <option name="project" value="LOCAL" />
-      <updated>1749591509299</updated>
-    </task>
-    <task id="LOCAL-02333" summary="Przechowuje wartość binarną">
-      <option name="closed" value="true" />
-      <created>1749591529367</created>
-      <option name="number" value="02333" />
-      <option name="presentableId" value="LOCAL-02333" />
-      <option name="project" value="LOCAL" />
-      <updated>1749591529367</updated>
-    </task>
-    <task id="LOCAL-02334" summary="Przechowuje wartość binarną">
-      <option name="closed" value="true" />
-      <created>1749594799425</created>
-      <option name="number" value="02334" />
-      <option name="presentableId" value="LOCAL-02334" />
-      <option name="project" value="LOCAL" />
-      <updated>1749594799425</updated>
-    </task>
-    <task id="LOCAL-02335" summary="Przechowuje wartość binarną">
-      <option name="closed" value="true" />
-      <created>1749594811281</created>
-      <option name="number" value="02335" />
-      <option name="presentableId" value="LOCAL-02335" />
-      <option name="project" value="LOCAL" />
-      <updated>1749594811281</updated>
-    </task>
-    <task id="LOCAL-02336" summary="Przesuń bity w lewo i dodaj bieżący bit">
-      <option name="closed" value="true" />
-      <created>1749594835480</created>
-      <option name="number" value="02336" />
-      <option name="presentableId" value="LOCAL-02336" />
-      <option name="project" value="LOCAL" />
-      <updated>1749594835480</updated>
-    </task>
-    <task id="LOCAL-02337" summary="Przesuń bity w lewo i dodaj bieżący bit">
-      <option name="closed" value="true" />
-      <created>1749594848283</created>
-      <option name="number" value="02337" />
-      <option name="presentableId" value="LOCAL-02337" />
-      <option name="project" value="LOCAL" />
-      <updated>1749594848283</updated>
+      <workItem from="1745779601674" duration="81493000" />
     </task>
     <task id="LOCAL-02338" summary="Zapisz liczbę do pliku binarnego (jako 4 bajty = 32 bity)">
       <option name="closed" value="true" />
@@ -556,7 +476,87 @@
       <option name="project" value="LOCAL" />
       <updated>1750370191087</updated>
     </task>
-    <option name="localTasksCounter" value="2377" />
+    <task id="LOCAL-02377" summary="Zadeklarować zmienne typu int z nazwami, które łamią lub nie łamią zasad języka Java. Jeśli nazwa zmiennej jest nieprawidłowa, musimy ją zakomentować (czyli oznaczyć jako komentarz //).">
+      <option name="closed" value="true" />
+      <created>1750449482015</created>
+      <option name="number" value="02377" />
+      <option name="presentableId" value="LOCAL-02377" />
+      <option name="project" value="LOCAL" />
+      <updated>1750449482015</updated>
+    </task>
+    <task id="LOCAL-02378" summary="Zadeklarować zmienne typu int z nazwami, które łamią lub nie łamią zasad języka Java. Jeśli nazwa zmiennej jest nieprawidłowa, musimy ją zakomentować (czyli oznaczyć jako komentarz //).">
+      <option name="closed" value="true" />
+      <created>1750449498062</created>
+      <option name="number" value="02378" />
+      <option name="presentableId" value="LOCAL-02378" />
+      <option name="project" value="LOCAL" />
+      <updated>1750449498062</updated>
+    </task>
+    <task id="LOCAL-02379" summary="1. Pierwszy znak to litera, kolejne to cyfry">
+      <option name="closed" value="true" />
+      <created>1750449524797</created>
+      <option name="number" value="02379" />
+      <option name="presentableId" value="LOCAL-02379" />
+      <option name="project" value="LOCAL" />
+      <updated>1750449524797</updated>
+    </task>
+    <task id="LOCAL-02380" summary="Pierwszy znak to cyfra">
+      <option name="closed" value="true" />
+      <created>1750449554514</created>
+      <option name="number" value="02380" />
+      <option name="presentableId" value="LOCAL-02380" />
+      <option name="project" value="LOCAL" />
+      <updated>1750449554514</updated>
+    </task>
+    <task id="LOCAL-02381" summary="Pierwszy znak to znak specjalny @">
+      <option name="closed" value="true" />
+      <created>1750449575836</created>
+      <option name="number" value="02381" />
+      <option name="presentableId" value="LOCAL-02381" />
+      <option name="project" value="LOCAL" />
+      <updated>1750449575836</updated>
+    </task>
+    <task id="LOCAL-02382" summary="Nazwa zmiennej to &quot;main&quot; (słowo specjalne)">
+      <option name="closed" value="true" />
+      <created>1750449595255</created>
+      <option name="number" value="02382" />
+      <option name="presentableId" value="LOCAL-02382" />
+      <option name="project" value="LOCAL" />
+      <updated>1750449595255</updated>
+    </task>
+    <task id="LOCAL-02383" summary="Zmienna o nazwie &quot;null&quot;">
+      <option name="closed" value="true" />
+      <created>1750449614738</created>
+      <option name="number" value="02383" />
+      <option name="presentableId" value="LOCAL-02383" />
+      <option name="project" value="LOCAL" />
+      <updated>1750449614738</updated>
+    </task>
+    <task id="LOCAL-02384" summary="poprawna zmienna z literami ułożonymi w słowo &quot;null&quot;, ale nie dokładnie &quot;null&quot;">
+      <option name="closed" value="true" />
+      <created>1750449639524</created>
+      <option name="number" value="02384" />
+      <option name="presentableId" value="LOCAL-02384" />
+      <option name="project" value="LOCAL" />
+      <updated>1750449639524</updated>
+    </task>
+    <task id="LOCAL-02385" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1750449661591</created>
+      <option name="number" value="02385" />
+      <option name="presentableId" value="LOCAL-02385" />
+      <option name="project" value="LOCAL" />
+      <updated>1750449661591</updated>
+    </task>
+    <task id="LOCAL-02386" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1750449682774</created>
+      <option name="number" value="02386" />
+      <option name="presentableId" value="LOCAL-02386" />
+      <option name="project" value="LOCAL" />
+      <updated>1750449682774</updated>
+    </task>
+    <option name="localTasksCounter" value="2387" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,14 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="wywołuje konstruktor z klasy nadrzędnej" />
-    <MESSAGE value="Metoda sprawdzająca nacisk na oś" />
-    <MESSAGE value="Dodajemy getter do ilości osi (bo pole iloscOsi jest prywatne)" />
-    <MESSAGE value="Ponieważ iloscOsi jest prywatne w klasie nadrzędnej" />
-    <MESSAGE value="Wywołanie" />
-    <MESSAGE value="Przygotuj w notatniku plik zawierajacy 31 zer i jedynek opisujacych liczbe. Nastep-nie napisz program, który odczyta znak po znaku warlysci z pliku i wykorzystujac operacje bitowe przechowa je w zmiennej. Nastepnie zapisz ta zmienna w postaci bajtowej do innego pliku i porównaj wielkosci obu plików." />
-    <MESSAGE value="Plik wejściowy (z bitami)" />
-    <MESSAGE value="Plik wyjściowy (binarny)" />
     <MESSAGE value="Przechowuje wartość binarną" />
     <MESSAGE value="Przesuń bity w lewo i dodaj bieżący bit" />
     <MESSAGE value="Zapisz liczbę do pliku binarnego (jako 4 bajty = 32 bity)" />
@@ -599,6 +591,14 @@
     <MESSAGE value="Liczby rzeczywiste (float, double)" />
     <MESSAGE value="Znak (char)" />
     <MESSAGE value="Możliwe porównania:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Możliwe porównania:" />
+    <MESSAGE value="Zadeklarować zmienne typu int z nazwami, które łamią lub nie łamią zasad języka Java. Jeśli nazwa zmiennej jest nieprawidłowa, musimy ją zakomentować (czyli oznaczyć jako komentarz //)." />
+    <MESSAGE value="1. Pierwszy znak to litera, kolejne to cyfry" />
+    <MESSAGE value="Pierwszy znak to cyfra" />
+    <MESSAGE value="Pierwszy znak to znak specjalny @" />
+    <MESSAGE value="Nazwa zmiennej to &quot;main&quot; (słowo specjalne)" />
+    <MESSAGE value="Zmienna o nazwie &quot;null&quot;" />
+    <MESSAGE value="poprawna zmienna z literami ułożonymi w słowo &quot;null&quot;, ale nie dokładnie &quot;null&quot;" />
+    <MESSAGE value="poprawna zmienna" />
+    <option name="LAST_COMMIT_MESSAGE" value="poprawna zmienna" />
   </component>
 </project>
