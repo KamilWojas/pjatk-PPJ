@@ -162,23 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="82123000" />
-    </task>
-    <task id="LOCAL-02340" summary="Porównaj rozmiary plików">
-      <option name="closed" value="true" />
-      <created>1749594896771</created>
-      <option name="number" value="02340" />
-      <option name="presentableId" value="LOCAL-02340" />
-      <option name="project" value="LOCAL" />
-      <updated>1749594896771</updated>
-    </task>
-    <task id="LOCAL-02341" summary="Porównaj rozmiary plików">
-      <option name="closed" value="true" />
-      <created>1749594908868</created>
-      <option name="number" value="02341" />
-      <option name="presentableId" value="LOCAL-02341" />
-      <option name="project" value="LOCAL" />
-      <updated>1749594908868</updated>
+      <workItem from="1745779601674" duration="84319000" />
     </task>
     <task id="LOCAL-02342" summary="Porównaj rozmiary plików">
       <option name="closed" value="true" />
@@ -556,7 +540,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750619224045</updated>
     </task>
-    <option name="localTasksCounter" value="2389" />
+    <task id="LOCAL-02389" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1750708071248</created>
+      <option name="number" value="02389" />
+      <option name="presentableId" value="LOCAL-02389" />
+      <option name="project" value="LOCAL" />
+      <updated>1750708071248</updated>
+    </task>
+    <task id="LOCAL-02390" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1750798972877</created>
+      <option name="number" value="02390" />
+      <option name="presentableId" value="LOCAL-02390" />
+      <option name="project" value="LOCAL" />
+      <updated>1750798972877</updated>
+    </task>
+    <option name="localTasksCounter" value="2391" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
