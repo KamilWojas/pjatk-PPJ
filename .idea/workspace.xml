@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="poprawna zmienna">
-      <change beforePath="$PROJECT_DIR$/Java od 0/Egzamin/Powtórka przed egzaminem teoria/ZmienneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Powtórka przed egzaminem teoria/ZmienneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,63 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="84319000" />
-    </task>
-    <task id="LOCAL-02342" summary="Porównaj rozmiary plików">
-      <option name="closed" value="true" />
-      <created>1749594919700</created>
-      <option name="number" value="02342" />
-      <option name="presentableId" value="LOCAL-02342" />
-      <option name="project" value="LOCAL" />
-      <updated>1749594919700</updated>
-    </task>
-    <task id="LOCAL-02343" summary="Porównaj rozmiary plików">
-      <option name="closed" value="true" />
-      <created>1749594930203</created>
-      <option name="number" value="02343" />
-      <option name="presentableId" value="LOCAL-02343" />
-      <option name="project" value="LOCAL" />
-      <updated>1749594930203</updated>
-    </task>
-    <task id="LOCAL-02344" summary="Porównaj rozmiary plików">
-      <option name="closed" value="true" />
-      <created>1749594941769</created>
-      <option name="number" value="02344" />
-      <option name="presentableId" value="LOCAL-02344" />
-      <option name="project" value="LOCAL" />
-      <updated>1749594941769</updated>
-    </task>
-    <task id="LOCAL-02345" summary="Porównaj rozmiary plików">
-      <option name="closed" value="true" />
-      <created>1749678970565</created>
-      <option name="number" value="02345" />
-      <option name="presentableId" value="LOCAL-02345" />
-      <option name="project" value="LOCAL" />
-      <updated>1749678970565</updated>
-    </task>
-    <task id="LOCAL-02346" summary="Porównaj rozmiary plików">
-      <option name="closed" value="true" />
-      <created>1749759895717</created>
-      <option name="number" value="02346" />
-      <option name="presentableId" value="LOCAL-02346" />
-      <option name="project" value="LOCAL" />
-      <updated>1749759895717</updated>
-    </task>
-    <task id="LOCAL-02347" summary="Porównaj rozmiary plików">
-      <option name="closed" value="true" />
-      <created>1749833926381</created>
-      <option name="number" value="02347" />
-      <option name="presentableId" value="LOCAL-02347" />
-      <option name="project" value="LOCAL" />
-      <updated>1749833926381</updated>
-    </task>
-    <task id="LOCAL-02348" summary="Porównaj rozmiary plików">
-      <option name="closed" value="true" />
-      <created>1749936545795</created>
-      <option name="number" value="02348" />
-      <option name="presentableId" value="LOCAL-02348" />
-      <option name="project" value="LOCAL" />
-      <updated>1749936545795</updated>
+      <workItem from="1745779601674" duration="88548000" />
     </task>
     <task id="LOCAL-02349" summary="Porównaj rozmiary plików">
       <option name="closed" value="true" />
@@ -556,7 +500,63 @@
       <option name="project" value="LOCAL" />
       <updated>1750798972877</updated>
     </task>
-    <option name="localTasksCounter" value="2391" />
+    <task id="LOCAL-02391" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1750884926636</created>
+      <option name="number" value="02391" />
+      <option name="presentableId" value="LOCAL-02391" />
+      <option name="project" value="LOCAL" />
+      <updated>1750884926636</updated>
+    </task>
+    <task id="LOCAL-02392" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1750884933882</created>
+      <option name="number" value="02392" />
+      <option name="presentableId" value="LOCAL-02392" />
+      <option name="project" value="LOCAL" />
+      <updated>1750884933883</updated>
+    </task>
+    <task id="LOCAL-02393" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1750972425263</created>
+      <option name="number" value="02393" />
+      <option name="presentableId" value="LOCAL-02393" />
+      <option name="project" value="LOCAL" />
+      <updated>1750972425263</updated>
+    </task>
+    <task id="LOCAL-02394" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1751058423495</created>
+      <option name="number" value="02394" />
+      <option name="presentableId" value="LOCAL-02394" />
+      <option name="project" value="LOCAL" />
+      <updated>1751058423495</updated>
+    </task>
+    <task id="LOCAL-02395" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1751144282248</created>
+      <option name="number" value="02395" />
+      <option name="presentableId" value="LOCAL-02395" />
+      <option name="project" value="LOCAL" />
+      <updated>1751144282248</updated>
+    </task>
+    <task id="LOCAL-02396" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1751225271320</created>
+      <option name="number" value="02396" />
+      <option name="presentableId" value="LOCAL-02396" />
+      <option name="project" value="LOCAL" />
+      <updated>1751225271320</updated>
+    </task>
+    <task id="LOCAL-02397" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1751318122871</created>
+      <option name="number" value="02397" />
+      <option name="presentableId" value="LOCAL-02397" />
+      <option name="project" value="LOCAL" />
+      <updated>1751318122871</updated>
+    </task>
+    <option name="localTasksCounter" value="2398" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
