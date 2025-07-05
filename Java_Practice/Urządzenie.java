@@ -29,7 +29,7 @@ class Komputer extends Urządzenie {
     public String opis() {
         return super.opis() + ", Moc obliczeniowa: " + mocObliczeniowa + " GFLOPS";
     }
-}
+}  
 
 // Klasa dziedzicząca Telefon
 class Telefon extends Urządzenie {

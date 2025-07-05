@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="poprawna zmienna">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Practice/Urządzenie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Practice/Urządzenie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,39 +162,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="88548000" />
-    </task>
-    <task id="LOCAL-02349" summary="Porównaj rozmiary plików">
-      <option name="closed" value="true" />
-      <created>1750020823242</created>
-      <option name="number" value="02349" />
-      <option name="presentableId" value="LOCAL-02349" />
-      <option name="project" value="LOCAL" />
-      <updated>1750020823242</updated>
-    </task>
-    <task id="LOCAL-02350" summary="boolean: tylko true/false">
-      <option name="closed" value="true" />
-      <created>1750110113407</created>
-      <option name="number" value="02350" />
-      <option name="presentableId" value="LOCAL-02350" />
-      <option name="project" value="LOCAL" />
-      <updated>1750110113407</updated>
-    </task>
-    <task id="LOCAL-02351" summary="byte: -128 do 127">
-      <option name="closed" value="true" />
-      <created>1750110292715</created>
-      <option name="number" value="02351" />
-      <option name="presentableId" value="LOCAL-02351" />
-      <option name="project" value="LOCAL" />
-      <updated>1750110292715</updated>
-    </task>
-    <task id="LOCAL-02352" summary="short: -32_768 do 32_767">
-      <option name="closed" value="true" />
-      <created>1750110333777</created>
-      <option name="number" value="02352" />
-      <option name="presentableId" value="LOCAL-02352" />
-      <option name="project" value="LOCAL" />
-      <updated>1750110333777</updated>
+      <workItem from="1745779601674" duration="91651000" />
     </task>
     <task id="LOCAL-02353" summary="short: -32_768 do 32_767">
       <option name="closed" value="true" />
@@ -556,7 +524,39 @@
       <option name="project" value="LOCAL" />
       <updated>1751318122871</updated>
     </task>
-    <option name="localTasksCounter" value="2398" />
+    <task id="LOCAL-02398" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1751401699417</created>
+      <option name="number" value="02398" />
+      <option name="presentableId" value="LOCAL-02398" />
+      <option name="project" value="LOCAL" />
+      <updated>1751401699417</updated>
+    </task>
+    <task id="LOCAL-02399" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1751490597829</created>
+      <option name="number" value="02399" />
+      <option name="presentableId" value="LOCAL-02399" />
+      <option name="project" value="LOCAL" />
+      <updated>1751490597829</updated>
+    </task>
+    <task id="LOCAL-02400" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1751564593603</created>
+      <option name="number" value="02400" />
+      <option name="presentableId" value="LOCAL-02400" />
+      <option name="project" value="LOCAL" />
+      <updated>1751564593603</updated>
+    </task>
+    <task id="LOCAL-02401" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1751665310789</created>
+      <option name="number" value="02401" />
+      <option name="presentableId" value="LOCAL-02401" />
+      <option name="project" value="LOCAL" />
+      <updated>1751665310789</updated>
+    </task>
+    <option name="localTasksCounter" value="2402" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
