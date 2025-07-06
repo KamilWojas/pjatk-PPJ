@@ -19,7 +19,7 @@ class Komputer extends Urządzenie {
     private double mocObliczeniowa; // Moc obliczeniowa w GFLOPS
 
     // Konstruktor
-    public Komputer(String producent, String model, double mocObliczeniowa) {
+    public Komputer(String producent, String model, double mocObliczeniowa) { 
         super(producent, model); // Wywołanie konstruktora klasy bazowej
         this.mocObliczeniowa = mocObliczeniowa;
     }
@@ -29,7 +29,7 @@ class Komputer extends Urządzenie {
     public String opis() {
         return super.opis() + ", Moc obliczeniowa: " + mocObliczeniowa + " GFLOPS";
     }
-}  
+}
 
 // Klasa dziedzicząca Telefon
 class Telefon extends Urządzenie {
