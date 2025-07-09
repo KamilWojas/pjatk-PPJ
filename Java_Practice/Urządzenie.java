@@ -31,7 +31,7 @@ class Komputer extends Urządzenie {
     }
 }
 
-// Klasa dziedzicząca Telefon  
+// Klasa dziedzicząca Telefon   
 class Telefon extends Urządzenie {
     private boolean dualSIM; // Czy obsługuje dual SIM
 
