@@ -27,4 +27,4 @@ public class ZmienneTest {
         
         System.out.println("Działa! Poprawne zmienne się kompilują."); 
     }    
-}           
+}            
