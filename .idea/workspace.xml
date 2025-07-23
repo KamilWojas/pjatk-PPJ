@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="poprawna zmienna">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java od 0/Egzamin/Powtórka przed egzaminem teoria/ZmienneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Powtórka przed egzaminem teoria/ZmienneTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="poprawna zmienna" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e9f343e9-1932-4579-89c9-ded94f36b083" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,19 +24,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Java od 0/Egzamin/Analiza_Kodu" />
@@ -163,23 +164,7 @@
       <workItem from="1742046384185" duration="23765000" />
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
-      <workItem from="1745779601674" duration="106005000" />
-    </task>
-    <task id="LOCAL-02370" summary="Znak (char)">
-      <option name="closed" value="true" />
-      <created>1750368139486</created>
-      <option name="number" value="02370" />
-      <option name="presentableId" value="LOCAL-02370" />
-      <option name="project" value="LOCAL" />
-      <updated>1750368139486</updated>
-    </task>
-    <task id="LOCAL-02371" summary="Możliwe porównania:">
-      <option name="closed" value="true" />
-      <created>1750370113695</created>
-      <option name="number" value="02371" />
-      <option name="presentableId" value="LOCAL-02371" />
-      <option name="project" value="LOCAL" />
-      <updated>1750370113695</updated>
+      <workItem from="1745779601674" duration="108892000" />
     </task>
     <task id="LOCAL-02372" summary="Możliwe porównania:">
       <option name="closed" value="true" />
@@ -557,7 +542,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753033036105</updated>
     </task>
-    <option name="localTasksCounter" value="2419" />
+    <task id="LOCAL-02419" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1753131660924</created>
+      <option name="number" value="02419" />
+      <option name="presentableId" value="LOCAL-02419" />
+      <option name="project" value="LOCAL" />
+      <updated>1753131660924</updated>
+    </task>
+    <task id="LOCAL-02420" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1753207753310</created>
+      <option name="number" value="02420" />
+      <option name="presentableId" value="LOCAL-02420" />
+      <option name="project" value="LOCAL" />
+      <updated>1753207753313</updated>
+    </task>
+    <option name="localTasksCounter" value="2421" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
