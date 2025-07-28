@@ -165,15 +165,7 @@
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
       <workItem from="1745779601674" duration="113817000" />
-      <workItem from="1753543599652" duration="623000" />
-    </task>
-    <task id="LOCAL-02378" summary="Zadeklarować zmienne typu int z nazwami, które łamią lub nie łamią zasad języka Java. Jeśli nazwa zmiennej jest nieprawidłowa, musimy ją zakomentować (czyli oznaczyć jako komentarz //).">
-      <option name="closed" value="true" />
-      <created>1750449498062</created>
-      <option name="number" value="02378" />
-      <option name="presentableId" value="LOCAL-02378" />
-      <option name="project" value="LOCAL" />
-      <updated>1750449498062</updated>
+      <workItem from="1753543599652" duration="1253000" />
     </task>
     <task id="LOCAL-02379" summary="1. Pierwszy znak to litera, kolejne to cyfry">
       <option name="closed" value="true" />
@@ -559,7 +551,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753619792600</updated>
     </task>
-    <option name="localTasksCounter" value="2427" />
+    <task id="LOCAL-02427" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1753619804696</created>
+      <option name="number" value="02427" />
+      <option name="presentableId" value="LOCAL-02427" />
+      <option name="project" value="LOCAL" />
+      <updated>1753619804696</updated>
+    </task>
+    <option name="localTasksCounter" value="2428" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
