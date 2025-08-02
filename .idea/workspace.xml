@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="poprawna zmienna">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java od 0/Egzamin/Powtórka przed egzaminem teoria/ZmienneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java od 0/Egzamin/Powtórka przed egzaminem teoria/ZmienneTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="8484d700-0178-44b7-b7fc-18c679481e19" name="Changes" comment="poprawna zmienna" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,15 +165,7 @@
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
       <workItem from="1745779601674" duration="113817000" />
-      <workItem from="1753543599652" duration="3694000" />
-    </task>
-    <task id="LOCAL-02383" summary="Zmienna o nazwie &quot;null&quot;">
-      <option name="closed" value="true" />
-      <created>1750449614738</created>
-      <option name="number" value="02383" />
-      <option name="presentableId" value="LOCAL-02383" />
-      <option name="project" value="LOCAL" />
-      <updated>1750449614738</updated>
+      <workItem from="1753543599652" duration="4301000" />
     </task>
     <task id="LOCAL-02384" summary="poprawna zmienna z literami ułożonymi w słowo &quot;null&quot;, ale nie dokładnie &quot;null&quot;">
       <option name="closed" value="true" />
@@ -562,7 +551,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753985437350</updated>
     </task>
-    <option name="localTasksCounter" value="2432" />
+    <task id="LOCAL-02432" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1754087040551</created>
+      <option name="number" value="02432" />
+      <option name="presentableId" value="LOCAL-02432" />
+      <option name="project" value="LOCAL" />
+      <updated>1754087040551</updated>
+    </task>
+    <option name="localTasksCounter" value="2433" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
