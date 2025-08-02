@@ -165,15 +165,7 @@
       <workItem from="1743443121163" duration="48103000" />
       <workItem from="1745677996747" duration="2208000" />
       <workItem from="1745779601674" duration="113817000" />
-      <workItem from="1753543599652" duration="4301000" />
-    </task>
-    <task id="LOCAL-02384" summary="poprawna zmienna z literami ułożonymi w słowo &quot;null&quot;, ale nie dokładnie &quot;null&quot;">
-      <option name="closed" value="true" />
-      <created>1750449639524</created>
-      <option name="number" value="02384" />
-      <option name="presentableId" value="LOCAL-02384" />
-      <option name="project" value="LOCAL" />
-      <updated>1750449639524</updated>
+      <workItem from="1753543599652" duration="4916000" />
     </task>
     <task id="LOCAL-02385" summary="poprawna zmienna">
       <option name="closed" value="true" />
@@ -559,7 +551,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754087040551</updated>
     </task>
-    <option name="localTasksCounter" value="2433" />
+    <task id="LOCAL-02433" summary="poprawna zmienna">
+      <option name="closed" value="true" />
+      <created>1754158504539</created>
+      <option name="number" value="02433" />
+      <option name="presentableId" value="LOCAL-02433" />
+      <option name="project" value="LOCAL" />
+      <updated>1754158504539</updated>
+    </task>
+    <option name="localTasksCounter" value="2434" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
